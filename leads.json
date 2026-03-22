@@ -253,6 +253,64 @@
     },
     {
       "company": {
+        "name": "Hamburger Hochbahn AG",
+        "website": "hochbahn.de",
+        "address": "Hamburg",
+        "industry": "ÖPNV / Mobilität",
+        "source": "WebSearch Agent1"
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.9,
+          "activity_reasoning": "AAA-rated by Fitch (stable outlook). Massive infrastructure investments: U4 extension, U3 renovation, U5 autonomous metro (2033), new e-bus depots. Revenue growth ~4% avg. 6,645 employees growing (+316 in 2023). City-owned with guaranteed public funding. Equity EUR 167.4M. Tariff negotiations show healthy wage growth (17-19% since 2023 for drivers).",
+          "recent_news": [
+            "U5 autonomous metro under construction (Bramfeld-Borgweg, completion 2033). U4 extension on schedule. U3 Mundsburg bridge renovation May-Jul 2026. First pure electric bus depot completing late summer 2026 (130 e-buses). Second depot Langenfelde (200 e-buses) by 2028. U-Bahn100 train control modernization starting March 2026. Fitch AAA rating affirmed. Tariff negotiations 2026 ongoing with ver.di. ALIKE autonomous ridepooling project (EUR 26M federal funding) with VW/MOIA/Holon."
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT Plattform Entwicklung",
+          "affinity_score": 0.8,
+          "affinity_reasoning": "High affinity: HOCHBAHN actively builds digital platforms (MOSAIC mobility platform, hvv switch/hvv Any apps). Runs ALIKE autonomous driving project (20 shuttles, fleet management for mixed autonomous vehicles). New subsidiary New Mobility Solutions Hamburg GmbH for digital mobility. IT/OT architecture modernization underway (private cloud, SAP S/4HANA migration). BIM for U5 construction. Train control digitalization (U-Bahn100, GoA2 automation). However, no explicit IoT platform procurement advertised - most digital work done in-house or with established partners (Microsoft Azure/O365).",
+          "relevant_news": [
+            "MOSAIC digital mobility platform under active development (backend for hvv switch app). ALIKE project: autonomous ridepooling with Holon Mover and VW ID.Buzz AD, EUR 26M federal funding. New Mobility Solutions Hamburg GmbH founded for digital mobility innovation. SAP S/4HANA migration in progress. U-Bahn100 digital train control system rollout. hvv Any pilot: automated check-in/check-out fare calculation. IT/OT architect position open, focus on private cloud and infrastructure security."
+          ]
+        },
+        "combined_score": 0.84
+      },
+      "financials": {
+        "revenue_estimate": "EUR 500-900M (estimated, exact figure not publicly disclosed; 53% from fares, remainder from public subsidies)",
+        "profit_estimate": null,
+        "employee_count": 6645,
+        "hiring_activity": {
+          "general_hiring_score": 0.7,
+          "total_job_postings": 35,
+          "hiring_reasoning": "Active hiring across multiple domains. Stepstone shows 13-22 active postings, LinkedIn ~16, Glassdoor 13. Over 100 different job types at company. Growing workforce (+316 employees in 2023 to 6,645). Recruiting for IT, engineering, operations, and administrative roles. Dedicated IT career page indicates sustained tech hiring."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.6,
+          "relevant_job_postings": 5,
+          "topic_hiring_reasoning": "Several directly relevant positions: IT/OT-Architekt (cloud, IT/OT infrastructure, security), Software Engineer (MOSAIC platform, hvv switch backend), Werkstudent Digitalisierung & Data Science, Elektroniker Systemtechnik (digital train control systems). Stepstone lists 6 software developer positions. No explicit IoT platform developer role, but strong adjacent hiring in digital platforms, OT systems, and data science.",
+          "example_positions": [
+            "IT/OT-Architekt*in (private Cloud, IT/OT-Infrastruktur)",
+            "Software Engineer (MOSAIC Plattform, hvv switch Backend)",
+            "Werkstudent*in Digitalisierung & Data Science",
+            "Elektroniker*in Systemtechnik (digitale Leit-/Zugsicherungstechnik)",
+            "Systems Engineer (Jira, Python, Monitoring)"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.75,
+          "financial_health_score": 0.95,
+          "pressure_score": 0.85,
+          "strategic_reasoning": "Size fit (0.75): ~6,645 employees, large enough for significant IoT platform investment but as a public transport operator, IT budgets compete with massive infrastructure spending (U5 alone is multi-billion). Financial health (0.95): Fitch AAA-rated, city-owned with stable public funding, equity EUR 167.4M, ongoing major capital projects demonstrate strong financial backing. Pressure (0.85): Intense digital transformation pressure - autonomous driving mandate (10,000 shuttles by 2030), fleet electrification (e-bus depots), U-Bahn100 modernization, ESRS sustainability reporting from 2025, competition with MOIA/ridesharing. Must digitize 100+ year old infrastructure while building autonomous future. Strong candidate for IoT platform services especially in fleet management, predictive maintenance for rolling stock, and real-time operations monitoring."
+        },
+        "customer_rating": 0.72,
+        "rating_reasoning": "Size fit (0.75): ~6,645 employees, large enough for significant IoT platform investment but as a public transport operator, IT budgets compete with massive infrastructure spending (U5 alone is multi-billion). Financial health (0.95): Fitch AAA-rated, city-owned with stable public funding, equity EUR 167.4M, ongoing major capital projects demonstrate strong financial backing. Pressure (0.85): Intense digital transformation pressure - autonomous driving mandate (10,000 shuttles by 2030), fleet electrification (e-bus depots), U-Bahn100 modernization, ESRS sustainability reporting from 2025, competition with MOIA/ridesharing. Must digitize 100+ year old infrastructure while building autonomous future. Strong candidate for IoT platform services especially in fleet management, predictive maintenance for rolling stock, and real-time operations monitoring."
+      },
+      "overall_score": 0.75
+    },
+    {
+      "company": {
         "name": "Jungheinrich AG",
         "website": "jungheinrich.de",
         "address": "Norderstedt",
@@ -722,59 +780,6 @@
         "rating_reasoning": "Size-Fit (0.75): Mit 2.8 Mrd EUR Umsatz und 13.000 MA ist Körber ein Large Enterprise - groß genug für substanzielle IoT-Projekte, aber hat auch eigene Digital-Sparte (Körber Digital), was den externen Bedarf senken kann. Financial Health (0.85): Sehr solide - 600 Mio EUR Kapitalmarkt-Finanzierung, 200 Mio EUR Investition in Factory of the Future, aktive M&A-Strategie, Stiftungsbesitz ermöglicht langfristige Investitionen ohne Quartalsdruckdruck. Pressure (0.70): Hoher Digitalisierungs- und Wettbewerbsdruck in allen drei Geschäftsfeldern. NVIDIA-Partnerschaft und Dain-Studios-Übernahme zeigen Dringlichkeit bei KI/IoT-Themen. Infios-Ausgründung mit KKR zeigt, dass externe Partnerschaften für Digitalthemen akzeptiert werden."
       },
       "overall_score": 0.668
-    },
-    {
-      "company": {
-        "name": "Hamburger Hochbahn AG",
-        "website": "hochbahn.de",
-        "address": "Hamburg",
-        "industry": "ÖPNV / Mobilität",
-        "source": "WebSearch Agent1"
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.9,
-          "activity_reasoning": "AAA-rated by Fitch (stable outlook). Massive infrastructure investments: U4 extension, U3 renovation, U5 autonomous metro (2033), new e-bus depots. Revenue growth ~4% avg. 6,645 employees growing (+316 in 2023). City-owned with guaranteed public funding. Equity EUR 167.4M. Tariff negotiations show healthy wage growth (17-19% since 2023 for drivers).",
-          "recent_news": [
-            "U5 autonomous metro under construction (Bramfeld-Borgweg, completion 2033). U4 extension on schedule. U3 Mundsburg bridge renovation May-Jul 2026. First pure electric bus depot completing late summer 2026 (130 e-buses). Second depot Langenfelde (200 e-buses) by 2028. U-Bahn100 train control modernization starting March 2026. Fitch AAA rating affirmed. Tariff negotiations 2026 ongoing with ver.di. ALIKE autonomous ridepooling project (EUR 26M federal funding) with VW/MOIA/Holon."
-          ]
-        },
-        "topic_affinity": {
-          "topic": "IoT Plattform Entwicklung",
-          "affinity_score": 0.8,
-          "affinity_reasoning": "High affinity: HOCHBAHN actively builds digital platforms (MOSAIC mobility platform, hvv switch/hvv Any apps). Runs ALIKE autonomous driving project (20 shuttles, fleet management for mixed autonomous vehicles). New subsidiary New Mobility Solutions Hamburg GmbH for digital mobility. IT/OT architecture modernization underway (private cloud, SAP S/4HANA migration). BIM for U5 construction. Train control digitalization (U-Bahn100, GoA2 automation). However, no explicit IoT platform procurement advertised - most digital work done in-house or with established partners (Microsoft Azure/O365).",
-          "relevant_news": [
-            "MOSAIC digital mobility platform under active development (backend for hvv switch app). ALIKE project: autonomous ridepooling with Holon Mover and VW ID.Buzz AD, EUR 26M federal funding. New Mobility Solutions Hamburg GmbH founded for digital mobility innovation. SAP S/4HANA migration in progress. U-Bahn100 digital train control system rollout. hvv Any pilot: automated check-in/check-out fare calculation. IT/OT architect position open, focus on private cloud and infrastructure security."
-          ]
-        },
-        "combined_score": 0.84
-      },
-      "financials": {
-        "revenue_estimate": "EUR 500-900M (estimated, exact figure not publicly disclosed; 53% from fares, remainder from public subsidies)",
-        "profit_estimate": null,
-        "employee_count": 6645,
-        "hiring_activity": {
-          "general_hiring_score": 0.7,
-          "total_job_postings": 35,
-          "hiring_reasoning": "Active hiring across multiple domains. Stepstone shows 13-22 active postings, LinkedIn ~16, Glassdoor 13. Over 100 different job types at company. Growing workforce (+316 employees in 2023 to 6,645). Recruiting for IT, engineering, operations, and administrative roles. Dedicated IT career page indicates sustained tech hiring."
-        },
-        "topic_hiring": {
-          "topic_hiring_score": 0.6,
-          "relevant_job_postings": 5,
-          "topic_hiring_reasoning": "Several directly relevant positions: IT/OT-Architekt (cloud, IT/OT infrastructure, security), Software Engineer (MOSAIC platform, hvv switch backend), Werkstudent Digitalisierung & Data Science, Elektroniker Systemtechnik (digital train control systems). Stepstone lists 6 software developer positions. No explicit IoT platform developer role, but strong adjacent hiring in digital platforms, OT systems, and data science.",
-          "example_positions": [
-            "IT/OT-Architekt*in (private Cloud, IT/OT-Infrastruktur)",
-            "Software Engineer (MOSAIC Plattform, hvv switch Backend)",
-            "Werkstudent*in Digitalisierung & Data Science",
-            "Elektroniker*in Systemtechnik (digitale Leit-/Zugsicherungstechnik)",
-            "Systems Engineer (Jira, Python, Monitoring)"
-          ]
-        },
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": 0.645
     },
     {
       "company": {
