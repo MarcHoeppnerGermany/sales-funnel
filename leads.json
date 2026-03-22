@@ -1,0 +1,143 @@
+{
+  "agent_name": "store",
+  "leads": [
+    {
+      "company": {
+        "name": "Drägerwerk AG",
+        "website": "draeger.com",
+        "address": "Lübeck",
+        "industry": "Medizin- und Sicherheitstechnik",
+        "source": "WebSearch Agent1"
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.9,
+          "activity_reasoning": "Rekordumsatz 2025 von 3,48 Mrd EUR (+5,3% währungsbereinigt), EBIT 226-236 Mio EUR (deutlicher Anstieg von 194 Mio), Auftragseingang +7,9% auf 3,58 Mrd EUR, Aktie +49% in 2025, Prognose 2026 positiv mit 1-5% Umsatzwachstum",
+          "recent_news": [
+            "Vorläufige Zahlen 2025: Rekordumsatz 3,48 Mrd EUR und EBIT-Marge 6,5-6,8% – deutlich über Prognose",
+            "Auftragseingang 2025 steigt währungsbereinigt um 7,9% auf 3,58 Mrd EUR – Medizintechnik +9%, Sicherheitstechnik +6,3%"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "(nicht gesetzt)",
+          "affinity_score": 0.0,
+          "affinity_reasoning": "Noch nicht bewertet",
+          "relevant_news": []
+        },
+        "combined_score": 0.36
+      },
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Jungheinrich AG",
+        "website": "jungheinrich.de",
+        "address": "Norderstedt",
+        "industry": "Intralogistik / Flurförderzeuge",
+        "source": "WebSearch Agent1"
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Getriebebau NORD",
+        "website": "nord.com",
+        "address": "Bargteheide",
+        "industry": "Antriebstechnik / Maschinenbau",
+        "source": "WebSearch Agent1"
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "L. Possehl & Co.",
+        "website": "possehl.de",
+        "address": "Lübeck",
+        "industry": "Mischkonzern / Industrie",
+        "source": "WebSearch Agent1"
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "ThyssenKrupp Marine Systems",
+        "website": "thyssenkrupp-marinesystems.com",
+        "address": "Kiel",
+        "industry": "Marineschiffbau / Verteidigung",
+        "source": "WebSearch Agent1"
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "ACO Group",
+        "website": "aco.com",
+        "address": "Büdelsdorf",
+        "industry": "Entwässerungstechnik / Bau",
+        "source": "WebSearch Agent1"
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "tesa SE",
+        "website": "tesa.com",
+        "address": "Norderstedt",
+        "industry": "Klebetechnologie / Chemie",
+        "source": "WebSearch Agent1"
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Danfoss Power Solutions",
+        "website": "danfoss.com",
+        "address": "Neumünster",
+        "industry": "Hydraulik / Antriebstechnik",
+        "source": "WebSearch Agent1"
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "HanseWerk AG",
+        "website": "hansewerk.com",
+        "address": "Quickborn",
+        "industry": "Energienetze / Energieversorgung",
+        "source": "WebSearch Agent1"
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Vossloh AG",
+        "website": "vossloh.com",
+        "address": "Kiel",
+        "industry": "Bahntechnik / Schieneninfrastruktur",
+        "source": "WebSearch Agent1"
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    }
+  ],
+  "metadata": {},
+  "timestamp": "2026-03-22T21:08:27.239817"
+}
