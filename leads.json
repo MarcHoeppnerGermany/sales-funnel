@@ -585,6 +585,126 @@
         "rating_reasoning": "Size-Fit (0.6): Mit 9100 MA und 2,1 Mrd EUR Umsatz ist TKMS groß genug für substanzielle IoT-Projekte, aber als Verteidigungsunternehmen gelten strenge Sicherheitsanforderungen die den Zugang erschweren. Financial-Health (0.9): Exzellent - Rekord-Auftragsbestand, positive Cashflows, erfolgreicher Börsengang, starke Wachstumsperspektive. Pressure (0.5): Mittlerer Digitalisierungsdruck. Die Branche bewegt sich Richtung Digital Twins, aber TKMS hat keinen akuten öffentlichen Handlungsdruck. Langfristig wird System-of-Systems-Integration und Predictive Maintenance für U-Boote/Fregatten IoT-Plattformen erfordern."
       },
       "overall_score": 0.59
+    },
+    {
+      "company": {
+        "name": "Körber AG",
+        "website": "koerber.com",
+        "address": "Hamburg",
+        "industry": "Technologiekonzern / Pharma / Supply Chain",
+        "source": "WebSearch Agent1"
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Aurubis AG",
+        "website": "aurubis.com",
+        "address": "Hamburg",
+        "industry": "Kupferproduktion / Metallverarbeitung",
+        "source": "WebSearch Agent1"
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "HHLA",
+        "website": "hhla.de",
+        "address": "Hamburg",
+        "industry": "Hafenlogistik / Container-Terminals",
+        "source": "WebSearch Agent1"
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Lufthansa Technik",
+        "website": "lufthansa-technik.com",
+        "address": "Hamburg",
+        "industry": "Luftfahrt MRO / Wartung",
+        "source": "WebSearch Agent1"
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Beiersdorf AG",
+        "website": "beiersdorf.de",
+        "address": "Hamburg",
+        "industry": "Konsumgüter / Hautpflege",
+        "source": "WebSearch Agent1"
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Still GmbH",
+        "website": "still.de",
+        "address": "Hamburg",
+        "industry": "Intralogistik / Flurförderzeuge",
+        "source": "WebSearch Agent1"
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Pfannenberg GmbH",
+        "website": "pfannenberg.com",
+        "address": "Hamburg",
+        "industry": "Klimatisierung / Signaltechnik",
+        "source": "WebSearch Agent1"
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Hapag-Lloyd AG",
+        "website": "hapag-lloyd.com",
+        "address": "Hamburg",
+        "industry": "Container-Reederei / Seetransport",
+        "source": "WebSearch Agent1"
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Eppendorf SE",
+        "website": "eppendorf.com",
+        "address": "Hamburg",
+        "industry": "Labortechnik / Life Sciences",
+        "source": "WebSearch Agent1"
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Hamburger Hochbahn AG",
+        "website": "hochbahn.de",
+        "address": "Hamburg",
+        "industry": "ÖPNV / Mobilität",
+        "source": "WebSearch Agent1"
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
     }
   ],
   "metadata": {},
