@@ -3,63 +3,6 @@
   "leads": [
     {
       "company": {
-        "name": "Drägerwerk AG",
-        "website": "draeger.com",
-        "address": "Lübeck",
-        "industry": "Medizin- und Sicherheitstechnik",
-        "source": "WebSearch Agent1"
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.9,
-          "activity_reasoning": "Rekordumsatz 2025 von 3,48 Mrd EUR (+5,3% währungsbereinigt), EBIT 226-236 Mio EUR (deutlicher Anstieg von 194 Mio), Auftragseingang +7,9% auf 3,58 Mrd EUR, Aktie +49% in 2025, Prognose 2026 positiv mit 1-5% Umsatzwachstum",
-          "recent_news": [
-            "Vorläufige Zahlen 2025: Rekordumsatz 3,48 Mrd EUR und EBIT-Marge 6,5-6,8% – deutlich über Prognose",
-            "Auftragseingang 2025 steigt währungsbereinigt um 7,9% auf 3,58 Mrd EUR – Medizintechnik +9%, Sicherheitstechnik +6,3%"
-          ]
-        },
-        "topic_affinity": {
-          "topic": "IoT Plattform Entwicklung",
-          "affinity_score": 0.75,
-          "affinity_reasoning": "Dräger betreibt aktiv IoT-Initiativen: Gas Detection Connect (GDC) auf Microsoft Azure, Connected Worker Plattform, ConHub Bluetooth-Gateway für bis zu 20 Geräte, Aras PLM Cloud-Plattform mit 2500+ Nutzern. Investitionen in AI, ML, IoT und Cloud angekündigt. Jedoch primär Eigenentwicklung und bestehende Partnerschaften (Azure), daher externer Bedarf mittelhoch.",
-          "relevant_news": [
-            "Gas Detection Connect (GDC): Azure-basierte Cloud-Plattform für Live-Monitoring von Gasdetektoren mit Bluetooth-Gateway ConHub",
-            "IT Software Engineer Backend-Stelle für Generative AI Platform Services ausgeschrieben – zeigt aktive Plattformentwicklung"
-          ]
-        },
-        "combined_score": 0.81
-      },
-      "financials": {
-        "revenue_estimate": "3.48 Mrd EUR (2025, Rekord)",
-        "profit_estimate": "226-236 Mio EUR EBIT (2025)",
-        "employee_count": 16329,
-        "hiring_activity": {
-          "general_hiring_score": 0.65,
-          "total_job_postings": 87,
-          "hiring_reasoning": "Ca. 87 offene Stellen auf Indeed, 24 auf Stepstone. Breites Spektrum von IT/Software über Ausbildung bis Fachkräfte. Aktive Einstellung inkl. Team Lead Process & Applications IT, Process Manager IT, Werkstudenten E-Commerce. Solide aber nicht aggressiv expandierend."
-        },
-        "topic_hiring": {
-          "topic_hiring_score": 0.5,
-          "relevant_job_postings": 5,
-          "topic_hiring_reasoning": "Einige relevante Software/Plattform-Stellen gefunden, aber keine expliziten IoT-Plattform-Entwickler-Stellen. IT Software Engineer Backend für GenAI Platform Services, Embedded Systems Praktikum, Team Lead Process IT. Zeigt internen Aufbau von Plattform-Kompetenz, könnte aber auch externen Bedarf signalisieren.",
-          "example_positions": [
-            "IT Software Engineer Backend – GenAI Platform Services (Python, C#, Azure DevOps, Microservices)",
-            "Team Lead Process & Applications – Global Process IT Experts (8-köpfiges Team, Lübeck)"
-          ]
-        },
-        "strategic_fit": {
-          "size_fit_score": 0.8,
-          "financial_health_score": 0.9,
-          "pressure_score": 0.7,
-          "strategic_reasoning": "Großes Mittelstandsunternehmen (16.300 MA, 3,48 Mrd Umsatz) mit exzellenter finanzieller Gesundheit und Rekordzahlen. Hoher Digitalisierungsdruck durch Connected Worker, IIoT und Cloud-Monitoring im Sicherheitsbereich. Bestehende Azure/IoT-Investitionen zeigen Bereitschaft. Druck entsteht durch Wettbewerb in Medizin-/Sicherheitstechnik, wo vernetzte Geräte zunehmend Standard werden. Familienunternehmen mit langfristiger Orientierung – potenziell loyaler Kunde."
-        },
-        "customer_rating": 0.642,
-        "rating_reasoning": "Großes Mittelstandsunternehmen (16.300 MA, 3,48 Mrd Umsatz) mit exzellenter finanzieller Gesundheit und Rekordzahlen. Hoher Digitalisierungsdruck durch Connected Worker, IIoT und Cloud-Monitoring im Sicherheitsbereich. Bestehende Azure/IoT-Investitionen zeigen Bereitschaft. Druck entsteht durch Wettbewerb in Medizin-/Sicherheitstechnik, wo vernetzte Geräte zunehmend Standard werden. Familienunternehmen mit langfristiger Orientierung – potenziell loyaler Kunde."
-      },
-      "overall_score": 0.682
-    },
-    {
-      "company": {
         "name": "Jungheinrich AG",
         "website": "jungheinrich.de",
         "address": "Norderstedt",
@@ -117,187 +60,7 @@
         "customer_rating": 0.745,
         "rating_reasoning": "Grosskonzern mit 5.4 Mrd Umsatz und 21.000 MA - solide Groesse fuer IoT-Plattformprojekte. Finanzielle Gesundheit aktuell belastet durch Transformationskosten (EBIT halbiert), aber Grundgeschaeft stabil. Hoher Transformationsdruck durch volatile Maerkte, Russland-Exit und Digitalisierungswettbewerb in der Intralogistik. ABER: Jungheinrich hat bereits eigene IoT-Plattform und dedizierte Digital Solutions Tochter - externer Bedarf eher in Spezialbereichen oder Kapazitaetsengpaessen als Komplettloesung. Chance liegt in Ergaenzungsprojekten, nicht Greenfield."
       },
-      "overall_score": 0.448
-    },
-    {
-      "company": {
-        "name": "Getriebebau NORD",
-        "website": "nord.com",
-        "address": "Bargteheide",
-        "industry": "Antriebstechnik / Maschinenbau",
-        "source": "WebSearch Agent1"
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.85,
-          "activity_reasoning": "Established 1965, celebrating 60th anniversary in 2025. Revenue exceeded EUR 1 billion mark. Active at major international trade fairs in 2025-2026 (SPS, IFAT, interpack, Seafood Expo, MODEX, GEAPS). Launching new products (SK 112 motor, NORD DRIVE MONITOR IIoT solution, digital twin technology). Expanding globally with 48 subsidiaries in 36 countries. Family-owned, stable management under CEO Nico Heinsohn.",
-          "recent_news": [
-            "60th anniversary celebrated in 2025; FY2025 revenue EUR 1.08 billion; Active trade fair presence in 2026 (Seafood Expo Barcelona, IFAT Munich, interpack Duesseldorf, MODEX Atlanta); New IIoT product NORD DRIVE MONITOR launched for condition monitoring; New SK 112 motor and digital twin technology introduced; 20th anniversary of Polish production site in Nowa Sol"
-          ]
-        },
-        "topic_affinity": {
-          "topic": "IoT Plattform Entwicklung",
-          "affinity_score": 0.82,
-          "affinity_reasoning": "NORD is heavily invested in IIoT/Industry 4.0. They have developed their own NORD DRIVE MONITOR for condition monitoring and predictive maintenance. Their frequency inverters include integrated PLCs for data capture and preprocessing. They use virtual sensors and smart algorithms for sensorless oil aging monitoring. They have a dedicated application test area for predictive maintenance at HQ in Bargteheide. Digital twin and virtual commissioning technology recently launched. All drives are labeled Industrie 4.0 Ready. However, much of this is developed in-house (NORD Electronic DRIVESYSTEMS with 200+ employees plus 40 engineers at HQ), which could mean they have internal capability but also potential need for external platform expertise for scaling.",
-          "relevant_news": [
-            "NORD DRIVE MONITOR IIoT solution showcased at IFAT 2026 for condition monitoring with dynamically calculated and sensor-based operating values; Digital twin and virtual commissioning technology launched; Integrated PLC in frequency inverters for data preprocessing; Virtual sensors for sensorless monitoring of oil aging; Application test area for predictive maintenance at Bargteheide HQ; All drives Industry 4.0 Ready"
-          ]
-        },
-        "combined_score": 0.832
-      },
-      "financials": null,
-      "overall_score": 0.25
-    },
-    {
-      "company": {
-        "name": "ThyssenKrupp Marine Systems",
-        "website": "thyssenkrupp-marinesystems.com",
-        "address": "Kiel",
-        "industry": "Marineschiffbau / Verteidigung",
-        "source": "WebSearch Agent1"
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.95,
-          "activity_reasoning": "TKMS wurde 2025 als eigenständiges Unternehmen an die Börse gebracht (IPO Okt 2025). Rekord-Auftragsbestand von 18,7 Mrd EUR in Q1 FY2025/26, Prognose angehoben auf +2-5% Umsatzwachstum. Umsatz ~545 Mio EUR/Quartal, EBIT-Marge 4,8%, positiver Free Cash Flow. Mega-Auftragschancen: Kanada (37 Mrd EUR Submarine-Projekt), Indien. Neues Werftwerk Wismar in Umrüstung. Aktie seit IPO stark gestiegen.",
-          "recent_news": [
-            "IPO Oktober 2025 erfolgreich abgeschlossen, thyssenkrupp hält 51%",
-            "Rekord-Auftragsbestand 18,7 Mrd EUR, Prognose angehoben",
-            "Kanada CPSP-Projekt (37 Mrd EUR) Entscheidung Mai/Juni 2026 erwartet",
-            "Norwegen-Auftrag für 2 weitere U-Boote Typ 212CD gesichert",
-            "BlueWhale AUV an Deutsche Marine ausgeliefert"
-          ]
-        },
-        "topic_affinity": {
-          "topic": "IoT Plattform Entwicklung",
-          "affinity_score": 0.55,
-          "affinity_reasoning": "TKMS hat keine öffentlich bekannte eigene IoT- oder Digital-Twin-Plattform. Die maritime Branche setzt aber zunehmend auf Digital Twins, IoT und Predictive Maintenance. TKMS-Tochter ATLAS ELEKTRONIK entwickelt Sensor-, Sonar- und UUV-Systeme mit hohem Digitalisierungspotenzial. Das thyssenkrupp-Ökosystem hat mit toii eine IIoT-Plattform (Materials IoT), aber TKMS nutzt diese nicht erkennbar. Die Komplexität moderner U-Boot- und Fregatten-Systeme (System-of-Systems-Ansatz) erfordert zunehmend digitale Plattformen. Mittlere Affinität: latenter Bedarf vorhanden, aber keine aktive öffentliche Initiative erkennbar.",
-          "relevant_news": [
-            "Maritime Digital Twin Technologie wird branchenweit adoptiert",
-            "ATLAS ELEKTRONIK (TKMS-Tochter) entwickelt Sensoren, Sonar, UUVs mit Digitalisierungsbedarf",
-            "thyssenkrupp Materials IoT betreibt toii IIoT-Plattform - Konzern-Know-how vorhanden"
-          ]
-        },
-        "combined_score": 0.71
-      },
-      "financials": {
-        "revenue_estimate": "~2,1 Mrd EUR (FY 2023/24), Q1 FY2025/26: 545 Mio EUR/Quartal",
-        "profit_estimate": null,
-        "employee_count": 9100,
-        "hiring_activity": {
-          "general_hiring_score": 0.8,
-          "total_job_postings": 109,
-          "hiring_reasoning": "109 offene Stellen allein auf StepStone für Kiel, über 90 auf LinkedIn deutschlandweit. Aktives Recruiting in Konstruktion, Fertigung, Ingenieurwesen, Software, Finanzen. Wachstumsphase durch Werft-Ausbau Wismar und steigende Auftragslage. Hohe Einstellungsaktivität für ein Unternehmen dieser Größe."
-        },
-        "topic_hiring": {
-          "topic_hiring_score": 0.35,
-          "relevant_job_postings": 5,
-          "topic_hiring_reasoning": "Keine expliziten IoT-Plattform-Entwickler-Stellen bei TKMS gefunden. Es gibt Software-Entwickler-Stellen (C++, embedded) bei ATLAS ELEKTRONIK/TKMS, aber keine die explizit IoT, Digital Twin oder Plattform-Entwicklung benennen. Die vorhandenen SW-Stellen fokussieren auf Sonar, Sensortechnik und Kampfführungssysteme. Geringes Signal für aktive IoT-Plattform-Eigenentwicklung.",
-          "example_positions": [
-            "Software Developer C++ (ATLAS ELEKTRONIK)",
-            "Konstruktionsingenieur Schiffstechnik",
-            "3D-Laserscanning/Photogrammetrie Vermessung"
-          ]
-        },
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": 0.25
-    },
-    {
-      "company": {
-        "name": "ACO Group",
-        "website": "aco.com",
-        "address": "Büdelsdorf",
-        "industry": "Entwässerungstechnik / Bau",
-        "source": "WebSearch Agent1"
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": 0.25
-    },
-    {
-      "company": {
-        "name": "tesa SE",
-        "website": "tesa.com",
-        "address": "Norderstedt",
-        "industry": "Klebetechnologie / Chemie",
-        "source": "WebSearch Agent1"
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.85,
-          "activity_reasoning": "Sehr gesundes Unternehmen. Neuer CEO Dr. Kourosh Bahrami (ex-Henkel LOCTITE, Industrie 4.0 Experte) seit Oktober 2025. Nachhaltigkeitsziele vorzeitig erreicht (38% CO2-Reduktion). Dena Energy Efficiency Award Nov 2025. Aktive Messepraeesenz (K 2025). Stabile Beiersdorf-Tochter mit 125 Jahren Geschichte.",
-          "recent_news": [
-            "CEO-Wechsel: Dr. Kourosh Bahrami folgt auf Dr. Norman Goldberg (Okt 2025)",
-            "Dena Energy Efficiency Award fuer klimaneutrale Produktion mit gruenem Wasserstoff (Nov 2025)",
-            "Nachhaltigkeitsziel 2025 vorzeitig erreicht: 38% Scope 1+2 Reduktion"
-          ]
-        },
-        "topic_affinity": {
-          "topic": "IoT Plattform Entwicklung",
-          "affinity_score": 0.72,
-          "affinity_reasoning": "tesa verfolgt aktiv Industrie 4.0 Strategie mit dem Intelligenter Ballen Projekt: MES-Integration, PLC-Datenverarbeitung, Lasermarkierung, digitale Defekterkennung. 80% Positionstoleranz-Reduktion erreicht. Neuer CEO hat explizite Industrie 4.0 Erfahrung von Henkel. KI/ML Integration fuer Prozessoptimierung geplant. Digital & IT Abteilung in Hamburg aktiv. Allerdings kein explizites IoT-Plattform-Outsourcing-Signal erkennbar.",
-          "relevant_news": [
-            "Intelligenter Ballen Projekt: MES + PLC + Laser + Defekterkennung integriert, 80% Toleranzverbesserung",
-            "Neuer CEO Dr. Bahrami bringt Industrie 4.0 Expertise von Henkel mit",
-            "Digital und IT Abteilung in Hamburg mit aktiven Stellenausschreibungen"
-          ]
-        },
-        "combined_score": 0.772
-      },
-      "financials": {
-        "revenue_estimate": "1.7 Mrd EUR (2023)",
-        "profit_estimate": "176 Mio EUR Nettogewinn, 266 Mio EUR EBIT, 16% EBIT-Marge (2023)",
-        "employee_count": 5200,
-        "hiring_activity": {
-          "general_hiring_score": 0.55,
-          "total_job_postings": 80,
-          "hiring_reasoning": "Moderate Hiring-Aktivitaet. Ca. 20 Stellen auf Glassdoor, 127 Technology-Jobs auf LinkedIn (weltweit inkl. Gruppenunternehmen), diverse Positionen auf Indeed (Pricing Manager, Product Developer, etc.). Fuer ein 5200-Mitarbeiter-Unternehmen solide aber nicht ueberdurchschnittlich aktiv."
-        },
-        "topic_hiring": {
-          "topic_hiring_score": 0.4,
-          "relevant_job_postings": 5,
-          "topic_hiring_reasoning": "Wenige explizite IoT/Software-Entwicklung Stellen gefunden. Digital und IT Rollen in Hamburg vorhanden (Python, Excel, analytische Faehigkeiten). Keine dedizierten IoT-Plattform-Entwickler oder Embedded-Software-Stellen sichtbar. Signalisiert eher interne Digitalisierung als externes Plattform-Outsourcing. Koennte aber Bedarf an externer IoT-Plattform-Expertise bedeuten.",
-          "example_positions": [
-            "Digital & IT Rollen Hamburg",
-            "Technology-bezogene Positionen (LinkedIn)",
-            "Adhesive Product Developer"
-          ]
-        },
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": 0.25
-    },
-    {
-      "company": {
-        "name": "Danfoss Power Solutions",
-        "website": "danfoss.com",
-        "address": "Neumünster",
-        "industry": "Hydraulik / Antriebstechnik",
-        "source": "WebSearch Agent1"
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.9,
-          "activity_reasoning": "Danfoss Power Solutions is a thriving division of Danfoss A/S. Active at bauma 2025 showcasing digitalization and electrification. Completed acquisition of Hydro Holding (hose fittings). Invested in new logistics center in Neumünster achieving 99.99% packing accuracy. Employee count grew 6% YoY. New president Daniel Winter appointed 2025.",
-          "recent_news": [
-            "Showcased system solutions at bauma 2025 (hydraulics, eHydraulics, electrification, digitalization, autonomy, software). Completed acquisition of Hydro Holding (350 employees, 4 locations in Italy). New logistics center in Neumünster with Voigt-Logistik partnership. New DPS president Daniel Winter appointed 2025."
-          ]
-        },
-        "topic_affinity": {
-          "topic": "(nicht gesetzt)",
-          "affinity_score": 0.0,
-          "affinity_reasoning": "Noch nicht bewertet",
-          "relevant_news": []
-        },
-        "combined_score": 0.36
-      },
-      "financials": null,
-      "overall_score": 0.25
+      "overall_score": 0.737
     },
     {
       "company": {
@@ -343,40 +106,16 @@
             "Werkstudent Kommunikation Digitale Transformation"
           ]
         },
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": 0.25
-    },
-    {
-      "company": {
-        "name": "Vossloh AG",
-        "website": "vossloh.com",
-        "address": "Kiel",
-        "industry": "Bahntechnik / Schieneninfrastruktur",
-        "source": "WebSearch Agent1"
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.95,
-          "activity_reasoning": "Rekordjahr 2025: Umsatz +11% auf 1.343 Mio EUR, EBIT +13,7% auf 119,6 Mio EUR, Auftragseingang Rekord 1.399 Mio EUR, Auftragsbestand >1 Mrd EUR. Strategische Akquisition Sateba. Ausblick 2026: Umsatz 1,56-1,66 Mrd EUR erwartet, EBITDA-Marge 13,5-14,5%. Starkes Wachstum durch EU-Schieneninfrastruktur-Investitionen getrieben.",
-          "recent_news": [
-            "Vossloh Achieves Record Growth in 2025 - Umsatz 1.343 Mio EUR, Auftragseingang 1.399 Mio EUR",
-            "Vossloh sees 2026 sales up to 1.66 billion EUR, EBITDA margin to 14.5%",
-            "Akquisition Sateba (europaeischer Betonschwellenhersteller) erfolgreich integriert"
-          ]
+        "strategic_fit": {
+          "size_fit_score": 0.7,
+          "financial_health_score": 0.85,
+          "pressure_score": 0.8,
+          "strategic_reasoning": "Mittelgroßer Energiedienstleister (2.300 MA), E.ON-Rückhalt gibt finanzielle Stabilität, hoher Digitalisierungsdruck durch Energiewende und Smart-Meter-Pflicht bis 2032, LoRaWAN-Ausbau zeigt Bedarf an IoT-Plattformlösungen, möglicherweise externe Entwicklungspartner nötig da wenig eigene Software-Stellen"
         },
-        "topic_affinity": {
-          "topic": "(nicht gesetzt)",
-          "affinity_score": 0.0,
-          "affinity_reasoning": "Noch nicht bewertet",
-          "relevant_news": []
-        },
-        "combined_score": 0.38
+        "customer_rating": 0.677,
+        "rating_reasoning": "Mittelgroßer Energiedienstleister (2.300 MA), E.ON-Rückhalt gibt finanzielle Stabilität, hoher Digitalisierungsdruck durch Energiewende und Smart-Meter-Pflicht bis 2032, LoRaWAN-Ausbau zeigt Bedarf an IoT-Plattformlösungen, möglicherweise externe Entwicklungspartner nötig da wenig eigene Software-Stellen"
       },
-      "financials": null,
-      "overall_score": 0.25
+      "overall_score": 0.726
     },
     {
       "company": {
@@ -439,7 +178,403 @@
         "customer_rating": 0.693,
         "rating_reasoning": "Exzellenter Size-Fit: 5,8 Mrd EUR Umsatz, 13.500 MA, 200+ Industrieunternehmen - idealer Großkunde mit enormem internem IoT-Bedarf über diverse Branchen. Solide Finanzlage mit positivem EBIT, jedoch sinkende Margen (81 Mio EBIT bei 5,8 Mrd Umsatz = ~1,4%). Stiftungsbesitz bietet Stabilität, aber begrenzt Risikobereitschaft. Mittlerer Druck: Possehl investiert bereits stark in Digitalisierung (eigener Geschäftsbereich, Zukäufe, neue Tochtergesellschaften), was auf strategische Dringlichkeit hindeutet. Allerdings baut Possehl auch eigene Kapazitäten auf (Mono Software, Possehl Digital Services), was Eigenentwicklung statt Fremdbezug signalisieren könnte. Chancen bestehen vor allem bei den 200+ dezentralen Portfoliounternehmen, die nicht alle durch Possehl Digital abgedeckt werden."
       },
-      "overall_score": 0.15
+      "overall_score": 0.716
+    },
+    {
+      "company": {
+        "name": "Vossloh AG",
+        "website": "vossloh.com",
+        "address": "Kiel",
+        "industry": "Bahntechnik / Schieneninfrastruktur",
+        "source": "WebSearch Agent1"
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.95,
+          "activity_reasoning": "Rekordjahr 2025: Umsatz +11% auf 1.343 Mio EUR, EBIT +13,7% auf 119,6 Mio EUR, Auftragseingang Rekord 1.399 Mio EUR, Auftragsbestand >1 Mrd EUR. Strategische Akquisition Sateba. Ausblick 2026: Umsatz 1,56-1,66 Mrd EUR erwartet, EBITDA-Marge 13,5-14,5%. Starkes Wachstum durch EU-Schieneninfrastruktur-Investitionen getrieben.",
+          "recent_news": [
+            "Vossloh Achieves Record Growth in 2025 - Umsatz 1.343 Mio EUR, Auftragseingang 1.399 Mio EUR",
+            "Vossloh sees 2026 sales up to 1.66 billion EUR, EBITDA margin to 14.5%",
+            "Akquisition Sateba (europaeischer Betonschwellenhersteller) erfolgreich integriert"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT Plattform Entwicklung",
+          "affinity_score": 0.92,
+          "affinity_reasoning": "Vossloh betreibt bereits eigene IoT-Plattform 'Vossloh connect' fuer Schieneninfrastruktur-Monitoring. Sensorboxen an Schwellen erfassen Vibrationen/Temperaturen, uebertragen Daten via IoT-Gateway in Cloud-Plattform. Predictive Maintenance mit KI-Algorithmen. Tochter Vossloh RailWatch entwickelt KI-basiertes Wayside-Monitoring-System 'Pulsar'. Cloud-First-Strategie und Smart Maintenance sind strategische Schwerpunkte. Transformation vom Komponentenhersteller zum Daten- und Serviceanbieter.",
+          "relevant_news": [
+            "Vossloh connect: Cloud-basierte IoT-Plattform fuer Echtzeit-Schieneninfrastruktur-Monitoring und Predictive Maintenance",
+            "Vossloh RailWatch: 100%-Tochter fuer KI-basierte Hardware/Software-Loesungen im Bahnbereich (Pulsar System)",
+            "Smart Maintenance und Cloud-First-Strategie als strategische Wachstumsfelder"
+          ]
+        },
+        "combined_score": 0.932
+      },
+      "financials": {
+        "revenue_estimate": "1.343 Mio EUR (2025), Prognose 2026: 1.560-1.660 Mio EUR",
+        "profit_estimate": "EBIT 119,6 Mio EUR (2025), Free Cash Flow 98,8 Mio EUR",
+        "employee_count": 5501,
+        "hiring_activity": {
+          "general_hiring_score": 0.75,
+          "total_job_postings": 118,
+          "hiring_reasoning": "118 offene Stellen auf LinkedIn, ca. 50 auf Indeed, 122 auf Kimeta. Aktive Rekrutierung an mehreren Standorten (Hamburg, Werdohl, Duesseldorf, Rheinbach). Breites Spektrum von Produktion ueber SAP bis Ingenieurwesen. Duales Studium und Ausbildungsplaetze zeigen langfristige Personalplanung. Wachstum durch Sateba-Integration treibt Personalaufbau (4.321 auf 5.501 Mitarbeiter in 2025)."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.45,
+          "relevant_job_postings": 3,
+          "topic_hiring_reasoning": "Wenige spezifische IoT/Software-Plattform-Stellen gefunden, aber relevante digitale Rollen vorhanden: Duales Studium Informatik-Ingenieurwesen (Smart Maintenance, Cloud-First, Gleisdaten-Auswertung), Data Engineer & Process Intelligence Analyst (Celonis-Plattform), SAP Consultants. Vossloh baut digitale Kapazitaeten eher intern auf (Vossloh RailWatch als eigene Tochter). Potenzial fuer externe IoT-Plattform-Entwicklung besteht, da eigene Ressourcen begrenzt erscheinen.",
+          "example_positions": [
+            "Duales Studium Informatik-Ingenieurwesen (Smart Maintenance, Cloud-First)",
+            "Data Engineer & Process Intelligence Analyst",
+            "SAP Consultant"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.75,
+          "financial_health_score": 0.9,
+          "pressure_score": 0.7,
+          "strategic_reasoning": "Vossloh ist ein boersennotierter Mittelstaendler (5.500 MA, 1,34 Mrd EUR Umsatz) - ideale Groesse fuer IoT-Plattform-Projekte, gross genug fuer signifikante Budgets, aber nicht so gross dass nur Inhouse-Loesungen gebaut werden. Exzellente Finanzgesundheit mit Rekordergebnissen und starkem Cashflow. Mittlerer bis hoher Innovationsdruck: Die Transformation vom Komponentenhersteller zum digitalen Serviceanbieter ist strategisch erklaert, Vossloh connect und RailWatch zeigen den Weg, aber die digitale Reife scheint noch ausbaubar. EU-Schieneninfrastruktur-Boom erzeugt Druck, digitale Loesungen schnell zu skalieren."
+        },
+        "customer_rating": 0.63,
+        "rating_reasoning": "Vossloh ist ein boersennotierter Mittelstaendler (5.500 MA, 1,34 Mrd EUR Umsatz) - ideale Groesse fuer IoT-Plattform-Projekte, gross genug fuer signifikante Budgets, aber nicht so gross dass nur Inhouse-Loesungen gebaut werden. Exzellente Finanzgesundheit mit Rekordergebnissen und starkem Cashflow. Mittlerer bis hoher Innovationsdruck: Die Transformation vom Komponentenhersteller zum digitalen Serviceanbieter ist strategisch erklaert, Vossloh connect und RailWatch zeigen den Weg, aber die digitale Reife scheint noch ausbaubar. EU-Schieneninfrastruktur-Boom erzeugt Druck, digitale Loesungen schnell zu skalieren."
+      },
+      "overall_score": 0.709
+    },
+    {
+      "company": {
+        "name": "Danfoss Power Solutions",
+        "website": "danfoss.com",
+        "address": "Neumünster",
+        "industry": "Hydraulik / Antriebstechnik",
+        "source": "WebSearch Agent1"
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.9,
+          "activity_reasoning": "Danfoss Power Solutions is a thriving division of Danfoss A/S. Active at bauma 2025 showcasing digitalization and electrification. Completed acquisition of Hydro Holding (hose fittings). Invested in new logistics center in Neumünster achieving 99.99% packing accuracy. Employee count grew 6% YoY. New president Daniel Winter appointed 2025.",
+          "recent_news": [
+            "Showcased system solutions at bauma 2025 (hydraulics, eHydraulics, electrification, digitalization, autonomy, software). Completed acquisition of Hydro Holding (350 employees, 4 locations in Italy). New logistics center in Neumünster with Voigt-Logistik partnership. New DPS president Daniel Winter appointed 2025."
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT Plattform Entwicklung",
+          "affinity_score": 1.0,
+          "affinity_reasoning": "Danfoss Power Solutions has built its own PLUS+1 Connect IoT platform combining telematics hardware, cloud software, APIs, and fleet management. They offer CS10, CS100, CS500 IoT gateways. They have a dedicated Digital Accelerator function anchored with the CIO. They explicitly state IoT, SaaS, and Apps will increasingly drive customer value and revenue. They already provide remote diagnostics, over-the-air programming, predictive maintenance, and geo-fencing. This is a core strategic pillar, not exploratory.",
+          "relevant_news": [
+            "PLUS+1 Connect cloud platform launched for fleet management, remote diagnostics, OTA updates. CS500 IoT Gateway product line. Digital Accelerator team created as independent function. bauma 2025 booth featured digitalization and autonomy as key themes alongside hydraulics."
+          ]
+        },
+        "combined_score": 0.96
+      },
+      "financials": {
+        "revenue_estimate": "~887M USD (DPS segment); parent Danfoss Group ~9.67B EUR (FY2024)",
+        "profit_estimate": null,
+        "employee_count": 6400,
+        "hiring_activity": {
+          "general_hiring_score": 0.5,
+          "total_job_postings": 4,
+          "hiring_reasoning": "Only 4 job postings found specifically for the Neumünster location on Jobijoba. Moderate hiring activity at this site. The broader Danfoss group hires actively across many locations (Denmark, Hamburg, Gdansk, etc.), but the Neumünster site appears to have limited open positions currently."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.7,
+          "relevant_job_postings": 3,
+          "topic_hiring_reasoning": "Danfoss actively hires for IoT and software platform roles across the group: Release Manager & Automation Expert IoT (Gdansk), Solutions and Product Architect Cloud/IoT (Hamburg), IoT Service Architect (filled). Digital Accelerator team is scaling. Roles focus on .NET, C#, Docker, Kubernetes, Azure cloud. These are not Neumünster-specific but indicate strong organizational demand for IoT platform development talent.",
+          "example_positions": [
+            "Release Manager & Automation Expert IoT (Gdansk), Solutions and Product Architect Cloud/IoT (Hamburg), IoT Service Architect (filled)"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.7,
+          "financial_health_score": 0.9,
+          "pressure_score": 0.4,
+          "strategic_reasoning": "Size-fit (0.7): DPS has ~6400 employees and ~887M revenue - large enterprise with established in-house IoT capability (PLUS+1 Connect), which limits external platform development needs but scale means even niche engagements could be substantial. Financial-health (0.9): Parent Danfoss Group has 9.67B EUR revenue, actively acquiring companies, investing in new facilities and digital transformation. Very strong financial position. Pressure (0.4): Low external pressure - Danfoss already has a mature IoT platform (PLUS+1 Connect) with gateways, cloud, APIs. They are a leader not a follower in mobile hydraulics IoT. May need external help for specialized modules or scaling specific capabilities rather than building from scratch."
+        },
+        "customer_rating": 0.58,
+        "rating_reasoning": "Size-fit (0.7): DPS has ~6400 employees and ~887M revenue - large enterprise with established in-house IoT capability (PLUS+1 Connect), which limits external platform development needs but scale means even niche engagements could be substantial. Financial-health (0.9): Parent Danfoss Group has 9.67B EUR revenue, actively acquiring companies, investing in new facilities and digital transformation. Very strong financial position. Pressure (0.4): Low external pressure - Danfoss already has a mature IoT platform (PLUS+1 Connect) with gateways, cloud, APIs. They are a leader not a follower in mobile hydraulics IoT. May need external help for specialized modules or scaling specific capabilities rather than building from scratch."
+      },
+      "overall_score": 0.705
+    },
+    {
+      "company": {
+        "name": "Drägerwerk AG",
+        "website": "draeger.com",
+        "address": "Lübeck",
+        "industry": "Medizin- und Sicherheitstechnik",
+        "source": "WebSearch Agent1"
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.9,
+          "activity_reasoning": "Rekordumsatz 2025 von 3,48 Mrd EUR (+5,3% währungsbereinigt), EBIT 226-236 Mio EUR (deutlicher Anstieg von 194 Mio), Auftragseingang +7,9% auf 3,58 Mrd EUR, Aktie +49% in 2025, Prognose 2026 positiv mit 1-5% Umsatzwachstum",
+          "recent_news": [
+            "Vorläufige Zahlen 2025: Rekordumsatz 3,48 Mrd EUR und EBIT-Marge 6,5-6,8% – deutlich über Prognose",
+            "Auftragseingang 2025 steigt währungsbereinigt um 7,9% auf 3,58 Mrd EUR – Medizintechnik +9%, Sicherheitstechnik +6,3%"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT Plattform Entwicklung",
+          "affinity_score": 0.75,
+          "affinity_reasoning": "Dräger betreibt aktiv IoT-Initiativen: Gas Detection Connect (GDC) auf Microsoft Azure, Connected Worker Plattform, ConHub Bluetooth-Gateway für bis zu 20 Geräte, Aras PLM Cloud-Plattform mit 2500+ Nutzern. Investitionen in AI, ML, IoT und Cloud angekündigt. Jedoch primär Eigenentwicklung und bestehende Partnerschaften (Azure), daher externer Bedarf mittelhoch.",
+          "relevant_news": [
+            "Gas Detection Connect (GDC): Azure-basierte Cloud-Plattform für Live-Monitoring von Gasdetektoren mit Bluetooth-Gateway ConHub",
+            "IT Software Engineer Backend-Stelle für Generative AI Platform Services ausgeschrieben – zeigt aktive Plattformentwicklung"
+          ]
+        },
+        "combined_score": 0.81
+      },
+      "financials": {
+        "revenue_estimate": "3.48 Mrd EUR (2025, Rekord)",
+        "profit_estimate": "226-236 Mio EUR EBIT (2025)",
+        "employee_count": 16329,
+        "hiring_activity": {
+          "general_hiring_score": 0.65,
+          "total_job_postings": 87,
+          "hiring_reasoning": "Ca. 87 offene Stellen auf Indeed, 24 auf Stepstone. Breites Spektrum von IT/Software über Ausbildung bis Fachkräfte. Aktive Einstellung inkl. Team Lead Process & Applications IT, Process Manager IT, Werkstudenten E-Commerce. Solide aber nicht aggressiv expandierend."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.5,
+          "relevant_job_postings": 5,
+          "topic_hiring_reasoning": "Einige relevante Software/Plattform-Stellen gefunden, aber keine expliziten IoT-Plattform-Entwickler-Stellen. IT Software Engineer Backend für GenAI Platform Services, Embedded Systems Praktikum, Team Lead Process IT. Zeigt internen Aufbau von Plattform-Kompetenz, könnte aber auch externen Bedarf signalisieren.",
+          "example_positions": [
+            "IT Software Engineer Backend – GenAI Platform Services (Python, C#, Azure DevOps, Microservices)",
+            "Team Lead Process & Applications – Global Process IT Experts (8-köpfiges Team, Lübeck)"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.8,
+          "financial_health_score": 0.9,
+          "pressure_score": 0.7,
+          "strategic_reasoning": "Großes Mittelstandsunternehmen (16.300 MA, 3,48 Mrd Umsatz) mit exzellenter finanzieller Gesundheit und Rekordzahlen. Hoher Digitalisierungsdruck durch Connected Worker, IIoT und Cloud-Monitoring im Sicherheitsbereich. Bestehende Azure/IoT-Investitionen zeigen Bereitschaft. Druck entsteht durch Wettbewerb in Medizin-/Sicherheitstechnik, wo vernetzte Geräte zunehmend Standard werden. Familienunternehmen mit langfristiger Orientierung – potenziell loyaler Kunde."
+        },
+        "customer_rating": 0.642,
+        "rating_reasoning": "Großes Mittelstandsunternehmen (16.300 MA, 3,48 Mrd Umsatz) mit exzellenter finanzieller Gesundheit und Rekordzahlen. Hoher Digitalisierungsdruck durch Connected Worker, IIoT und Cloud-Monitoring im Sicherheitsbereich. Bestehende Azure/IoT-Investitionen zeigen Bereitschaft. Druck entsteht durch Wettbewerb in Medizin-/Sicherheitstechnik, wo vernetzte Geräte zunehmend Standard werden. Familienunternehmen mit langfristiger Orientierung – potenziell loyaler Kunde."
+      },
+      "overall_score": 0.682
+    },
+    {
+      "company": {
+        "name": "tesa SE",
+        "website": "tesa.com",
+        "address": "Norderstedt",
+        "industry": "Klebetechnologie / Chemie",
+        "source": "WebSearch Agent1"
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.85,
+          "activity_reasoning": "Sehr gesundes Unternehmen. Neuer CEO Dr. Kourosh Bahrami (ex-Henkel LOCTITE, Industrie 4.0 Experte) seit Oktober 2025. Nachhaltigkeitsziele vorzeitig erreicht (38% CO2-Reduktion). Dena Energy Efficiency Award Nov 2025. Aktive Messepraeesenz (K 2025). Stabile Beiersdorf-Tochter mit 125 Jahren Geschichte.",
+          "recent_news": [
+            "CEO-Wechsel: Dr. Kourosh Bahrami folgt auf Dr. Norman Goldberg (Okt 2025)",
+            "Dena Energy Efficiency Award fuer klimaneutrale Produktion mit gruenem Wasserstoff (Nov 2025)",
+            "Nachhaltigkeitsziel 2025 vorzeitig erreicht: 38% Scope 1+2 Reduktion"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT Plattform Entwicklung",
+          "affinity_score": 0.72,
+          "affinity_reasoning": "tesa verfolgt aktiv Industrie 4.0 Strategie mit dem Intelligenter Ballen Projekt: MES-Integration, PLC-Datenverarbeitung, Lasermarkierung, digitale Defekterkennung. 80% Positionstoleranz-Reduktion erreicht. Neuer CEO hat explizite Industrie 4.0 Erfahrung von Henkel. KI/ML Integration fuer Prozessoptimierung geplant. Digital & IT Abteilung in Hamburg aktiv. Allerdings kein explizites IoT-Plattform-Outsourcing-Signal erkennbar.",
+          "relevant_news": [
+            "Intelligenter Ballen Projekt: MES + PLC + Laser + Defekterkennung integriert, 80% Toleranzverbesserung",
+            "Neuer CEO Dr. Bahrami bringt Industrie 4.0 Expertise von Henkel mit",
+            "Digital und IT Abteilung in Hamburg mit aktiven Stellenausschreibungen"
+          ]
+        },
+        "combined_score": 0.772
+      },
+      "financials": {
+        "revenue_estimate": "1.7 Mrd EUR (2023)",
+        "profit_estimate": "176 Mio EUR Nettogewinn, 266 Mio EUR EBIT, 16% EBIT-Marge (2023)",
+        "employee_count": 5200,
+        "hiring_activity": {
+          "general_hiring_score": 0.55,
+          "total_job_postings": 80,
+          "hiring_reasoning": "Moderate Hiring-Aktivitaet. Ca. 20 Stellen auf Glassdoor, 127 Technology-Jobs auf LinkedIn (weltweit inkl. Gruppenunternehmen), diverse Positionen auf Indeed (Pricing Manager, Product Developer, etc.). Fuer ein 5200-Mitarbeiter-Unternehmen solide aber nicht ueberdurchschnittlich aktiv."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.4,
+          "relevant_job_postings": 5,
+          "topic_hiring_reasoning": "Wenige explizite IoT/Software-Entwicklung Stellen gefunden. Digital und IT Rollen in Hamburg vorhanden (Python, Excel, analytische Faehigkeiten). Keine dedizierten IoT-Plattform-Entwickler oder Embedded-Software-Stellen sichtbar. Signalisiert eher interne Digitalisierung als externes Plattform-Outsourcing. Koennte aber Bedarf an externer IoT-Plattform-Expertise bedeuten.",
+          "example_positions": [
+            "Digital & IT Rollen Hamburg",
+            "Technology-bezogene Positionen (LinkedIn)",
+            "Adhesive Product Developer"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.7,
+          "financial_health_score": 0.85,
+          "pressure_score": 0.6,
+          "strategic_reasoning": "Mittelgrosser Konzern (1.7 Mrd EUR Umsatz, 5200 MA) - gute Groesse fuer IoT-Plattform-Projekte. Finanziell sehr solide mit 16% EBIT-Marge und Beiersdorf-Rueckhalt. Digitalisierungsdruck vorhanden durch Industrie 4.0 Initiativen und neuen CEO mit expliziter I4.0 Erfahrung, aber kein akuter Transformationszwang erkennbar. Hauptsaechlich B2B-Industriekunden (75% Umsatz), wo IoT-Loesungen Mehrwert bieten. Risiko: Interne IT-Kapazitaeten koennten ausreichen, kein klares Outsourcing-Signal."
+        },
+        "customer_rating": 0.542,
+        "rating_reasoning": "Mittelgrosser Konzern (1.7 Mrd EUR Umsatz, 5200 MA) - gute Groesse fuer IoT-Plattform-Projekte. Finanziell sehr solide mit 16% EBIT-Marge und Beiersdorf-Rueckhalt. Digitalisierungsdruck vorhanden durch Industrie 4.0 Initiativen und neuen CEO mit expliziter I4.0 Erfahrung, aber kein akuter Transformationszwang erkennbar. Hauptsaechlich B2B-Industriekunden (75% Umsatz), wo IoT-Loesungen Mehrwert bieten. Risiko: Interne IT-Kapazitaeten koennten ausreichen, kein klares Outsourcing-Signal."
+      },
+      "overall_score": 0.602
+    },
+    {
+      "company": {
+        "name": "Getriebebau NORD",
+        "website": "nord.com",
+        "address": "Bargteheide",
+        "industry": "Antriebstechnik / Maschinenbau",
+        "source": "WebSearch Agent1"
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.85,
+          "activity_reasoning": "Established 1965, celebrating 60th anniversary in 2025. Revenue exceeded EUR 1 billion mark. Active at major international trade fairs in 2025-2026 (SPS, IFAT, interpack, Seafood Expo, MODEX, GEAPS). Launching new products (SK 112 motor, NORD DRIVE MONITOR IIoT solution, digital twin technology). Expanding globally with 48 subsidiaries in 36 countries. Family-owned, stable management under CEO Nico Heinsohn.",
+          "recent_news": [
+            "60th anniversary celebrated in 2025; FY2025 revenue EUR 1.08 billion; Active trade fair presence in 2026 (Seafood Expo Barcelona, IFAT Munich, interpack Duesseldorf, MODEX Atlanta); New IIoT product NORD DRIVE MONITOR launched for condition monitoring; New SK 112 motor and digital twin technology introduced; 20th anniversary of Polish production site in Nowa Sol"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT Plattform Entwicklung",
+          "affinity_score": 0.82,
+          "affinity_reasoning": "NORD is heavily invested in IIoT/Industry 4.0. They have developed their own NORD DRIVE MONITOR for condition monitoring and predictive maintenance. Their frequency inverters include integrated PLCs for data capture and preprocessing. They use virtual sensors and smart algorithms for sensorless oil aging monitoring. They have a dedicated application test area for predictive maintenance at HQ in Bargteheide. Digital twin and virtual commissioning technology recently launched. All drives are labeled Industrie 4.0 Ready. However, much of this is developed in-house (NORD Electronic DRIVESYSTEMS with 200+ employees plus 40 engineers at HQ), which could mean they have internal capability but also potential need for external platform expertise for scaling.",
+          "relevant_news": [
+            "NORD DRIVE MONITOR IIoT solution showcased at IFAT 2026 for condition monitoring with dynamically calculated and sensor-based operating values; Digital twin and virtual commissioning technology launched; Integrated PLC in frequency inverters for data preprocessing; Virtual sensors for sensorless monitoring of oil aging; Application test area for predictive maintenance at Bargteheide HQ; All drives Industry 4.0 Ready"
+          ]
+        },
+        "combined_score": 0.832
+      },
+      "financials": {
+        "revenue_estimate": "EUR 1.08 billion (FY2025), EUR 1.09 billion (FY2023), exceeded EUR 1 billion mark in 2022",
+        "profit_estimate": "Not publicly disclosed (family-owned, privately held)",
+        "employee_count": 4980,
+        "hiring_activity": {
+          "general_hiring_score": 0.45,
+          "total_job_postings": 17,
+          "hiring_reasoning": "Moderate hiring activity with approximately 17 open positions across platforms (Indeed, kimeta.de). For a company with nearly 5000 employees this represents a conservative hiring rate of about 0.3 percent, suggesting stable but not aggressive growth. Positions span product development, production, consulting, sales, service, administration and logistics. The company offers competitive benefits including flexible hours, Hansefit, bike leasing, 30 vacation days, and subsidized Deutschlandticket."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.35,
+          "relevant_job_postings": 0,
+          "topic_hiring_reasoning": "No specific IoT or software development job postings were found in search results. NORD has a dedicated electronic drivesystems division (NORD Electronic DRIVESYSTEMS GmbH) with around 200 employees plus 40 engineers in product development at Bargteheide HQ, suggesting they handle IoT and software development largely in-house. The absence of external IoT/software hiring could indicate either fully staffed internal teams or potential need for external partners to scale their IIoT platform capabilities.",
+          "example_positions": [
+            "No specific IoT or software development positions found in current listings; general product development and engineering roles may include software components"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.75,
+          "financial_health_score": 0.88,
+          "pressure_score": 0.6,
+          "strategic_reasoning": "Size fit is good - EUR 1.08B revenue company with nearly 5000 employees, large enough to invest in IoT platform development but not so large they would only work with Tier 1 consultancies. Financial health is strong with stable revenue above EUR 1 billion and active global expansion. Competitive pressure is moderate - they are already investing heavily in IIoT with NORD DRIVE MONITOR and digital twins, showing awareness of digitalization needs. However, their in-house electronic drivesystems division (240+ engineers) means they may prefer building internally rather than buying external solutions. The key opportunity lies in scaling their IIoT platform beyond current capabilities or accelerating development timelines. As a family-owned Mittelstand company they value long-term partnerships and have short decision-making paths."
+        },
+        "customer_rating": 0.52,
+        "rating_reasoning": "Size fit is good - EUR 1.08B revenue company with nearly 5000 employees, large enough to invest in IoT platform development but not so large they would only work with Tier 1 consultancies. Financial health is strong with stable revenue above EUR 1 billion and active global expansion. Competitive pressure is moderate - they are already investing heavily in IIoT with NORD DRIVE MONITOR and digital twins, showing awareness of digitalization needs. However, their in-house electronic drivesystems division (240+ engineers) means they may prefer building internally rather than buying external solutions. The key opportunity lies in scaling their IIoT platform beyond current capabilities or accelerating development timelines. As a family-owned Mittelstand company they value long-term partnerships and have short decision-making paths."
+      },
+      "overall_score": 0.593
+    },
+    {
+      "company": {
+        "name": "ThyssenKrupp Marine Systems",
+        "website": "thyssenkrupp-marinesystems.com",
+        "address": "Kiel",
+        "industry": "Marineschiffbau / Verteidigung",
+        "source": "WebSearch Agent1"
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.95,
+          "activity_reasoning": "TKMS wurde 2025 als eigenständiges Unternehmen an die Börse gebracht (IPO Okt 2025). Rekord-Auftragsbestand von 18,7 Mrd EUR in Q1 FY2025/26, Prognose angehoben auf +2-5% Umsatzwachstum. Umsatz ~545 Mio EUR/Quartal, EBIT-Marge 4,8%, positiver Free Cash Flow. Mega-Auftragschancen: Kanada (37 Mrd EUR Submarine-Projekt), Indien. Neues Werftwerk Wismar in Umrüstung. Aktie seit IPO stark gestiegen.",
+          "recent_news": [
+            "IPO Oktober 2025 erfolgreich abgeschlossen, thyssenkrupp hält 51%",
+            "Rekord-Auftragsbestand 18,7 Mrd EUR, Prognose angehoben",
+            "Kanada CPSP-Projekt (37 Mrd EUR) Entscheidung Mai/Juni 2026 erwartet",
+            "Norwegen-Auftrag für 2 weitere U-Boote Typ 212CD gesichert",
+            "BlueWhale AUV an Deutsche Marine ausgeliefert"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT Plattform Entwicklung",
+          "affinity_score": 0.55,
+          "affinity_reasoning": "TKMS hat keine öffentlich bekannte eigene IoT- oder Digital-Twin-Plattform. Die maritime Branche setzt aber zunehmend auf Digital Twins, IoT und Predictive Maintenance. TKMS-Tochter ATLAS ELEKTRONIK entwickelt Sensor-, Sonar- und UUV-Systeme mit hohem Digitalisierungspotenzial. Das thyssenkrupp-Ökosystem hat mit toii eine IIoT-Plattform (Materials IoT), aber TKMS nutzt diese nicht erkennbar. Die Komplexität moderner U-Boot- und Fregatten-Systeme (System-of-Systems-Ansatz) erfordert zunehmend digitale Plattformen. Mittlere Affinität: latenter Bedarf vorhanden, aber keine aktive öffentliche Initiative erkennbar.",
+          "relevant_news": [
+            "Maritime Digital Twin Technologie wird branchenweit adoptiert",
+            "ATLAS ELEKTRONIK (TKMS-Tochter) entwickelt Sensoren, Sonar, UUVs mit Digitalisierungsbedarf",
+            "thyssenkrupp Materials IoT betreibt toii IIoT-Plattform - Konzern-Know-how vorhanden"
+          ]
+        },
+        "combined_score": 0.71
+      },
+      "financials": {
+        "revenue_estimate": "~2,1 Mrd EUR (FY 2023/24), Q1 FY2025/26: 545 Mio EUR/Quartal",
+        "profit_estimate": null,
+        "employee_count": 9100,
+        "hiring_activity": {
+          "general_hiring_score": 0.8,
+          "total_job_postings": 109,
+          "hiring_reasoning": "109 offene Stellen allein auf StepStone für Kiel, über 90 auf LinkedIn deutschlandweit. Aktives Recruiting in Konstruktion, Fertigung, Ingenieurwesen, Software, Finanzen. Wachstumsphase durch Werft-Ausbau Wismar und steigende Auftragslage. Hohe Einstellungsaktivität für ein Unternehmen dieser Größe."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.35,
+          "relevant_job_postings": 5,
+          "topic_hiring_reasoning": "Keine expliziten IoT-Plattform-Entwickler-Stellen bei TKMS gefunden. Es gibt Software-Entwickler-Stellen (C++, embedded) bei ATLAS ELEKTRONIK/TKMS, aber keine die explizit IoT, Digital Twin oder Plattform-Entwicklung benennen. Die vorhandenen SW-Stellen fokussieren auf Sonar, Sensortechnik und Kampfführungssysteme. Geringes Signal für aktive IoT-Plattform-Eigenentwicklung.",
+          "example_positions": [
+            "Software Developer C++ (ATLAS ELEKTRONIK)",
+            "Konstruktionsingenieur Schiffstechnik",
+            "3D-Laserscanning/Photogrammetrie Vermessung"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.6,
+          "financial_health_score": 0.9,
+          "pressure_score": 0.5,
+          "strategic_reasoning": "Size-Fit (0.6): Mit 9100 MA und 2,1 Mrd EUR Umsatz ist TKMS groß genug für substanzielle IoT-Projekte, aber als Verteidigungsunternehmen gelten strenge Sicherheitsanforderungen die den Zugang erschweren. Financial-Health (0.9): Exzellent - Rekord-Auftragsbestand, positive Cashflows, erfolgreicher Börsengang, starke Wachstumsperspektive. Pressure (0.5): Mittlerer Digitalisierungsdruck. Die Branche bewegt sich Richtung Digital Twins, aber TKMS hat keinen akuten öffentlichen Handlungsdruck. Langfristig wird System-of-Systems-Integration und Predictive Maintenance für U-Boote/Fregatten IoT-Plattformen erfordern."
+        },
+        "customer_rating": 0.512,
+        "rating_reasoning": "Size-Fit (0.6): Mit 9100 MA und 2,1 Mrd EUR Umsatz ist TKMS groß genug für substanzielle IoT-Projekte, aber als Verteidigungsunternehmen gelten strenge Sicherheitsanforderungen die den Zugang erschweren. Financial-Health (0.9): Exzellent - Rekord-Auftragsbestand, positive Cashflows, erfolgreicher Börsengang, starke Wachstumsperspektive. Pressure (0.5): Mittlerer Digitalisierungsdruck. Die Branche bewegt sich Richtung Digital Twins, aber TKMS hat keinen akuten öffentlichen Handlungsdruck. Langfristig wird System-of-Systems-Integration und Predictive Maintenance für U-Boote/Fregatten IoT-Plattformen erfordern."
+      },
+      "overall_score": 0.59
+    },
+    {
+      "company": {
+        "name": "ACO Group",
+        "website": "aco.com",
+        "address": "Büdelsdorf",
+        "industry": "Entwässerungstechnik / Bau",
+        "source": "WebSearch Agent1"
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.85,
+          "activity_reasoning": "Sehr gesundes Familienunternehmen. Umsatz wächst von 1,07 Mrd EUR (2025) auf angestrebte 1,2 Mrd EUR (2026). Handelsblatt Hall of Fame Aufnahme Jan 2026. Akquisition von Aquafix Milieu (NL). Aktive Nachfolge durch Iver Ahlmann (43). Smart Irrigation Forschungsprojekt und RECOVER Interreg-Projekt (Digital Twin Ostsee) zeigen Innovationsbereitschaft.",
+          "recent_news": [
+            "Handelsblatt Hall of Fame Aufnahme der Ahlmann-Familie (Jan 2026)",
+            "Umsatzziel 1,2 Mrd EUR für 2026 nach 1,07 Mrd in 2025",
+            "Akquisition Aquafix Milieu (NL, größter Abscheider-Hersteller)",
+            "RECOVER Interreg-Projekt: Digital Twin der südwestlichen Ostsee",
+            "ACO WaterDome interaktives Lernzentrum in Büdelsdorf eröffnet"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT Plattform Entwicklung",
+          "affinity_score": 0.82,
+          "affinity_reasoning": "Sehr hohe IoT-Affinität. ACO betreibt ein eigenes Technology Centre (ACO TC, Indien) mit dediziertem IoT/Electronics-Team seit 2020. Angebote umfassen End-to-End Smart IoT über alle 6 IoT-Layer, Cloud/Web-Applikationsentwicklung, Data Analytics, AI/ML. Bereits ein Smart Product gelauncht. Smart Water Management als strategisches Ziel: Digitalisierung der Wasserwirtschaft durch Sensoren, Smart Connected Gateways, IoT Cloud Platform. Eigenes Smart-Drainage-Testfeld in Büdelsdorf. Digital-Twin-Beteiligung (RECOVER Interreg). Allerdings wird IoT-Entwicklung teilweise intern/offshore abgedeckt, was den Bedarf an externen IoT-Plattform-Dienstleistern etwas reduziert.",
+          "relevant_news": [
+            "ACO Technology Centre bietet End-to-End IoT/Electronics-Services über alle 6 IoT-Layer",
+            "Smart Water Management Ziel: Sensoren, Gateways, IoT Cloud, Data Analytics, AI/ML",
+            "Smart Drainage Testfeld auf ACO-Gelände in Büdelsdorf unter neuem Logistik-Areal",
+            "RECOVER Interreg: Digital Twin der Ostsee mit ACO-Beteiligung"
+          ]
+        },
+        "combined_score": 0.832
+      },
+      "financials": {
+        "revenue_estimate": "ca. 1,07 Mrd EUR (2025), Ziel 1,2 Mrd EUR (2026)",
+        "profit_estimate": null,
+        "employee_count": 5500,
+        "hiring_activity": {
+          "general_hiring_score": 0.6,
+          "total_job_postings": 40,
+          "hiring_reasoning": "Moderate Hiring-Aktivität. 14 offene Stellen auf Glassdoor (ACO Inc, USA), 27 auf Indeed. Karriereseiten aktiv für Deutschland und international. ACO wurde 2022 als TOP IT-Arbeitgeber ausgezeichnet. Für ein 5.500-Mitarbeiter-Unternehmen ist die sichtbare Stellenanzahl moderat, aber es wird aktiv rekrutiert."
+        },
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.448
     }
   ],
   "metadata": {},
