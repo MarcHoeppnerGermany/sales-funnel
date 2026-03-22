@@ -128,55 +128,50 @@
       "topic_relevance": {
         "company_health": {
           "activity_score": 0.75,
-          "activity_reasoning": "Stabile Unternehmensgruppe mit 175-jähriger Geschichte, im Besitz der gemeinnützigen Possehl-Stiftung. GJ2023 Umsatz 5,8 Mrd EUR bei positivem EBIT (81 Mio EUR). Neue Possehl Digital Services GmbH im Mai 2025 gegründet. Aktive Expansion im Digitalbereich durch Zukäufe (TWINSEC/Possehl Secure, Optenda). Keine negativen Schlagzeilen. Privat gehalten, daher begrenzte Transparenz.",
+          "activity_reasoning": "Stabiler 175-jähriger Mischkonzern, Stiftungseigentum, positives EBIT, aktive digitale Expansion",
           "recent_news": [
-            "GJ2023: Umsatz 5,785 Mrd EUR, EBIT 81 Mio EUR - gut behauptet in schwierigem Marktumfeld",
-            "Mai 2025: Gründung Possehl Digital Services GmbH in Karlsruhe für Digitalisierung industrieller KMU",
-            "Possehl Digital erwirbt Beteiligung an Optenda (Energiemanagement)",
-            "Neuer Vorsitzender der Possehl-Stiftung seit Januar 2025: Prof. Dr. Wolfgang Sandberger"
+            "Possehl Digital als neue Division gegründet",
+            "GJ2023 solide trotz schwierigem Marktumfeld"
           ]
         },
         "topic_affinity": {
           "topic": "IoT Plattform Entwicklung",
           "affinity_score": 0.85,
-          "affinity_reasoning": "Sehr hohe Affinität: Possehl Digital ist ein eigener Geschäftsbereich mit explizitem Fokus auf Industrie 4.0, IIoT und Digitalisierung industrieller KMU. Possehl Analytics bietet modulare ANTS-Plattform (Analytics Tool Suite) für datengetriebene Geschäftsmodelle. Possehl Digital Services GmbH (gegr. 2025) fokussiert auf Predictive Maintenance, MLOps, AI und Cloud-Technologien. Mono Software (180+ Entwickler) als Portfoliounternehmen. Themen wie Connected Production, Low-Code-Plattformen und Automatisierung werden aktiv vorangetrieben. Mit 200+ Industrieunternehmen im Konzern besteht enormer interner Bedarf an IoT-Plattformen.",
+          "affinity_reasoning": "Eigene Possehl Digital Division für Industrie 4.0, IIoT, Predictive Maintenance; ANTS Analytics-Plattform; 200+ Industrie-Tochtergesellschaften mit enormem internen IoT-Bedarf",
           "relevant_news": [
-            "Possehl Digital: Eigener Geschäftsbereich für digitale Transformation mit Fokus auf Industrie 4.0",
-            "Possehl Analytics: ANTS (Analytics Tool Suite) - modulare Plattform für datengetriebene Geschäftsmodelle",
-            "Possehl Digital Services: Predictive Maintenance, MLOps, AI, Cloud-Technologien für industrielle KMU",
-            "Mono Software (Portfoliounternehmen): 180+ Entwickler für Softwareentwicklung"
+            "Possehl Digital Services gegründet",
+            "Mono Software (180+ Entwickler) akquiriert"
           ]
         },
         "combined_score": 0.81
       },
       "financials": {
-        "revenue_estimate": "5.785 Mrd EUR (GJ2023)",
-        "profit_estimate": "81 Mio EUR EBIT (GJ2023)",
+        "revenue_estimate": "5.785 Mrd EUR",
+        "profit_estimate": "81 Mio EUR EBIT",
         "employee_count": 13500,
         "hiring_activity": {
           "general_hiring_score": 0.7,
           "total_job_postings": 109,
-          "hiring_reasoning": "109 offene Stellen auf Indeed, verteilt über diverse Geschäftsbereiche (Elektronik, Bau, Digital, Online Solutions). Aktive Rekrutierung in mehreren Ländern. Possehl Digital und Possehl Secure suchen gezielt IT-/Digital-Fachkräfte. Initiativbewerbungen bei Possehl Digital ausdrücklich erwünscht."
+          "hiring_reasoning": "109 offene Stellen über alle Divisionen, aktives IT/Digital-Recruiting"
         },
         "topic_hiring": {
           "topic_hiring_score": 0.65,
           "relevant_job_postings": 15,
-          "topic_hiring_reasoning": "Possehl Digital und Portfoliounternehmen suchen aktiv in den Bereichen AI, Cybersecurity, Predictive Maintenance, B2B eCommerce und Softwareentwicklung. Keine explizite IoT-Plattform-Stelle gefunden, aber verwandte Positionen bei Possehl Digital Services (Data Analytics, AI, MLOps, Cloud-Infrastruktur) und Mono Software (Softwareentwicklung). Possehl Online Solutions sucht E-Commerce-Entwickler. Schwerpunkt liegt eher auf Build-Kapazität als auf Buy-Entscheidungen.",
+          "topic_hiring_reasoning": "15 relevante Stellen in AI, Data Analytics, MLOps, Cybersecurity; kein explizites IoT-Plattform-Profil aber angrenzende Positionen",
           "example_positions": [
-            "Data Analytics / AI Engineers (Possehl Digital Services)",
-            "Softwareentwickler (Mono Software, 180+ Team)",
-            "Cybersecurity-Spezialisten (Possehl Secure)",
-            "E-Commerce-Entwickler (Possehl Online Solutions)"
+            "Data Analyst",
+            "MLOps Engineer",
+            "Cybersecurity Specialist"
           ]
         },
         "strategic_fit": {
           "size_fit_score": 0.9,
           "financial_health_score": 0.75,
           "pressure_score": 0.6,
-          "strategic_reasoning": "Exzellenter Size-Fit: 5,8 Mrd EUR Umsatz, 13.500 MA, 200+ Industrieunternehmen - idealer Großkunde mit enormem internem IoT-Bedarf über diverse Branchen. Solide Finanzlage mit positivem EBIT, jedoch sinkende Margen (81 Mio EBIT bei 5,8 Mrd Umsatz = ~1,4%). Stiftungsbesitz bietet Stabilität, aber begrenzt Risikobereitschaft. Mittlerer Druck: Possehl investiert bereits stark in Digitalisierung (eigener Geschäftsbereich, Zukäufe, neue Tochtergesellschaften), was auf strategische Dringlichkeit hindeutet. Allerdings baut Possehl auch eigene Kapazitäten auf (Mono Software, Possehl Digital Services), was Eigenentwicklung statt Fremdbezug signalisieren könnte. Chancen bestehen vor allem bei den 200+ dezentralen Portfoliounternehmen, die nicht alle durch Possehl Digital abgedeckt werden."
+          "strategic_reasoning": "Exzellentes Kundenprofil: 5.8 Mrd Umsatz, 200+ Tochtergesellschaften. Baut eigene Digital-Kompetenz auf (Possehl Digital, Mono Software), aber dezentrale Struktur bietet Einstiegspunkte bei nicht voll versorgten Portfolio-Firmen"
         },
         "customer_rating": 0.693,
-        "rating_reasoning": "Exzellenter Size-Fit: 5,8 Mrd EUR Umsatz, 13.500 MA, 200+ Industrieunternehmen - idealer Großkunde mit enormem internem IoT-Bedarf über diverse Branchen. Solide Finanzlage mit positivem EBIT, jedoch sinkende Margen (81 Mio EBIT bei 5,8 Mrd Umsatz = ~1,4%). Stiftungsbesitz bietet Stabilität, aber begrenzt Risikobereitschaft. Mittlerer Druck: Possehl investiert bereits stark in Digitalisierung (eigener Geschäftsbereich, Zukäufe, neue Tochtergesellschaften), was auf strategische Dringlichkeit hindeutet. Allerdings baut Possehl auch eigene Kapazitäten auf (Mono Software, Possehl Digital Services), was Eigenentwicklung statt Fremdbezug signalisieren könnte. Chancen bestehen vor allem bei den 200+ dezentralen Portfoliounternehmen, die nicht alle durch Possehl Digital abgedeckt werden."
+        "rating_reasoning": "Exzellentes Kundenprofil: 5.8 Mrd Umsatz, 200+ Tochtergesellschaften. Baut eigene Digital-Kompetenz auf (Possehl Digital, Mono Software), aber dezentrale Struktur bietet Einstiegspunkte bei nicht voll versorgten Portfolio-Firmen"
       },
       "overall_score": 0.716
     },
