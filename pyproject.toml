@@ -8,10 +8,7 @@ version = "0.1.0"
 description = "Modularer Sales Lead Generator mit autonomen Agenten"
 requires-python = ">=3.11"
 dependencies = [
-    "anthropic>=0.40.0",
     "pydantic>=2.0",
-    "httpx>=0.27",
-    "python-dotenv>=1.0",
 ]
 
 [project.scripts]
