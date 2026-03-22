@@ -3,6 +3,69 @@
   "leads": [
     {
       "company": {
+        "name": "Hapag-Lloyd AG",
+        "website": "hapag-lloyd.com",
+        "address": "Hamburg",
+        "industry": "Container-Reederei / Seetransport",
+        "source": "WebSearch Agent1"
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.85,
+          "activity_reasoning": "Hapag-Lloyd ist hochaktiv: Vorläufige Zahlen 2025 zeigen USD 21.1 Mrd. Umsatz, 8% Transportvolumenwachstum auf 13.5 Mio. TEU. Neues Gemini Network gestartet, Kosteneinsparungen von USD 1.3 Mrd. geplant bis 2027. Investition in bis zu 22 neue Schiffe. WiseTech-IoT-Pilotprojekt im Feb 2026 gestartet. Jahresbericht 2025 erscheint am 26.03.2026.",
+          "recent_news": [
+            "Feb 2026: Vorläufige Geschäftszahlen 2025 - USD 21.1 Mrd. Umsatz, EBITDA USD 3.6 Mrd.",
+            "Feb 2026: WiseTech und Hapag-Lloyd starten IoT Container Tracking Pilot",
+            "2025: Gemini Network gestartet, erste Kosteneinsparungen realisiert, volle Wirkung ab 2026"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT Plattform Entwicklung",
+          "affinity_score": 0.92,
+          "affinity_reasoning": "Hapag-Lloyd ist ein Vorreiter bei IoT im Container-Shipping: 2 Mio. Dry-Container mit IoT-Trackern (Nexxiot, ORBCOMM) ausgestattet. Live Position Plattform für Echtzeit-Tracking und dynamische ETA-Vorhersagen. Feb 2026: Neues IoT-Pilotprojekt mit WiseTech Global zur Integration von Millionen täglicher Datenpunkte. 500+ IT-Mitarbeiter weltweit, eigenes Cloud Platform Team für FIS. Investitionen in AI, ML, IoT, Blockchain, Cloud. Extrem hohe Affinität zu IoT-Plattformentwicklung.",
+          "relevant_news": [
+            "Feb 2026: WiseTech-Hapag-Lloyd IoT-Pilot für next-gen Supply Chain Visibility mit Millionen Datenpunkten täglich",
+            "2 Mio. Container mit IoT-Geräten ausgestattet - Live Position Plattform mit Echtzeit-GPS und dynamischer ETA",
+            "Cloud Platform Team entwickelt zentrale Infrastruktur für Freight Information System (FIS)"
+          ]
+        },
+        "combined_score": 0.892
+      },
+      "financials": {
+        "revenue_estimate": "USD 21.1 Mrd. (EUR 18.6 Mrd.) Umsatz 2025, EBITDA USD 3.6 Mrd., EBIT USD 1.1 Mrd.",
+        "profit_estimate": "EBIT USD 1.1 Mrd. (EUR 1.0 Mrd.) 2025; Frachtratendruck (-8%) aber Kosteneinsparungen durch Gemini Network ab 2026",
+        "employee_count": 16905,
+        "hiring_activity": {
+          "general_hiring_score": 0.7,
+          "total_job_postings": 53,
+          "hiring_reasoning": "Ca. 53 offene Stellen auf Indeed allein für Hamburg. Aktive Suche nach IT-Profilen: Cloud Engineers, Software Developers, DevOps Engineers, Backend Developers, Data Scientists, ML/AI Engineers, IT Architects, UX Designer. 500+ IT-Mitarbeiter global. Regelmäßige Einstellungen im Tech-Bereich, moderate aber stetige Hiring-Aktivität."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.75,
+          "relevant_job_postings": 12,
+          "topic_hiring_reasoning": "Hapag-Lloyd sucht aktiv nach IoT- und Plattform-relevanten Profilen. Cloud Platform Team entwickelt zentrale Infrastruktur. Stellen für Cloud Engineers, Backend Developers, DevOps Engineers, Software Developers im Bereich Freight Information System. ML/AI Engineers und Data Scientists für IoT-Datenverarbeitung. Die IoT-Pilotprojekte (WiseTech, ORBCOMM, Nexxiot) deuten auf weiteren Bedarf an IoT-Plattform-Entwicklung hin.",
+          "example_positions": [
+            "Cloud Engineer (Cloud Platform Team)",
+            "Backend Developer",
+            "DevOps Engineer",
+            "Software Developer (FIS)",
+            "ML/AI Engineer",
+            "Data Scientist"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.8,
+          "financial_health_score": 0.8,
+          "pressure_score": 0.85,
+          "strategic_reasoning": "Size-Fit (0.8): Mit ~17.000 MA und USD 21 Mrd. Umsatz ist Hapag-Lloyd ein Großkonzern - ideal für umfangreiche IoT-Plattformprojekte, aber als Global Player möglicherweise auch auf sehr große Systemintegratoren fokussiert. Financial Health (0.8): Solide Finanzen mit USD 3.6 Mrd. EBITDA, aber Frachtratendruck und hohe Kosten durch Cape-Umleitung belasten. Kosteneinsparungsprogramm von USD 1.3 Mrd. zeigt Kostenbewusstsein. Pressure (0.85): Sehr hoher Digitalisierungsdruck - 2 Mio. IoT-Container erzeugen massive Datenmengen, WiseTech-Pilot zeigt aktiven Bedarf an Plattform-Integration. Geopolitische Unsicherheiten (Suez-Krise) und Wettbewerb erfordern datengetriebene Effizienzsteigerung."
+        },
+        "customer_rating": 0.782,
+        "rating_reasoning": "Size-Fit (0.8): Mit ~17.000 MA und USD 21 Mrd. Umsatz ist Hapag-Lloyd ein Großkonzern - ideal für umfangreiche IoT-Plattformprojekte, aber als Global Player möglicherweise auch auf sehr große Systemintegratoren fokussiert. Financial Health (0.8): Solide Finanzen mit USD 3.6 Mrd. EBITDA, aber Frachtratendruck und hohe Kosten durch Cape-Umleitung belasten. Kosteneinsparungsprogramm von USD 1.3 Mrd. zeigt Kostenbewusstsein. Pressure (0.85): Sehr hoher Digitalisierungsdruck - 2 Mio. IoT-Container erzeugen massive Datenmengen, WiseTech-Pilot zeigt aktiven Bedarf an Plattform-Integration. Geopolitische Unsicherheiten (Suez-Krise) und Wettbewerb erfordern datengetriebene Effizienzsteigerung."
+      },
+      "overall_score": 0.8
+    },
+    {
+      "company": {
         "name": "HHLA",
         "website": "hhla.de",
         "address": "Hamburg",
@@ -64,6 +127,60 @@
         "rating_reasoning": "Size-Fit (0.8): Mit 6.900 MA und 1.76 Mrd Umsatz grosser Mittelstand/Konzern - gute Groesse fuer IoT-Plattformprojekte, ausreichend Budget und Komplexitaet. Financial Health (0.7): Starkes Umsatz- und EBIT-Wachstum, aber Nettogewinn 2025 durch Steuer-Sondereffekte eingebrochen, keine Dividende. Grundsaetzlich solide, aber kurzfristige Ergebnisbelastung. Pressure (0.85): Hoher Digitalisierungsdruck durch MSC-Integration, Automatisierung der Terminals, Wettbewerb mit anderen europaeischen Haefen, US-Handelspolitik-Unsicherheiten und laufende Supply-Chain-Disruptions. Umfangreiche Modernisierungsmassnahmen bereits eingeleitet."
       },
       "overall_score": 0.79
+    },
+    {
+      "company": {
+        "name": "Aurubis AG",
+        "website": "aurubis.com",
+        "address": "Hamburg",
+        "industry": "Kupferproduktion / Metallverarbeitung",
+        "source": "WebSearch Agent1"
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.9,
+          "activity_reasoning": "Aurubis hat die Gesamtjahresprognose 2025/26 auf 375-475 Mio EUR operatives EBT angehoben. Q1 2025/26 Umsatz +25% auf 5,3 Mrd EUR. Netto-Cashflow im GJ 2024/25 auf 677 Mio EUR (+30%). Dividende um 7% erhoeht. Investitionsprogramm von 1,7 Mrd EUR zu 80% umgesetzt. Neue Werke in Richmond (USA) und Bulgarien in Betrieb/Erweiterung. MDAX-gelistet, Aktie bei 78,50 EUR. Sehr solide finanzielle Gesundheit mit klarer Wachstumsstrategie.",
+          "recent_news": [
+            "Jan 2026: Prognoseanhebung operatives EBT auf 375-475 Mio EUR. Q1 2025/26 Umsatz 5,3 Mrd EUR (+25%). Aurubis Richmond (USA) seit Jan 2026 in Betrieb (800 Mio USD Investition). Complex Recycling Hamburg Inbetriebnahme H1 2026. Bulgarien-Elektrolyse-Erweiterung +50% Kapazitaet in H2 2026. Dividende auf 1,60 EUR/Aktie erhoeht."
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT Plattform Entwicklung",
+          "affinity_score": 0.95,
+          "affinity_reasoning": "Aurubis hat 2020 die IoT-Firma azeti GmbH (Berlin, ~20 MA) uebernommen, die eine Industrial-IoT-Plattform entwickelt. Aurubis betreibt aktiv eine Digital Factory Initiative zur Vernetzung der gesamten Produktion. Konkrete Use Cases: Predictive Maintenance am Anoden-Giessrad, Stromprognose, Monitoring kritischer Anlagenparameter. Edge-Computing via azeti SiteController mit Cloud-Backend. Digitalisierung ist erklaerter zentraler Bestandteil der Unternehmensstrategie. Eigene IT-Jobs-Plattform (it-jobs.aurubis.com). Hoechste Affinitaet - Aurubis ist bereits aktiver IoT-Plattform-Nutzer und -Entwickler.",
+          "relevant_news": [
+            "azeti GmbH als IoT-Tochter in Berlin aktiv. Digital Factory vernetzt Produktionsanlagen konzernweit. Predictive Maintenance und Echtzeit-Monitoring im Einsatz. Stellenausschreibung Ingenieur Digitalisierung in Hamburg."
+          ]
+        },
+        "combined_score": 0.93
+      },
+      "financials": {
+        "revenue_estimate": "18,39 Mrd EUR (GJ 2024/25); Q1 2025/26: 5,3 Mrd EUR (+25% YoY)",
+        "profit_estimate": "Operatives EBT GJ 2024/25: 355 Mio EUR; Prognose GJ 2025/26: 375-475 Mio EUR; Netto-Cashflow 677 Mio EUR",
+        "employee_count": 7228,
+        "hiring_activity": {
+          "general_hiring_score": 0.7,
+          "total_job_postings": 271,
+          "hiring_reasoning": "271 Stellenangebote allein am Standort Hamburg (Jobijoba). 107 Jobs auf LinkedIn weltweit. Eigene IT-Jobs-Plattform (it-jobs.aurubis.com). Schwerpunkt auf Anlagenmechanikern, Elektronikern, Ingenieuren. Neues Headquarter Aurubis Dock in der HafenCity ab Mitte 2026. Aktive Rekrutierung in technischen und digitalen Bereichen."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.7,
+          "relevant_job_postings": 15,
+          "topic_hiring_reasoning": "Aurubis betreibt eigene IT-Jobs-Plattform mit Motto Metal meets IT. Stellenangebote wie Ingenieur im Bereich Digitalisierung in Hamburg. azeti GmbH in Berlin als IoT-Tochter stellt eigenstaendig Software-Entwickler ein. Da Aurubis eigene IoT-Kompetenz ueber azeti aufbaut, besteht sowohl Eigenbedarf als auch Potenzial fuer externe Plattform-Entwicklungspartner bei der Skalierung auf neue Standorte (Richmond, Bulgarien).",
+          "example_positions": [
+            "Ingenieur Digitalisierung (Hamburg), Software-Entwickler azeti (Berlin), IT-Projektmanager, Data Engineer, SAP-Berater, Automatisierungstechniker"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.8,
+          "financial_health_score": 0.9,
+          "pressure_score": 0.7,
+          "strategic_reasoning": "Size-Fit (0.8): MDAX-Unternehmen mit 7.228 MA und 18 Mrd EUR Umsatz - gross genug fuer signifikante IoT-Projekte, aber als Mittelstaendler noch zugaenglich. Financial Health (0.9): Starker Cashflow (677 Mio EUR), Prognoseanhebung, Dividenderhoehung, 1,7 Mrd EUR Investitionsprogramm - exzellente Finanzbasis. Pressure (0.7): Globaler Wettbewerb, steigende Energiekosten, Nachhaltigkeitsanforderungen und Notwendigkeit neue Standorte effizient zu digitalisieren. Aurubis hat mit azeti bereits eigene IoT-Kompetenz - Chance liegt in Skalierung und Ergaenzung."
+        },
+        "customer_rating": 0.72,
+        "rating_reasoning": "Size-Fit (0.8): MDAX-Unternehmen mit 7.228 MA und 18 Mrd EUR Umsatz - gross genug fuer signifikante IoT-Projekte, aber als Mittelstaendler noch zugaenglich. Financial Health (0.9): Starker Cashflow (677 Mio EUR), Prognoseanhebung, Dividenderhoehung, 1,7 Mrd EUR Investitionsprogramm - exzellente Finanzbasis. Pressure (0.7): Globaler Wettbewerb, steigende Energiekosten, Nachhaltigkeitsanforderungen und Notwendigkeit neue Standorte effizient zu digitalisieren. Aurubis hat mit azeti bereits eigene IoT-Kompetenz - Chance liegt in Skalierung und Ergaenzung."
+      },
+      "overall_score": 0.78
     },
     {
       "company": {
@@ -608,6 +725,178 @@
     },
     {
       "company": {
+        "name": "Hamburger Hochbahn AG",
+        "website": "hochbahn.de",
+        "address": "Hamburg",
+        "industry": "ÖPNV / Mobilität",
+        "source": "WebSearch Agent1"
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.9,
+          "activity_reasoning": "AAA-rated by Fitch (stable outlook). Massive infrastructure investments: U4 extension, U3 renovation, U5 autonomous metro (2033), new e-bus depots. Revenue growth ~4% avg. 6,645 employees growing (+316 in 2023). City-owned with guaranteed public funding. Equity EUR 167.4M. Tariff negotiations show healthy wage growth (17-19% since 2023 for drivers).",
+          "recent_news": [
+            "U5 autonomous metro under construction (Bramfeld-Borgweg, completion 2033). U4 extension on schedule. U3 Mundsburg bridge renovation May-Jul 2026. First pure electric bus depot completing late summer 2026 (130 e-buses). Second depot Langenfelde (200 e-buses) by 2028. U-Bahn100 train control modernization starting March 2026. Fitch AAA rating affirmed. Tariff negotiations 2026 ongoing with ver.di. ALIKE autonomous ridepooling project (EUR 26M federal funding) with VW/MOIA/Holon."
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT Plattform Entwicklung",
+          "affinity_score": 0.8,
+          "affinity_reasoning": "High affinity: HOCHBAHN actively builds digital platforms (MOSAIC mobility platform, hvv switch/hvv Any apps). Runs ALIKE autonomous driving project (20 shuttles, fleet management for mixed autonomous vehicles). New subsidiary New Mobility Solutions Hamburg GmbH for digital mobility. IT/OT architecture modernization underway (private cloud, SAP S/4HANA migration). BIM for U5 construction. Train control digitalization (U-Bahn100, GoA2 automation). However, no explicit IoT platform procurement advertised - most digital work done in-house or with established partners (Microsoft Azure/O365).",
+          "relevant_news": [
+            "MOSAIC digital mobility platform under active development (backend for hvv switch app). ALIKE project: autonomous ridepooling with Holon Mover and VW ID.Buzz AD, EUR 26M federal funding. New Mobility Solutions Hamburg GmbH founded for digital mobility innovation. SAP S/4HANA migration in progress. U-Bahn100 digital train control system rollout. hvv Any pilot: automated check-in/check-out fare calculation. IT/OT architect position open, focus on private cloud and infrastructure security."
+          ]
+        },
+        "combined_score": 0.84
+      },
+      "financials": {
+        "revenue_estimate": "EUR 500-900M (estimated, exact figure not publicly disclosed; 53% from fares, remainder from public subsidies)",
+        "profit_estimate": null,
+        "employee_count": 6645,
+        "hiring_activity": {
+          "general_hiring_score": 0.7,
+          "total_job_postings": 35,
+          "hiring_reasoning": "Active hiring across multiple domains. Stepstone shows 13-22 active postings, LinkedIn ~16, Glassdoor 13. Over 100 different job types at company. Growing workforce (+316 employees in 2023 to 6,645). Recruiting for IT, engineering, operations, and administrative roles. Dedicated IT career page indicates sustained tech hiring."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.6,
+          "relevant_job_postings": 5,
+          "topic_hiring_reasoning": "Several directly relevant positions: IT/OT-Architekt (cloud, IT/OT infrastructure, security), Software Engineer (MOSAIC platform, hvv switch backend), Werkstudent Digitalisierung & Data Science, Elektroniker Systemtechnik (digital train control systems). Stepstone lists 6 software developer positions. No explicit IoT platform developer role, but strong adjacent hiring in digital platforms, OT systems, and data science.",
+          "example_positions": [
+            "IT/OT-Architekt*in (private Cloud, IT/OT-Infrastruktur)",
+            "Software Engineer (MOSAIC Plattform, hvv switch Backend)",
+            "Werkstudent*in Digitalisierung & Data Science",
+            "Elektroniker*in Systemtechnik (digitale Leit-/Zugsicherungstechnik)",
+            "Systems Engineer (Jira, Python, Monitoring)"
+          ]
+        },
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.645
+    },
+    {
+      "company": {
+        "name": "Eppendorf SE",
+        "website": "eppendorf.com",
+        "address": "Hamburg",
+        "industry": "Labortechnik / Life Sciences",
+        "source": "WebSearch Agent1"
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.55,
+          "activity_reasoning": "Eppendorf ist aktiv am Markt mit Produktneuheiten (BioBased Consumables, neue Pipetten-Generation 2026), Partnerschaften (eLabNext, Clustermarket) und kontinuierlicher Weiterentwicklung der VisioNize IoT-Plattform. Allerdings war 2024 eines der schwierigsten Geschaeftsjahre: Umsatzrueckgang von 9,1% auf 980 Mio EUR, EBIT-Marge von 10,8% auf 4,0% gefallen. Geopolitische Krisen und Preiserhoehungen belasten. Fuer 2025 erwartet Stabilisierung.",
+          "recent_news": [
+            "Umsatz 2024: 980,3 Mio EUR (-9,1%), EBIT-Marge nur 4,0%",
+            "Neue Pipetten-Generation und BioBased Consumables 2026 gelauncht",
+            "Partnerschaft mit eLabNext und Clustermarket fuer Connected Lab"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT Plattform Entwicklung",
+          "affinity_score": 0.9,
+          "affinity_reasoning": "Eppendorf betreibt bereits eine eigene IoT-Plattform: VisioNize Lab Suite - eine cloud-basierte IoT-Loesung fuer Digital Lab Management auf AWS. Hardware-Hub VisioNize Box 2 verbindet Eppendorf- und Drittanbieter-Geraete. Aktuell suchen sie DevOps/Platform Engineers fuer die IoT-Plattform. Die Digitalisierung des Labors ist eine erklaerte Kernstrategie. Sehr hohe Affinitaet zu IoT-Plattform-Entwicklung, da sie diese aktiv ausbauen.",
+          "relevant_news": [
+            "VisioNize Lab Suite: Cloud-basierte IoT-Plattform fuer Laborgeraete-Management auf AWS",
+            "VisioNize Box 2: Hardware-Hub zur Anbindung von Eppendorf- und Drittanbieter-Geraeten",
+            "Aktive Stellenausschreibung: DevOps/Platform Engineer fuer IoT-Plattform auf AWS"
+          ]
+        },
+        "combined_score": 0.76
+      },
+      "financials": {
+        "revenue_estimate": "980 Mio EUR (2024), Vorjahr 1.078 Mio EUR, EBIT 39,4 Mio EUR, EBIT-Marge 4,0%",
+        "profit_estimate": "39,4 Mio EUR EBIT (2024)",
+        "employee_count": 5000,
+        "hiring_activity": {
+          "general_hiring_score": 0.3,
+          "total_job_postings": 38,
+          "hiring_reasoning": "Nur 38 offene Stellen weltweit, davon ca. 25 in Deutschland und 9 in Hamburg. Fuer ein Unternehmen mit 5000 Mitarbeitern ist das eine sehr niedrige Hiring-Aktivitaet. Deutet auf Sparmaßnahmen nach den schwierigen Jahren 2023/2024 hin. Begrenztes Wachstum derzeit."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.7,
+          "relevant_job_postings": 3,
+          "topic_hiring_reasoning": "Trotz geringer Gesamtzahl an Stellen gibt es gezielte IoT/Software-relevante Positionen: DevOps/Platform Engineer fuer IoT-Plattform auf AWS, Software Engineer Embedded Systems, sowie weitere IT-Stellen (5 IT-Stellen insgesamt). Der DevOps/Platform Engineer Job beschreibt explizit Arbeit an der IoT-Plattform im Life-Science-Kontext. Das zeigt aktiven Bedarf an Plattform-Entwicklung.",
+          "example_positions": [
+            "DevOps / Platform Engineer (IoT-Plattform AWS)",
+            "Software Engineer Embedded Systems",
+            "SAP Basis Administration"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.8,
+          "financial_health_score": 0.35,
+          "pressure_score": 0.75,
+          "strategic_reasoning": "Size-Fit (0.8): Mit ca. 5000 MA und 980 Mio EUR Umsatz ist Eppendorf ein idealer Mittelstandskunde - gross genug fuer signifikante IoT-Projekte, aber nicht so gross dass nur Enterprise-Anbieter in Frage kommen. Financial-Health (0.35): Stark ruecklaeufiger Umsatz (von 1,23 Mrd auf 980 Mio in 2 Jahren), EBIT-Marge nur noch 4%, eines der schwierigsten Geschaeftsjahre. Budget fuer externe Dienstleister koennte eingeschraenkt sein. Pressure (0.75): Hoher Digitalisierungsdruck im Lab-Markt, Wettbewerber treiben Connected Lab voran. Eppendorf muss VisioNize-Plattform weiterentwickeln um wettbewerbsfaehig zu bleiben, hat aber intern begrenzte Ressourcen (nur 38 Stellen offen, wenig Neueinstellungen)."
+        },
+        "customer_rating": 0.675,
+        "rating_reasoning": "Size-Fit (0.8): Mit ca. 5000 MA und 980 Mio EUR Umsatz ist Eppendorf ein idealer Mittelstandskunde - gross genug fuer signifikante IoT-Projekte, aber nicht so gross dass nur Enterprise-Anbieter in Frage kommen. Financial-Health (0.35): Stark ruecklaeufiger Umsatz (von 1,23 Mrd auf 980 Mio in 2 Jahren), EBIT-Marge nur noch 4%, eines der schwierigsten Geschaeftsjahre. Budget fuer externe Dienstleister koennte eingeschraenkt sein. Pressure (0.75): Hoher Digitalisierungsdruck im Lab-Markt, Wettbewerber treiben Connected Lab voran. Eppendorf muss VisioNize-Plattform weiterentwickeln um wettbewerbsfaehig zu bleiben, hat aber intern begrenzte Ressourcen (nur 38 Stellen offen, wenig Neueinstellungen)."
+      },
+      "overall_score": 0.644
+    },
+    {
+      "company": {
+        "name": "Pfannenberg GmbH",
+        "website": "pfannenberg.com",
+        "address": "Hamburg",
+        "industry": "Klimatisierung / Signaltechnik",
+        "source": "WebSearch Agent1"
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.85,
+          "activity_reasoning": "Sehr aktives Unternehmen: 'One Pfannenberg' globale Strategie-Initiative (März 2026), neuer CFO Dr. Maximilian Müller mit Digital-Transformation-Expertise, F-Gas Compliance Website (Jan 2026), neue Green Series Produkte (2025), Nachhaltigkeitsbericht 2024 veröffentlicht, Expansion im Bereich Datacenter Cooling und Batterie-Kühlung. Hidden Champion Ranking #2084 in Deutschland, Mittelstand-Ranking #1384.",
+          "recent_news": [
+            "One Pfannenberg Initiative März 2026: Vereinheitlichung globaler Teams, Engineering, Fertigung und digitaler Fähigkeiten",
+            "Neuer CFO Dr. Maximilian Müller mit Expertise in Digital Transformation (2025)",
+            "Neue Green Series DTS/DTI 6201C/6301C Kompakt-Kühlgeräte lanciert (April 2025)",
+            "Datacenter-Cooling-Expansion und Batterie-Kühlprodukte VLV 4-12, DMC 8.0 (2025)"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT Plattform Entwicklung",
+          "affinity_score": 0.9,
+          "affinity_reasoning": "Pfannenberg ist ein Vorreiter in IoT/Industrie 4.0 im Mittelstand: Cool X Produktlinie sendet Sensordaten an IoT-Cloud (Deutsche Telekom Cloud der Dinge), Modbus-Integration für Maschinensteuerung, GSM-basierte autonome Konnektivität. Drei digitale Geschäftsmodelle bereits etabliert: Condition Monitoring, Maintenance+ (Predictive Maintenance), und datenbasierte Services. CTO Nils-Peter Halm treibt Digitalisierung aktiv voran. 'One Pfannenberg' vereint explizit digitale Fähigkeiten. Neuer CFO bringt Digital-Transformation-Expertise. Hohe strategische Affinität zu IoT-Plattform-Entwicklung.",
+          "relevant_news": [
+            "Cool X Serie: IoT-vernetzte Kühlgeräte mit Cloud-Anbindung (Telekom Cloud der Dinge) für Condition Monitoring und Predictive Maintenance",
+            "Drei digitale Geschäftsmodelle: Condition Monitoring, Maintenance+, datenbasierte Services auf Basis von Sensordaten",
+            "One Pfannenberg 2026: Explizite Vereinheitlichung digitaler Fähigkeiten als strategisches Ziel"
+          ]
+        },
+        "combined_score": 0.88
+      },
+      "financials": {
+        "revenue_estimate": "ca. 80-100 Mio EUR (Gruppenebene geschätzt; Holding-Bilanz 2022: 20 Mio EUR, Owler: 40.7 Mio USD für Teilentität; Mittelstand-Ranking #1384 deutet auf höheren Gruppenumsatz hin)",
+        "profit_estimate": null,
+        "employee_count": 500,
+        "hiring_activity": {
+          "general_hiring_score": 0.6,
+          "total_job_postings": 15,
+          "hiring_reasoning": "Moderate Hiring-Aktivität: 15 offene Stellen auf Indeed Hamburg, 13 auf karriere-hamburg.de, 4 auf Glassdoor. Für ein Unternehmen mit ~500 Mitarbeitern ist dies eine solide, aber nicht überdurchschnittliche Einstellungsaktivität. Schwerpunkt liegt auf Produktionsmitarbeitern und Fachkräften. Unternehmen zeigt kontinuierliches Wachstum, aber kein explosives Hiring."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.25,
+          "relevant_job_postings": 0,
+          "topic_hiring_reasoning": "Keine spezifischen IoT-, Software-Entwicklungs- oder Digital-Stellen in aktuellen Ausschreibungen gefunden. Stellenangebote fokussieren sich auf Produktion, Fachkräfte und allgemeine Positionen. Dies könnte bedeuten, dass Pfannenberg IoT/Software-Entwicklung extern vergibt oder bestehende Teams ausreichend besetzt sind -- beides spricht FÜR externen IoT-Dienstleistungsbedarf. Die fehlenden internen Digital-Stellen bei gleichzeitig starker IoT-Strategie deuten auf Outsourcing-Potenzial hin.",
+          "example_positions": [
+            "Keine IoT/Software-relevanten Stellen gefunden"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.9,
+          "financial_health_score": 0.75,
+          "pressure_score": 0.8,
+          "strategic_reasoning": "Size Fit (0.9): Idealer Mittelstands-Kunde mit ~500 MA -- gross genug für signifikante IoT-Projekte, aber zu klein für eigene grosse Software-Abteilung. Hidden Champion mit internationalem Footprint (12 Länder). Financial Health (0.75): Stabil als Familienunternehmen seit 1954, kontinuierliche Produktentwicklung, Bilanzwachstum +3.6%, aber keine öffentlichen Detaildaten. Mittelstand-Ranking #1384 spricht für solide Finanzen. Pressure (0.8): Hoher Digitalisierungsdruck durch Industrie 4.0 Anforderungen, F-Gas Regulierung erfordert Produktumstellung, Datacenter-Boom und Batterie-Kühlung eröffnen neue Märkte. One Pfannenberg Initiative zeigt internen Transformationsdruck. Wettbewerb durch grosse Industriekonzerne erfordert digitale Differenzierung."
+        },
+        "customer_rating": 0.598,
+        "rating_reasoning": "Size Fit (0.9): Idealer Mittelstands-Kunde mit ~500 MA -- gross genug für signifikante IoT-Projekte, aber zu klein für eigene grosse Software-Abteilung. Hidden Champion mit internationalem Footprint (12 Länder). Financial Health (0.75): Stabil als Familienunternehmen seit 1954, kontinuierliche Produktentwicklung, Bilanzwachstum +3.6%, aber keine öffentlichen Detaildaten. Mittelstand-Ranking #1384 spricht für solide Finanzen. Pressure (0.8): Hoher Digitalisierungsdruck durch Industrie 4.0 Anforderungen, F-Gas Regulierung erfordert Produktumstellung, Datacenter-Boom und Batterie-Kühlung eröffnen neue Märkte. One Pfannenberg Initiative zeigt internen Transformationsdruck. Wettbewerb durch grosse Industriekonzerne erfordert digitale Differenzierung."
+      },
+      "overall_score": 0.629
+    },
+    {
+      "company": {
         "name": "tesa SE",
         "website": "tesa.com",
         "address": "Norderstedt",
@@ -826,188 +1115,16 @@
             "Qualitaetsingenieur Operations"
           ]
         },
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": 0.382
-    },
-    {
-      "company": {
-        "name": "Eppendorf SE",
-        "website": "eppendorf.com",
-        "address": "Hamburg",
-        "industry": "Labortechnik / Life Sciences",
-        "source": "WebSearch Agent1"
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.55,
-          "activity_reasoning": "Eppendorf ist aktiv am Markt mit Produktneuheiten (BioBased Consumables, neue Pipetten-Generation 2026), Partnerschaften (eLabNext, Clustermarket) und kontinuierlicher Weiterentwicklung der VisioNize IoT-Plattform. Allerdings war 2024 eines der schwierigsten Geschaeftsjahre: Umsatzrueckgang von 9,1% auf 980 Mio EUR, EBIT-Marge von 10,8% auf 4,0% gefallen. Geopolitische Krisen und Preiserhoehungen belasten. Fuer 2025 erwartet Stabilisierung.",
-          "recent_news": [
-            "Umsatz 2024: 980,3 Mio EUR (-9,1%), EBIT-Marge nur 4,0%",
-            "Neue Pipetten-Generation und BioBased Consumables 2026 gelauncht",
-            "Partnerschaft mit eLabNext und Clustermarket fuer Connected Lab"
-          ]
-        },
-        "topic_affinity": {
-          "topic": "IoT Plattform Entwicklung",
-          "affinity_score": 0.9,
-          "affinity_reasoning": "Eppendorf betreibt bereits eine eigene IoT-Plattform: VisioNize Lab Suite - eine cloud-basierte IoT-Loesung fuer Digital Lab Management auf AWS. Hardware-Hub VisioNize Box 2 verbindet Eppendorf- und Drittanbieter-Geraete. Aktuell suchen sie DevOps/Platform Engineers fuer die IoT-Plattform. Die Digitalisierung des Labors ist eine erklaerte Kernstrategie. Sehr hohe Affinitaet zu IoT-Plattform-Entwicklung, da sie diese aktiv ausbauen.",
-          "relevant_news": [
-            "VisioNize Lab Suite: Cloud-basierte IoT-Plattform fuer Laborgeraete-Management auf AWS",
-            "VisioNize Box 2: Hardware-Hub zur Anbindung von Eppendorf- und Drittanbieter-Geraeten",
-            "Aktive Stellenausschreibung: DevOps/Platform Engineer fuer IoT-Plattform auf AWS"
-          ]
-        },
-        "combined_score": 0.76
-      },
-      "financials": {
-        "revenue_estimate": "980 Mio EUR (2024), Vorjahr 1.078 Mio EUR, EBIT 39,4 Mio EUR, EBIT-Marge 4,0%",
-        "profit_estimate": "39,4 Mio EUR EBIT (2024)",
-        "employee_count": 5000,
-        "hiring_activity": {
-          "general_hiring_score": 0.3,
-          "total_job_postings": 38,
-          "hiring_reasoning": "Nur 38 offene Stellen weltweit, davon ca. 25 in Deutschland und 9 in Hamburg. Fuer ein Unternehmen mit 5000 Mitarbeitern ist das eine sehr niedrige Hiring-Aktivitaet. Deutet auf Sparmaßnahmen nach den schwierigen Jahren 2023/2024 hin. Begrenztes Wachstum derzeit."
-        },
-        "topic_hiring": {
-          "topic_hiring_score": 0.7,
-          "relevant_job_postings": 3,
-          "topic_hiring_reasoning": "Trotz geringer Gesamtzahl an Stellen gibt es gezielte IoT/Software-relevante Positionen: DevOps/Platform Engineer fuer IoT-Plattform auf AWS, Software Engineer Embedded Systems, sowie weitere IT-Stellen (5 IT-Stellen insgesamt). Der DevOps/Platform Engineer Job beschreibt explizit Arbeit an der IoT-Plattform im Life-Science-Kontext. Das zeigt aktiven Bedarf an Plattform-Entwicklung.",
-          "example_positions": [
-            "DevOps / Platform Engineer (IoT-Plattform AWS)",
-            "Software Engineer Embedded Systems",
-            "SAP Basis Administration"
-          ]
-        },
         "strategic_fit": {
-          "size_fit_score": 0.8,
-          "financial_health_score": 0.35,
-          "pressure_score": 0.75,
-          "strategic_reasoning": "Size-Fit (0.8): Mit ca. 5000 MA und 980 Mio EUR Umsatz ist Eppendorf ein idealer Mittelstandskunde - gross genug fuer signifikante IoT-Projekte, aber nicht so gross dass nur Enterprise-Anbieter in Frage kommen. Financial-Health (0.35): Stark ruecklaeufiger Umsatz (von 1,23 Mrd auf 980 Mio in 2 Jahren), EBIT-Marge nur noch 4%, eines der schwierigsten Geschaeftsjahre. Budget fuer externe Dienstleister koennte eingeschraenkt sein. Pressure (0.75): Hoher Digitalisierungsdruck im Lab-Markt, Wettbewerber treiben Connected Lab voran. Eppendorf muss VisioNize-Plattform weiterentwickeln um wettbewerbsfaehig zu bleiben, hat aber intern begrenzte Ressourcen (nur 38 Stellen offen, wenig Neueinstellungen)."
+          "size_fit_score": 0.4,
+          "financial_health_score": 0.8,
+          "pressure_score": 0.45,
+          "strategic_reasoning": "STILL/KION ist ein Grosskonzern (9000+ MA bei STILL, 42000+ bei KION) mit eigener IoT-Tochter (KION IoT Systems). Finanziell sehr gesund (11,3 Mrd Konzernumsatz). Size-Fit niedrig, da eigene IoT-Kompetenz vorhanden und Entscheidungen auf Konzernebene. Mittlerer Digitalisierungsdruck durch Wettbewerb (Toyota Industries, Jungheinrich) und regulatorische Anforderungen (Cyber Resilience Act). Externer IoT-Bedarf begrenzt durch internes KION IoT Systems Team, aber Skalierungsbedarf und Spezialprojekte moeglich."
         },
-        "customer_rating": 0.675,
-        "rating_reasoning": "Size-Fit (0.8): Mit ca. 5000 MA und 980 Mio EUR Umsatz ist Eppendorf ein idealer Mittelstandskunde - gross genug fuer signifikante IoT-Projekte, aber nicht so gross dass nur Enterprise-Anbieter in Frage kommen. Financial-Health (0.35): Stark ruecklaeufiger Umsatz (von 1,23 Mrd auf 980 Mio in 2 Jahren), EBIT-Marge nur noch 4%, eines der schwierigsten Geschaeftsjahre. Budget fuer externe Dienstleister koennte eingeschraenkt sein. Pressure (0.75): Hoher Digitalisierungsdruck im Lab-Markt, Wettbewerber treiben Connected Lab voran. Eppendorf muss VisioNize-Plattform weiterentwickeln um wettbewerbsfaehig zu bleiben, hat aber intern begrenzte Ressourcen (nur 38 Stellen offen, wenig Neueinstellungen)."
+        "customer_rating": 0.388,
+        "rating_reasoning": "STILL/KION ist ein Grosskonzern (9000+ MA bei STILL, 42000+ bei KION) mit eigener IoT-Tochter (KION IoT Systems). Finanziell sehr gesund (11,3 Mrd Konzernumsatz). Size-Fit niedrig, da eigene IoT-Kompetenz vorhanden und Entscheidungen auf Konzernebene. Mittlerer Digitalisierungsdruck durch Wettbewerb (Toyota Industries, Jungheinrich) und regulatorische Anforderungen (Cyber Resilience Act). Externer IoT-Bedarf begrenzt durch internes KION IoT Systems Team, aber Skalierungsbedarf und Spezialprojekte moeglich."
       },
-      "overall_score": 0.38
-    },
-    {
-      "company": {
-        "name": "Hapag-Lloyd AG",
-        "website": "hapag-lloyd.com",
-        "address": "Hamburg",
-        "industry": "Container-Reederei / Seetransport",
-        "source": "WebSearch Agent1"
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.85,
-          "activity_reasoning": "Hapag-Lloyd ist hochaktiv: Vorläufige Zahlen 2025 zeigen USD 21.1 Mrd. Umsatz, 8% Transportvolumenwachstum auf 13.5 Mio. TEU. Neues Gemini Network gestartet, Kosteneinsparungen von USD 1.3 Mrd. geplant bis 2027. Investition in bis zu 22 neue Schiffe. WiseTech-IoT-Pilotprojekt im Feb 2026 gestartet. Jahresbericht 2025 erscheint am 26.03.2026.",
-          "recent_news": [
-            "Feb 2026: Vorläufige Geschäftszahlen 2025 - USD 21.1 Mrd. Umsatz, EBITDA USD 3.6 Mrd.",
-            "Feb 2026: WiseTech und Hapag-Lloyd starten IoT Container Tracking Pilot",
-            "2025: Gemini Network gestartet, erste Kosteneinsparungen realisiert, volle Wirkung ab 2026"
-          ]
-        },
-        "topic_affinity": {
-          "topic": "IoT Plattform Entwicklung",
-          "affinity_score": 0.92,
-          "affinity_reasoning": "Hapag-Lloyd ist ein Vorreiter bei IoT im Container-Shipping: 2 Mio. Dry-Container mit IoT-Trackern (Nexxiot, ORBCOMM) ausgestattet. Live Position Plattform für Echtzeit-Tracking und dynamische ETA-Vorhersagen. Feb 2026: Neues IoT-Pilotprojekt mit WiseTech Global zur Integration von Millionen täglicher Datenpunkte. 500+ IT-Mitarbeiter weltweit, eigenes Cloud Platform Team für FIS. Investitionen in AI, ML, IoT, Blockchain, Cloud. Extrem hohe Affinität zu IoT-Plattformentwicklung.",
-          "relevant_news": [
-            "Feb 2026: WiseTech-Hapag-Lloyd IoT-Pilot für next-gen Supply Chain Visibility mit Millionen Datenpunkten täglich",
-            "2 Mio. Container mit IoT-Geräten ausgestattet - Live Position Plattform mit Echtzeit-GPS und dynamischer ETA",
-            "Cloud Platform Team entwickelt zentrale Infrastruktur für Freight Information System (FIS)"
-          ]
-        },
-        "combined_score": 0.892
-      },
-      "financials": {
-        "revenue_estimate": "USD 21.1 Mrd. (EUR 18.6 Mrd.) Umsatz 2025, EBITDA USD 3.6 Mrd., EBIT USD 1.1 Mrd.",
-        "profit_estimate": "EBIT USD 1.1 Mrd. (EUR 1.0 Mrd.) 2025; Frachtratendruck (-8%) aber Kosteneinsparungen durch Gemini Network ab 2026",
-        "employee_count": 16905,
-        "hiring_activity": {
-          "general_hiring_score": 0.7,
-          "total_job_postings": 53,
-          "hiring_reasoning": "Ca. 53 offene Stellen auf Indeed allein für Hamburg. Aktive Suche nach IT-Profilen: Cloud Engineers, Software Developers, DevOps Engineers, Backend Developers, Data Scientists, ML/AI Engineers, IT Architects, UX Designer. 500+ IT-Mitarbeiter global. Regelmäßige Einstellungen im Tech-Bereich, moderate aber stetige Hiring-Aktivität."
-        },
-        "topic_hiring": {
-          "topic_hiring_score": 0.75,
-          "relevant_job_postings": 12,
-          "topic_hiring_reasoning": "Hapag-Lloyd sucht aktiv nach IoT- und Plattform-relevanten Profilen. Cloud Platform Team entwickelt zentrale Infrastruktur. Stellen für Cloud Engineers, Backend Developers, DevOps Engineers, Software Developers im Bereich Freight Information System. ML/AI Engineers und Data Scientists für IoT-Datenverarbeitung. Die IoT-Pilotprojekte (WiseTech, ORBCOMM, Nexxiot) deuten auf weiteren Bedarf an IoT-Plattform-Entwicklung hin.",
-          "example_positions": [
-            "Cloud Engineer (Cloud Platform Team)",
-            "Backend Developer",
-            "DevOps Engineer",
-            "Software Developer (FIS)",
-            "ML/AI Engineer",
-            "Data Scientist"
-          ]
-        },
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": 0.373
-    },
-    {
-      "company": {
-        "name": "Pfannenberg GmbH",
-        "website": "pfannenberg.com",
-        "address": "Hamburg",
-        "industry": "Klimatisierung / Signaltechnik",
-        "source": "WebSearch Agent1"
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.85,
-          "activity_reasoning": "Sehr aktives Unternehmen: 'One Pfannenberg' globale Strategie-Initiative (März 2026), neuer CFO Dr. Maximilian Müller mit Digital-Transformation-Expertise, F-Gas Compliance Website (Jan 2026), neue Green Series Produkte (2025), Nachhaltigkeitsbericht 2024 veröffentlicht, Expansion im Bereich Datacenter Cooling und Batterie-Kühlung. Hidden Champion Ranking #2084 in Deutschland, Mittelstand-Ranking #1384.",
-          "recent_news": [
-            "One Pfannenberg Initiative März 2026: Vereinheitlichung globaler Teams, Engineering, Fertigung und digitaler Fähigkeiten",
-            "Neuer CFO Dr. Maximilian Müller mit Expertise in Digital Transformation (2025)",
-            "Neue Green Series DTS/DTI 6201C/6301C Kompakt-Kühlgeräte lanciert (April 2025)",
-            "Datacenter-Cooling-Expansion und Batterie-Kühlprodukte VLV 4-12, DMC 8.0 (2025)"
-          ]
-        },
-        "topic_affinity": {
-          "topic": "IoT Plattform Entwicklung",
-          "affinity_score": 0.9,
-          "affinity_reasoning": "Pfannenberg ist ein Vorreiter in IoT/Industrie 4.0 im Mittelstand: Cool X Produktlinie sendet Sensordaten an IoT-Cloud (Deutsche Telekom Cloud der Dinge), Modbus-Integration für Maschinensteuerung, GSM-basierte autonome Konnektivität. Drei digitale Geschäftsmodelle bereits etabliert: Condition Monitoring, Maintenance+ (Predictive Maintenance), und datenbasierte Services. CTO Nils-Peter Halm treibt Digitalisierung aktiv voran. 'One Pfannenberg' vereint explizit digitale Fähigkeiten. Neuer CFO bringt Digital-Transformation-Expertise. Hohe strategische Affinität zu IoT-Plattform-Entwicklung.",
-          "relevant_news": [
-            "Cool X Serie: IoT-vernetzte Kühlgeräte mit Cloud-Anbindung (Telekom Cloud der Dinge) für Condition Monitoring und Predictive Maintenance",
-            "Drei digitale Geschäftsmodelle: Condition Monitoring, Maintenance+, datenbasierte Services auf Basis von Sensordaten",
-            "One Pfannenberg 2026: Explizite Vereinheitlichung digitaler Fähigkeiten als strategisches Ziel"
-          ]
-        },
-        "combined_score": 0.88
-      },
-      "financials": {
-        "revenue_estimate": "ca. 80-100 Mio EUR (Gruppenebene geschätzt; Holding-Bilanz 2022: 20 Mio EUR, Owler: 40.7 Mio USD für Teilentität; Mittelstand-Ranking #1384 deutet auf höheren Gruppenumsatz hin)",
-        "profit_estimate": null,
-        "employee_count": 500,
-        "hiring_activity": {
-          "general_hiring_score": 0.6,
-          "total_job_postings": 15,
-          "hiring_reasoning": "Moderate Hiring-Aktivität: 15 offene Stellen auf Indeed Hamburg, 13 auf karriere-hamburg.de, 4 auf Glassdoor. Für ein Unternehmen mit ~500 Mitarbeitern ist dies eine solide, aber nicht überdurchschnittliche Einstellungsaktivität. Schwerpunkt liegt auf Produktionsmitarbeitern und Fachkräften. Unternehmen zeigt kontinuierliches Wachstum, aber kein explosives Hiring."
-        },
-        "topic_hiring": {
-          "topic_hiring_score": 0.25,
-          "relevant_job_postings": 0,
-          "topic_hiring_reasoning": "Keine spezifischen IoT-, Software-Entwicklungs- oder Digital-Stellen in aktuellen Ausschreibungen gefunden. Stellenangebote fokussieren sich auf Produktion, Fachkräfte und allgemeine Positionen. Dies könnte bedeuten, dass Pfannenberg IoT/Software-Entwicklung extern vergibt oder bestehende Teams ausreichend besetzt sind -- beides spricht FÜR externen IoT-Dienstleistungsbedarf. Die fehlenden internen Digital-Stellen bei gleichzeitig starker IoT-Strategie deuten auf Outsourcing-Potenzial hin.",
-          "example_positions": [
-            "Keine IoT/Software-relevanten Stellen gefunden"
-          ]
-        },
-        "strategic_fit": {
-          "size_fit_score": 0.9,
-          "financial_health_score": 0.75,
-          "pressure_score": 0.8,
-          "strategic_reasoning": "Size Fit (0.9): Idealer Mittelstands-Kunde mit ~500 MA -- gross genug für signifikante IoT-Projekte, aber zu klein für eigene grosse Software-Abteilung. Hidden Champion mit internationalem Footprint (12 Länder). Financial Health (0.75): Stabil als Familienunternehmen seit 1954, kontinuierliche Produktentwicklung, Bilanzwachstum +3.6%, aber keine öffentlichen Detaildaten. Mittelstand-Ranking #1384 spricht für solide Finanzen. Pressure (0.8): Hoher Digitalisierungsdruck durch Industrie 4.0 Anforderungen, F-Gas Regulierung erfordert Produktumstellung, Datacenter-Boom und Batterie-Kühlung eröffnen neue Märkte. One Pfannenberg Initiative zeigt internen Transformationsdruck. Wettbewerb durch grosse Industriekonzerne erfordert digitale Differenzierung."
-        },
-        "customer_rating": 0.598,
-        "rating_reasoning": "Size Fit (0.9): Idealer Mittelstands-Kunde mit ~500 MA -- gross genug für signifikante IoT-Projekte, aber zu klein für eigene grosse Software-Abteilung. Hidden Champion mit internationalem Footprint (12 Länder). Financial Health (0.75): Stabil als Familienunternehmen seit 1954, kontinuierliche Produktentwicklung, Bilanzwachstum +3.6%, aber keine öffentlichen Detaildaten. Mittelstand-Ranking #1384 spricht für solide Finanzen. Pressure (0.8): Hoher Digitalisierungsdruck durch Industrie 4.0 Anforderungen, F-Gas Regulierung erfordert Produktumstellung, Datacenter-Boom und Batterie-Kühlung eröffnen neue Märkte. One Pfannenberg Initiative zeigt internen Transformationsdruck. Wettbewerb durch grosse Industriekonzerne erfordert digitale Differenzierung."
-      },
-      "overall_score": 0.37
+      "overall_score": 0.48
     },
     {
       "company": {
@@ -1068,103 +1185,7 @@
         "customer_rating": 0.412,
         "rating_reasoning": "Size-Fit (0.7): DAX-Konzern mit 9,9 Mrd. EUR Umsatz und >20.000 MA - groß genug für signifikante IT-Investitionen, aber als FMCG/Kosmetik-Unternehmen nicht primärer IoT-Abnehmer. Financial Health (0.75): Solide Finanzen mit stabiler EBIT-Marge 14%, Aktienrückkauf 750 Mio. EUR zeigt Kapitalkraft. Allerdings vorsichtiger Ausblick 2026. Pressure (0.4): Moderater Digitalisierungsdruck - Smart Factory seit 2010 im Aufbau, aber SAP-zentrierte Strategie. Kein erkennbarer Druck zur Eigenentwicklung von IoT-Plattformen. Wettbewerbsdruck kommt eher von Consumer-Seite (Markenportfolio, DTC) als von Produktionstechnologie."
       },
-      "overall_score": 0.304
-    },
-    {
-      "company": {
-        "name": "Hamburger Hochbahn AG",
-        "website": "hochbahn.de",
-        "address": "Hamburg",
-        "industry": "ÖPNV / Mobilität",
-        "source": "WebSearch Agent1"
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.9,
-          "activity_reasoning": "AAA-rated by Fitch (stable outlook). Massive infrastructure investments: U4 extension, U3 renovation, U5 autonomous metro (2033), new e-bus depots. Revenue growth ~4% avg. 6,645 employees growing (+316 in 2023). City-owned with guaranteed public funding. Equity EUR 167.4M. Tariff negotiations show healthy wage growth (17-19% since 2023 for drivers).",
-          "recent_news": [
-            "U5 autonomous metro under construction (Bramfeld-Borgweg, completion 2033). U4 extension on schedule. U3 Mundsburg bridge renovation May-Jul 2026. First pure electric bus depot completing late summer 2026 (130 e-buses). Second depot Langenfelde (200 e-buses) by 2028. U-Bahn100 train control modernization starting March 2026. Fitch AAA rating affirmed. Tariff negotiations 2026 ongoing with ver.di. ALIKE autonomous ridepooling project (EUR 26M federal funding) with VW/MOIA/Holon."
-          ]
-        },
-        "topic_affinity": {
-          "topic": "IoT Plattform Entwicklung",
-          "affinity_score": 0.8,
-          "affinity_reasoning": "High affinity: HOCHBAHN actively builds digital platforms (MOSAIC mobility platform, hvv switch/hvv Any apps). Runs ALIKE autonomous driving project (20 shuttles, fleet management for mixed autonomous vehicles). New subsidiary New Mobility Solutions Hamburg GmbH for digital mobility. IT/OT architecture modernization underway (private cloud, SAP S/4HANA migration). BIM for U5 construction. Train control digitalization (U-Bahn100, GoA2 automation). However, no explicit IoT platform procurement advertised - most digital work done in-house or with established partners (Microsoft Azure/O365).",
-          "relevant_news": [
-            "MOSAIC digital mobility platform under active development (backend for hvv switch app). ALIKE project: autonomous ridepooling with Holon Mover and VW ID.Buzz AD, EUR 26M federal funding. New Mobility Solutions Hamburg GmbH founded for digital mobility innovation. SAP S/4HANA migration in progress. U-Bahn100 digital train control system rollout. hvv Any pilot: automated check-in/check-out fare calculation. IT/OT architect position open, focus on private cloud and infrastructure security."
-          ]
-        },
-        "combined_score": 0.84
-      },
-      "financials": {
-        "revenue_estimate": "EUR 500-900M (estimated, exact figure not publicly disclosed; 53% from fares, remainder from public subsidies)",
-        "profit_estimate": null,
-        "employee_count": 6645,
-        "hiring_activity": {
-          "general_hiring_score": 0.7,
-          "total_job_postings": 35,
-          "hiring_reasoning": "Active hiring across multiple domains. Stepstone shows 13-22 active postings, LinkedIn ~16, Glassdoor 13. Over 100 different job types at company. Growing workforce (+316 employees in 2023 to 6,645). Recruiting for IT, engineering, operations, and administrative roles. Dedicated IT career page indicates sustained tech hiring."
-        },
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": 0.25
-    },
-    {
-      "company": {
-        "name": "Aurubis AG",
-        "website": "aurubis.com",
-        "address": "Hamburg",
-        "industry": "Kupferproduktion / Metallverarbeitung",
-        "source": "WebSearch Agent1"
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.9,
-          "activity_reasoning": "Aurubis hat die Gesamtjahresprognose 2025/26 auf 375-475 Mio EUR operatives EBT angehoben. Q1 2025/26 Umsatz +25% auf 5,3 Mrd EUR. Netto-Cashflow im GJ 2024/25 auf 677 Mio EUR (+30%). Dividende um 7% erhoeht. Investitionsprogramm von 1,7 Mrd EUR zu 80% umgesetzt. Neue Werke in Richmond (USA) und Bulgarien in Betrieb/Erweiterung. MDAX-gelistet, Aktie bei 78,50 EUR. Sehr solide finanzielle Gesundheit mit klarer Wachstumsstrategie.",
-          "recent_news": [
-            "Jan 2026: Prognoseanhebung operatives EBT auf 375-475 Mio EUR. Q1 2025/26 Umsatz 5,3 Mrd EUR (+25%). Aurubis Richmond (USA) seit Jan 2026 in Betrieb (800 Mio USD Investition). Complex Recycling Hamburg Inbetriebnahme H1 2026. Bulgarien-Elektrolyse-Erweiterung +50% Kapazitaet in H2 2026. Dividende auf 1,60 EUR/Aktie erhoeht."
-          ]
-        },
-        "topic_affinity": {
-          "topic": "IoT Plattform Entwicklung",
-          "affinity_score": 0.95,
-          "affinity_reasoning": "Aurubis hat 2020 die IoT-Firma azeti GmbH (Berlin, ~20 MA) uebernommen, die eine Industrial-IoT-Plattform entwickelt. Aurubis betreibt aktiv eine Digital Factory Initiative zur Vernetzung der gesamten Produktion. Konkrete Use Cases: Predictive Maintenance am Anoden-Giessrad, Stromprognose, Monitoring kritischer Anlagenparameter. Edge-Computing via azeti SiteController mit Cloud-Backend. Digitalisierung ist erklaerter zentraler Bestandteil der Unternehmensstrategie. Eigene IT-Jobs-Plattform (it-jobs.aurubis.com). Hoechste Affinitaet - Aurubis ist bereits aktiver IoT-Plattform-Nutzer und -Entwickler.",
-          "relevant_news": [
-            "azeti GmbH als IoT-Tochter in Berlin aktiv. Digital Factory vernetzt Produktionsanlagen konzernweit. Predictive Maintenance und Echtzeit-Monitoring im Einsatz. Stellenausschreibung Ingenieur Digitalisierung in Hamburg."
-          ]
-        },
-        "combined_score": 0.93
-      },
-      "financials": {
-        "revenue_estimate": "18,39 Mrd EUR (GJ 2024/25); Q1 2025/26: 5,3 Mrd EUR (+25% YoY)",
-        "profit_estimate": "Operatives EBT GJ 2024/25: 355 Mio EUR; Prognose GJ 2025/26: 375-475 Mio EUR; Netto-Cashflow 677 Mio EUR",
-        "employee_count": 7228,
-        "hiring_activity": {
-          "general_hiring_score": 0.7,
-          "total_job_postings": 271,
-          "hiring_reasoning": "271 Stellenangebote allein am Standort Hamburg (Jobijoba). 107 Jobs auf LinkedIn weltweit. Eigene IT-Jobs-Plattform (it-jobs.aurubis.com). Schwerpunkt auf Anlagenmechanikern, Elektronikern, Ingenieuren. Neues Headquarter Aurubis Dock in der HafenCity ab Mitte 2026. Aktive Rekrutierung in technischen und digitalen Bereichen."
-        },
-        "topic_hiring": {
-          "topic_hiring_score": 0.7,
-          "relevant_job_postings": 15,
-          "topic_hiring_reasoning": "Aurubis betreibt eigene IT-Jobs-Plattform mit Motto Metal meets IT. Stellenangebote wie Ingenieur im Bereich Digitalisierung in Hamburg. azeti GmbH in Berlin als IoT-Tochter stellt eigenstaendig Software-Entwickler ein. Da Aurubis eigene IoT-Kompetenz ueber azeti aufbaut, besteht sowohl Eigenbedarf als auch Potenzial fuer externe Plattform-Entwicklungspartner bei der Skalierung auf neue Standorte (Richmond, Bulgarien).",
-          "example_positions": [
-            "Ingenieur Digitalisierung (Hamburg), Software-Entwickler azeti (Berlin), IT-Projektmanager, Data Engineer, SAP-Berater, Automatisierungstechniker"
-          ]
-        },
-        "strategic_fit": {
-          "size_fit_score": 0.8,
-          "financial_health_score": 0.9,
-          "pressure_score": 0.7,
-          "strategic_reasoning": "Size-Fit (0.8): MDAX-Unternehmen mit 7.228 MA und 18 Mrd EUR Umsatz - gross genug fuer signifikante IoT-Projekte, aber als Mittelstaendler noch zugaenglich. Financial Health (0.9): Starker Cashflow (677 Mio EUR), Prognoseanhebung, Dividenderhoehung, 1,7 Mrd EUR Investitionsprogramm - exzellente Finanzbasis. Pressure (0.7): Globaler Wettbewerb, steigende Energiekosten, Nachhaltigkeitsanforderungen und Notwendigkeit neue Standorte effizient zu digitalisieren. Aurubis hat mit azeti bereits eigene IoT-Kompetenz - Chance liegt in Skalierung und Ergaenzung."
-        },
-        "customer_rating": 0.72,
-        "rating_reasoning": "Size-Fit (0.8): MDAX-Unternehmen mit 7.228 MA und 18 Mrd EUR Umsatz - gross genug fuer signifikante IoT-Projekte, aber als Mittelstaendler noch zugaenglich. Financial Health (0.9): Starker Cashflow (677 Mio EUR), Prognoseanhebung, Dividenderhoehung, 1,7 Mrd EUR Investitionsprogramm - exzellente Finanzbasis. Pressure (0.7): Globaler Wettbewerb, steigende Energiekosten, Nachhaltigkeitsanforderungen und Notwendigkeit neue Standorte effizient zu digitalisieren. Aurubis hat mit azeti bereits eigene IoT-Kompetenz - Chance liegt in Skalierung und Ergaenzung."
-      },
-      "overall_score": 0.18
+      "overall_score": 0.466
     }
   ],
   "metadata": {},
