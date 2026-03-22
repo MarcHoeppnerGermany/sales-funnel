@@ -353,6 +353,70 @@
     },
     {
       "company": {
+        "name": "ACO Group",
+        "website": "aco.com",
+        "address": "Büdelsdorf",
+        "industry": "Entwässerungstechnik / Bau",
+        "source": "WebSearch Agent1"
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.85,
+          "activity_reasoning": "Sehr gesundes Familienunternehmen. Umsatz wächst von 1,07 Mrd EUR (2025) auf angestrebte 1,2 Mrd EUR (2026). Handelsblatt Hall of Fame Aufnahme Jan 2026. Akquisition von Aquafix Milieu (NL). Aktive Nachfolge durch Iver Ahlmann (43). Smart Irrigation Forschungsprojekt und RECOVER Interreg-Projekt (Digital Twin Ostsee) zeigen Innovationsbereitschaft.",
+          "recent_news": [
+            "Handelsblatt Hall of Fame Aufnahme der Ahlmann-Familie (Jan 2026)",
+            "Umsatzziel 1,2 Mrd EUR für 2026 nach 1,07 Mrd in 2025",
+            "Akquisition Aquafix Milieu (NL, größter Abscheider-Hersteller)",
+            "RECOVER Interreg-Projekt: Digital Twin der südwestlichen Ostsee",
+            "ACO WaterDome interaktives Lernzentrum in Büdelsdorf eröffnet"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT Plattform Entwicklung",
+          "affinity_score": 0.82,
+          "affinity_reasoning": "Sehr hohe IoT-Affinität. ACO betreibt ein eigenes Technology Centre (ACO TC, Indien) mit dediziertem IoT/Electronics-Team seit 2020. Angebote umfassen End-to-End Smart IoT über alle 6 IoT-Layer, Cloud/Web-Applikationsentwicklung, Data Analytics, AI/ML. Bereits ein Smart Product gelauncht. Smart Water Management als strategisches Ziel: Digitalisierung der Wasserwirtschaft durch Sensoren, Smart Connected Gateways, IoT Cloud Platform. Eigenes Smart-Drainage-Testfeld in Büdelsdorf. Digital-Twin-Beteiligung (RECOVER Interreg). Allerdings wird IoT-Entwicklung teilweise intern/offshore abgedeckt, was den Bedarf an externen IoT-Plattform-Dienstleistern etwas reduziert.",
+          "relevant_news": [
+            "ACO Technology Centre bietet End-to-End IoT/Electronics-Services über alle 6 IoT-Layer",
+            "Smart Water Management Ziel: Sensoren, Gateways, IoT Cloud, Data Analytics, AI/ML",
+            "Smart Drainage Testfeld auf ACO-Gelände in Büdelsdorf unter neuem Logistik-Areal",
+            "RECOVER Interreg: Digital Twin der Ostsee mit ACO-Beteiligung"
+          ]
+        },
+        "combined_score": 0.832
+      },
+      "financials": {
+        "revenue_estimate": "ca. 1,07 Mrd EUR (2025), Ziel 1,2 Mrd EUR (2026)",
+        "profit_estimate": null,
+        "employee_count": 5500,
+        "hiring_activity": {
+          "general_hiring_score": 0.6,
+          "total_job_postings": 40,
+          "hiring_reasoning": "Moderate Hiring-Aktivität. 14 offene Stellen auf Glassdoor (ACO Inc, USA), 27 auf Indeed. Karriereseiten aktiv für Deutschland und international. ACO wurde 2022 als TOP IT-Arbeitgeber ausgezeichnet. Für ein 5.500-Mitarbeiter-Unternehmen ist die sichtbare Stellenanzahl moderat, aber es wird aktiv rekrutiert."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.55,
+          "relevant_job_postings": 5,
+          "topic_hiring_reasoning": "ACO Technology Centre in Indien hat ein dediziertes IoT/Smart-Team, das seit 2020 aufgebaut wird. IoT, Cloud, Software Application Development sind als explizite Service-Bereiche gelistet. TOP IT-Arbeitgeber 2022 deutet auf IT/Digital-Recruiting hin. Tech-Stack umfasst TypeScript, Vue.js, Jira. Allerdings scheint ein Großteil der IoT-Entwicklung über das indische TC abgedeckt zu werden, was externe Vergabe reduzieren könnte.",
+          "example_positions": [
+            "IoT/Electronics Engineers (ACO TC)",
+            "Cloud & Software Application Developer",
+            "Data Analytics / AI-ML Engineer",
+            "Smart Product Development"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.7,
+          "financial_health_score": 0.85,
+          "pressure_score": 0.65,
+          "strategic_reasoning": "Strategischer Fit: Mittelgroßes Unternehmen (5.500 MA, >1 Mrd EUR Umsatz) mit klarem IoT/Digital-Bedarf im WaterTech-Bereich. Finanziell sehr gesund mit Wachstum. Druckfaktoren: Klimawandel erfordert smarte Wasserinfrastruktur, Wettbewerber digitalisieren, EU-Regulatorik (Wasserrahmenrichtlinie). Risiko: Eigenes Technology Centre in Indien könnte internen IoT-Bedarf teilweise decken. Chancen liegen bei spezialisierten Plattform-Modulen, die über das interne Angebot hinausgehen, z.B. Edge Computing, fortgeschrittene Sensorik-Integration, oder skalierbare Cloud-IoT-Plattformen für den europäischen Markt."
+        },
+        "customer_rating": 0.617,
+        "rating_reasoning": "Strategischer Fit: Mittelgroßes Unternehmen (5.500 MA, >1 Mrd EUR Umsatz) mit klarem IoT/Digital-Bedarf im WaterTech-Bereich. Finanziell sehr gesund mit Wachstum. Druckfaktoren: Klimawandel erfordert smarte Wasserinfrastruktur, Wettbewerber digitalisieren, EU-Regulatorik (Wasserrahmenrichtlinie). Risiko: Eigenes Technology Centre in Indien könnte internen IoT-Bedarf teilweise decken. Chancen liegen bei spezialisierten Plattform-Modulen, die über das interne Angebot hinausgehen, z.B. Edge Computing, fortgeschrittene Sensorik-Integration, oder skalierbare Cloud-IoT-Plattformen für den europäischen Markt."
+      },
+      "overall_score": 0.677
+    },
+    {
+      "company": {
         "name": "tesa SE",
         "website": "tesa.com",
         "address": "Norderstedt",
@@ -526,55 +590,6 @@
         "rating_reasoning": "Size-Fit (0.6): Mit 9100 MA und 2,1 Mrd EUR Umsatz ist TKMS groß genug für substanzielle IoT-Projekte, aber als Verteidigungsunternehmen gelten strenge Sicherheitsanforderungen die den Zugang erschweren. Financial-Health (0.9): Exzellent - Rekord-Auftragsbestand, positive Cashflows, erfolgreicher Börsengang, starke Wachstumsperspektive. Pressure (0.5): Mittlerer Digitalisierungsdruck. Die Branche bewegt sich Richtung Digital Twins, aber TKMS hat keinen akuten öffentlichen Handlungsdruck. Langfristig wird System-of-Systems-Integration und Predictive Maintenance für U-Boote/Fregatten IoT-Plattformen erfordern."
       },
       "overall_score": 0.59
-    },
-    {
-      "company": {
-        "name": "ACO Group",
-        "website": "aco.com",
-        "address": "Büdelsdorf",
-        "industry": "Entwässerungstechnik / Bau",
-        "source": "WebSearch Agent1"
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.85,
-          "activity_reasoning": "Sehr gesundes Familienunternehmen. Umsatz wächst von 1,07 Mrd EUR (2025) auf angestrebte 1,2 Mrd EUR (2026). Handelsblatt Hall of Fame Aufnahme Jan 2026. Akquisition von Aquafix Milieu (NL). Aktive Nachfolge durch Iver Ahlmann (43). Smart Irrigation Forschungsprojekt und RECOVER Interreg-Projekt (Digital Twin Ostsee) zeigen Innovationsbereitschaft.",
-          "recent_news": [
-            "Handelsblatt Hall of Fame Aufnahme der Ahlmann-Familie (Jan 2026)",
-            "Umsatzziel 1,2 Mrd EUR für 2026 nach 1,07 Mrd in 2025",
-            "Akquisition Aquafix Milieu (NL, größter Abscheider-Hersteller)",
-            "RECOVER Interreg-Projekt: Digital Twin der südwestlichen Ostsee",
-            "ACO WaterDome interaktives Lernzentrum in Büdelsdorf eröffnet"
-          ]
-        },
-        "topic_affinity": {
-          "topic": "IoT Plattform Entwicklung",
-          "affinity_score": 0.82,
-          "affinity_reasoning": "Sehr hohe IoT-Affinität. ACO betreibt ein eigenes Technology Centre (ACO TC, Indien) mit dediziertem IoT/Electronics-Team seit 2020. Angebote umfassen End-to-End Smart IoT über alle 6 IoT-Layer, Cloud/Web-Applikationsentwicklung, Data Analytics, AI/ML. Bereits ein Smart Product gelauncht. Smart Water Management als strategisches Ziel: Digitalisierung der Wasserwirtschaft durch Sensoren, Smart Connected Gateways, IoT Cloud Platform. Eigenes Smart-Drainage-Testfeld in Büdelsdorf. Digital-Twin-Beteiligung (RECOVER Interreg). Allerdings wird IoT-Entwicklung teilweise intern/offshore abgedeckt, was den Bedarf an externen IoT-Plattform-Dienstleistern etwas reduziert.",
-          "relevant_news": [
-            "ACO Technology Centre bietet End-to-End IoT/Electronics-Services über alle 6 IoT-Layer",
-            "Smart Water Management Ziel: Sensoren, Gateways, IoT Cloud, Data Analytics, AI/ML",
-            "Smart Drainage Testfeld auf ACO-Gelände in Büdelsdorf unter neuem Logistik-Areal",
-            "RECOVER Interreg: Digital Twin der Ostsee mit ACO-Beteiligung"
-          ]
-        },
-        "combined_score": 0.832
-      },
-      "financials": {
-        "revenue_estimate": "ca. 1,07 Mrd EUR (2025), Ziel 1,2 Mrd EUR (2026)",
-        "profit_estimate": null,
-        "employee_count": 5500,
-        "hiring_activity": {
-          "general_hiring_score": 0.6,
-          "total_job_postings": 40,
-          "hiring_reasoning": "Moderate Hiring-Aktivität. 14 offene Stellen auf Glassdoor (ACO Inc, USA), 27 auf Indeed. Karriereseiten aktiv für Deutschland und international. ACO wurde 2022 als TOP IT-Arbeitgeber ausgezeichnet. Für ein 5.500-Mitarbeiter-Unternehmen ist die sichtbare Stellenanzahl moderat, aber es wird aktiv rekrutiert."
-        },
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": 0.448
     }
   ],
   "metadata": {},
