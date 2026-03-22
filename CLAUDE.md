@@ -1,131 +1,78 @@
 # Sales Lead Generator
 
 Dieses Projekt nutzt Claude Code als AI-Engine für die Lead-Generierung.
-Keine API-Keys nötig – Claude Code nutzt seine eigenen Tools (WebSearch, WebFetch).
 Die Python-CLI (`sales-funnel`) verwaltet Daten, Scoring und Export.
 
-## Installation
+## Architektur
 
-```bash
-pip install -e .
-```
+- `sales_funnel/models/schemas.py` - Pydantic-Datenmodelle (Company, Lead, Scores etc.)
+- `sales_funnel/store.py` - JSON-basierte Lead-Persistierung
+- `sales_funnel/scoring.py` - Scoring-Logik (rein Python, keine API-Aufrufe)
+- `sales_funnel/cli.py` - CLI mit argparse-Subcommands
 
 ## CLI-Befehle
 
 ```bash
-# Lead hinzufügen
-sales-funnel add --name "Firma" --website "firma.de" --industry "IT" --address "Berlin"
-sales-funnel add --from-json firmen.json
-
 # Leads verwalten
+sales-funnel add --name "SAP SE" --website "sap.com" --industry "Enterprise Software" --address "Walldorf"
+sales-funnel add --from-json companies.json
 sales-funnel list [--format table|json] [--sort score|name]
-sales-funnel show "Firmenname"
-sales-funnel remove "Firmenname"
+sales-funnel show "SAP SE"
+sales-funnel remove "SAP SE"
 
-# Klassifizierung (Agent 2)
-sales-funnel set-health "Firma" --score 0.8 --reasoning "..." --news "..."
-sales-funnel set-affinity "Firma" --topic "Cloud" --score 0.9 --reasoning "..." --news "..."
+# Klassifizierung setzen
+sales-funnel set-health "SAP SE" --score 0.8 --reasoning "Aktiv, Q3 positiv" --news "SAP Q3 Rekordumsatz"
+sales-funnel set-affinity "SAP SE" --topic "Cloud Migration" --score 0.9 --reasoning "Stark in Cloud" --news "SAP BTP Expansion"
 
-# Firmenbewertung (Agent 3)
-sales-funnel set-financials "Firma" --revenue "10M" --profit "2M" --employees 500
-sales-funnel set-hiring "Firma" --score 0.7 --total-postings 50 --reasoning "..."
-sales-funnel set-topic-hiring "Firma" --score 0.8 --relevant-postings 10 --reasoning "..." --positions "DevOps"
-sales-funnel set-strategic "Firma" --size-fit 0.7 --financial-health 0.8 --pressure 0.6 --reasoning "..."
+# Firmenbewertung setzen
+sales-funnel set-financials "SAP SE" --revenue "30Mrd EUR" --profit "5Mrd EUR" --employees 107000
+sales-funnel set-hiring "SAP SE" --score 0.7 --total-postings 5000 --reasoning "Stellt aktiv ein"
+sales-funnel set-topic-hiring "SAP SE" --topic "Cloud Migration" --score 0.9 --relevant-postings 800 --reasoning "Viele Cloud-Stellen" --positions "Cloud Architect" --positions "DevOps Engineer"
+sales-funnel set-strategic "SAP SE" --size-fit 0.5 --financial-health 0.9 --pressure 0.6 --reasoning "Groß, gut situiert, mittlerer Druck"
 
 # Scoring & Export
-sales-funnel score
-sales-funnel export [--format json|csv|markdown] [--output datei]
-sales-funnel import datei.json
+sales-funnel score [--recalculate]
+sales-funnel export [--output results.json] [--format json|csv|markdown]
+sales-funnel import leads.json
 ```
 
-## Workflow für Claude Code
+Alle Befehle unterstützen `--file/-f` um eine alternative Leads-Datei anzugeben (default: leads.json).
+
+## Workflow
 
 ### Agent 1: Adressgenerator
-Wenn der User Firmen suchen will:
-1. Nutze `WebSearch` um Firmen zu finden die zu den Kriterien passen (Branche, Themen, Region)
-2. Für jede gefundene Firma:
-   ```bash
-   sales-funnel add --name "..." --website "..." --industry "..." --address "..."
-   ```
+Wenn der User nach Firmen suchen will:
+1. Nutze `WebSearch` um Firmen zu finden die zu den Kriterien passen
+2. Für jede gefundene Firma: `sales-funnel add --name "..." --website "..." --industry "..." --address "..."`
 3. Zeige die Liste: `sales-funnel list`
 
-Beispiel-Suchen:
-- `"Software Unternehmen Bayern Cloud Migration"`
-- `"IT Dienstleister Berlin Kubernetes"`
-- `"Automotive Softwareentwicklung Stuttgart"`
-
 ### Agent 2: Adressklassifizierer
-Für jeden Lead in der Liste zwei Dimensionen bewerten:
-
-**A) Firmengesundheit:**
-1. `WebSearch` nach `"{Firmenname} Quartalsbericht news 2025 2026"`
-2. Bewerte: Wie aktiv ist die Firma? Positive/negative Nachrichten?
-3. ```bash
-   sales-funnel set-health "Firma" --score 0.8 --reasoning "Positive Q3 Ergebnisse, Wachstum" --news "Umsatz gestiegen" --news "Neue Partnerschaft"
-   ```
-
-**B) Themen-Affinität:**
-1. `WebSearch` nach `"{Firmenname} {Thema} Projekt Partnerschaft"`
-2. Bewerte: Hat die Firma Bezug zum Thema?
-3. ```bash
-   sales-funnel set-affinity "Firma" --topic "Cloud Migration" --score 0.7 --reasoning "Mehrere Cloud-Projekte aktiv" --news "Migration auf AWS"
-   ```
+Für jeden Lead in der Liste:
+1. `WebSearch` nach "{Firmenname} news Quartalsbericht" → Firmengesundheit bewerten
+2. `WebSearch` nach "{Firmenname} {Thema}" → Themen-Affinität bewerten
+3. `sales-funnel set-health "Firma" --score X --reasoning "..." --news "..."`
+4. `sales-funnel set-affinity "Firma" --topic "..." --score X --reasoning "..." --news "..."`
 
 ### Agent 3: Firmenklassifizierer
-Für jeden Lead vier Dimensionen:
-
-**Finanzdaten:**
-1. `WebSearch` nach `"{Firma}" Umsatz Mitarbeiter`
-2. ```bash
-   sales-funnel set-financials "Firma" --revenue "50M EUR" --profit "5M EUR" --employees 300
-   ```
-
-**Generelle Hiring-Aktivität:**
-1. `WebSearch` nach `"{Firma}" Stellenangebote jobs careers`
-2. ```bash
-   sales-funnel set-hiring "Firma" --score 0.7 --total-postings 45 --reasoning "Moderate Einstellungsaktivität"
-   ```
-
-**Themenbezogene Stellen:**
-1. `WebSearch` nach `"{Firma}" jobs {Thema}`
-2. ```bash
-   sales-funnel set-topic-hiring "Firma" --score 0.9 --relevant-postings 8 --reasoning "Sucht aktiv Cloud-Experten" --positions "Cloud Architect" --positions "DevOps Engineer"
-   ```
-
-**Strategischer Fit:**
-Basierend auf allen gesammelten Informationen:
-- `size_fit`: Passt die Firmengröße als Kunde für uns?
-- `financial_health`: Wie ist die finanzielle Lage?
-- `pressure`: Hat die Firma Handlungsdruck im Thema? **WICHTIG: Auch schlecht situierte Firmen mit Druck sind sehr interessant!**
-```bash
-sales-funnel set-strategic "Firma" --size-fit 0.8 --financial-health 0.6 --pressure 0.9 --reasoning "Unter Modernisierungsdruck, muss dringend Cloud-Strategie umsetzen"
-```
-
-### Scoring & Abschluss
-```bash
-sales-funnel score           # Berechnet alle Gesamtscores
-sales-funnel list --sort score  # Rangliste
-sales-funnel export --format markdown  # Report
-```
+Für jeden Lead:
+1. `WebSearch` nach "{Firma} Umsatz revenue Mitarbeiter" → Finanzdaten
+2. `WebSearch` nach "{Firma} Stellenangebote jobs" → Hiring-Aktivität
+3. `WebSearch` nach "{Firma} jobs {Thema}" → Themenbezogene Stellen
+4. Setze alle Daten via CLI-Befehle
+5. `sales-funnel score` → Berechne Gesamtscores
 
 ### Vollständige Pipeline
-Alle drei Agenten nacheinander für alle Leads ausführen.
-Am Ende: `sales-funnel export --format markdown`
+Alle drei Agenten nacheinander ausführen, dann:
+`sales-funnel export --format markdown`
 
-## Scoring-Gewichtung
+## Tests ausführen
 
-**Topic Relevance (Agent 2):**
-- Firmengesundheit: 40%
-- Themen-Affinität: 60%
+```bash
+pytest tests/ -v
+```
 
-**Overall Score:**
-- Topic Relevance: 25%
-- Strategic Fit: 30% (davon Pressure 50%, Size 25%, Financial Health 25%)
-- Hiring: 15%
-- Topic Hiring: 30%
+## Entwicklung
 
-**Customer Rating:**
-- Hiring: 15%
-- Topic Hiring: 35%
-- Pressure: 30%
-- Size Fit: 20%
+```bash
+pip install -e .
+```
