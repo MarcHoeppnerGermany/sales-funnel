@@ -97,23 +97,25 @@ def create_architecture_diagram():
     ax.text(1.5, 5.2, "Trailer", fontsize=9, fontweight="bold", color=SCB_BLUE, ha="center")
     sensors = ["CTU\nSteuergerät", "TPMS\nSensoren", "EBS /\nABS", "Tür-\nsensorik", "Temp.-\nRecorder"]
     for i, s in enumerate(sensors):
-        ax.text(0.5 + i * 1.8, 4.3, s, bbox=box_style, **text_kw, fontsize=6.5)
+        kw = {**text_kw, "fontsize": 6.5}
+        ax.text(0.5 + i * 1.8, 4.3, s, bbox=box_style, **kw)
 
     # Connectivity
     ax.annotate("", xy=(5, 3.5), xytext=(5, 3.9), arrowprops=dict(arrowstyle="->", color=SCB_ORANGE, lw=2))
     ax.text(5, 3.7, "LTE / Global Roaming", fontsize=7, ha="center", color=SCB_ORANGE, fontstyle="italic")
 
     # Cloud layer
-    ax.text(5, 3.1, "Microsoft Azure\nIoT Hub & Cloud", bbox=box_orange, **text_kw, fontsize=8)
+    ax.text(5, 3.1, "Microsoft Azure\nIoT Hub & Cloud", bbox=box_orange, **text_kw)
 
     # Services
     ax.annotate("", xy=(2, 2.0), xytext=(3.8, 2.6), arrowprops=dict(arrowstyle="->", color=SCB_GRAY, lw=1.5))
     ax.annotate("", xy=(5, 2.0), xytext=(5, 2.6), arrowprops=dict(arrowstyle="->", color=SCB_GRAY, lw=1.5))
     ax.annotate("", xy=(8, 2.0), xytext=(6.2, 2.6), arrowprops=dict(arrowstyle="->", color=SCB_GRAY, lw=1.5))
 
-    ax.text(2, 1.5, "TrailerConnect®\nPortal", bbox=box_gray, **text_dark, fontsize=7)
-    ax.text(5, 1.5, "beUpToDate\nApp", bbox=box_gray, **text_dark, fontsize=7)
-    ax.text(8, 1.5, "Data Mgmt.\nCenter (API)", bbox=box_gray, **text_dark, fontsize=7)
+    kw_dark7 = {**text_dark, "fontsize": 7}
+    ax.text(2, 1.5, "TrailerConnect®\nPortal", bbox=box_gray, **kw_dark7)
+    ax.text(5, 1.5, "beUpToDate\nApp", bbox=box_gray, **kw_dark7)
+    ax.text(8, 1.5, "Data Mgmt.\nCenter (API)", bbox=box_gray, **kw_dark7)
 
     # End users
     ax.text(2, 0.5, "Disponent", fontsize=7, ha="center", color=SCB_GRAY)
@@ -132,11 +134,20 @@ def create_architecture_diagram():
 # 2. Build the PDF
 # ---------------------------------------------------------------------------
 
+FONT_DIR = "/usr/share/fonts/truetype/dejavu"
+
 class SCBDocument(FPDF):
     """Custom PDF with header/footer."""
 
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        self.add_font("DejaVu", "", f"{FONT_DIR}/DejaVuSans.ttf", uni=True)
+        self.add_font("DejaVu", "B", f"{FONT_DIR}/DejaVuSans-Bold.ttf", uni=True)
+        self.add_font("DejaVu", "I", f"{FONT_DIR}/DejaVuSans.ttf", uni=True)
+        self.add_font("DejaVu", "BI", f"{FONT_DIR}/DejaVuSans-Bold.ttf", uni=True)
+
     def header(self):
-        self.set_font("Helvetica", "B", 8)
+        self.set_font("DejaVu", "B", 8)
         self.set_text_color(0, 51, 102)
         self.cell(0, 6, "VERTRAULICH — Projektreferenz: Schmitz Cargobull TrailerConnect® Telematik", align="R")
         self.ln(8)
@@ -146,12 +157,12 @@ class SCBDocument(FPDF):
 
     def footer(self):
         self.set_y(-15)
-        self.set_font("Helvetica", "I", 7)
+        self.set_font("DejaVu", "I", 7)
         self.set_text_color(88, 89, 91)
         self.cell(0, 10, f"Seite {self.page_no()}/{{nb}} — Erstellt: März 2026", align="C")
 
     def section_title(self, title):
-        self.set_font("Helvetica", "B", 13)
+        self.set_font("DejaVu", "B", 13)
         self.set_text_color(0, 51, 102)
         self.cell(0, 10, title, new_x="LMARGIN", new_y="NEXT")
         self.set_draw_color(232, 119, 34)
@@ -160,19 +171,19 @@ class SCBDocument(FPDF):
         self.ln(4)
 
     def sub_title(self, title):
-        self.set_font("Helvetica", "B", 10)
+        self.set_font("DejaVu", "B", 10)
         self.set_text_color(0, 102, 170)
         self.cell(0, 7, title, new_x="LMARGIN", new_y="NEXT")
         self.ln(1)
 
     def body_text(self, text):
-        self.set_font("Helvetica", "", 9)
+        self.set_font("DejaVu", "", 9)
         self.set_text_color(50, 50, 50)
         self.multi_cell(0, 5, text)
         self.ln(2)
 
     def bullet(self, text):
-        self.set_font("Helvetica", "", 9)
+        self.set_font("DejaVu", "", 9)
         self.set_text_color(50, 50, 50)
         x = self.get_x()
         self.cell(5, 5, chr(8226))
@@ -180,10 +191,10 @@ class SCBDocument(FPDF):
         self.ln(1)
 
     def key_value(self, key, value):
-        self.set_font("Helvetica", "B", 9)
+        self.set_font("DejaVu", "B", 9)
         self.set_text_color(0, 51, 102)
         self.cell(50, 5, key + ":")
-        self.set_font("Helvetica", "", 9)
+        self.set_font("DejaVu", "", 9)
         self.set_text_color(50, 50, 50)
         self.multi_cell(0, 5, value)
         self.ln(1)
@@ -193,7 +204,7 @@ class SCBDocument(FPDF):
         self.set_draw_color(0, 102, 170)
         self.set_line_width(0.3)
         y_start = self.get_y()
-        self.set_font("Helvetica", "I", 9)
+        self.set_font("DejaVu", "I", 9)
         self.set_text_color(0, 51, 102)
         self.set_x(15)
         self.multi_cell(180, 5, text, border=1, fill=True)
@@ -208,10 +219,10 @@ def build_pdf(chart_markt, chart_wachstum, chart_arch):
     # ---- Cover Page ----
     pdf.add_page()
     pdf.ln(30)
-    pdf.set_font("Helvetica", "B", 28)
+    pdf.set_font("DejaVu", "B", 28)
     pdf.set_text_color(0, 51, 102)
     pdf.cell(0, 15, "Projektreferenz", align="C", new_x="LMARGIN", new_y="NEXT")
-    pdf.set_font("Helvetica", "B", 18)
+    pdf.set_font("DejaVu", "B", 18)
     pdf.set_text_color(232, 119, 34)
     pdf.cell(0, 12, "Schmitz Cargobull", align="C", new_x="LMARGIN", new_y="NEXT")
     pdf.cell(0, 12, "TrailerConnect\u00ae Telematik-Plattform", align="C", new_x="LMARGIN", new_y="NEXT")
@@ -220,12 +231,12 @@ def build_pdf(chart_markt, chart_wachstum, chart_arch):
     pdf.set_line_width(1)
     pdf.line(60, pdf.get_y(), 150, pdf.get_y())
     pdf.ln(15)
-    pdf.set_font("Helvetica", "", 12)
+    pdf.set_font("DejaVu", "", 12)
     pdf.set_text_color(88, 89, 91)
     pdf.cell(0, 8, "IoT-Plattform f\u00fcr Europas gr\u00f6\u00dfte vernetzte Trailer-Flotte", align="C", new_x="LMARGIN", new_y="NEXT")
     pdf.cell(0, 8, "95.000+ Telematik-Einheiten \u2014 65.000 aktive Systeme", align="C", new_x="LMARGIN", new_y="NEXT")
     pdf.ln(30)
-    pdf.set_font("Helvetica", "I", 10)
+    pdf.set_font("DejaVu", "I", 10)
     pdf.set_text_color(120, 120, 120)
     pdf.cell(0, 8, "Vertrauliche Unterlage \u2014 M\u00e4rz 2026", align="C", new_x="LMARGIN", new_y="NEXT")
 
@@ -393,7 +404,7 @@ def build_pdf(chart_markt, chart_wachstum, chart_arch):
     )
 
     pdf.ln(8)
-    pdf.set_font("Helvetica", "I", 7)
+    pdf.set_font("DejaVu", "I", 7)
     pdf.set_text_color(120, 120, 120)
     pdf.multi_cell(0, 4,
         "Hinweis: Dieses Dokument dient ausschlie\u00dflich der Information \u00fcber unsere Projekterfahrung. "
