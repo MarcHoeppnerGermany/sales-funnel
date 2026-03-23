@@ -6760,22 +6760,41 @@
           ]
         },
         "topic_affinity": {
-          "topic": "(nicht gesetzt)",
-          "affinity_score": 0.0,
-          "affinity_reasoning": "Noch nicht bewertet",
-          "relevant_news": []
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.5,
+          "affinity_reasoning": "Industrie 4.0 bereits implementiert: digitale Planung, automatisierte Logistik, VR-Einsatz, computergestützte Fertigung. IoT-Bedarf vorhanden (Produktions-Monitoring, Logistik-Tracking), aber Meyer-Gruppe hat eigene IT-Kompetenz. Mittleres Outsourcing-Potenzial.",
+          "relevant_news": [
+            "Industrie 4.0 im Einsatz. Virtual Reality. Computergestützte Logistik. Blockbau-Prinzip digital gesteuert. Digital Ocean Lab Rostock."
+          ]
         },
-        "combined_score": 0.32
+        "combined_score": 0.62
       },
       "financials": {
         "revenue_estimate": "ca. 300-500 Mio EUR (geschätzt, Rang 350 DE)",
         "profit_estimate": "k.A.",
         "employee_count": 650,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
+        "hiring_activity": {
+          "general_hiring_score": 0.6,
+          "total_job_postings": 50,
+          "hiring_reasoning": "650 MA, auf Wachstumskurs mit neuen Aufträgen. Aktiv einstellend."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.2,
+          "relevant_job_postings": 3,
+          "topic_hiring_reasoning": "Wenige IT-Stellen. Industrie 4.0 wird über Meyer-Gruppe gesteuert.",
+          "example_positions": [
+            "IT-Administrator",
+            "Planungsingenieur Digital"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.6,
+          "financial_health_score": 0.8,
+          "pressure_score": 0.5,
+          "strategic_reasoning": "Mittelgroß bis groß (300-500M). Finanziell stabil (Meyer-Gruppe). Mittlerer Druck - Industrie 4.0 läuft, aber IoT wird teils zentral gesteuert."
+        },
+        "customer_rating": 0.43,
+        "rating_reasoning": "Mittelgroß bis groß (300-500M). Finanziell stabil (Meyer-Gruppe). Mittlerer Druck - Industrie 4.0 läuft, aber IoT wird teils zentral gesteuert."
       },
       "overall_score": 0.25
     },
@@ -6787,8 +6806,32 @@
         "industry": "Schiffbau / Spezialschiffe",
         "source": null
       },
-      "topic_relevance": null,
-      "financials": null,
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.7,
+          "activity_reasoning": "Spezialwerft mit 130 MA und 18 Azubis. 30 Jahre Erfahrung. Partner der Bundeswehr und Behörden. Offshore-Windpark CTVs. Bilanzsumme 2023: 20 Mio EUR (aber -36.5%). EFRE-Förderung für Digitalisierung erhalten.",
+          "recent_news": [
+            "30-jähriges Jubiläum 2025. Arbeitsboote für Bundeswehr. EFRE-Förderung Digitalisierung 400.000 EUR. Bilanzsumme 2023: 20 Mio EUR (-36.5%)."
+          ]
+        },
+        "topic_affinity": {
+          "topic": "(nicht gesetzt)",
+          "affinity_score": 0.0,
+          "affinity_reasoning": "Noch nicht bewertet",
+          "relevant_news": []
+        },
+        "combined_score": 0.28
+      },
+      "financials": {
+        "revenue_estimate": "ca. 20-30 Mio EUR (geschätzt, Bilanzsumme 20 Mio 2023)",
+        "profit_estimate": "k.A.",
+        "employee_count": 130,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
       "overall_score": 0.25
     },
     {
