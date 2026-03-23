@@ -6919,6 +6919,306 @@
         "rating_reasoning": "Zu kleiner Distributor (3 Mio Bilanz, 30 MA), kein IoT-Bedarf, kein Digitalisierungsdruck. Nicht relevant fuer IoT-Outsourcing."
       },
       "overall_score": 0.23
+    },
+    {
+      "company": {
+        "name": "Helbako GmbH",
+        "website": "helbako.com",
+        "address": "Heiligenhaus, NRW",
+        "industry": "Automotive Elektronik / Steuergeräte",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "InnoSenT GmbH",
+        "website": "innosent.de",
+        "address": "Donnersdorf, Bayern",
+        "industry": "Radarsensoren / Messtechnik",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "MRS Electronic GmbH",
+        "website": "mrs-electronic.com",
+        "address": "Rottweil, BW",
+        "industry": "Automotive Steuergeräte / ECU",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "SAR Elektronic GmbH",
+        "website": "sar.biz",
+        "address": "Dingolfing, Bayern",
+        "industry": "Automotive Elektronik",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "paragon GmbH & Co. KGaA",
+        "website": "paragon.ag",
+        "address": "Delbrück, NRW",
+        "industry": "Automotive Elektronik / Sensorik",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Isabellenhütte Heusler GmbH",
+        "website": "isabellenhuette.de",
+        "address": "Dillenburg, Hessen",
+        "industry": "Präzisionsmesstechnik / Shunts",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "E-T-A Elektrotechnische Apparate",
+        "website": "e-t-a.de",
+        "address": "Altdorf, Bayern",
+        "industry": "Schutzschalter / Circuit Protection",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Elmos Semiconductor SE",
+        "website": "elmos.com",
+        "address": "Dortmund, NRW",
+        "industry": "Automotive Halbleiter / ICs",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "IMS Gear SE & Co. KGaA",
+        "website": "imsgear.com",
+        "address": "Donaueschingen, BW",
+        "industry": "Präzisionsgetriebe / Aktuatoren",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "KSM Castings Group GmbH",
+        "website": "ksmcastings.com",
+        "address": "Hildesheim, Niedersachsen",
+        "industry": "Aluminium-Druckguss",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Fondium Group GmbH",
+        "website": "fondium.de",
+        "address": "Mettmann, NRW",
+        "industry": "Eisenguss / Automotive",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Fritz Winter Eisengießerei",
+        "website": "fritzwinter.de",
+        "address": "Stadtallendorf, Hessen",
+        "industry": "Eisenguss / Automotive",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Selzer Fertigungstechnik GmbH",
+        "website": "selzer-automotive.com",
+        "address": "Driedorf, Hessen",
+        "industry": "Stanz-/Umformtechnik",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Thomas Magnete GmbH",
+        "website": "thomas-magnete.com",
+        "address": "Herdorf, RLP",
+        "industry": "Elektromagnete / Ventiltechnik",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Mekra Lang GmbH",
+        "website": "mekra.de",
+        "address": "Ergersheim, Bayern",
+        "industry": "Spiegel / Kamerasysteme",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Rosenberger Hochfrequenztechnik",
+        "website": "rosenberger.com",
+        "address": "Fridolfing, Bayern",
+        "industry": "HF-Steckverbinder / Automotive",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "HBPO GmbH",
+        "website": "hbpogroup.com",
+        "address": "Lippstadt, NRW",
+        "industry": "Frontend-Module / Automotive",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "WEGU GmbH Schwingungsdämpfung",
+        "website": "wegu.de",
+        "address": "Kassel, Hessen",
+        "industry": "Schwingungsdämpfung / NVH",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Kendrion GmbH",
+        "website": "kendrion.com",
+        "address": "Villingen-Schwenningen, BW",
+        "industry": "Elektromagnetik / Aktuatoren",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Linde + Wiemann Deutschland SE",
+        "website": "linde-wiemann.com",
+        "address": "Dillenburg, Hessen",
+        "industry": "Strukturbauteile / Automotive",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Sumida Components & Modules GmbH",
+        "website": "sumida.com",
+        "address": "Obernzell, Bayern",
+        "industry": "Spulen / Induktivitäten / Automotive",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Hongfa Europe GmbH",
+        "website": "hongfa.com",
+        "address": "Maintal, Hessen",
+        "industry": "Relais / Automotive Elektronik",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "SHW Automotive GmbH",
+        "website": "shw.de",
+        "address": "Bad Schussenried, BW",
+        "industry": "Pumpen / Bremsscheiben / Automotive",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Gentherm Präzision SE",
+        "website": "gentherm.com",
+        "address": "Treuchtlingen, Bayern",
+        "industry": "Thermomanagement / Automotive",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Vacuumschmelze GmbH",
+        "website": "vacuumschmelze.com",
+        "address": "Hanau, Hessen",
+        "industry": "Magnetwerkstoffe / Automotive",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
     }
   ],
   "metadata": {},
