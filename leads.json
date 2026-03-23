@@ -3,1297 +3,6 @@
   "leads": [
     {
       "company": {
-        "name": "Stern-Wywiol Gruppe",
-        "website": "stern-wywiol-gruppe.de",
-        "address": "Hamburg, Alsterufer",
-        "industry": "Lebensmittelzusatzstoffe / Food Ingredients",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "~500 Mio EUR (geschätzt)",
-        "profit_estimate": null,
-        "employee_count": 2000,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Pfannenberg GmbH",
-        "website": "pfannenberg.com",
-        "address": "Hamburg",
-        "industry": "Elektrotechnik / Klimatisierung / Signaltechnik",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "~80 Mio EUR (geschätzt)",
-        "profit_estimate": null,
-        "employee_count": 500,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Harburg-Freudenberger Maschinenbau (HF Group)",
-        "website": "hf-group.com",
-        "address": "Hamburg-Harburg",
-        "industry": "Maschinenbau / Anlagenbau",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "367 Mio EUR (2022)",
-        "profit_estimate": null,
-        "employee_count": 2000,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "WEINMANN Emergency Medical Technology",
-        "website": "weinmann-emergency.com",
-        "address": "Hamburg-Stellingen",
-        "industry": "Medizintechnik",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "~50 Mio EUR (geschätzt)",
-        "profit_estimate": null,
-        "employee_count": 350,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "GoodMills Deutschland GmbH",
-        "website": "goodmills.de",
-        "address": "Hamburg",
-        "industry": "Lebensmittelproduktion / Mühlenindustrie",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "~400 Mio EUR (geschätzt, Anteil D)",
-        "profit_estimate": null,
-        "employee_count": 680,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "J.J. Darboven",
-        "website": "darboven.com",
-        "address": "Hamburg",
-        "industry": "Kaffeerösterei / Lebensmittel",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "~500 Mio EUR (geschätzt)",
-        "profit_estimate": null,
-        "employee_count": 1000,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Muehlhan GmbH",
-        "website": "muehlhan.com",
-        "address": "Hamburg-Wilhelmsburg",
-        "industry": "Oberflächenschutz / Industrieservice",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "~250 Mio EUR",
-        "profit_estimate": null,
-        "employee_count": 2800,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "HANSA Press- und Maschinenbau GmbH",
-        "website": "hansapress.de",
-        "address": "Hamburg",
-        "industry": "Maschinenbau / Sondermaschinenbau",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "~5 Mio EUR (geschätzt)",
-        "profit_estimate": null,
-        "employee_count": 45,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Lippold GmbH",
-        "website": "lippold.de",
-        "address": "Hamburg",
-        "industry": "Sondermaschinenbau / Hydraulik",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "~30 Mio EUR (geschätzt)",
-        "profit_estimate": null,
-        "employee_count": 160,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Spiegelberg GmbH",
-        "website": "spiegelberg.de",
-        "address": "Hamburg",
-        "industry": "Medizintechnik / Hirnmonitoring",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "~10 Mio EUR (geschätzt)",
-        "profit_estimate": null,
-        "employee_count": 50,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Neuromedex GmbH",
-        "website": "neuromedex.com",
-        "address": "Hamburg",
-        "industry": "Medizintechnik / Neurochirurgie",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "~10 Mio EUR (geschätzt)",
-        "profit_estimate": null,
-        "employee_count": 70,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Heinemann HNO Medizintechnik",
-        "website": "heinemann-ent.de",
-        "address": "Hamburg",
-        "industry": "Medizintechnik / HNO",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "~5 Mio EUR (geschätzt)",
-        "profit_estimate": null,
-        "employee_count": 30,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "SCHLUMBOHM Medizin-Labor-Technologie",
-        "website": "schlumbohm-medizintechnik.de",
-        "address": "Hamburg",
-        "industry": "Medizintechnik / Labortechnik",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "~10 Mio EUR (geschätzt)",
-        "profit_estimate": null,
-        "employee_count": 50,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Scholz Mechanik GmbH",
-        "website": "scholz-mechanik.de",
-        "address": "Hamburg",
-        "industry": "Luftfahrtzulieferer / Feinmechanik",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "~15 Mio EUR (geschätzt)",
-        "profit_estimate": null,
-        "employee_count": 80,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Heinzel Logistik",
-        "website": "heinzel-hamburg.de",
-        "address": "Hamburg",
-        "industry": "Logistik / Transport",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "~30 Mio EUR (geschätzt)",
-        "profit_estimate": null,
-        "employee_count": 160,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Sander Logistics GmbH",
-        "website": "sander-logistics.de",
-        "address": "Hamburg",
-        "industry": "Logistik / Spedition",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "~50 Mio EUR (geschätzt)",
-        "profit_estimate": null,
-        "employee_count": 250,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Helm AG",
-        "website": "helmag.com",
-        "address": "Hamburg",
-        "industry": "Chemiehandel / Distribution",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "~4 Mrd EUR",
-        "profit_estimate": null,
-        "employee_count": 1600,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Otto Krahn Group",
-        "website": "ottokrahn.com",
-        "address": "Hamburg",
-        "industry": "Kunststoff-Distribution / Chemie",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "~800 Mio EUR (geschätzt)",
-        "profit_estimate": null,
-        "employee_count": 1650,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "ImperialOel GmbH",
-        "website": "imperialoil.de",
-        "address": "Hamburg",
-        "industry": "Öle und Fette / Lebensmittel",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "~50 Mio EUR (geschätzt)",
-        "profit_estimate": null,
-        "employee_count": 50,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Poppe und Groninger GmbH",
-        "website": "poppe-groninger.de",
-        "address": "Hamburg",
-        "industry": "Gewürzhandel / Lebensmittel",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "~20 Mio EUR (geschätzt)",
-        "profit_estimate": null,
-        "employee_count": 40,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Blohm+Voss",
-        "website": "blohmvoss.com",
-        "address": "Hamburg-Steinwerder",
-        "industry": "Schiffbau / Werft",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "~252 Mio EUR (geschätzt)",
-        "profit_estimate": null,
-        "employee_count": 450,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Nordex SE",
-        "website": "nordex-online.com",
-        "address": "Hamburg-Langenhorn",
-        "industry": "Windenergieanlagen / Erneuerbare Energie",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "~6 Mrd EUR",
-        "profit_estimate": null,
-        "employee_count": 10000,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Encavis AG",
-        "website": "encavis.com",
-        "address": "Hamburg",
-        "industry": "Erneuerbare Energien / Solar+Wind",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "~500 Mio EUR",
-        "profit_estimate": null,
-        "employee_count": 200,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Global Tech I Offshore Wind GmbH",
-        "website": "globaltechone.de",
-        "address": "Hamburg",
-        "industry": "Offshore-Windkraft",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "~100 Mio EUR (geschätzt)",
-        "profit_estimate": null,
-        "employee_count": 30,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "GEA Tuchenhagen GmbH",
-        "website": "gea.com",
-        "address": "Büchen bei Hamburg",
-        "industry": "Maschinenbau / Prozesstechnik Lebensmittel",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "~100 Mio EUR (Standort Büchen, geschätzt)",
-        "profit_estimate": null,
-        "employee_count": 450,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "ECL Kontor GmbH",
-        "website": "eclkontor.com",
-        "address": "Hamburg",
-        "industry": "Logistik / Zollabwicklung",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "~10 Mio EUR (geschätzt)",
-        "profit_estimate": null,
-        "employee_count": 30,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Dörrenhaus",
-        "website": "doerrenhaus.com",
-        "address": "Hamburg",
-        "industry": "Logistik / International",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "~20 Mio EUR (geschätzt)",
-        "profit_estimate": null,
-        "employee_count": 50,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Harry Brot GmbH",
-        "website": "harrybrot.de",
-        "address": "Schenefeld bei Hamburg",
-        "industry": "Backwarenproduktion / Lebensmittel",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "1 Mrd EUR",
-        "profit_estimate": null,
-        "employee_count": 4700,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Eppendorf SE",
-        "website": "eppendorf.com",
-        "address": "Hamburg",
-        "industry": "Labortechnik / Life Science",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "~1.2 Mrd EUR",
-        "profit_estimate": null,
-        "employee_count": 5000,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "LENNARTZ GmbH Medizinprodukte",
-        "website": "lennartz-gmbh.de",
-        "address": "Hamburg",
-        "industry": "Medizinprodukte / Distribution",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "~10 Mio EUR (geschätzt)",
-        "profit_estimate": null,
-        "employee_count": 40,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Hemro Group (Mahlkönig)",
-        "website": "mahlkoenig.com",
-        "address": "Hamburg",
-        "industry": "Kaffeemühlen / Maschinenbau",
-        "source": null
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.85,
-          "activity_reasoning": "Starkes Wachstum, Expansion in Home-Segment (Xenia), neuer HQ Zürich, neue Distributionspartner weltweit. Bilanzsumme +85% 2021. Akquisition Xenia Espresso 2025.",
-          "recent_news": [
-            "Mahlkönig Xenia Home-Espressomaschine Launch Okt 2025, Parts Town UK Partnerschaft Feb 2026, La Marzocco USA Distribution"
-          ]
-        },
-        "topic_affinity": {
-          "topic": "IoT-Plattform-Entwicklung",
-          "affinity_score": 0.4,
-          "affinity_reasoning": "ACHTUNG: Hemro hat EIGENE IoT-Strategie - Sync System mit Cloud-Connectivity, automatische Mahlgrad-Anpassung via App. Kooperation mit La Marzocco und Sanremo. Hemro baut eigenes Connected-Coffee-Ökosystem auf. Software wird vermutlich intern/Zürich entwickelt. ABER: Keine sichtbaren IT/Software-Stellen in Hamburg - Produktion in HH, Software eher in Zürich. Potential für externe Plattform-Entwicklung möglich, aber hohe eigene Kompetenz vorhanden.",
-          "relevant_news": [
-            "Mahlkönig Sync System, Grind-by-Sync Cloud-Connectivity, E64 WS connected grinder"
-          ]
-        },
-        "combined_score": 0.58
-      },
-      "financials": {
-        "revenue_estimate": "ca. 40-60 Mio EUR (geschätzt, Bilanzsumme 40 Mio 2021)",
-        "profit_estimate": "nicht veröffentlicht",
-        "employee_count": 320,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "ACO Severin Ahlmann",
-        "website": "aco.com",
-        "address": "Büdelsdorf, Schleswig-Holstein",
-        "industry": "Entwässerungstechnik / Wassertechnologie",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "1,14 Mrd EUR (2023)",
-        "profit_estimate": null,
-        "employee_count": 5400,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "KNUTH Werkzeugmaschinen GmbH",
-        "website": "knuth.com",
-        "address": "Wasbek, Schleswig-Holstein",
-        "industry": "Maschinenbau / Werkzeugmaschinen",
-        "source": null
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.7,
-          "activity_reasoning": "100 Jahre Familienunternehmen, Hidden Champion, ca. 92,5 Mio Umsatz, global in 30+ Ländern aktiv. Bilanzsumme 2023 um 15% gesunken, aber solide Basis. 4. Generation führt Unternehmen.",
-          "recent_news": [
-            "FABTECH 2025 Chicago, Fabtech MX 2026 Mexiko, neuer Katalog 2025, BobCAD-CAM Partnerschaft, 5-Jahres-Garantie auf Maschinen"
-          ]
-        },
-        "topic_affinity": {
-          "topic": "IoT-Plattform-Entwicklung",
-          "affinity_score": 0.5,
-          "affinity_reasoning": "GEMISCHT: KNUTH nutzt bereits die Synctive IoT-Plattform für Maschinenvernetzung und JobRouter für Digitalisierung. Haben Digitalisierung angestoßen, aber keine große eigene IT-Abteilung erkennbar. Synctive ist extern zugekauft. Mittelgroßes Potenzial - könnten ergänzende IoT-Lösungen brauchen, aber Kernbereich bereits abgedeckt.",
-          "relevant_news": [
-            "Synctive IoT-Plattform für Maschinenvernetzung, JobRouter Digitalisierungsplattform, Fokus auf präventive Wartung und Datentransparenz"
-          ]
-        },
-        "combined_score": 0.58
-      },
-      "financials": {
-        "revenue_estimate": "ca. 92,5 Mio EUR (geschätzt)",
-        "profit_estimate": "nicht veröffentlicht",
-        "employee_count": 370,
-        "hiring_activity": {
-          "general_hiring_score": 0.3,
-          "total_job_postings": 8,
-          "hiring_reasoning": "Nur 8 offene Stellen auf jobs.knuth.de. Für 370 MA wenig Hiring-Aktivität. Bilanzsumme 2023 um 15% gesunken - vorsichtiges Recruiting."
-        },
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "H. & J. Brüggen KG",
-        "website": "brueggen.com",
-        "address": "Lübeck, Schleswig-Holstein",
-        "industry": "Lebensmittelproduktion / Cerealien",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "324 Mio EUR (2017)",
-        "profit_estimate": null,
-        "employee_count": 1900,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Friesenkrone Feinkost",
-        "website": "friesenkrone.com",
-        "address": "Marne, Schleswig-Holstein",
-        "industry": "Lebensmittelproduktion / Fischfeinkost",
-        "source": null
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.75,
-          "activity_reasoning": "Stabiles Familienunternehmen seit 1904, 90 Mio EUR Umsatz, 275 MA. Innovativ mit neuen Produktlinien (Küsten Bullar, Küstensalate). Seafood Star Awards 2025+2026. Keine Anzeichen finanzieller Probleme.",
-          "recent_news": [
-            "Seafood Star 2025 und 2026 gewonnen, Matjes Around the World Kampagne 2025, 94 offene Stellen auf StepStone"
-          ]
-        },
-        "topic_affinity": {
-          "topic": "IoT-Plattform-Entwicklung",
-          "affinity_score": 0.85,
-          "affinity_reasoning": "Lebensmittelproduzent mit 275 MA, KEINE erkennbare eigene IT/IoT-Abteilung. Sucht Fachinformatiker für IT-Abteilung - deutet auf minimale IT hin. Produktion (Fischverarbeitung) bietet großes IoT-Potenzial: Kühlketten-Monitoring, Qualitätskontrolle, Produktionsoptimierung. Kein Hinweis auf eigene Digitalisierungsprojekte. GOLDKANDIDAT für IoT-Outsourcing.",
-          "relevant_news": [
-            "Stellenanzeige Fachinformatiker IT-Abteilung zeigt kleines IT-Team. Keine IoT-Eigenentwicklung erkennbar."
-          ]
-        },
-        "combined_score": 0.81
-      },
-      "financials": {
-        "revenue_estimate": "90 Mio EUR (2023)",
-        "profit_estimate": "nicht veröffentlicht",
-        "employee_count": 275,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Logopak Systeme GmbH",
-        "website": "logopak.de",
-        "address": "Hartenholm, Schleswig-Holstein",
-        "industry": "Maschinenbau / Etikettiersysteme",
-        "source": null
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.7,
-          "activity_reasoning": "Stabile Possehl-Tochter, Weltmarktführer Etikettiersysteme, aktiv auf Messen (LogiMAT 2025, drinktec 2025), RFID@WORK Events 2025/2026. Umsatz relativ klein aber stabil.",
-          "recent_news": [
-            "LogiMAT 2025 Auftritt, RFID@WORK Live Event 2026, Logomatic 850 PSC Neuvorstellung, PID 3SIXTY Softwareplattform"
-          ]
-        },
-        "topic_affinity": {
-          "topic": "IoT-Plattform-Entwicklung",
-          "affinity_score": 0.3,
-          "affinity_reasoning": "NEGATIV: Logopak bietet SELBST IoT-Technologie an (RFID, Smart Labels, PID 3SIXTY Plattform). 17 IT-MA. Eigene Softwareentwicklung (LogoSoft). Sie SIND ein IoT-Anbieter im Etikettierbereich - würden IoT nicht outsourcen sondern selbst entwickeln.",
-          "relevant_news": [
-            "RFID@WORK Event 2026, eigene IoT-Technologie im Portfolio, PID 3SIXTY Softwareplattform, LogoSoft Industrie 4.0 Integration"
-          ]
-        },
-        "combined_score": 0.46
-      },
-      "financials": {
-        "revenue_estimate": "ca. 9,6 Mio USD (geschätzt)",
-        "profit_estimate": "nicht veröffentlicht",
-        "employee_count": 300,
-        "hiring_activity": {
-          "general_hiring_score": 0.6,
-          "total_job_postings": 28,
-          "hiring_reasoning": "28 Stellen auf LinkedIn, aktives Recruiting. Suchen v.a. Technik und Vertrieb. Für 300 MA relativ viele Stellen - deutet auf Wachstum hin."
-        },
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "FFG Flensburger Fahrzeugbau",
-        "website": "ffg-flensburg.de",
-        "address": "Flensburg, Schleswig-Holstein",
-        "industry": "Fahrzeugbau / Wehrtechnik",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "~200 Mio EUR (geschätzt)",
-        "profit_estimate": null,
-        "employee_count": 900,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Danfoss Power Solutions",
-        "website": "danfoss.com",
-        "address": "Neumünster, Schleswig-Holstein",
-        "industry": "Maschinenbau / Mobilhydraulik",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "135 Mio EUR",
-        "profit_estimate": null,
-        "employee_count": 755,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "D+H Mechatronic AG",
-        "website": "dh-partner.com",
-        "address": "Ammersbek, Schleswig-Holstein",
-        "industry": "Mechatronik / Gebäudetechnik",
-        "source": null
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.7,
-          "activity_reasoning": "Familiengeführt seit 50+ Jahren, 500+ MA weltweit, Bilanzsumme 30 Mio EUR. Aktiv auf Messen (BAU 2025), neue Produkte (CDM Kettenantrieb). Certified R&D 2025. Umsatzschätzungen variieren (20-75 Mio EUR je nach Quelle/Konsolidierung).",
-          "recent_news": [
-            "BAU 2025 Messeauftritt, neuer CDM Kettenantrieb, Certified R&D 2025, Atmosphere Awards für Partnerprojekte"
-          ]
-        },
-        "topic_affinity": {
-          "topic": "IoT-Plattform-Entwicklung",
-          "affinity_score": 0.4,
-          "affinity_reasoning": "D+H ist auf IoT Use Case Plattform gelistet und bietet selbst Steuerungstechnologien für Gebäudeautomation. Eigene Mechatronik-Entwicklung mit Antrieben und Controllern. Auf BAU 2025 mit Smart-Building-Lösungen. Hat eigene R&D (Certified R&D 2025). Bildet IT-Systemkaufleute aus. ABER: Kernkompetenz ist Mechatronik/Hardware, nicht IoT-Plattformen. Mittlere eigene IT-Kapazität. Eher schwieriger Kandidat - könnte eigene IoT-Ambitionen haben.",
-          "relevant_news": [
-            "Gelistet auf iotusecase.com, Smart Building Lösungen, eigene Steuerungstechnik-Entwicklung, Certified R&D 2025"
-          ]
-        },
-        "combined_score": 0.52
-      },
-      "financials": {
-        "revenue_estimate": "75 Mio EUR (Gruppe, 2025 geschätzt)",
-        "profit_estimate": "nicht veröffentlicht",
-        "employee_count": 500,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "GP JOULE GmbH",
-        "website": "gp-joule.com",
-        "address": "Reußenköge, Schleswig-Holstein",
-        "industry": "Erneuerbare Energien / Windenergie / Wasserstoff",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "~100 Mio EUR (Gruppe, geschätzt)",
-        "profit_estimate": null,
-        "employee_count": 500,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Denker & Wulf AG",
-        "website": "denkerwulf.de",
-        "address": "Sehestedt, Schleswig-Holstein",
-        "industry": "Windenergie-Projektierer",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "159 Mio EUR",
-        "profit_estimate": null,
-        "employee_count": 300,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "RAMPA GmbH",
-        "website": "rampa.com",
-        "address": "Büchen, Schleswig-Holstein",
-        "industry": "Verbindungstechnik / Fertigung",
-        "source": null
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.7,
-          "activity_reasoning": "Hidden Champion seit 1907, 6. Generation Familienunternehmen. Bilanzsumme 2022 bei 10 Mio EUR (+28,3%). KfW40-Neubau fertiggestellt 2023 zeigt Investitionskraft. Neue Geschäftsführer 2025 eingesetzt. Amazon-Vertriebskanal eröffnet. Solide mittelständische Basis.",
-          "recent_news": [
-            "Neuer Geschäftsführer Dirk Fischer und Kristina Brügmann 2025, Waldpflegespende Jan 2025, Amazon-Vertrieb seit Juli 2024"
-          ]
-        },
-        "topic_affinity": {
-          "topic": "IoT-Plattform-Entwicklung",
-          "affinity_score": 0.75,
-          "affinity_reasoning": "Verbindungstechnik-Hersteller mit 50-100 MA. Hat kleine IT-Abteilung die als strategisch wichtig gilt (Digitalisierung als Megatrend benannt). IT-Team hält Systeme am Laufen und implementiert neue - aber keine Hinweise auf eigene IoT-Entwicklung. Produktion (Muffen-Fertigung, Lager) bietet IoT-Potenzial. Neuer KfW40-Neubau mit moderner Gebäudetechnik. Digitalisierung/Automatisierung explizit als Megatrend benannt - Bedarf vorhanden, eigene Kapazität begrenzt.",
-          "relevant_news": [
-            "IT-Abteilung vorhanden aber klein, Digitalisierung als Megatrend definiert, KfW40-Neubau mit moderner Technik"
-          ]
-        },
-        "combined_score": 0.73
-      },
-      "financials": {
-        "revenue_estimate": "ca. 10 Mio EUR",
-        "profit_estimate": "nicht veröffentlicht",
-        "employee_count": 70,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Julius Koch GmbH",
-        "website": "juliuskoch.com",
-        "address": "Malente, Schleswig-Holstein",
-        "industry": "Technische Textilien / Sonnenschutz",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "~15 Mio EUR (geschätzt)",
-        "profit_estimate": null,
-        "employee_count": 49,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "L. Possehl & Co. mbH",
-        "website": "possehl.de",
-        "address": "Lübeck, Schleswig-Holstein",
-        "industry": "Mischkonzern / Industrieproduktion",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "4,7 Mrd EUR",
-        "profit_estimate": null,
-        "employee_count": 13000,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Drägerwerk AG",
-        "website": "draeger.com",
-        "address": "Lübeck, Schleswig-Holstein",
-        "industry": "Medizin- und Sicherheitstechnik",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "3,4 Mrd EUR",
-        "profit_estimate": null,
-        "employee_count": 14500,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "ThyssenKrupp Marine Systems",
-        "website": "thyssenkrupp-marinesystems.com",
-        "address": "Kiel, Schleswig-Holstein",
-        "industry": "Schiffbau / Marinefertigung",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "~2 Mrd EUR (geschätzt)",
-        "profit_estimate": null,
-        "employee_count": 3000,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Voigt-Logistik",
-        "website": "voigt-logistik.de",
-        "address": "Schleswig-Holstein",
-        "industry": "Logistik / Spedition / Lagerhaltung",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "~50 Mio EUR (geschätzt)",
-        "profit_estimate": null,
-        "employee_count": 200,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Brunsbüttel Ports GmbH",
-        "website": "chemcoastpark.de",
-        "address": "Brunsbüttel, Schleswig-Holstein",
-        "industry": "Hafenlogistik / Industriehafen",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "~100 Mio EUR (geschätzt)",
-        "profit_estimate": null,
-        "employee_count": 450,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Flensburger Schiffbau-Gesellschaft",
-        "website": "fsg-ship.de",
-        "address": "Flensburg, Schleswig-Holstein",
-        "industry": "Schiffbau / Werft",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "~150 Mio EUR (geschätzt)",
-        "profit_estimate": null,
-        "employee_count": 600,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "2K Maschinenbau GmbH",
-        "website": "2k-maschinenbau.de",
-        "address": "Neumünster, Schleswig-Holstein",
-        "industry": "Sondermaschinenbau / Automatisierung",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "~20 Mio EUR (geschätzt)",
-        "profit_estimate": null,
-        "employee_count": 100,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Cimbergy (ee-Nord)",
-        "website": "cimbergy.com",
-        "address": "Schleswig-Holstein",
-        "industry": "Erneuerbare Energien / Windpark-Planung",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Covestro Brunsbüttel",
-        "website": "covestro.com",
-        "address": "Brunsbüttel, Schleswig-Holstein",
-        "industry": "Chemische Industrie / Kunststoffe",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "LANXESS Brunsbüttel",
-        "website": "lanxess.com",
-        "address": "Brunsbüttel, Schleswig-Holstein",
-        "industry": "Chemische Industrie / Spezialchemie",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Caterpillar Motoren Kiel",
-        "website": "cat.com",
-        "address": "Kiel, Schleswig-Holstein",
-        "industry": "Motorenbau / Maschinenbau",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "SH Netz AG (HanseWerk)",
-        "website": "sh-netz.com",
-        "address": "Quickborn, Schleswig-Holstein",
-        "industry": "Energieversorgung / Netzbetreiber",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Jungheinrich Norderstedt",
-        "website": "jungheinrich.de",
-        "address": "Norderstedt, Schleswig-Holstein",
-        "industry": "Intralogistik / Flurförderzeuge",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "4,7 Mrd EUR (Konzern)",
-        "profit_estimate": null,
-        "employee_count": 1300,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Karl Jürgensen Spedition",
-        "website": "k-juergensen.de",
-        "address": "Hamburg/Schleswig-Holstein",
-        "industry": "Logistik / Spedition / Hafenlogistik",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Basler AG",
-        "website": "baslerweb.com",
-        "address": "Ahrensburg, Schleswig-Holstein",
-        "industry": "Industriekameras / Vision Technology",
-        "source": null
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.8,
-          "activity_reasoning": "Börsennotiert, starke Erholung 2025: Umsatz +22% auf 224,5 Mio EUR, zurück in Gewinnzone mit 11,6 Mio EUR Jahresüberschuss. EBITDA vervierfacht. Starker Auftragseingang +23%. Neue Führung ab 2026 (CEO Hardy Mehl, CTO Dr. Ströder, CFO Brückel). Mittelfristziel 275 Mio EUR Umsatz bis 2028.",
-          "recent_news": [
-            "Vorläufige GJ2025-Zahlen März 2026: Umsatz 224,5 Mio EUR, EBT 16,2 Mio EUR. CEO-Wechsel zu Hardy Mehl Jan 2026. Beteiligung an Alpha TechSys (Indien). IP67-Gehäuse und Hybrid-Bonding-Technologie vorgestellt."
-          ]
-        },
-        "topic_affinity": {
-          "topic": "IoT-Plattform-Entwicklung",
-          "affinity_score": 0.15,
-          "affinity_reasoning": "Basler IST ein IoT/Computer-Vision-Technologieunternehmen! 850 MA, davon viele Entwickler. Eigene IoT-Embedded-Vision-Systeme, Cloud-Anbindung, AI-Lösungen. Kooperation mit AWS für IoT/ML. Mitglied der 5G Alliance. Bietet selbst IoT-Lösungen an (Kameras, Software, Embedded Systems). Eigene R&D mit CTO-Position. KEIN Outsourcing-Kandidat - macht IoT selbst und verkauft es an andere!",
-          "relevant_news": [
-            "Eigene IoT Embedded Vision Systeme, AWS-Kooperation, 5G Alliance Mitglied, AI-optimierte Embedded Vision mit Cloud-Connectivity"
-          ]
-        },
-        "combined_score": 0.41
-      },
-      "financials": {
-        "revenue_estimate": "224,5 Mio EUR (2025)",
-        "profit_estimate": "11,6 Mio EUR Jahresüberschuss (2025)",
-        "employee_count": 850,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": null
-    },
-    {
-      "company": {
         "name": "CODAN Medizintechnik",
         "website": "codan.de",
         "address": "Lensahn, Schleswig-Holstein",
@@ -1327,24 +36,135 @@
           "total_job_postings": 10,
           "hiring_reasoning": "Ca. 6-10 Stellen aktiv (Stepstone, Glassdoor, eigene Seite). Suchen IT-Admin, Projektingenieur, Regulatory Affairs, Ausbildungsplätze. Für 480 MA moderate Hiring-Aktivität."
         },
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
+        "topic_hiring": {
+          "topic_hiring_score": 0.6,
+          "relevant_job_postings": 2,
+          "topic_hiring_reasoning": "Suchen IT-Netzwerkadmin und Projektingenieur Connectivity-Lösungen. IT wird aufgebaut, kein IoT-Knowhow. Medizintechnik-Connectivity ist IoT-nah. Outsourcing wahrscheinlich.",
+          "example_positions": [
+            "IT-Netzwerkadministrator",
+            "Projektingenieur Connectivity Solutions"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.7,
+          "financial_health_score": 0.7,
+          "pressure_score": 0.75,
+          "strategic_reasoning": "BESTER Kandidat für IoT-Outsourcing. Mittelstand (96 Mio, 480 MA) - ideale Größe. Finanziell solide (Bilanzsumme +10,6%). HOHER Druck: Medizintechnik-Regulierung fordert Digitalisierung, Cybersecurity, Connectivity. IT wird gerade erst aufgebaut (suchen IT-Support). Projektingenieur für Connectivity-Lösungen gesucht. Arcomed-Akquisition bringt Infusionstechnik. Sonstiges: Inhabergeführt (Husted-Andersen), dänische Wurzeln, 5 Produktionsstandorte weltweit, neuer Bereich CODAN COMPONENTS, PPA mit Sunnic Lighthouse."
+        },
+        "customer_rating": 0.65,
+        "rating_reasoning": "BESTER Kandidat für IoT-Outsourcing. Mittelstand (96 Mio, 480 MA) - ideale Größe. Finanziell solide (Bilanzsumme +10,6%). HOHER Druck: Medizintechnik-Regulierung fordert Digitalisierung, Cybersecurity, Connectivity. IT wird gerade erst aufgebaut (suchen IT-Support). Projektingenieur für Connectivity-Lösungen gesucht. Arcomed-Akquisition bringt Infusionstechnik. Sonstiges: Inhabergeführt (Husted-Andersen), dänische Wurzeln, 5 Produktionsstandorte weltweit, neuer Bereich CODAN COMPONENTS, PPA mit Sunnic Lighthouse."
       },
-      "overall_score": null
+      "overall_score": 0.652
     },
     {
       "company": {
-        "name": "Geerdts GmbH",
-        "website": "geerdts-gmbh.de",
-        "address": "Schleswig-Holstein",
-        "industry": "Getreidetechnik / Anlagenbau",
+        "name": "Friesenkrone Feinkost",
+        "website": "friesenkrone.com",
+        "address": "Marne, Schleswig-Holstein",
+        "industry": "Lebensmittelproduktion / Fischfeinkost",
         "source": null
       },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.75,
+          "activity_reasoning": "Stabiles Familienunternehmen seit 1904, 90 Mio EUR Umsatz, 275 MA. Innovativ mit neuen Produktlinien (Küsten Bullar, Küstensalate). Seafood Star Awards 2025+2026. Keine Anzeichen finanzieller Probleme.",
+          "recent_news": [
+            "Seafood Star 2025 und 2026 gewonnen, Matjes Around the World Kampagne 2025, 94 offene Stellen auf StepStone"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.85,
+          "affinity_reasoning": "Lebensmittelproduzent mit 275 MA, KEINE erkennbare eigene IT/IoT-Abteilung. Sucht Fachinformatiker für IT-Abteilung - deutet auf minimale IT hin. Produktion (Fischverarbeitung) bietet großes IoT-Potenzial: Kühlketten-Monitoring, Qualitätskontrolle, Produktionsoptimierung. Kein Hinweis auf eigene Digitalisierungsprojekte. GOLDKANDIDAT für IoT-Outsourcing.",
+          "relevant_news": [
+            "Stellenanzeige Fachinformatiker IT-Abteilung zeigt kleines IT-Team. Keine IoT-Eigenentwicklung erkennbar."
+          ]
+        },
+        "combined_score": 0.81
+      },
+      "financials": {
+        "revenue_estimate": "90 Mio EUR (2023)",
+        "profit_estimate": "nicht veröffentlicht",
+        "employee_count": 275,
+        "hiring_activity": {
+          "general_hiring_score": 0.7,
+          "total_job_postings": 94,
+          "hiring_reasoning": "94 offene Stellen auf StepStone (89 Teilzeit), aktiv einstellend. Breites Spektrum an Positionen. Zeigt Wachstum und Personalbedarf, hauptsächlich Produktion und operative Rollen."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.2,
+          "relevant_job_postings": 1,
+          "topic_hiring_reasoning": "Eine Stelle Fachinformatiker/IT-Abteilung. Keine IoT-spezifischen Stellen. Minimale IT-Kapazität - positiv für Outsourcing.",
+          "example_positions": [
+            "Fachinformatiker IT-Abteilung"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.9,
+          "financial_health_score": 0.75,
+          "pressure_score": 0.7,
+          "strategic_reasoning": "GOLDKANDIDAT. Mittelständischer Lebensmittelproduzent (90 Mio EUR, 275 MA) - perfekte Größe für IoT-Outsourcing. Finanziell solide, kann investieren. Hoher Digitalisierungsdruck: Kühlketten-Monitoring, HACCP-Compliance, Produktions-Tracking, Qualitätskontrolle - alles IoT-relevant. Keine eigene IoT-Kompetenz. Sonstiges: Familienunternehmen 4. Generation, Standort Marne (ländlich, wenig IT-Talente vor Ort), foodRegio-Netzwerk-Mitglied, innovative Produktentwicklung zeigt Offenheit für Neues."
+        },
+        "customer_rating": 0.565,
+        "rating_reasoning": "GOLDKANDIDAT. Mittelständischer Lebensmittelproduzent (90 Mio EUR, 275 MA) - perfekte Größe für IoT-Outsourcing. Finanziell solide, kann investieren. Hoher Digitalisierungsdruck: Kühlketten-Monitoring, HACCP-Compliance, Produktions-Tracking, Qualitätskontrolle - alles IoT-relevant. Keine eigene IoT-Kompetenz. Sonstiges: Familienunternehmen 4. Generation, Standort Marne (ländlich, wenig IT-Talente vor Ort), foodRegio-Netzwerk-Mitglied, innovative Produktentwicklung zeigt Offenheit für Neues."
+      },
+      "overall_score": 0.596
+    },
+    {
+      "company": {
+        "name": "Basler AG",
+        "website": "baslerweb.com",
+        "address": "Ahrensburg, Schleswig-Holstein",
+        "industry": "Industriekameras / Vision Technology",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.8,
+          "activity_reasoning": "Börsennotiert, starke Erholung 2025: Umsatz +22% auf 224,5 Mio EUR, zurück in Gewinnzone mit 11,6 Mio EUR Jahresüberschuss. EBITDA vervierfacht. Starker Auftragseingang +23%. Neue Führung ab 2026 (CEO Hardy Mehl, CTO Dr. Ströder, CFO Brückel). Mittelfristziel 275 Mio EUR Umsatz bis 2028.",
+          "recent_news": [
+            "Vorläufige GJ2025-Zahlen März 2026: Umsatz 224,5 Mio EUR, EBT 16,2 Mio EUR. CEO-Wechsel zu Hardy Mehl Jan 2026. Beteiligung an Alpha TechSys (Indien). IP67-Gehäuse und Hybrid-Bonding-Technologie vorgestellt."
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.15,
+          "affinity_reasoning": "Basler IST ein IoT/Computer-Vision-Technologieunternehmen! 850 MA, davon viele Entwickler. Eigene IoT-Embedded-Vision-Systeme, Cloud-Anbindung, AI-Lösungen. Kooperation mit AWS für IoT/ML. Mitglied der 5G Alliance. Bietet selbst IoT-Lösungen an (Kameras, Software, Embedded Systems). Eigene R&D mit CTO-Position. KEIN Outsourcing-Kandidat - macht IoT selbst und verkauft es an andere!",
+          "relevant_news": [
+            "Eigene IoT Embedded Vision Systeme, AWS-Kooperation, 5G Alliance Mitglied, AI-optimierte Embedded Vision mit Cloud-Connectivity"
+          ]
+        },
+        "combined_score": 0.41
+      },
+      "financials": {
+        "revenue_estimate": "224,5 Mio EUR (2025)",
+        "profit_estimate": "11,6 Mio EUR Jahresüberschuss (2025)",
+        "employee_count": 850,
+        "hiring_activity": {
+          "general_hiring_score": 0.6,
+          "total_job_postings": 30,
+          "hiring_reasoning": "Börsennotiertes Technologieunternehmen mit 850 MA. Nach Restrukturierung wieder einstellend. Ausbildungsplätze für 2026 ausgeschrieben. Moderate Einstellungsaktivität nach starkem Personalabbau in Vorjahren."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.8,
+          "relevant_job_postings": 15,
+          "topic_hiring_reasoning": "Computer-Vision/IoT-Kernkompetenz. Eigene Embedded Vision, Cloud/IoT, AI-Entwicklung. Viele Entwickler in Ahrensburg. NEGATIV für Outsourcing.",
+          "example_positions": [
+            "Embedded Software Engineer",
+            "Computer Vision Developer",
+            "Elektroniker"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.5,
+          "financial_health_score": 0.8,
+          "pressure_score": 0.1,
+          "strategic_reasoning": "KEIN Outsourcing-Kandidat. Basler IST ein IoT/Computer-Vision-Technologieunternehmen. 850 MA, 224 Mio EUR Umsatz, eigene R&D, eigene IoT-Plattformen, AWS-Kooperation, 5G Alliance. Macht IoT selbst und verkauft es. Zu groß, zu technisch, zu eigenständig. Kein Digitalisierungsdruck - sie SIND die Digitalisierung. Sonstiges: Börsennotiert (BSL.DE), CEO-Wechsel 2026, Beteiligung Alpha TechSys Indien, mittelfristig 275 Mio EUR Umsatzziel, IP67-Kameras, Hybrid Bonding."
+        },
+        "customer_rating": 0.5,
+        "rating_reasoning": "KEIN Outsourcing-Kandidat. Basler IST ein IoT/Computer-Vision-Technologieunternehmen. 850 MA, 224 Mio EUR Umsatz, eigene R&D, eigene IoT-Plattformen, AWS-Kooperation, 5G Alliance. Macht IoT selbst und verkauft es. Zu groß, zu technisch, zu eigenständig. Kein Digitalisierungsdruck - sie SIND die Digitalisierung. Sonstiges: Börsennotiert (BSL.DE), CEO-Wechsel 2026, Beteiligung Alpha TechSys Indien, mittelfristig 275 Mio EUR Umsatzziel, IP67-Kameras, Hybrid Bonding."
+      },
+      "overall_score": 0.545
     },
     {
       "company": {
@@ -1381,12 +201,1423 @@
           "total_job_postings": 6,
           "hiring_reasoning": "Nur 6 Stellen auf Indeed. Fokus auf Produktion, Vertrieb, Ausbildung. Keine IT-Stellen ausgeschrieben. Für 270 MA wenig Hiring-Aktivität."
         },
+        "topic_hiring": {
+          "topic_hiring_score": 0.4,
+          "relevant_job_postings": 0,
+          "topic_hiring_reasoning": "Keine IT/IoT-Stellen ausgeschrieben. IT-Abteilung existiert, aber keine IoT-Spezialisten. Neues Sudhaus 2027 könnte IoT-Bedarf erzeugen.",
+          "example_positions": [
+            "Fachinformatiker Systemintegration (Azubi)",
+            "Maschinenbediener"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.7,
+          "financial_health_score": 0.85,
+          "pressure_score": 0.5,
+          "strategic_reasoning": "MITTEL als IoT-Outsourcing-Kandidat. Mittelstand (90 Mio, 270 MA) - gute Größe. Finanziell exzellent (17x positiv, Wachstum gegen Markttrend). ABER: Hat gut ausgestattete IT (200 User, 80 Server, Fachinformatiker-Ausbildung, KUMAVISION ERP). Neues Sudhaus 2027 erzeugt IoT-Potenzial (Energieeffizienz, Predictive Maintenance). Sonstiges: SH größte Privatbrauerei, EMAS-zertifiziert, neues Sudhaus 40% weniger Energie, Klimaneutralität 2045, starke Innovation (Küstenlimos, Strand-Lager)."
+        },
+        "customer_rating": 0.475,
+        "rating_reasoning": "MITTEL als IoT-Outsourcing-Kandidat. Mittelstand (90 Mio, 270 MA) - gute Größe. Finanziell exzellent (17x positiv, Wachstum gegen Markttrend). ABER: Hat gut ausgestattete IT (200 User, 80 Server, Fachinformatiker-Ausbildung, KUMAVISION ERP). Neues Sudhaus 2027 erzeugt IoT-Potenzial (Energieeffizienz, Predictive Maintenance). Sonstiges: SH größte Privatbrauerei, EMAS-zertifiziert, neues Sudhaus 40% weniger Energie, Klimaneutralität 2045, starke Innovation (Küstenlimos, Strand-Lager)."
+      },
+      "overall_score": 0.524
+    },
+    {
+      "company": {
+        "name": "KNUTH Werkzeugmaschinen GmbH",
+        "website": "knuth.com",
+        "address": "Wasbek, Schleswig-Holstein",
+        "industry": "Maschinenbau / Werkzeugmaschinen",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.7,
+          "activity_reasoning": "100 Jahre Familienunternehmen, Hidden Champion, ca. 92,5 Mio Umsatz, global in 30+ Ländern aktiv. Bilanzsumme 2023 um 15% gesunken, aber solide Basis. 4. Generation führt Unternehmen.",
+          "recent_news": [
+            "FABTECH 2025 Chicago, Fabtech MX 2026 Mexiko, neuer Katalog 2025, BobCAD-CAM Partnerschaft, 5-Jahres-Garantie auf Maschinen"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.5,
+          "affinity_reasoning": "GEMISCHT: KNUTH nutzt bereits die Synctive IoT-Plattform für Maschinenvernetzung und JobRouter für Digitalisierung. Haben Digitalisierung angestoßen, aber keine große eigene IT-Abteilung erkennbar. Synctive ist extern zugekauft. Mittelgroßes Potenzial - könnten ergänzende IoT-Lösungen brauchen, aber Kernbereich bereits abgedeckt.",
+          "relevant_news": [
+            "Synctive IoT-Plattform für Maschinenvernetzung, JobRouter Digitalisierungsplattform, Fokus auf präventive Wartung und Datentransparenz"
+          ]
+        },
+        "combined_score": 0.58
+      },
+      "financials": {
+        "revenue_estimate": "ca. 92,5 Mio EUR (geschätzt)",
+        "profit_estimate": "nicht veröffentlicht",
+        "employee_count": 370,
+        "hiring_activity": {
+          "general_hiring_score": 0.3,
+          "total_job_postings": 8,
+          "hiring_reasoning": "Nur 8 offene Stellen auf jobs.knuth.de. Für 370 MA wenig Hiring-Aktivität. Bilanzsumme 2023 um 15% gesunken - vorsichtiges Recruiting."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.4,
+          "relevant_job_postings": 1,
+          "topic_hiring_reasoning": "Synctive IoT-Plattform extern zugekauft. Keine spezifischen IoT-Stellen. Digitalisierung über Partner (JobRouter, Synctive). Könnte ergänzende IoT-Dienste brauchen.",
+          "example_positions": [
+            "Digitalisierung/IT",
+            "Technischer Support"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.7,
+          "financial_health_score": 0.65,
+          "pressure_score": 0.6,
+          "strategic_reasoning": "MITTEL als IoT-Outsourcing-Kandidat. Mittelstand (92,5 Mio, 370 MA) - gute Größe. Bilanzsumme 2023 -15%, aber Hidden Champion. Nutzt bereits Synctive IoT und JobRouter - Digitalisierung läuft, aber extern eingekauft. Will digitaler Leader werden. Sonstiges: 4. Generation Familienunternehmen, 30+ Länder, BobCAD-CAM Partnerschaft, Synctive von extern - Muster des externen Einkaufs von Digitallösungen."
+        },
+        "customer_rating": 0.505,
+        "rating_reasoning": "MITTEL als IoT-Outsourcing-Kandidat. Mittelstand (92,5 Mio, 370 MA) - gute Größe. Bilanzsumme 2023 -15%, aber Hidden Champion. Nutzt bereits Synctive IoT und JobRouter - Digitalisierung läuft, aber extern eingekauft. Will digitaler Leader werden. Sonstiges: 4. Generation Familienunternehmen, 30+ Länder, BobCAD-CAM Partnerschaft, Synctive von extern - Muster des externen Einkaufs von Digitallösungen."
+      },
+      "overall_score": 0.501
+    },
+    {
+      "company": {
+        "name": "D+H Mechatronic AG",
+        "website": "dh-partner.com",
+        "address": "Ammersbek, Schleswig-Holstein",
+        "industry": "Mechatronik / Gebäudetechnik",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.7,
+          "activity_reasoning": "Familiengeführt seit 50+ Jahren, 500+ MA weltweit, Bilanzsumme 30 Mio EUR. Aktiv auf Messen (BAU 2025), neue Produkte (CDM Kettenantrieb). Certified R&D 2025. Umsatzschätzungen variieren (20-75 Mio EUR je nach Quelle/Konsolidierung).",
+          "recent_news": [
+            "BAU 2025 Messeauftritt, neuer CDM Kettenantrieb, Certified R&D 2025, Atmosphere Awards für Partnerprojekte"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.4,
+          "affinity_reasoning": "D+H ist auf IoT Use Case Plattform gelistet und bietet selbst Steuerungstechnologien für Gebäudeautomation. Eigene Mechatronik-Entwicklung mit Antrieben und Controllern. Auf BAU 2025 mit Smart-Building-Lösungen. Hat eigene R&D (Certified R&D 2025). Bildet IT-Systemkaufleute aus. ABER: Kernkompetenz ist Mechatronik/Hardware, nicht IoT-Plattformen. Mittlere eigene IT-Kapazität. Eher schwieriger Kandidat - könnte eigene IoT-Ambitionen haben.",
+          "relevant_news": [
+            "Gelistet auf iotusecase.com, Smart Building Lösungen, eigene Steuerungstechnik-Entwicklung, Certified R&D 2025"
+          ]
+        },
+        "combined_score": 0.52
+      },
+      "financials": {
+        "revenue_estimate": "75 Mio EUR (Gruppe, 2025 geschätzt)",
+        "profit_estimate": "nicht veröffentlicht",
+        "employee_count": 500,
+        "hiring_activity": {
+          "general_hiring_score": 0.5,
+          "total_job_postings": 14,
+          "hiring_reasoning": "14 offene Stellen auf Glassdoor. Moderate Einstellungsaktivität. Bietet Ausbildungen (Mechatroniker, IT-Systemkaufmann, Industriekaufmann). Mittelständische Einstellungsrate passend zur Unternehmensgröße."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.3,
+          "relevant_job_postings": 2,
+          "topic_hiring_reasoning": "IT-Systemkaufleute Ausbildung, Mechatronik-Entwickler. Keine expliziten IoT-Plattform-Stellen, aber technische Rollen IoT-nah.",
+          "example_positions": [
+            "IT-Systemkaufmann",
+            "Mechatroniker"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.7,
+          "financial_health_score": 0.7,
+          "pressure_score": 0.5,
+          "strategic_reasoning": "Gemischtes Bild. Mittlere Unternehmensgröße (500 MA, 75 Mio EUR Gruppe). Eigene Steuerungstechnik-Entwicklung und Mechatronik-Kompetenz. IoT Use Case-gelistet, Smart Building-nah. ABER: Könnte Partner für IoT-Integration in Gebäudetechnik sein, nicht reiner Outsourcing-Kunde. Risiko: Eigene IoT-Ambitionen. Sonstiges: Familienunternehmen, 130 Partner in 50+ Ländern, starkes internationales Netzwerk, BAU-Messe-Präsenz, 5G/Smart-Building-Trend relevant."
+        },
+        "customer_rating": 0.47,
+        "rating_reasoning": "Gemischtes Bild. Mittlere Unternehmensgröße (500 MA, 75 Mio EUR Gruppe). Eigene Steuerungstechnik-Entwicklung und Mechatronik-Kompetenz. IoT Use Case-gelistet, Smart Building-nah. ABER: Könnte Partner für IoT-Integration in Gebäudetechnik sein, nicht reiner Outsourcing-Kunde. Risiko: Eigene IoT-Ambitionen. Sonstiges: Familienunternehmen, 130 Partner in 50+ Ländern, starkes internationales Netzwerk, BAU-Messe-Präsenz, 5G/Smart-Building-Trend relevant."
+      },
+      "overall_score": 0.475
+    },
+    {
+      "company": {
+        "name": "RAMPA GmbH",
+        "website": "rampa.com",
+        "address": "Büchen, Schleswig-Holstein",
+        "industry": "Verbindungstechnik / Fertigung",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.7,
+          "activity_reasoning": "Hidden Champion seit 1907, 6. Generation Familienunternehmen. Bilanzsumme 2022 bei 10 Mio EUR (+28,3%). KfW40-Neubau fertiggestellt 2023 zeigt Investitionskraft. Neue Geschäftsführer 2025 eingesetzt. Amazon-Vertriebskanal eröffnet. Solide mittelständische Basis.",
+          "recent_news": [
+            "Neuer Geschäftsführer Dirk Fischer und Kristina Brügmann 2025, Waldpflegespende Jan 2025, Amazon-Vertrieb seit Juli 2024"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.75,
+          "affinity_reasoning": "Verbindungstechnik-Hersteller mit 50-100 MA. Hat kleine IT-Abteilung die als strategisch wichtig gilt (Digitalisierung als Megatrend benannt). IT-Team hält Systeme am Laufen und implementiert neue - aber keine Hinweise auf eigene IoT-Entwicklung. Produktion (Muffen-Fertigung, Lager) bietet IoT-Potenzial. Neuer KfW40-Neubau mit moderner Gebäudetechnik. Digitalisierung/Automatisierung explizit als Megatrend benannt - Bedarf vorhanden, eigene Kapazität begrenzt.",
+          "relevant_news": [
+            "IT-Abteilung vorhanden aber klein, Digitalisierung als Megatrend definiert, KfW40-Neubau mit moderner Technik"
+          ]
+        },
+        "combined_score": 0.73
+      },
+      "financials": {
+        "revenue_estimate": "ca. 10 Mio EUR",
+        "profit_estimate": "nicht veröffentlicht",
+        "employee_count": 70,
+        "hiring_activity": {
+          "general_hiring_score": 0.3,
+          "total_job_postings": 5,
+          "hiring_reasoning": "Wenige offene Stellen sichtbar. Kleines Unternehmen mit 50-100 MA. Keine aggressive Einstellungskampagne erkennbar. Neue Geschäftsführung 2025 könnte aber zu Veränderungen führen."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.1,
+          "relevant_job_postings": 0,
+          "topic_hiring_reasoning": "Keine IoT-bezogenen Stellen. IT-Abteilung ohne IoT-Neueinstellungen. Deutet auf Outsourcing-Bereitschaft.",
+          "example_positions": [
+            "keine"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.95,
+          "financial_health_score": 0.65,
+          "pressure_score": 0.6,
+          "strategic_reasoning": "Sehr guter Kandidat. Kleiner Hidden Champion (50-100 MA, ca. 10 Mio EUR) - ideale Größe. Digitalisierung als Megatrend definiert, IT-Abteilung vorhanden aber klein. Neubau mit moderner Gebäudetechnik zeigt Investitionsbereitschaft. Produktion (Muffen-Fertigung) bietet IoT-Potenzial für Maschinenüberwachung und Qualitätskontrolle. Sonstiges: 6. Generation Familienunternehmen, neuer KfW40-Neubau, Amazon-Vertriebskanal 2024, neue Geschäftsführung 2025, Standort Büchen (ländlich)."
+        },
+        "customer_rating": 0.45,
+        "rating_reasoning": "Sehr guter Kandidat. Kleiner Hidden Champion (50-100 MA, ca. 10 Mio EUR) - ideale Größe. Digitalisierung als Megatrend definiert, IT-Abteilung vorhanden aber klein. Neubau mit moderner Gebäudetechnik zeigt Investitionsbereitschaft. Produktion (Muffen-Fertigung) bietet IoT-Potenzial für Maschinenüberwachung und Qualitätskontrolle. Sonstiges: 6. Generation Familienunternehmen, neuer KfW40-Neubau, Amazon-Vertriebskanal 2024, neue Geschäftsführung 2025, Standort Büchen (ländlich)."
+      },
+      "overall_score": 0.467
+    },
+    {
+      "company": {
+        "name": "Logopak Systeme GmbH",
+        "website": "logopak.de",
+        "address": "Hartenholm, Schleswig-Holstein",
+        "industry": "Maschinenbau / Etikettiersysteme",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.7,
+          "activity_reasoning": "Stabile Possehl-Tochter, Weltmarktführer Etikettiersysteme, aktiv auf Messen (LogiMAT 2025, drinktec 2025), RFID@WORK Events 2025/2026. Umsatz relativ klein aber stabil.",
+          "recent_news": [
+            "LogiMAT 2025 Auftritt, RFID@WORK Live Event 2026, Logomatic 850 PSC Neuvorstellung, PID 3SIXTY Softwareplattform"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.3,
+          "affinity_reasoning": "NEGATIV: Logopak bietet SELBST IoT-Technologie an (RFID, Smart Labels, PID 3SIXTY Plattform). 17 IT-MA. Eigene Softwareentwicklung (LogoSoft). Sie SIND ein IoT-Anbieter im Etikettierbereich - würden IoT nicht outsourcen sondern selbst entwickeln.",
+          "relevant_news": [
+            "RFID@WORK Event 2026, eigene IoT-Technologie im Portfolio, PID 3SIXTY Softwareplattform, LogoSoft Industrie 4.0 Integration"
+          ]
+        },
+        "combined_score": 0.46
+      },
+      "financials": {
+        "revenue_estimate": "ca. 9,6 Mio USD (geschätzt)",
+        "profit_estimate": "nicht veröffentlicht",
+        "employee_count": 300,
+        "hiring_activity": {
+          "general_hiring_score": 0.6,
+          "total_job_postings": 28,
+          "hiring_reasoning": "28 Stellen auf LinkedIn, aktives Recruiting. Suchen v.a. Technik und Vertrieb. Für 300 MA relativ viele Stellen - deutet auf Wachstum hin."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.2,
+          "relevant_job_postings": 0,
+          "topic_hiring_reasoning": "Keine externen IoT-Stellen - Logopak entwickelt IoT selbst (RFID, Smart Labels, PID 3SIXTY). 17 IT-MA intern. Kein Outsourcing-Bedarf.",
+          "example_positions": [
+            "Softwareentwickler (intern)",
+            "IoT-Techniker (intern)"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.9,
+          "financial_health_score": 0.7,
+          "pressure_score": 0.3,
+          "strategic_reasoning": "NEGATIV als IoT-Outsourcing-Kandidat. Kleines Unternehmen (9,6 Mio USD, 300 MA) - Size passt perfekt. Possehl-Tochter finanziell stabil. ABER: Entwickelt SELBST IoT (RFID, Smart Labels, PID 3SIXTY). Hat 17 IT-MA. Kein Outsourcing-Druck da eigene Kompetenz. Sonstiges: Possehl Identification Solutions Gruppe, 90% Fertigung in DE, RFID@WORK Events zeigen eigene IoT-Kompetenz."
+        },
+        "customer_rating": 0.43,
+        "rating_reasoning": "NEGATIV als IoT-Outsourcing-Kandidat. Kleines Unternehmen (9,6 Mio USD, 300 MA) - Size passt perfekt. Possehl-Tochter finanziell stabil. ABER: Entwickelt SELBST IoT (RFID, Smart Labels, PID 3SIXTY). Hat 17 IT-MA. Kein Outsourcing-Druck da eigene Kompetenz. Sonstiges: Possehl Identification Solutions Gruppe, 90% Fertigung in DE, RFID@WORK Events zeigen eigene IoT-Kompetenz."
+      },
+      "overall_score": 0.43
+    },
+    {
+      "company": {
+        "name": "Hemro Group (Mahlkönig)",
+        "website": "mahlkoenig.com",
+        "address": "Hamburg",
+        "industry": "Kaffeemühlen / Maschinenbau",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.85,
+          "activity_reasoning": "Starkes Wachstum, Expansion in Home-Segment (Xenia), neuer HQ Zürich, neue Distributionspartner weltweit. Bilanzsumme +85% 2021. Akquisition Xenia Espresso 2025.",
+          "recent_news": [
+            "Mahlkönig Xenia Home-Espressomaschine Launch Okt 2025, Parts Town UK Partnerschaft Feb 2026, La Marzocco USA Distribution"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.4,
+          "affinity_reasoning": "ACHTUNG: Hemro hat EIGENE IoT-Strategie - Sync System mit Cloud-Connectivity, automatische Mahlgrad-Anpassung via App. Kooperation mit La Marzocco und Sanremo. Hemro baut eigenes Connected-Coffee-Ökosystem auf. Software wird vermutlich intern/Zürich entwickelt. ABER: Keine sichtbaren IT/Software-Stellen in Hamburg - Produktion in HH, Software eher in Zürich. Potential für externe Plattform-Entwicklung möglich, aber hohe eigene Kompetenz vorhanden.",
+          "relevant_news": [
+            "Mahlkönig Sync System, Grind-by-Sync Cloud-Connectivity, E64 WS connected grinder"
+          ]
+        },
+        "combined_score": 0.58
+      },
+      "financials": {
+        "revenue_estimate": "ca. 40-60 Mio EUR (geschätzt, Bilanzsumme 40 Mio 2021)",
+        "profit_estimate": "nicht veröffentlicht",
+        "employee_count": 320,
+        "hiring_activity": {
+          "general_hiring_score": 0.4,
+          "total_job_postings": 5,
+          "hiring_reasoning": "Wenige offene Stellen sichtbar. After Sales Service in Hamburg. Keine IT/Software-Stellen in Hamburg gefunden. Software-Entwicklung vermutlich in Zürich HQ."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.2,
+          "relevant_job_postings": 0,
+          "topic_hiring_reasoning": "Keine IoT/Software-Stellen in Hamburg gefunden. IoT-Entwicklung laeuft ueber Zuerich HQ. Sync System existiert bereits - wenig Outsourcing-Bedarf.",
+          "example_positions": [
+            "keine gefunden"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.7,
+          "financial_health_score": 0.8,
+          "pressure_score": 0.3,
+          "strategic_reasoning": "Mittelstand 320 MA, gute Finanzsituation mit Wachstum. ABER: Geringer Outsourcing-Druck - Hemro hat eigenes IoT-Oekosystem (Sync System) mit Cloud, Apps, Connected Grinders. Software-Entwicklung in Zuerich. Hamburg ist Produktionsstandort. Technologie-Partner: La Marzocco, Sanremo. Hemro ist KEIN guter Kandidat fuer IoT-Outsourcing da sie eigene IoT-Kompetenz aufbauen."
+        },
+        "customer_rating": 0.36,
+        "rating_reasoning": "Mittelstand 320 MA, gute Finanzsituation mit Wachstum. ABER: Geringer Outsourcing-Druck - Hemro hat eigenes IoT-Oekosystem (Sync System) mit Cloud, Apps, Connected Grinders. Software-Entwicklung in Zuerich. Hamburg ist Produktionsstandort. Technologie-Partner: La Marzocco, Sanremo. Hemro ist KEIN guter Kandidat fuer IoT-Outsourcing da sie eigene IoT-Kompetenz aufbauen."
+      },
+      "overall_score": 0.422
+    },
+    {
+      "company": {
+        "name": "HANSA Press- und Maschinenbau GmbH",
+        "website": "hansapress.de",
+        "address": "Hamburg",
+        "industry": "Maschinenbau / Sondermaschinenbau",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.65,
+          "activity_reasoning": "Stabiles Familienunternehmen in 3. Generation (Jan Rohde), Bilanzsumme +19.4% 2023. ISO 9001 zertifiziert. Klein aber stabil. Fynn Rohde als Prokurist seit Nov 2024 deutet auf Generationswechsel/Wachstum.",
+          "recent_news": [
+            "Bilanzsumme +19.4% 2023, Fynn Rohde neuer Prokurist Nov 2024"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.85,
+          "affinity_reasoning": "GOLDKANDIDAT-Potential: Klassischer Sondermaschinenbauer mit 45 MA, KEINE eigene IT-Abteilung erkennbar, keine Digitalisierungs-Initiativen gefunden. Baut Pressen, Sondermaschinen, Pruefstaende - alles Produkte die von IoT-Anbindung (Condition Monitoring, Predictive Maintenance, Fernwartung) massiv profitieren wuerden. Keinerlei IoT/Industrie 4.0 Aktivitaeten sichtbar. Wuerde IoT definitiv outsourcen muessen.",
+          "relevant_news": [
+            "Keine IoT/Digitalisierungs-News gefunden - reiner traditioneller Maschinenbau"
+          ]
+        },
+        "combined_score": 0.77
+      },
+      "financials": {
+        "revenue_estimate": "ca. 5-8 Mio EUR (geschätzt, Bilanzsumme 3 Mio 2023)",
+        "profit_estimate": "nicht veröffentlicht",
+        "employee_count": 45,
+        "hiring_activity": {
+          "general_hiring_score": 0.3,
+          "total_job_postings": 2,
+          "hiring_reasoning": "Sehr wenige Stellenanzeigen. Kleines Unternehmen mit 45 MA, stellt selten ein. Keine IT-Stellen."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.1,
+          "relevant_job_postings": 0,
+          "topic_hiring_reasoning": "Null IoT/IT-Stellen. Kein internes IT-Team erkennbar. Perfekt fuer Outsourcing.",
+          "example_positions": [
+            "keine"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.95,
+          "financial_health_score": 0.6,
+          "pressure_score": 0.7,
+          "strategic_reasoning": "IDEALER Kandidat fuer IoT-Outsourcing: Kleiner Sondermaschinenbauer (45 MA), keine IT, baut Pressen/Sondermaschinen/Pruefstaende die IoT-faehig gemacht werden koennten. Condition Monitoring, Predictive Maintenance, Fernwartung waeren Mehrwert fuer deren Kunden. Generationswechsel (Fynn Rohde) koennte Digitalisierungsinitiative ausloesen. Finanziell solide aber klein - Budget fuer IoT-Projekt muss stimmen. Sonstiges: ISO 9001, 1300qm Produktion, 3. Generation Familienunternehmen."
+        },
+        "customer_rating": 0.48,
+        "rating_reasoning": "IDEALER Kandidat fuer IoT-Outsourcing: Kleiner Sondermaschinenbauer (45 MA), keine IT, baut Pressen/Sondermaschinen/Pruefstaende die IoT-faehig gemacht werden koennten. Condition Monitoring, Predictive Maintenance, Fernwartung waeren Mehrwert fuer deren Kunden. Generationswechsel (Fynn Rohde) koennte Digitalisierungsinitiative ausloesen. Finanziell solide aber klein - Budget fuer IoT-Projekt muss stimmen. Sonstiges: ISO 9001, 1300qm Produktion, 3. Generation Familienunternehmen."
+      },
+      "overall_score": 0.417
+    },
+    {
+      "company": {
+        "name": "Stern-Wywiol Gruppe",
+        "website": "stern-wywiol-gruppe.de",
+        "address": "Hamburg, Alsterufer",
+        "industry": "Lebensmittelzusatzstoffe / Food Ingredients",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.9,
+          "activity_reasoning": "Sehr erfolgreiches inhabergeführtes Unternehmen. 668 Mio EUR Umsatz 2024. Hidden Champion und Weltmarktführer. Rang 171 Top-Mittelständler Deutschland. Expansion in USA (SternMaid America Rebranding Feb 2026). 14 Spezialunternehmen, 20 Auslandstöchter. Über 40 Jahre erfolgreich.",
+          "recent_news": [
+            "US-Rebranding Planteneers zu SternMaid America Feb 2026, 668 Mio EUR Umsatz 2024, internationale Expansion"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.55,
+          "affinity_reasoning": "Hat eigene Digital-Einheit 'SternConnect' für digitale Transformation. Sucht IT-Projektmanager und OT/IT Infrastructure Manager. OT-Infrastruktur (PLS, HMI, SPS) vorhanden. Steuert externe IT-Dienstleister - zeigt Outsourcing-Bereitschaft\\! Aber: eigene OT/IT-Kompetenz im Aufbau. IoT-Bedarf bei 10 Technology Centern und Produktionsstandorten weltweit vorhanden. Mittlerer Score weil eigene IT aufgebaut wird ABER externe Dienstleister genutzt werden.",
+          "relevant_news": [
+            "SternConnect Digital-Einheit, OT/IT Infrastructure Manager gesucht, externe IT-Dienstleister werden gesteuert"
+          ]
+        },
+        "combined_score": 0.69
+      },
+      "financials": {
+        "revenue_estimate": "668 Mio EUR (2024)",
+        "profit_estimate": "nicht veröffentlicht",
+        "employee_count": 1974,
+        "hiring_activity": {
+          "general_hiring_score": 0.6,
+          "total_job_postings": 10,
+          "hiring_reasoning": "Wenige offene Stellen auf Glassdoor. Sucht Senior IT Projektmanager und OT/IT Infrastructure Manager - zeigt aktiven Ausbau der IT. Duales Studium Business Informatics angeboten. Moderate Hiring-Aktivität."
+        },
         "topic_hiring": null,
         "strategic_fit": null,
         "customer_rating": 0.0,
         "rating_reasoning": ""
       },
-      "overall_score": null
+      "overall_score": 0.323
+    },
+    {
+      "company": {
+        "name": "Harburg-Freudenberger Maschinenbau (HF Group)",
+        "website": "hf-group.com",
+        "address": "Hamburg-Harburg",
+        "industry": "Maschinenbau / Anlagenbau",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.75,
+          "activity_reasoning": "Solider Maschinenbauer unter Possehl-Dach. 2300 MA, global aufgestellt. Akquisition WF Recycle-Tech zeigt Wachstumsstrategie. Continental Supplier Award. Neue Patentanmeldungen 2025. Führungswechsel 2024/2025. Investitionen in Produktion (Kroatien).",
+          "recent_news": [
+            "Akquisition WF Recycle-Tech, Continental Supplier Award, Global Sales Meeting 2025, Kooperation Murrelektronik IO-Link, 4 Trademark-Filings 2025"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.5,
+          "affinity_reasoning": "HF Group hat 71 MA in IT-Abteilung (Head of IT: Alexander Bodi) - mittlere IT. Digitalisierung fokussiert auf ECM-Systeme und Prozessdigitalisierung (Actiware-Referenz). IO-Link Automatisierung mit Murrelektronik. KEIN eigenes IoT-Produkt gefunden. IoT-Bedarf vorhanden (Maschinenbau, Reifenpressen, Produktionsanlagen). Aber: IT-Abteilung mit 71 Leuten könnte teilweise selbst machen.",
+          "relevant_news": [
+            "ECM-System Digitalisierung, Murrelektronik IO-Link Kooperation, keine eigenen IoT-Produkte identifiziert"
+          ]
+        },
+        "combined_score": 0.6
+      },
+      "financials": {
+        "revenue_estimate": "367 Mio EUR (2022, HF Group gesamt)",
+        "profit_estimate": "nicht veröffentlicht (Teil der Possehl-Gruppe)",
+        "employee_count": 2300,
+        "hiring_activity": {
+          "general_hiring_score": 0.5,
+          "total_job_postings": 15,
+          "hiring_reasoning": "15 Stellenangebote auf finest-jobs. IT-Abteilung hat 71 MA. Nur 1 IT-Ausbildungsstelle (Fachinformatiker 2026). Wenig aktives IT-Recruiting trotz großer IT-Abteilung - Bestand stabil."
+        },
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.3
+    },
+    {
+      "company": {
+        "name": "Pfannenberg GmbH",
+        "website": "pfannenberg.com",
+        "address": "Hamburg",
+        "industry": "Elektrotechnik / Klimatisierung / Signaltechnik",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.85,
+          "activity_reasoning": "Stabiles Familienunternehmen seit 1954. Hidden Champion mit 190 Patenten. 'One Pfannenberg' Initiative 2026 zeigt strategische Neuausrichtung mit neuem CEO, CFO, CCO. Expansion in Data Center Cooling, Windenergie (Nordex), F-Gas Compliance. Arbeitgeber-Score 4.2/5 auf Kununu.",
+          "recent_news": [
+            "One Pfannenberg globale Strategieinitiative März 2026, neue Führung (CEO Dr. Merl, CFO Dr. Müller), Harsh Environments Cooling Solutions, Pfire EN54-Signaltechnik"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.3,
+          "affinity_reasoning": "Pfannenberg HAT BEREITS eigene IoT-Lösungen entwickelt! Cool X Produktlinie mit IoT-Cloud-Anbindung, Condition Monitoring, Predictive Maintenance. Kooperation mit Deutsche Telekom für GSM-basierte IoT-Anbindung. CTO Nils-Peter Halm treibt Digitalisierung. Eigene Smart-Service-Modelle (Condition Monitoring, Maintenance+). NEGATIV für uns: Firma macht IoT selbst und hat eigene Kompetenz.",
+          "relevant_news": [
+            "Cool X IoT-Cloud-Anbindung, Telekom-Kooperation GSM-Modul, Predictive Maintenance Services, SPS 2025 Aussteller"
+          ]
+        },
+        "combined_score": 0.52
+      },
+      "financials": {
+        "revenue_estimate": "ca. 71 Mio EUR (Gruppe, 2017 Schätzung, aktueller Umsatz geschätzt 80-100 Mio EUR)",
+        "profit_estimate": "nicht veröffentlicht",
+        "employee_count": 450,
+        "hiring_activity": {
+          "general_hiring_score": 0.3,
+          "total_job_postings": 4,
+          "hiring_reasoning": "Nur 4 offene Stellen auf Glassdoor. Keine spezifischen IT/IoT-Stellen gefunden. Bei 450 MA wenig Hiring-Aktivität. Aber: haben eigene IoT-Kompetenz intern, daher wenig IT-Outsourcing-Bedarf."
+        },
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.28
+    },
+    {
+      "company": {
+        "name": "WEINMANN Emergency Medical Technology",
+        "website": "weinmann-emergency.com",
+        "address": "Hamburg-Stellingen",
+        "industry": "Medizintechnik",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~50 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 350,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.275
+    },
+    {
+      "company": {
+        "name": "J.J. Darboven",
+        "website": "darboven.com",
+        "address": "Hamburg",
+        "industry": "Kaffeerösterei / Lebensmittel",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~500 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 1000,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.275
+    },
+    {
+      "company": {
+        "name": "Muehlhan GmbH",
+        "website": "muehlhan.com",
+        "address": "Hamburg-Wilhelmsburg",
+        "industry": "Oberflächenschutz / Industrieservice",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~250 Mio EUR",
+        "profit_estimate": null,
+        "employee_count": 2800,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.275
+    },
+    {
+      "company": {
+        "name": "Lippold GmbH",
+        "website": "lippold.de",
+        "address": "Hamburg",
+        "industry": "Sondermaschinenbau / Hydraulik",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~30 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 160,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.275
+    },
+    {
+      "company": {
+        "name": "Spiegelberg GmbH",
+        "website": "spiegelberg.de",
+        "address": "Hamburg",
+        "industry": "Medizintechnik / Hirnmonitoring",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~10 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 50,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.275
+    },
+    {
+      "company": {
+        "name": "Neuromedex GmbH",
+        "website": "neuromedex.com",
+        "address": "Hamburg",
+        "industry": "Medizintechnik / Neurochirurgie",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~10 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 70,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.275
+    },
+    {
+      "company": {
+        "name": "Heinemann HNO Medizintechnik",
+        "website": "heinemann-ent.de",
+        "address": "Hamburg",
+        "industry": "Medizintechnik / HNO",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~5 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 30,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.275
+    },
+    {
+      "company": {
+        "name": "SCHLUMBOHM Medizin-Labor-Technologie",
+        "website": "schlumbohm-medizintechnik.de",
+        "address": "Hamburg",
+        "industry": "Medizintechnik / Labortechnik",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~10 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 50,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.275
+    },
+    {
+      "company": {
+        "name": "Scholz Mechanik GmbH",
+        "website": "scholz-mechanik.de",
+        "address": "Hamburg",
+        "industry": "Luftfahrtzulieferer / Feinmechanik",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~15 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 80,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.275
+    },
+    {
+      "company": {
+        "name": "Heinzel Logistik",
+        "website": "heinzel-hamburg.de",
+        "address": "Hamburg",
+        "industry": "Logistik / Transport",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~30 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 160,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.275
+    },
+    {
+      "company": {
+        "name": "Sander Logistics GmbH",
+        "website": "sander-logistics.de",
+        "address": "Hamburg",
+        "industry": "Logistik / Spedition",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.8,
+          "activity_reasoning": "Starke Position: 80 Mio EUR Umsatz, 250 MA, 5 Standorte, 140 LKW. Seit Ende 2024 Teil der Duvenbeck-Gruppe - starker Mutterkonzern. 100-jaehriges Jubilaeum 2025. Wachstumsstrategie 2025 erfolgreich umgesetzt.",
+          "recent_news": [
+            "Uebernahme durch Duvenbeck Nov 2024, 100 Jahre Jubilaeum Jul 2025, Duvenbeck neuer CIO Jakub Piotrowski Mai 2025"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.5,
+          "affinity_reasoning": "GEMISCHT: Logistik hat generell hohen IoT-Bedarf (Telematik, Flottenmanagement, Tracking). ABER: Seit 2024 Teil von Duvenbeck-Gruppe, die Mai 2025 eigenen CIO eingestellt hat (Jakub Piotrowski). Digitalisierung wird wahrscheinlich auf Konzernebene bei Duvenbeck gesteuert. Sander allein haette kein eigenes IT-Team, aber die Muttergesellschaft Duvenbeck hat IT-Ressourcen. IoT-Loesungen fuer Logistik (Telematik, Warehouse-IoT) koennten trotzdem extern beschafft werden, aber Entscheidung liegt bei Duvenbeck-Zentrale.",
+          "relevant_news": [
+            "Duvenbeck CIO Jakub Piotrowski seit Mai 2025, MAN eTGX E-LKW Serienbetrieb Maerz 2025"
+          ]
+        },
+        "combined_score": 0.62
+      },
+      "financials": {
+        "revenue_estimate": "80 Mio EUR (2024)",
+        "profit_estimate": "nicht veröffentlicht",
+        "employee_count": 250,
+        "hiring_activity": {
+          "general_hiring_score": 0.5,
+          "total_job_postings": 15,
+          "hiring_reasoning": "Mittelgrosses Unternehmen, stellt regelmaessig ein (Fahrer, Disponenten, Lager). Keine IT-Stellen bei Sander direkt - IT laeuft ueber Duvenbeck-Konzern."
+        },
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.275
+    },
+    {
+      "company": {
+        "name": "Helm AG",
+        "website": "helmag.com",
+        "address": "Hamburg",
+        "industry": "Chemiehandel / Distribution",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~4 Mrd EUR",
+        "profit_estimate": null,
+        "employee_count": 1600,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.275
+    },
+    {
+      "company": {
+        "name": "Otto Krahn Group",
+        "website": "ottokrahn.com",
+        "address": "Hamburg",
+        "industry": "Kunststoff-Distribution / Chemie",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~800 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 1650,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.275
+    },
+    {
+      "company": {
+        "name": "ImperialOel GmbH",
+        "website": "imperialoil.de",
+        "address": "Hamburg",
+        "industry": "Öle und Fette / Lebensmittel",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~50 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 50,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.275
+    },
+    {
+      "company": {
+        "name": "Poppe und Groninger GmbH",
+        "website": "poppe-groninger.de",
+        "address": "Hamburg",
+        "industry": "Gewürzhandel / Lebensmittel",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~20 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 40,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.275
+    },
+    {
+      "company": {
+        "name": "Blohm+Voss",
+        "website": "blohmvoss.com",
+        "address": "Hamburg-Steinwerder",
+        "industry": "Schiffbau / Werft",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~252 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 450,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.275
+    },
+    {
+      "company": {
+        "name": "Nordex SE",
+        "website": "nordex-online.com",
+        "address": "Hamburg-Langenhorn",
+        "industry": "Windenergieanlagen / Erneuerbare Energie",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~6 Mrd EUR",
+        "profit_estimate": null,
+        "employee_count": 10000,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.275
+    },
+    {
+      "company": {
+        "name": "Encavis AG",
+        "website": "encavis.com",
+        "address": "Hamburg",
+        "industry": "Erneuerbare Energien / Solar+Wind",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~500 Mio EUR",
+        "profit_estimate": null,
+        "employee_count": 200,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.275
+    },
+    {
+      "company": {
+        "name": "Global Tech I Offshore Wind GmbH",
+        "website": "globaltechone.de",
+        "address": "Hamburg",
+        "industry": "Offshore-Windkraft",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~100 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 30,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.275
+    },
+    {
+      "company": {
+        "name": "GEA Tuchenhagen GmbH",
+        "website": "gea.com",
+        "address": "Büchen bei Hamburg",
+        "industry": "Maschinenbau / Prozesstechnik Lebensmittel",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~100 Mio EUR (Standort Büchen, geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 450,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.275
+    },
+    {
+      "company": {
+        "name": "ECL Kontor GmbH",
+        "website": "eclkontor.com",
+        "address": "Hamburg",
+        "industry": "Logistik / Zollabwicklung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~10 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 30,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.275
+    },
+    {
+      "company": {
+        "name": "Dörrenhaus",
+        "website": "doerrenhaus.com",
+        "address": "Hamburg",
+        "industry": "Logistik / International",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~20 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 50,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.275
+    },
+    {
+      "company": {
+        "name": "Harry Brot GmbH",
+        "website": "harrybrot.de",
+        "address": "Schenefeld bei Hamburg",
+        "industry": "Backwarenproduktion / Lebensmittel",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "1 Mrd EUR",
+        "profit_estimate": null,
+        "employee_count": 4700,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.275
+    },
+    {
+      "company": {
+        "name": "Eppendorf SE",
+        "website": "eppendorf.com",
+        "address": "Hamburg",
+        "industry": "Labortechnik / Life Science",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~1.2 Mrd EUR",
+        "profit_estimate": null,
+        "employee_count": 5000,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.275
+    },
+    {
+      "company": {
+        "name": "LENNARTZ GmbH Medizinprodukte",
+        "website": "lennartz-gmbh.de",
+        "address": "Hamburg",
+        "industry": "Medizinprodukte / Distribution",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~10 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 40,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.275
+    },
+    {
+      "company": {
+        "name": "ACO Severin Ahlmann",
+        "website": "aco.com",
+        "address": "Büdelsdorf, Schleswig-Holstein",
+        "industry": "Entwässerungstechnik / Wassertechnologie",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "1,14 Mrd EUR (2023)",
+        "profit_estimate": null,
+        "employee_count": 5400,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.275
+    },
+    {
+      "company": {
+        "name": "H. & J. Brüggen KG",
+        "website": "brueggen.com",
+        "address": "Lübeck, Schleswig-Holstein",
+        "industry": "Lebensmittelproduktion / Cerealien",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "324 Mio EUR (2017)",
+        "profit_estimate": null,
+        "employee_count": 1900,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.275
+    },
+    {
+      "company": {
+        "name": "FFG Flensburger Fahrzeugbau",
+        "website": "ffg-flensburg.de",
+        "address": "Flensburg, Schleswig-Holstein",
+        "industry": "Fahrzeugbau / Wehrtechnik",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~200 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 900,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.275
+    },
+    {
+      "company": {
+        "name": "Danfoss Power Solutions",
+        "website": "danfoss.com",
+        "address": "Neumünster, Schleswig-Holstein",
+        "industry": "Maschinenbau / Mobilhydraulik",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "135 Mio EUR",
+        "profit_estimate": null,
+        "employee_count": 755,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.275
+    },
+    {
+      "company": {
+        "name": "GP JOULE GmbH",
+        "website": "gp-joule.com",
+        "address": "Reußenköge, Schleswig-Holstein",
+        "industry": "Erneuerbare Energien / Windenergie / Wasserstoff",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~100 Mio EUR (Gruppe, geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 500,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.275
+    },
+    {
+      "company": {
+        "name": "Denker & Wulf AG",
+        "website": "denkerwulf.de",
+        "address": "Sehestedt, Schleswig-Holstein",
+        "industry": "Windenergie-Projektierer",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "159 Mio EUR",
+        "profit_estimate": null,
+        "employee_count": 300,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.275
+    },
+    {
+      "company": {
+        "name": "Julius Koch GmbH",
+        "website": "juliuskoch.com",
+        "address": "Malente, Schleswig-Holstein",
+        "industry": "Technische Textilien / Sonnenschutz",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~15 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 49,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.275
+    },
+    {
+      "company": {
+        "name": "L. Possehl & Co. mbH",
+        "website": "possehl.de",
+        "address": "Lübeck, Schleswig-Holstein",
+        "industry": "Mischkonzern / Industrieproduktion",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "4,7 Mrd EUR",
+        "profit_estimate": null,
+        "employee_count": 13000,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.275
+    },
+    {
+      "company": {
+        "name": "Drägerwerk AG",
+        "website": "draeger.com",
+        "address": "Lübeck, Schleswig-Holstein",
+        "industry": "Medizin- und Sicherheitstechnik",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "3,4 Mrd EUR",
+        "profit_estimate": null,
+        "employee_count": 14500,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.275
+    },
+    {
+      "company": {
+        "name": "ThyssenKrupp Marine Systems",
+        "website": "thyssenkrupp-marinesystems.com",
+        "address": "Kiel, Schleswig-Holstein",
+        "industry": "Schiffbau / Marinefertigung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~2 Mrd EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 3000,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.275
+    },
+    {
+      "company": {
+        "name": "Voigt-Logistik",
+        "website": "voigt-logistik.de",
+        "address": "Schleswig-Holstein",
+        "industry": "Logistik / Spedition / Lagerhaltung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~50 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 200,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.275
+    },
+    {
+      "company": {
+        "name": "Brunsbüttel Ports GmbH",
+        "website": "chemcoastpark.de",
+        "address": "Brunsbüttel, Schleswig-Holstein",
+        "industry": "Hafenlogistik / Industriehafen",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~100 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 450,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.275
+    },
+    {
+      "company": {
+        "name": "Flensburger Schiffbau-Gesellschaft",
+        "website": "fsg-ship.de",
+        "address": "Flensburg, Schleswig-Holstein",
+        "industry": "Schiffbau / Werft",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~150 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 600,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.275
+    },
+    {
+      "company": {
+        "name": "2K Maschinenbau GmbH",
+        "website": "2k-maschinenbau.de",
+        "address": "Neumünster, Schleswig-Holstein",
+        "industry": "Sondermaschinenbau / Automatisierung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~20 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 100,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.275
+    },
+    {
+      "company": {
+        "name": "Jungheinrich Norderstedt",
+        "website": "jungheinrich.de",
+        "address": "Norderstedt, Schleswig-Holstein",
+        "industry": "Intralogistik / Flurförderzeuge",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "4,7 Mrd EUR (Konzern)",
+        "profit_estimate": null,
+        "employee_count": 1300,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.275
+    },
+    {
+      "company": {
+        "name": "Cimbergy (ee-Nord)",
+        "website": "cimbergy.com",
+        "address": "Schleswig-Holstein",
+        "industry": "Erneuerbare Energien / Windpark-Planung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "Covestro Brunsbüttel",
+        "website": "covestro.com",
+        "address": "Brunsbüttel, Schleswig-Holstein",
+        "industry": "Chemische Industrie / Kunststoffe",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "LANXESS Brunsbüttel",
+        "website": "lanxess.com",
+        "address": "Brunsbüttel, Schleswig-Holstein",
+        "industry": "Chemische Industrie / Spezialchemie",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "Caterpillar Motoren Kiel",
+        "website": "cat.com",
+        "address": "Kiel, Schleswig-Holstein",
+        "industry": "Motorenbau / Maschinenbau",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "SH Netz AG (HanseWerk)",
+        "website": "sh-netz.com",
+        "address": "Quickborn, Schleswig-Holstein",
+        "industry": "Energieversorgung / Netzbetreiber",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "Karl Jürgensen Spedition",
+        "website": "k-juergensen.de",
+        "address": "Hamburg/Schleswig-Holstein",
+        "industry": "Logistik / Spedition / Hafenlogistik",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "Geerdts GmbH",
+        "website": "geerdts-gmbh.de",
+        "address": "Schleswig-Holstein",
+        "industry": "Getreidetechnik / Anlagenbau",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
     },
     {
       "company": {
@@ -1398,7 +1629,49 @@
       },
       "topic_relevance": null,
       "financials": null,
-      "overall_score": null
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "GoodMills Deutschland GmbH",
+        "website": "goodmills.de",
+        "address": "Hamburg",
+        "industry": "Lebensmittelproduktion / Mühlenindustrie",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.7,
+          "activity_reasoning": "Stabiles Traditionsunternehmen seit 1898. Teil der GoodMills Group (1.15 Mrd EUR, Top 4 Mühlen weltweit). 15 Mio EUR Investition in Mannheim. Führungswechsel 2025. Fusion mit Castellmühle Krefeld Feb 2026. SAP-Einführung und EDI-Modernisierung. DooH-Kampagne Müllers Mühle.",
+          "recent_news": [
+            "Fusion Castellmühle Krefeld Feb 2026, SAP/EDI-Modernisierung mit EDITEL, 15 Mio EUR Investition Mannheim, neue Geschäftsführung Nov 2025"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.75,
+          "affinity_reasoning": "GUTER KANDIDAT: Nur 360 MA gesamt, sucht aktuell nur 1 IT-Systemadministrator. Keine eigene IoT-Kompetenz erkennbar. Nutzt SAP ERP ECC 6.0 / S4HANA, aber keine IoT-Eigenentwicklung. Schwestergesellschaft GoodMills Österreich hat Industrie 4.0 mit CSB-System AG extern umgesetzt - zeigt Outsourcing-Mentalität. EDITEL für EDI-Modernisierung beauftragt. Lebensmittelproduktion mit 10 Mühlenstandorten hat klaren IoT-Bedarf (Monitoring, Qualitätssicherung, Predictive Maintenance).",
+          "relevant_news": [
+            "SAP/EDI-Modernisierung mit EDITEL Feb 2026, CSB-System bei Schwester GoodMills Österreich, nur 1 IT-Stelle offen"
+          ]
+        },
+        "combined_score": 0.73
+      },
+      "financials": {
+        "revenue_estimate": "ca. 500 Mio EUR (GoodMills Group: 1.15 Mrd EUR)",
+        "profit_estimate": "nicht veröffentlicht",
+        "employee_count": 360,
+        "hiring_activity": {
+          "general_hiring_score": 0.8,
+          "total_job_postings": 20,
+          "hiring_reasoning": "Ca. 20 Stellen auf Indeed, aber nur 1 IT-Stelle (IT-Systemadministrator Hamburg). SEHR GUT für uns: Bei 360 MA und 10 Mühlenstandorten nur 1 IT-Stelle zeigt minimale eigene IT. Outsourcing-Wahrscheinlichkeit hoch."
+        },
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.22
     }
   ],
   "metadata": {},
