@@ -1,1 +1,1237 @@
-{"agent_name": "store", "leads": []}
+{
+  "agent_name": "store",
+  "leads": [
+    {
+      "company": {
+        "name": "Stern-Wywiol Gruppe",
+        "website": "stern-wywiol-gruppe.de",
+        "address": "Hamburg, Alsterufer",
+        "industry": "Lebensmittelzusatzstoffe / Food Ingredients",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~500 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 2000,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Pfannenberg GmbH",
+        "website": "pfannenberg.com",
+        "address": "Hamburg",
+        "industry": "Elektrotechnik / Klimatisierung / Signaltechnik",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~80 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 500,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Harburg-Freudenberger Maschinenbau (HF Group)",
+        "website": "hf-group.com",
+        "address": "Hamburg-Harburg",
+        "industry": "Maschinenbau / Anlagenbau",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "367 Mio EUR (2022)",
+        "profit_estimate": null,
+        "employee_count": 2000,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "WEINMANN Emergency Medical Technology",
+        "website": "weinmann-emergency.com",
+        "address": "Hamburg-Stellingen",
+        "industry": "Medizintechnik",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~50 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 350,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "GoodMills Deutschland GmbH",
+        "website": "goodmills.de",
+        "address": "Hamburg",
+        "industry": "Lebensmittelproduktion / Mühlenindustrie",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~400 Mio EUR (geschätzt, Anteil D)",
+        "profit_estimate": null,
+        "employee_count": 680,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "J.J. Darboven",
+        "website": "darboven.com",
+        "address": "Hamburg",
+        "industry": "Kaffeerösterei / Lebensmittel",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~500 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 1000,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Muehlhan GmbH",
+        "website": "muehlhan.com",
+        "address": "Hamburg-Wilhelmsburg",
+        "industry": "Oberflächenschutz / Industrieservice",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~250 Mio EUR",
+        "profit_estimate": null,
+        "employee_count": 2800,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "HANSA Press- und Maschinenbau GmbH",
+        "website": "hansapress.de",
+        "address": "Hamburg",
+        "industry": "Maschinenbau / Sondermaschinenbau",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~5 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 45,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Lippold GmbH",
+        "website": "lippold.de",
+        "address": "Hamburg",
+        "industry": "Sondermaschinenbau / Hydraulik",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~30 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 160,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Spiegelberg GmbH",
+        "website": "spiegelberg.de",
+        "address": "Hamburg",
+        "industry": "Medizintechnik / Hirnmonitoring",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~10 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 50,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Neuromedex GmbH",
+        "website": "neuromedex.com",
+        "address": "Hamburg",
+        "industry": "Medizintechnik / Neurochirurgie",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~10 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 70,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Heinemann HNO Medizintechnik",
+        "website": "heinemann-ent.de",
+        "address": "Hamburg",
+        "industry": "Medizintechnik / HNO",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~5 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 30,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "SCHLUMBOHM Medizin-Labor-Technologie",
+        "website": "schlumbohm-medizintechnik.de",
+        "address": "Hamburg",
+        "industry": "Medizintechnik / Labortechnik",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~10 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 50,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Scholz Mechanik GmbH",
+        "website": "scholz-mechanik.de",
+        "address": "Hamburg",
+        "industry": "Luftfahrtzulieferer / Feinmechanik",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~15 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 80,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Heinzel Logistik",
+        "website": "heinzel-hamburg.de",
+        "address": "Hamburg",
+        "industry": "Logistik / Transport",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~30 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 160,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Sander Logistics GmbH",
+        "website": "sander-logistics.de",
+        "address": "Hamburg",
+        "industry": "Logistik / Spedition",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~50 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 250,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Helm AG",
+        "website": "helmag.com",
+        "address": "Hamburg",
+        "industry": "Chemiehandel / Distribution",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~4 Mrd EUR",
+        "profit_estimate": null,
+        "employee_count": 1600,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Otto Krahn Group",
+        "website": "ottokrahn.com",
+        "address": "Hamburg",
+        "industry": "Kunststoff-Distribution / Chemie",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~800 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 1650,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "ImperialOel GmbH",
+        "website": "imperialoil.de",
+        "address": "Hamburg",
+        "industry": "Öle und Fette / Lebensmittel",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~50 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 50,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Poppe und Groninger GmbH",
+        "website": "poppe-groninger.de",
+        "address": "Hamburg",
+        "industry": "Gewürzhandel / Lebensmittel",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~20 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 40,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Blohm+Voss",
+        "website": "blohmvoss.com",
+        "address": "Hamburg-Steinwerder",
+        "industry": "Schiffbau / Werft",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~252 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 450,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Nordex SE",
+        "website": "nordex-online.com",
+        "address": "Hamburg-Langenhorn",
+        "industry": "Windenergieanlagen / Erneuerbare Energie",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~6 Mrd EUR",
+        "profit_estimate": null,
+        "employee_count": 10000,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Encavis AG",
+        "website": "encavis.com",
+        "address": "Hamburg",
+        "industry": "Erneuerbare Energien / Solar+Wind",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~500 Mio EUR",
+        "profit_estimate": null,
+        "employee_count": 200,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Global Tech I Offshore Wind GmbH",
+        "website": "globaltechone.de",
+        "address": "Hamburg",
+        "industry": "Offshore-Windkraft",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~100 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 30,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "GEA Tuchenhagen GmbH",
+        "website": "gea.com",
+        "address": "Büchen bei Hamburg",
+        "industry": "Maschinenbau / Prozesstechnik Lebensmittel",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~100 Mio EUR (Standort Büchen, geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 450,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "ECL Kontor GmbH",
+        "website": "eclkontor.com",
+        "address": "Hamburg",
+        "industry": "Logistik / Zollabwicklung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~10 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 30,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Dörrenhaus",
+        "website": "doerrenhaus.com",
+        "address": "Hamburg",
+        "industry": "Logistik / International",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~20 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 50,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Harry Brot GmbH",
+        "website": "harrybrot.de",
+        "address": "Schenefeld bei Hamburg",
+        "industry": "Backwarenproduktion / Lebensmittel",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "1 Mrd EUR",
+        "profit_estimate": null,
+        "employee_count": 4700,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Eppendorf SE",
+        "website": "eppendorf.com",
+        "address": "Hamburg",
+        "industry": "Labortechnik / Life Science",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~1.2 Mrd EUR",
+        "profit_estimate": null,
+        "employee_count": 5000,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "LENNARTZ GmbH Medizinprodukte",
+        "website": "lennartz-gmbh.de",
+        "address": "Hamburg",
+        "industry": "Medizinprodukte / Distribution",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~10 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 40,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Hemro Group (Mahlkönig)",
+        "website": "mahlkoenig.com",
+        "address": "Hamburg",
+        "industry": "Kaffeemühlen / Maschinenbau",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~100 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 400,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "ACO Severin Ahlmann",
+        "website": "aco.com",
+        "address": "Büdelsdorf, Schleswig-Holstein",
+        "industry": "Entwässerungstechnik / Wassertechnologie",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "1,14 Mrd EUR (2023)",
+        "profit_estimate": null,
+        "employee_count": 5400,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "KNUTH Werkzeugmaschinen GmbH",
+        "website": "knuth.com",
+        "address": "Wasbek, Schleswig-Holstein",
+        "industry": "Maschinenbau / Werkzeugmaschinen",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "92,5 Mio EUR",
+        "profit_estimate": null,
+        "employee_count": 370,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "H. & J. Brüggen KG",
+        "website": "brueggen.com",
+        "address": "Lübeck, Schleswig-Holstein",
+        "industry": "Lebensmittelproduktion / Cerealien",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "324 Mio EUR (2017)",
+        "profit_estimate": null,
+        "employee_count": 1900,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Friesenkrone Feinkost",
+        "website": "friesenkrone.com",
+        "address": "Marne, Schleswig-Holstein",
+        "industry": "Lebensmittelproduktion / Fischfeinkost",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "90 Mio EUR (2023)",
+        "profit_estimate": null,
+        "employee_count": 275,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Logopak Systeme GmbH",
+        "website": "logopak.de",
+        "address": "Hartenholm, Schleswig-Holstein",
+        "industry": "Maschinenbau / Etikettiersysteme",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~50 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 300,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "FFG Flensburger Fahrzeugbau",
+        "website": "ffg-flensburg.de",
+        "address": "Flensburg, Schleswig-Holstein",
+        "industry": "Fahrzeugbau / Wehrtechnik",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~200 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 900,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Danfoss Power Solutions",
+        "website": "danfoss.com",
+        "address": "Neumünster, Schleswig-Holstein",
+        "industry": "Maschinenbau / Mobilhydraulik",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "135 Mio EUR",
+        "profit_estimate": null,
+        "employee_count": 755,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "D+H Mechatronic AG",
+        "website": "dh-partner.com",
+        "address": "Ammersbek, Schleswig-Holstein",
+        "industry": "Mechatronik / Gebäudetechnik",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~30 Mio EUR",
+        "profit_estimate": null,
+        "employee_count": 500,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "GP JOULE GmbH",
+        "website": "gp-joule.com",
+        "address": "Reußenköge, Schleswig-Holstein",
+        "industry": "Erneuerbare Energien / Windenergie / Wasserstoff",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~100 Mio EUR (Gruppe, geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 500,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Denker & Wulf AG",
+        "website": "denkerwulf.de",
+        "address": "Sehestedt, Schleswig-Holstein",
+        "industry": "Windenergie-Projektierer",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "159 Mio EUR",
+        "profit_estimate": null,
+        "employee_count": 300,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "RAMPA GmbH",
+        "website": "rampa.com",
+        "address": "Büchen, Schleswig-Holstein",
+        "industry": "Verbindungstechnik / Fertigung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~10 Mio EUR",
+        "profit_estimate": null,
+        "employee_count": 44,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Julius Koch GmbH",
+        "website": "juliuskoch.com",
+        "address": "Malente, Schleswig-Holstein",
+        "industry": "Technische Textilien / Sonnenschutz",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~15 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 49,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "L. Possehl & Co. mbH",
+        "website": "possehl.de",
+        "address": "Lübeck, Schleswig-Holstein",
+        "industry": "Mischkonzern / Industrieproduktion",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "4,7 Mrd EUR",
+        "profit_estimate": null,
+        "employee_count": 13000,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Drägerwerk AG",
+        "website": "draeger.com",
+        "address": "Lübeck, Schleswig-Holstein",
+        "industry": "Medizin- und Sicherheitstechnik",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "3,4 Mrd EUR",
+        "profit_estimate": null,
+        "employee_count": 14500,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "ThyssenKrupp Marine Systems",
+        "website": "thyssenkrupp-marinesystems.com",
+        "address": "Kiel, Schleswig-Holstein",
+        "industry": "Schiffbau / Marinefertigung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~2 Mrd EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 3000,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Voigt-Logistik",
+        "website": "voigt-logistik.de",
+        "address": "Schleswig-Holstein",
+        "industry": "Logistik / Spedition / Lagerhaltung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~50 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 200,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Brunsbüttel Ports GmbH",
+        "website": "chemcoastpark.de",
+        "address": "Brunsbüttel, Schleswig-Holstein",
+        "industry": "Hafenlogistik / Industriehafen",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~100 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 450,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Flensburger Schiffbau-Gesellschaft",
+        "website": "fsg-ship.de",
+        "address": "Flensburg, Schleswig-Holstein",
+        "industry": "Schiffbau / Werft",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~150 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 600,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "2K Maschinenbau GmbH",
+        "website": "2k-maschinenbau.de",
+        "address": "Neumünster, Schleswig-Holstein",
+        "industry": "Sondermaschinenbau / Automatisierung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~20 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 100,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Cimbergy (ee-Nord)",
+        "website": "cimbergy.com",
+        "address": "Schleswig-Holstein",
+        "industry": "Erneuerbare Energien / Windpark-Planung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Covestro Brunsbüttel",
+        "website": "covestro.com",
+        "address": "Brunsbüttel, Schleswig-Holstein",
+        "industry": "Chemische Industrie / Kunststoffe",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "LANXESS Brunsbüttel",
+        "website": "lanxess.com",
+        "address": "Brunsbüttel, Schleswig-Holstein",
+        "industry": "Chemische Industrie / Spezialchemie",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Caterpillar Motoren Kiel",
+        "website": "cat.com",
+        "address": "Kiel, Schleswig-Holstein",
+        "industry": "Motorenbau / Maschinenbau",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "SH Netz AG (HanseWerk)",
+        "website": "sh-netz.com",
+        "address": "Quickborn, Schleswig-Holstein",
+        "industry": "Energieversorgung / Netzbetreiber",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Jungheinrich Norderstedt",
+        "website": "jungheinrich.de",
+        "address": "Norderstedt, Schleswig-Holstein",
+        "industry": "Intralogistik / Flurförderzeuge",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "4,7 Mrd EUR (Konzern)",
+        "profit_estimate": null,
+        "employee_count": 1300,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Karl Jürgensen Spedition",
+        "website": "k-juergensen.de",
+        "address": "Hamburg/Schleswig-Holstein",
+        "industry": "Logistik / Spedition / Hafenlogistik",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Basler AG",
+        "website": "baslerweb.com",
+        "address": "Ahrensburg, Schleswig-Holstein",
+        "industry": "Industriekameras / Vision Technology",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "150 Mio EUR",
+        "profit_estimate": null,
+        "employee_count": 800,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "CODAN Medizintechnik",
+        "website": "codan.de",
+        "address": "Lensahn, Schleswig-Holstein",
+        "industry": "Medizintechnik / Einmalprodukte",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~50 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 300,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Geerdts GmbH",
+        "website": "geerdts-gmbh.de",
+        "address": "Schleswig-Holstein",
+        "industry": "Getreidetechnik / Anlagenbau",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Flensburger Brauerei",
+        "website": "flens.de",
+        "address": "Flensburg, Schleswig-Holstein",
+        "industry": "Getränkeproduktion / Brauerei",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": {
+        "revenue_estimate": "~100 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 300,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "TotalEnergies Bitumen Brunsbüttel",
+        "website": "totalenergies.de",
+        "address": "Brunsbüttel, Schleswig-Holstein",
+        "industry": "Bitumen / Chemie / Straßenbau",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    }
+  ],
+  "metadata": {},
+  "timestamp": "2026-03-23T08:12:47.135134"
+}
