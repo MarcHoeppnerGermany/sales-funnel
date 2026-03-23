@@ -8296,18 +8296,6 @@
     },
     {
       "company": {
-        "name": "Sontheim Industrie Elektronik GmbH",
-        "website": "sontheim-industrie-elektronik.de",
-        "address": "Kempten, Bayern",
-        "industry": "Automotive ECU / Automation / Diagnostics",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
         "name": "b-plus GmbH",
         "website": "b-plus.com",
         "address": "Deggendorf, Bayern",
@@ -8408,6 +8396,162 @@
         "website": "esystems-mtg.de",
         "address": "Wendlingen am Neckar, BW",
         "industry": "Automotive ECU / E-Mobility / Ladesysteme",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Sontheim Industrie Elektronik GmbH",
+        "website": "sontheim-industrie-elektronik.de",
+        "address": "Georg-Krug-Str. 2, 87437 Kempten",
+        "industry": "Automotive Embedded Systems / Diagnostik / ECU",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "DSA Daten- und Systemtechnik GmbH",
+        "website": "dsa.de",
+        "address": "Pascalstr. 28, 52076 Aachen",
+        "industry": "Automotive Fahrzeugdiagnose / Vehicle Connectivity",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Softing Automotive Electronics GmbH",
+        "website": "automotive.softing.com",
+        "address": "Richard-Reitzner-Allee 6, 85540 Haar",
+        "industry": "Automotive Diagnostik / Telematik / Embedded Tools",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Technica Engineering GmbH",
+        "website": "technica-engineering.de",
+        "address": "Schleißheimer Str. 91, 85748 Garching",
+        "industry": "Automotive Ethernet / Gateway / ECU-Entwicklung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "idem telematics GmbH",
+        "website": "idemtelematics.com",
+        "address": "Lazarettstr. 4, 80636 München",
+        "industry": "Trailer Telematik / Fleet Management / IoT",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "YellowFox GmbH",
+        "website": "yellowfox.de",
+        "address": "Am Wüsteberg 3, 01723 Wilsdruff OT Kesselsdorf",
+        "industry": "Fleet Telematik / GPS-Tracking / IoT Hardware",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Trendfire Technologies GmbH",
+        "website": "trendfire.com",
+        "address": "Herrenberger Str. 56, 71034 Böblingen",
+        "industry": "LKW-Telematik / Fleet Management Hardware",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "CoSyst Control Systems GmbH",
+        "website": "apagcosyst.com",
+        "address": "Frankenstr. 150d, 90461 Nürnberg",
+        "industry": "Automotive ECU / Steuergeräte-Entwicklung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "m2m Germany GmbH",
+        "website": "m2mgermany.de",
+        "address": "Kappengraben 18, 61273 Wehrheim",
+        "industry": "IoT / Telematik-Gateway / M2M Hardware",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "helag-electronic GmbH",
+        "website": "helag-electronic.de",
+        "address": "Graf-Zeppelin-Str. 41, 72202 Nagold",
+        "industry": "Automotive Sensorik / Steuergeräte / Schalter",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "AREALCONTROL GmbH",
+        "website": "arealcontrol.de",
+        "address": "Strohberg 1, 70180 Stuttgart",
+        "industry": "GPS-Telematik / Fleet Management / IoT",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "dSPACE GmbH",
+        "website": "dspace.com",
+        "address": "Rathenaustr. 26, 33102 Paderborn",
+        "industry": "Automotive HIL/SIL / Embedded Validation",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "GlobalmatiX GmbH",
+        "website": "globalmatix.com",
+        "address": "Richard-Reitzner-Allee 6, 85540 Haar",
+        "industry": "Automotive Telematik / Connected Vehicle / MVNO",
         "source": null
       },
       "topic_relevance": null,
