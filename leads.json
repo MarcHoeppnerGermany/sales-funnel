@@ -5150,9 +5150,14 @@
             "Automatisierungstechniker"
           ]
         },
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
+        "strategic_fit": {
+          "size_fit_score": 0.7,
+          "financial_health_score": 0.7,
+          "pressure_score": 0.5,
+          "strategic_reasoning": "220 Mio Gruppe, gute Größe. Solide Finanzen. Mittlerer Druck - Litronic hat eigene Elektronik, aber IoT-Plattform könnte fehlen."
+        },
+        "customer_rating": 0.485,
+        "rating_reasoning": "220 Mio Gruppe, gute Größe. Solide Finanzen. Mittlerer Druck - Litronic hat eigene Elektronik, aber IoT-Plattform könnte fehlen."
       },
       "overall_score": 0.385
     },
@@ -5468,9 +5473,14 @@
             "Qualitätssicherung"
           ]
         },
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
+        "strategic_fit": {
+          "size_fit_score": 0.7,
+          "financial_health_score": 0.5,
+          "pressure_score": 0.6,
+          "strategic_reasoning": "140 Mio Umsatz, gute Größe. Markt unter Druck aber Thai Union stabil. Hoher Digitalisierungsdruck in Lebensmittelindustrie (Rückverfolgbarkeit, Effizienz)."
+        },
+        "customer_rating": 0.415,
+        "rating_reasoning": "140 Mio Umsatz, gute Größe. Markt unter Druck aber Thai Union stabil. Hoher Digitalisierungsdruck in Lebensmittelindustrie (Rückverfolgbarkeit, Effizienz)."
       },
       "overall_score": 0.365
     },
@@ -6112,9 +6122,14 @@
             "Produktentwickler"
           ]
         },
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
+        "strategic_fit": {
+          "size_fit_score": 0.7,
+          "financial_health_score": 0.4,
+          "pressure_score": 0.4,
+          "strategic_reasoning": "185 Mio Umsatz, gute Größe. ABER Krise: Stellenabbau, Eigentümerwechsel, sinkende Nachfrage. Kein Budget für neue IoT-Projekte."
+        },
+        "customer_rating": 0.36,
+        "rating_reasoning": "185 Mio Umsatz, gute Größe. ABER Krise: Stellenabbau, Eigentümerwechsel, sinkende Nachfrage. Kein Budget für neue IoT-Projekte."
       },
       "overall_score": 0.295
     },
@@ -6257,11 +6272,28 @@
         "revenue_estimate": "691 Mio EUR (2023, Rekord)",
         "profit_estimate": "nicht bekannt",
         "employee_count": 2314,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
+        "hiring_activity": {
+          "general_hiring_score": 0.7,
+          "total_job_postings": 120,
+          "hiring_reasoning": "2314 MA, aktives Hiring, wachsendes Unternehmen mit Rekordumstzen"
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.4,
+          "relevant_job_postings": 5,
+          "topic_hiring_reasoning": "Sucht Werkstudent IoT Digital Products, baut eigene Smart-Product-Linie auf, DevOps-Stellen",
+          "example_positions": [
+            "Werkstudent IoT Digital Products",
+            "IT Digitalisierung DevOps"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.6,
+          "financial_health_score": 0.9,
+          "pressure_score": 0.3,
+          "strategic_reasoning": "Groß (691 Mio), finanziell sehr stark, aber entwickelt IoT selbst. Könnte eventuell Teilprojekte outsourcen aber unwahrscheinlich als Hauptkunde."
+        },
+        "customer_rating": 0.455,
+        "rating_reasoning": "Groß (691 Mio), finanziell sehr stark, aber entwickelt IoT selbst. Könnte eventuell Teilprojekte outsourcen aber unwahrscheinlich als Hauptkunde."
       },
       "overall_score": 0.275
     },
@@ -6370,8 +6402,34 @@
         "industry": "Edelstahlrohrsysteme / Reinraumtechnik",
         "source": null
       },
-      "topic_relevance": null,
-      "financials": null,
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.5,
+          "activity_reasoning": "Hidden Champion Edelstahlrohrsysteme, 780 MA, 164 Mio EUR. ABER: Krisenjahr 2024 mit Kurzarbeit (180 MA betroffen). Auftragseingang zieht Ende 2024 an, Erholung 2025 erwartet. Familienunternehmen.",
+          "recent_news": [
+            "Kurzarbeit 2024 für 180 MA, Auftragseingang zieht Ende 2024 an, 2025 positive Entwicklung erwartet, Asien-Fokus"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.55,
+          "affinity_reasoning": "Zulieferer für Halbleiter- und Pharmaindustrie, profitiert von Digitalisierungswelle. Hat Tochter Dockweiler Industrial Automation GmbH für Automatisierung. Braucht IoT für Qualitätsmanagement der Reinraum-Rohrsysteme. Eigene Automatisierungs-Tochter reduziert Outsourcing-Bedarf etwas.",
+          "relevant_news": [
+            "Dockweiler Industrial Automation GmbH Tochter, zweistelliger Mio-Auftrag Mikrochip-Hersteller, Digitalisierung als Wachstumstreiber"
+          ]
+        },
+        "combined_score": 0.53
+      },
+      "financials": {
+        "revenue_estimate": "164 Mio EUR (2023)",
+        "profit_estimate": "nicht veröffentlicht",
+        "employee_count": 780,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
       "overall_score": 0.25
     },
     {
@@ -6436,16 +6494,49 @@
         "industry": "Holzbau / Fertighäuser",
         "source": null
       },
-      "topic_relevance": null,
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.6,
+          "activity_reasoning": "Marktführer DE für DIY-Holzprodukte (Gartenhäuser, Wellness). 135 MA, ca. 28 Mio EUR Umsatz. Seit 2018 Teil der holländischen Outdoor Life Group. Bilanzsumme 2022: 20 Mio EUR (-26.2%). Rückgang deutet auf Konsolidierung hin.",
+          "recent_news": [
+            "Bilanzsumme 2022: 20 Mio EUR (-26.2%). Teil Outdoor Life Group (NL) seit 2018. Marktführer DE Holz-Bausätze. HR-Änderung 12/2025."
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.4,
+          "affinity_reasoning": "Holzbau/DIY-Produkte haben begrenztes IoT-Potenzial. Mögliche Anwendungen: Produktions-Monitoring, Logistik-Optimierung. Aber Produkte selbst (Gartenhäuser, Carports) sind nicht IoT-fähig. Kein erkennbarer Digitalisierungsdruck.",
+          "relevant_news": [
+            "Keine IoT/Digitalisierungs-Projekte gefunden. Reines Produktionsunternehmen für Holz-Bausätze."
+          ]
+        },
+        "combined_score": 0.48
+      },
       "financials": {
         "revenue_estimate": "ca. 28 Mio EUR (geschätzt)",
         "profit_estimate": "k.A.",
         "employee_count": 135,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
+        "hiring_activity": {
+          "general_hiring_score": 0.3,
+          "total_job_postings": 8,
+          "hiring_reasoning": "135 MA, wenige offene Stellen. Konsolidierungsphase."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.1,
+          "relevant_job_postings": 0,
+          "topic_hiring_reasoning": "Keine IoT/IT-Stellen. Holzverarbeitung, nicht technologiegetrieben.",
+          "example_positions": [
+            "keine"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.9,
+          "financial_health_score": 0.6,
+          "pressure_score": 0.3,
+          "strategic_reasoning": "Kleine Firma (<100M). Moderate Finanzlage (Bilanzsumme rückläufig). Geringer IoT-Druck - Produkte sind einfache Holzbausätze."
+        },
+        "customer_rating": 0.35,
+        "rating_reasoning": "Kleine Firma (<100M). Moderate Finanzlage (Bilanzsumme rückläufig). Geringer IoT-Druck - Produkte sind einfache Holzbausätze."
       },
       "overall_score": 0.25
     },
