@@ -3,6 +3,62 @@
   "leads": [
     {
       "company": {
+        "name": "MRS Electronic GmbH",
+        "website": "mrs-electronic.com",
+        "address": "Rottweil, BW",
+        "industry": "Automotive Steuergeräte / ECU",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.8,
+          "activity_reasoning": "Wachstumsunternehmen: Firmenfläche verdoppelt, international expandiert (USA, Kroatien, Ukraine). 400+ MA. Bilanzsumme 2023 gewachsen (+7.2%). Starkes Produktportfolio (ECU, Gateways, HMI).",
+          "recent_news": [
+            "MRS verdoppelt Firmengröße, Bekenntnis zu Standort Rottweil. Expansion in USA, Kroatien. Smart Home als neues Segment."
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IT-Outsourcing TISAX",
+          "affinity_score": 0.85,
+          "affinity_reasoning": "Sucht aktiv Junior Softwareentwickler für Connectivity/IoT-Systeme! Embedded Linux, funktionale Sicherheit. Starkes Wachstum erfordert skalierbare IT-Infrastruktur. Gateways und CAN-Controller benötigen Cloud-Backend.",
+          "relevant_news": [
+            "Stellenausschreibung: Junior Softwareentwickler Connectivity/IoT-Systeme. Embedded Linux Entwicklung."
+          ]
+        },
+        "combined_score": 0.83
+      },
+      "financials": {
+        "revenue_estimate": "ca. 40-68 Mio EUR (Gruppenebene)",
+        "profit_estimate": "nicht veröffentlicht",
+        "employee_count": 400,
+        "hiring_activity": {
+          "general_hiring_score": 0.75,
+          "total_job_postings": 22,
+          "hiring_reasoning": "Hohe Hiring-Aktivität mit 22 offenen Stellen bei Glassdoor. Breite Suche nach Software-Entwicklern, Testingenieuren und Embedded-Spezialisten."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.85,
+          "relevant_job_postings": 6,
+          "topic_hiring_reasoning": "Explizite IoT/Connectivity-Stelle, Embedded Linux, funktionale Sicherheit Software, Testsysteme. Zeigt hohen Bedarf an externer Software-Kompetenz.",
+          "example_positions": [
+            "Junior Softwareentwickler Connectivity/IoT",
+            "Embedded Linux Entwickler",
+            "Funktionale Sicherheit Software"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.8,
+          "financial_health_score": 0.8,
+          "pressure_score": 0.75,
+          "strategic_reasoning": "Ideale Größe (400 MA) für IT-Dienstleister. Finanziell gesund und wachsend. Hoher Druck: schnelles Wachstum erfordert IT-Skalierung, IoT-Connectivity als strategisches Thema."
+        },
+        "customer_rating": 0.795,
+        "rating_reasoning": "Ideale Größe (400 MA) für IT-Dienstleister. Finanziell gesund und wachsend. Hoher Druck: schnelles Wachstum erfordert IT-Skalierung, IoT-Connectivity als strategisches Thema."
+      },
+      "overall_score": 0.807
+    },
+    {
+      "company": {
         "name": "GoodMills Deutschland GmbH",
         "website": "goodmills.de",
         "address": "Hamburg",
@@ -54,6 +110,173 @@
         "rating_reasoning": "Mittelgroß (ca. 500 Mio EUR, 360 MA) - gut erreichbar. Teil der GoodMills Group (1.15 Mrd EUR) - finanziell solide. HOHER Digitalisierungsdruck: SAP-Migration läuft, EDI-Modernisierung mit EDITEL, Industrie 4.0 Bedarf bei 10 Mühlenstandorten. Minimale eigene IT. Technik: SAP ECC 6.0/S4HANA, CSB-System (Österreich), EDITEL EDI. Partner: EDITEL (EDI), CSB-System AG (Schwester Österreich). GOLDKANDIDAT für IoT-Outsourcing."
       },
       "overall_score": 0.771
+    },
+    {
+      "company": {
+        "name": "Mekra Lang GmbH",
+        "website": "mekra.de",
+        "address": "Ergersheim, Bayern",
+        "industry": "Spiegel / Kamerasysteme",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.85,
+          "activity_reasoning": "Sehr starkes Familienunternehmen, 427 Mio EUR Umsatz 2023, ca. 2500 MA. Hidden Champion und Top-Innovator Deutschlands. Technologieführer bei Kamera-Monitor-Systemen (DVS). Starke Innovationskraft, 3. Generation Familienführung.",
+          "recent_news": [
+            "Digitales SichtSystem (DVS) als erstes TÜV-zertifiziertes Kamerasystem, Top-Innovator Deutschlands, wachsendes IT-Team"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "TISAX IT-Outsourcing Cloud/IoT/AI",
+          "affinity_score": 0.8,
+          "affinity_reasoning": "Höchste Affinität: Entwickelt aktiv Kamera-Monitor-Systeme (digitale Sichtsysteme), sucht Software-Architekten, Embedded-Entwickler, Validierungsingenieure. IT-Wachstum auf Höchststand. Produkte sind hochgradig softwareintensiv (AUTOSAR, QNX, Linux, Python). Braucht Cloud-Backend für Kameradaten, OTA-Updates, AI für Bilderkennung.",
+          "relevant_news": [
+            "Software-Architekt und Embedded-Entwickler gesucht, IT-Stellenwachstum auf Höchststand, DVS Kamerasysteme als Kernprodukt"
+          ]
+        },
+        "combined_score": 0.82
+      },
+      "financials": {
+        "revenue_estimate": "427 Mio EUR (2023)",
+        "profit_estimate": null,
+        "employee_count": 2500,
+        "hiring_activity": {
+          "general_hiring_score": 0.8,
+          "total_job_postings": 40,
+          "hiring_reasoning": "IT-Stellenwachstum auf Höchststand der letzten 12 Monate. Software-Architekten, Embedded-Entwickler, Validierung, Python-Entwickler gesucht. Starkes Wachstum im Software-Bereich."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.7,
+          "relevant_job_postings": 8,
+          "topic_hiring_reasoning": "Software-Architekt Kamerasysteme, Embedded-Entwickler, Validierung mit Python/HiL",
+          "example_positions": [
+            "Software-Architekt Kamerasysteme",
+            "Embedded Software-Entwickler",
+            "Teamleiter Validierung"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.7,
+          "financial_health_score": 0.85,
+          "pressure_score": 0.8,
+          "strategic_reasoning": "Groß (427 Mio), finanziell sehr stark. Hoher Druck durch Technologiewandel (Spiegel zu Kamerasystemen), braucht massiv Software-Kapazitäten. Ideale Größe für IT-Dienstleister."
+        },
+        "customer_rating": 0.745,
+        "rating_reasoning": "Groß (427 Mio), finanziell sehr stark. Hoher Druck durch Technologiewandel (Spiegel zu Kamerasystemen), braucht massiv Software-Kapazitäten. Ideale Größe für IT-Dienstleister."
+      },
+      "overall_score": 0.771
+    },
+    {
+      "company": {
+        "name": "Rosenberger Hochfrequenztechnik",
+        "website": "rosenberger.com",
+        "address": "Fridolfing, Bayern",
+        "industry": "HF-Steckverbinder / Automotive",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.85,
+          "activity_reasoning": "Weltmarktführer HF-Steckverbinder, 1.76 Mrd Umsatz, 14.800 MA, Hidden Champion, stabil wachsend, neuer CFO 2025",
+          "recent_news": [
+            "Josef Rottenaicher neuer CFO ab Okt 2025, Rang 318 Deutsche Wirtschaft"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "TISAX IT-Outsourcing Cloud/IoT/AI",
+          "affinity_score": 0.8,
+          "affinity_reasoning": "Aktive IT-Abteilung, Rosenberger Telematics sucht IoT/Cloud-Entwickler, Zukunftsmarkt Robotik/Automation, hohe Digitalisierungsaffinität durch Telematik-Tochter",
+          "relevant_news": [
+            "Rosenberger Telematics sucht Software Developer IoT & Cloud Solutions"
+          ]
+        },
+        "combined_score": 0.82
+      },
+      "financials": {
+        "revenue_estimate": "1.76 Mrd EUR",
+        "profit_estimate": "k.A.",
+        "employee_count": 14800,
+        "hiring_activity": {
+          "general_hiring_score": 0.7,
+          "total_job_postings": 50,
+          "hiring_reasoning": "Aktive Karriereseite, IT-Abteilung mit Remote/Flex-Optionen, Rosenberger Telematics sucht aktiv IoT/Cloud-Entwickler"
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.75,
+          "relevant_job_postings": 5,
+          "topic_hiring_reasoning": "Rosenberger Telematics sucht aktiv IoT/Cloud Software Developer, SCRUM-Team, internationale Projekte",
+          "example_positions": [
+            "Software Developer IoT & Cloud Solutions",
+            "IT Specialists"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.6,
+          "financial_health_score": 0.9,
+          "pressure_score": 0.7,
+          "strategic_reasoning": "Grosskonzern 1.76 Mrd - etwas zu gross fuer Mittelstands-IT-Dienstleister (size-fit mittel), aber finanziell sehr stark. Druck durch Digitalisierung/IoT/Telematik hoch. TISAX-relevant durch Automotive-Fokus"
+        },
+        "customer_rating": 0.697,
+        "rating_reasoning": "Grosskonzern 1.76 Mrd - etwas zu gross fuer Mittelstands-IT-Dienstleister (size-fit mittel), aber finanziell sehr stark. Druck durch Digitalisierung/IoT/Telematik hoch. TISAX-relevant durch Automotive-Fokus"
+      },
+      "overall_score": 0.752
+    },
+    {
+      "company": {
+        "name": "Gentherm Präzision SE",
+        "website": "gentherm.com",
+        "address": "Treuchtlingen, Bayern",
+        "industry": "Thermomanagement / Automotive",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.85,
+          "activity_reasoning": "Teil des NASDAQ-notierten Gentherm Inc. (10.000+ MA weltweit). Bilanzsumme Treuchtlingen 100 Mio EUR. 350+ MA am Standort. Akquisition Alfmeier fuer 177.5 Mio EUR. Fusion mit Modine 2026 geplant. Starkes Wachstum.",
+          "recent_news": [
+            "Gentherm + Modine Fusion Jan 2026, ClimateSense Software-Plattform, WellSense SDK, Lear Partnerschaft INTU Thermal Comfort"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "Cloud/IoT/AI IT-Outsourcing",
+          "affinity_score": 0.8,
+          "affinity_reasoning": "Hoechste Affinitaet: Gentherm entwickelt aktiv Software-Plattformen (ClimateSense, WellSense SDK). Eigene IT-Abteilung mit Software Development Team. Cloud-Technologien (AWS, Azure, GCP) im Einsatz. ML/LLM/RAG-Projekte. IAM/Cybersecurity mit Okta. Connected Car / Software-defined Vehicle Trend treibt massiven IT-Bedarf.",
+          "relevant_news": [
+            "WellSense SDK, ClimateSense Intelligence Software, IT Security mit Cloud SQL und Power BI, LLM RAG App Entwicklung"
+          ]
+        },
+        "combined_score": 0.82
+      },
+      "financials": {
+        "revenue_estimate": "100 Mio EUR Bilanzsumme (Treuchtlingen)",
+        "profit_estimate": "n/a",
+        "employee_count": 350,
+        "hiring_activity": {
+          "general_hiring_score": 0.7,
+          "total_job_postings": 50,
+          "hiring_reasoning": "Gentherm stellt global aktiv ein. 13+ offene Stellen bei Glassdoor. IT Security, Software Engineering, Account Management. Hybrides Arbeiten moeglich."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.75,
+          "relevant_job_postings": 8,
+          "topic_hiring_reasoning": "IT Information Security, Cloud-Plattformen (AWS/Azure/GCP), Power BI, ML/LLM, IAM (Okta), Software Development. Eigenes IT/SW-Team vorhanden aber ausbaufaehig.",
+          "example_positions": [
+            "IT Information Security",
+            "Senior IT Engineer IAM",
+            "Software Developer"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.6,
+          "financial_health_score": 0.85,
+          "pressure_score": 0.8,
+          "strategic_reasoning": "Starker Digitalisierungsdruck durch Software-defined Vehicle. Eigene SW-Plattformen. TISAX hochrelevant. Fusion mit Modine erhoeht Komplexitaet."
+        },
+        "customer_rating": 0.727,
+        "rating_reasoning": "Starker Digitalisierungsdruck durch Software-defined Vehicle. Eigene SW-Plattformen. TISAX hochrelevant. Fusion mit Modine erhoeht Komplexitaet."
+      },
+      "overall_score": 0.685
     },
     {
       "company": {
@@ -610,6 +833,60 @@
     },
     {
       "company": {
+        "name": "Helbako GmbH",
+        "website": "helbako.com",
+        "address": "Heiligenhaus, NRW",
+        "industry": "Automotive Elektronik / Steuergeräte",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.65,
+          "activity_reasoning": "Mittelständischer Autozulieferer, Umsatz 65 Mio, 350 MA. Bilanzsumme 2023 rückläufig (-22%), aber stabiles Kerngeschäft. Restrukturierung mit Verlagerung nach Rumänien. IATF 16949 zertifiziert.",
+          "recent_news": [
+            "Helbako verlagert Teile nach Rumänien, Personalabbau in DE. Bilanzsumme 2023 gesunken."
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IT-Outsourcing TISAX",
+          "affinity_score": 0.7,
+          "affinity_reasoning": "Automotive-Elektronik-Hersteller mit Predictive-Maintenance-Themen, Software-Projektleiter gesucht. Entwicklung teils in Rumänien - braucht IT-Infrastruktur. TISAX-relevanter Bereich, könnte Cloud/IoT-Plattform für Connected-Car-Daten brauchen.",
+          "relevant_news": [
+            "Sucht Projektleiter Software. Beschäftigt sich mit Predictive Maintenance."
+          ]
+        },
+        "combined_score": 0.68
+      },
+      "financials": {
+        "revenue_estimate": "65 Mio EUR",
+        "profit_estimate": "nicht veröffentlicht",
+        "employee_count": 350,
+        "hiring_activity": {
+          "general_hiring_score": 0.5,
+          "total_job_postings": 20,
+          "hiring_reasoning": "Moderate Hiring-Aktivität, Schwerpunkt Software und Engineering. Stellenverlagerung nach Rumänien deutet auf Outsourcing-Bereitschaft hin."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.5,
+          "relevant_job_postings": 3,
+          "topic_hiring_reasoning": "Projektleiter Software gesucht, aber keine expliziten Cloud/IoT-Stellen. Outsourcing nach Rumänien zeigt Bereitschaft für externe IT-Partner.",
+          "example_positions": [
+            "Projektleiter Software"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.7,
+          "financial_health_score": 0.55,
+          "pressure_score": 0.65,
+          "strategic_reasoning": "Gute Größe für IT-Dienstleister (350 MA). Finanzielle Lage angespannt durch Bilanzsummen-Rückgang. Mittlerer Druck durch Automotive-Transformation und Restrukturierung."
+        },
+        "customer_rating": 0.585,
+        "rating_reasoning": "Gute Größe für IT-Dienstleister (350 MA). Finanzielle Lage angespannt durch Bilanzsummen-Rückgang. Mittlerer Druck durch Automotive-Transformation und Restrukturierung."
+      },
+      "overall_score": 0.586
+    },
+    {
+      "company": {
         "name": "Heinrich Rönner Gruppe",
         "website": "roenner.de",
         "address": "Bremerhaven, Bremen",
@@ -659,6 +936,61 @@
         },
         "customer_rating": 0.525,
         "rating_reasoning": "Mittelgrosses Unternehmen 200-300M, gesund und wachsend durch FSG-Uebernahme, Digitalisierungsdruck durch autonome Schifffahrt und maritime IoT"
+      },
+      "overall_score": 0.583
+    },
+    {
+      "company": {
+        "name": "SHW Automotive GmbH",
+        "website": "shw.de",
+        "address": "Bad Schussenried, BW",
+        "industry": "Pumpen / Bremsscheiben / Automotive",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.8,
+          "activity_reasoning": "Boersennotierte SHW AG, 519 Mio EUR Umsatz 2024 (Wachstum von 472 Mio 2022). 1800+ MA, 9 Standorte weltweit. Stabile Wachstumskurve, aktiv in SAP-Transformation.",
+          "recent_news": [
+            "SHW Umsatz 2024: 519 Mio EUR, neue CFO Sophie-Theres Ebert 2025, Vortrag auf Transformation World 2024 zu SAP Datenmigration"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "Cloud/IoT/AI IT-Outsourcing",
+          "affinity_score": 0.65,
+          "affinity_reasoning": "SHW hat auf Transformation World 2024 zu SAP-Datenmigration praesentiert - aktives SAP/ERP-Transformationsprojekt. Sucht Wirtschaftsinformatiker und SAP-Spezialisten. Automotive-Zulieferer mit Digitalisierungsdruck durch OEM-Anforderungen. Mittelstaendler ohne grosse eigene IT-Abteilung - klassischer Outsourcing-Kandidat.",
+          "relevant_news": [
+            "SHW praesentierte auf Transformation World 2024 SAP-Datenmigration bei Carve-out"
+          ]
+        },
+        "combined_score": 0.71
+      },
+      "financials": {
+        "revenue_estimate": "519 Mio EUR (2024)",
+        "profit_estimate": "n/a",
+        "employee_count": 1800,
+        "hiring_activity": {
+          "general_hiring_score": 0.5,
+          "total_job_postings": 30,
+          "hiring_reasoning": "Sucht aktiv Mitarbeiter in Technik und Administration. Anwendungsbetreuer, Wirtschaftsinformatiker und SAP-Spezialisten gefragt. Keine dedizierten Cloud/IoT-Stellen."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.4,
+          "relevant_job_postings": 5,
+          "topic_hiring_reasoning": "Stellen fuer Anwendungsbetreuer, SAP, EDI, Wirtschaftsinformatik deuten auf IT-Bedarf hin. Keine Cloud/IoT-spezifischen Stellen, aber ERP-Transformation laeuft.",
+          "example_positions": [
+            "Anwendungsbetreuer",
+            "Wirtschaftsinformatiker"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.7,
+          "financial_health_score": 0.8,
+          "pressure_score": 0.65,
+          "strategic_reasoning": "Mittelstaendler mit 1800 MA und 519 Mio EUR Umsatz - ideale Groesse fuer IT-Outsourcing. Aktive SAP-Transformation, Automotive-OEM-Druck. TISAX-relevant als Automotive-Zulieferer. Gute finanzielle Basis."
+        },
+        "customer_rating": 0.55,
+        "rating_reasoning": "Mittelstaendler mit 1800 MA und 519 Mio EUR Umsatz - ideale Groesse fuer IT-Outsourcing. Aktive SAP-Transformation, Automotive-OEM-Druck. TISAX-relevant als Automotive-Zulieferer. Gute finanzielle Basis."
       },
       "overall_score": 0.583
     },
@@ -881,6 +1213,61 @@
         "rating_reasoning": "Viel zu gross mit 5.8 Mrd EUR, eigene IT/Digital-Abteilung, machen es selbst. Kein Outsourcing-Bedarf."
       },
       "overall_score": 0.577
+    },
+    {
+      "company": {
+        "name": "Fritz Winter Eisengießerei",
+        "website": "fritzwinter.de",
+        "address": "Stadtallendorf, Hessen",
+        "industry": "Eisenguss / Automotive",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.8,
+          "activity_reasoning": "Starkes Familienunternehmen, knapp 1 Mrd EUR Umsatz, 3500 MA. Hidden Champion, größtes Investitionsprogramm der Firmengeschichte (300 Mio EUR Konsortialkredit). Aktiv in SAP-Transformation und Digitalisierung.",
+          "recent_news": [
+            "Größtes Investitionsprogramm der Firmengeschichte, SAP S4/HANA Transformation, Interims-GF Thomas Giese bestellt"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "TISAX IT-Outsourcing Cloud/IoT/AI",
+          "affinity_score": 0.55,
+          "affinity_reasoning": "Aktive SAP S4/HANA Transformation, Leiter IT & Digitalisierung gesucht, SAP Competence Center. Großes Investitionsprogramm zeigt Bereitschaft. Aber Fokus auf SAP/ERP, nicht primär Cloud/IoT. Potenzial für Data Platform und Analytics im Gießereibetrieb.",
+          "relevant_news": [
+            "SAP S4/HANA Transformation aktiv, Leiter SAP-Anwendungsentwicklung und Leiter IT & Digitalisierung gesucht"
+          ]
+        },
+        "combined_score": 0.65
+      },
+      "financials": {
+        "revenue_estimate": "966 Mio EUR (2023)",
+        "profit_estimate": null,
+        "employee_count": 3500,
+        "hiring_activity": {
+          "general_hiring_score": 0.6,
+          "total_job_postings": 30,
+          "hiring_reasoning": "Aktives Hiring, SAP-Leitung und IT-Digitalisierung-Leitung gesucht. IT-Fachkräfteausbildung vorhanden. SAP-Transformation treibt IT-Bedarf."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.4,
+          "relevant_job_postings": 3,
+          "topic_hiring_reasoning": "SAP S4/HANA Transformation, IT-Digitalisierung-Leitung gesucht",
+          "example_positions": [
+            "Leiter SAP-Anwendungsentwicklung",
+            "Leiter IT und Digitalisierung"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.7,
+          "financial_health_score": 0.8,
+          "pressure_score": 0.6,
+          "strategic_reasoning": "Groß (966 Mio), finanziell stark, aktive SAP-Transformation. Druck durch Automotive-Wandel und Investitionsprogramm. Gute Größe für IT-Dienstleister."
+        },
+        "customer_rating": 0.55,
+        "rating_reasoning": "Groß (966 Mio), finanziell stark, aktive SAP-Transformation. Druck durch Automotive-Wandel und Investitionsprogramm. Gute Größe für IT-Dienstleister."
+      },
+      "overall_score": 0.575
     },
     {
       "company": {
@@ -1267,6 +1654,61 @@
         "rating_reasoning": "Mittelgross 252M, sehr gute Absicherung durch Rheinmetall, mittlerer Digitalisierungsdruck"
       },
       "overall_score": 0.555
+    },
+    {
+      "company": {
+        "name": "E-T-A Elektrotechnische Apparate GmbH",
+        "website": "e-t-a.de",
+        "address": "Altdorf bei Nürnberg",
+        "industry": "Schutzschalter / Überstromschutz / Elektrotechnik",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.55,
+          "activity_reasoning": "Weltmarktführer Geräteschutzschalter, Hidden Champion. 145 Mio EUR Umsatz 2024 (Rückgang 10%). Kurzarbeit wurde beendet. 2025 Seitwärtsbewegung erwartet. 1.400 MA, 90 in F&E. Great Place to Work 2025. Exportanteil 2/3, USA-Zölle belasten (25% des Geschäfts). Investiert 6-8% in F&E.",
+          "recent_news": [
+            "Umsatzrückgang 10% auf 145 Mio EUR, Kurzarbeit beendet April 2025, Great Place to Work 2025, US-Zölle belasten Exportgeschäft"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "TISAX IT-Dienstleister Cloud/IoT/AI/Data Platform",
+          "affinity_score": 0.7,
+          "affinity_reasoning": "MITTLERER BIS HOHER BEDARF: E-T-A migriert auf SAP S/4HANA Private Cloud (Microsoft Azure) - sucht Cloud Application Administrator. 50 MA in IT-Abteilung, aber keine erkennbare eigene Cloud/IoT-Expertise. Weltmarktführer im Umbruch mit Umsatzrückgang. 90 MA in F&E brauchen moderne Datenplattformen. Keine eigenen IoT-Stellenangebote gefunden. Produktion in 4 Ländern braucht vernetzte Systeme. TISAX-relevant als Automotive-Zulieferer.",
+          "relevant_news": [
+            "SAP S/4HANA Private Cloud Migration auf Azure, Cloud Application Administrator gesucht, 50 MA IT-Abteilung, keine IoT-Stellen offen"
+          ]
+        },
+        "combined_score": 0.64
+      },
+      "financials": {
+        "revenue_estimate": "145 Mio EUR (2024)",
+        "profit_estimate": "nicht veröffentlicht",
+        "employee_count": 1400,
+        "hiring_activity": {
+          "general_hiring_score": 0.4,
+          "total_job_postings": 20,
+          "hiring_reasoning": "Gedämpfte Hiring-Aktivität nach Kurzarbeit und Umsatzrückgang. SAP S/4HANA Cloud Admin gesucht, Software-Entwickler für Testsysteme, Führungsposition F&E. Kosten wurden angepasst, vorsichtiges Einstellen."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.5,
+          "relevant_job_postings": 2,
+          "topic_hiring_reasoning": "SAP S/4HANA Private Cloud (Azure) Admin gesucht - zeigt Cloud-Migrationsbedarf. Software-Entwickler für Testsysteme. Cloud-Migration laufend, könnte Unterstützung brauchen.",
+          "example_positions": [
+            "Cloud Application Administrator SAP S/4HANA",
+            "Software-Entwickler Testsysteme"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.6,
+          "financial_health_score": 0.55,
+          "pressure_score": 0.65,
+          "strategic_reasoning": "Mittelgroß (145 Mio, 1.400 MA) - passende Größe. Finanziell unter Druck (Umsatzrückgang, Kurzarbeit). HOHER DRUCK: Cloud-Migration auf SAP S/4HANA Azure läuft, braucht Kompetenz. US-Zölle erzwingen Effizienzsteigerung. Muss mit weniger Ressourcen mehr digitalisieren."
+        },
+        "customer_rating": 0.55,
+        "rating_reasoning": "Mittelgroß (145 Mio, 1.400 MA) - passende Größe. Finanziell unter Druck (Umsatzrückgang, Kurzarbeit). HOHER DRUCK: Cloud-Migration auf SAP S/4HANA Azure läuft, braucht Kompetenz. US-Zölle erzwingen Effizienzsteigerung. Muss mit weniger Ressourcen mehr digitalisieren."
+      },
+      "overall_score": 0.554
     },
     {
       "company": {
@@ -2317,6 +2759,114 @@
     },
     {
       "company": {
+        "name": "KSM Castings Group GmbH",
+        "website": "ksmcastings.com",
+        "address": "Hildesheim, Niedersachsen",
+        "industry": "Aluminium-Druckguss",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.8,
+          "activity_reasoning": "Starkes Wachstum: 878 Mio EUR (2022) -> 1,01 Mrd EUR (2023) -> 1,106 Mrd EUR (2024). 4.624 MA weltweit. Teil von CITIC Dicastal (China). Kunden: Mercedes, VW, BMW, ZF, Bosch, Volvo, Magna. 11 Standorte in 4 Ländern. Premium-Segment. Solide Wachstumsdynamik.",
+          "recent_news": [
+            "1,106 Mrd EUR Umsatz 2024 (+9,5%), 4.624 MA, starkes Wachstum seit 2022, Teil von CITIC Dicastal, Premium-Automotive-Kunden"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "TISAX IT-Dienstleister Cloud/IoT/AI/Data Platform",
+          "affinity_score": 0.8,
+          "affinity_reasoning": "HOHER BEDARF: KSM Castings ist klassischer Gießerei-Betrieb mit 4.624 MA aber kaum IT-Präsenz. Nur Werkstudent IT und IT Support Specialist offen - keine eigene Cloud/IoT/AI-Kompetenz. Schnelles Wachstum (878 Mio auf 1,1 Mrd in 2 Jahren) erfordert skalierbare IT. 11 Standorte in 4 Ländern brauchen vernetzte Systeme. Premium-Automotive-Kunden (Mercedes, BMW, VW) fordern TISAX und digitale Prozesse. Digitalisierung wird im Ranking erwähnt aber keine konkreten Projekte sichtbar.",
+          "relevant_news": [
+            "Nur Werkstudent IT und IT Support offen, keine Cloud/IoT-Stellen, schnelles Wachstum erfordert IT-Skalierung, Premium-OEM-Kunden fordern digitale Prozesse"
+          ]
+        },
+        "combined_score": 0.8
+      },
+      "financials": {
+        "revenue_estimate": "1,106 Mrd EUR (2024)",
+        "profit_estimate": "nicht veröffentlicht",
+        "employee_count": 4624,
+        "hiring_activity": {
+          "general_hiring_score": 0.4,
+          "total_job_postings": 8,
+          "hiring_reasoning": "Geringe IT-Hiring-Aktivität trotz Wachstum. Nur 5 Stellen auf Glassdoor, Werkstudent IT und IT Support. Wachstum wird offenbar durch Produktionsmitarbeiter getrieben, nicht durch IT-Ausbau. Das deutet auf IT-Outsourcing-Potenzial hin."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.1,
+          "relevant_job_postings": 1,
+          "topic_hiring_reasoning": "Nur Werkstudent IT offen. Bei 1,1 Mrd EUR Umsatz und 4.600 MA ist IT massiv unterbesetzt. Sehr hohes Outsourcing-Potenzial für Digitalisierung.",
+          "example_positions": [
+            "Werkstudent IT"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.8,
+          "financial_health_score": 0.8,
+          "pressure_score": 0.75,
+          "strategic_reasoning": "Groß (1,1 Mrd EUR, 4.624 MA) - ideale Größe für umfangreiche IT-Projekte. Finanziell stark (starkes Wachstum). HOHER DRUCK: Premium-OEM-Kunden (Mercedes, BMW, VW) fordern TISAX und digitale Integration. IT massiv unterbesetzt für Unternehmensgröße. 11 Standorte in 4 Ländern ohne erkennbare Cloud-Strategie. Wachstum erzwingt IT-Skalierung."
+        },
+        "customer_rating": 0.48,
+        "rating_reasoning": "Groß (1,1 Mrd EUR, 4.624 MA) - ideale Größe für umfangreiche IT-Projekte. Finanziell stark (starkes Wachstum). HOHER DRUCK: Premium-OEM-Kunden (Mercedes, BMW, VW) fordern TISAX und digitale Integration. IT massiv unterbesetzt für Unternehmensgröße. 11 Standorte in 4 Ländern ohne erkennbare Cloud-Strategie. Wachstum erzwingt IT-Skalierung."
+      },
+      "overall_score": 0.522
+    },
+    {
+      "company": {
+        "name": "InnoSenT GmbH",
+        "website": "innosent.de",
+        "address": "Donnersdorf, Bayern",
+        "industry": "Radarsensoren / Messtechnik",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.75,
+          "activity_reasoning": "Radarspezialist mit 46 Mio Umsatz, 170 MA, davon 60 in Entwicklung. Bilanzsumme 2023 gestiegen (+5.3%). Seit 2025 Teil der Forvia-Gruppe. Öffentliche Förderungen erhalten.",
+          "recent_news": [
+            "Forvia SE als neuer Gesellschafter seit Aug 2025. Förderung für PROACTIF-Projekt (270k EUR)."
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IT-Outsourcing TISAX",
+          "affinity_score": 0.65,
+          "affinity_reasoning": "Radarsensoren erfordern zunehmend Cloud-Anbindung und Datenverarbeitung. IoT/AI-Projekte (CHARM). Durch Forvia-Übernahme steigen IT-Anforderungen. Aber: eigene starke Entwicklungsabteilung (60 Experten) könnte vieles intern lösen.",
+          "relevant_news": [
+            "Förderprojekt CHARM: Elektronische Systeme für IoT und AI. Product Owner gesucht."
+          ]
+        },
+        "combined_score": 0.69
+      },
+      "financials": {
+        "revenue_estimate": "46 Mio EUR",
+        "profit_estimate": "nicht veröffentlicht",
+        "employee_count": 170,
+        "hiring_activity": {
+          "general_hiring_score": 0.4,
+          "total_job_postings": 8,
+          "hiring_reasoning": "Geringe Hiring-Aktivität mit nur 8 offenen Stellen. Kleines Unternehmen, eher selektive Einstellung."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.4,
+          "relevant_job_postings": 2,
+          "topic_hiring_reasoning": "Product Owner gesucht, IoT/AI-Förderprojekte aktiv. Aber keine expliziten Cloud/IoT-Software-Stellen gefunden.",
+          "example_positions": [
+            "Product Owner"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.5,
+          "financial_health_score": 0.75,
+          "pressure_score": 0.5,
+          "strategic_reasoning": "Eher klein (170 MA) für IT-Dienstleister-Engagement. Finanziell stabil mit Forvia-Rückhalt. Mittlerer Druck - starke eigene Entwicklung, aber IoT/AI-Projekte könnten externe Hilfe erfordern."
+        },
+        "customer_rating": 0.45,
+        "rating_reasoning": "Eher klein (170 MA) für IT-Dienstleister-Engagement. Finanziell stabil mit Forvia-Rückhalt. Mittlerer Druck - starke eigene Entwicklung, aber IoT/AI-Projekte könnten externe Hilfe erfordern."
+      },
+      "overall_score": 0.521
+    },
+    {
+      "company": {
         "name": "R-Biopharm",
         "website": "r-biopharm.com",
         "address": "Darmstadt, Hessen",
@@ -2367,6 +2917,60 @@
         },
         "customer_rating": 0.47,
         "rating_reasoning": "Mittelgroß (125 Mio), gesund, mittlerer Druck - Diagnostik-Markt digitalisiert sich, Connected Devices werden Pflicht"
+      },
+      "overall_score": 0.52
+    },
+    {
+      "company": {
+        "name": "paragon GmbH & Co. KGaA",
+        "website": "paragon.ag",
+        "address": "Delbrück, NRW",
+        "industry": "Automotive Elektronik / Sensorik",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.55,
+          "activity_reasoning": "Börsennotiert (Prime Standard), 135.7 Mio Umsatz 2024 (-16%). Restrukturierung abgeschlossen, EBITDA-Marge steigend auf 14%. Anleihe-Prolongation 2025 deutet auf finanzielle Anspannung.",
+          "recent_news": [
+            "Umsatz 2024: -16% auf 135.7 Mio. EBITDA-Marge auf 14% gestiegen. Prognose Automotive-Segment angehoben. Anleihe-Prolongation."
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IT-Outsourcing TISAX",
+          "affinity_score": 0.7,
+          "affinity_reasoning": "Großer Automotive-Elektronik-Hersteller mit Sensoren, Displays, E-Mobilität. Restrukturierung erzwingt Kosteneinsparungen - IT-Outsourcing attraktiv. Braucht Cloud/IoT für vernetzte Sensoren und E-Mobilitätslösungen.",
+          "relevant_news": [
+            "Fokus auf Kosteneinsparungen. Segmente Electronics und Mechanics. E-Mobilitätslösungen als Wachstumsfeld."
+          ]
+        },
+        "combined_score": 0.64
+      },
+      "financials": {
+        "revenue_estimate": "135.7 Mio EUR (2024)",
+        "profit_estimate": "EBITDA 19.0 Mio EUR (2024)",
+        "employee_count": 1000,
+        "hiring_activity": {
+          "general_hiring_score": 0.4,
+          "total_job_postings": 10,
+          "hiring_reasoning": "Geringe Hiring-Aktivität trotz Unternehmensgröße. Restrukturierung hat zu Personalabbau geführt."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.4,
+          "relevant_job_postings": 1,
+          "topic_hiring_reasoning": "Keine spezifischen Cloud/IoT-Stellen gefunden. Geringe IT-Hiring deutet auf Outsourcing-Bedarf oder Budgetrestriktionen.",
+          "example_positions": [
+            "Allgemeine IT-Positionen"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.5,
+          "financial_health_score": 0.5,
+          "pressure_score": 0.7,
+          "strategic_reasoning": "Etwas groß für klassischen Mittelstands-IT-Dienstleister (1000+ MA, börsennotiert). Finanzielle Lage angespannt. Hoher Druck: Kosteneinsparungen notwendig, E-Mobilität erfordert IT-Kompetenz."
+        },
+        "customer_rating": 0.51,
+        "rating_reasoning": "Etwas groß für klassischen Mittelstands-IT-Dienstleister (1000+ MA, börsennotiert). Finanzielle Lage angespannt. Hoher Druck: Kosteneinsparungen notwendig, E-Mobilität erfordert IT-Kompetenz."
       },
       "overall_score": 0.52
     },
@@ -2976,6 +3580,60 @@
     },
     {
       "company": {
+        "name": "SAR Elektronic GmbH",
+        "website": "sar.biz",
+        "address": "Dingolfing, Bayern",
+        "industry": "Automotive Elektronik",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.8,
+          "activity_reasoning": "Starker Hidden Champion mit 700+ MA weltweit, 300 am Standort Dingolfing. Bilanzsumme 100 Mio EUR (2022, +7.8%). ISO 9001 zertifiziert. DDW Hidden Champion.",
+          "recent_news": [
+            "SAR als Hidden Champion identifiziert. Rang 2331 unter Top-Mittelständlern. Internationale Expansion in 7 Länder."
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IT-Outsourcing TISAX",
+          "affinity_score": 0.6,
+          "affinity_reasoning": "SAR ist eher Automatisierungs-Dienstleister als Automotive-Zulieferer. Hat bereits eigene IT-Services-Sparte. Industrie 4.0 und Digitalisierung sind Kernthemen, aber eigene IT-Kompetenz vorhanden.",
+          "relevant_news": [
+            "SAR bietet selbst IT-Services an. Fokus auf Industrie 4.0 und Digitalisierung."
+          ]
+        },
+        "combined_score": 0.68
+      },
+      "financials": {
+        "revenue_estimate": "ca. 80-100 Mio EUR (geschätzt, Bilanzsumme 100 Mio)",
+        "profit_estimate": "nicht veröffentlicht",
+        "employee_count": 700,
+        "hiring_activity": {
+          "general_hiring_score": 0.5,
+          "total_job_postings": 15,
+          "hiring_reasoning": "Moderate Hiring-Aktivität. Keine spezifischen Cloud/IoT-Stellen in Suchergebnissen gefunden."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.3,
+          "relevant_job_postings": 1,
+          "topic_hiring_reasoning": "Keine expliziten Cloud/IoT/Software-Stellen gefunden. SAR hat eigene IT-Services-Abteilung.",
+          "example_positions": [
+            "Allgemeine IT-Stellen"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.6,
+          "financial_health_score": 0.8,
+          "pressure_score": 0.4,
+          "strategic_reasoning": "Gute Größe (700 MA), finanziell stark. Aber: SAR ist selbst IT-Dienstleister/Automatisierer, eher Konkurrent als Kunde. Geringer Druck für externe IT-Partner."
+        },
+        "customer_rating": 0.42,
+        "rating_reasoning": "Gute Größe (700 MA), finanziell stark. Aber: SAR ist selbst IT-Dienstleister/Automatisierer, eher Konkurrent als Kunde. Geringer Druck für externe IT-Partner."
+      },
+      "overall_score": 0.5
+    },
+    {
+      "company": {
         "name": "Muehlhan GmbH",
         "website": "muehlhan.com",
         "address": "Hamburg-Wilhelmsburg",
@@ -3572,6 +4230,60 @@
     },
     {
       "company": {
+        "name": "Kendrion GmbH",
+        "website": "kendrion.com",
+        "address": "Villingen-Schwenningen, BW",
+        "industry": "Elektromagnetik / Aktuatoren",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.6,
+          "activity_reasoning": "Börsennotiert (NL), strategischer Umbau: 80% Automotive an Solero verkauft für 65 Mio EUR, Fokus auf Industrial (83% Umsatz). Transformationsphase birgt Risiko aber auch Chance",
+          "recent_news": [
+            "Verkauf Automotive-Sparte an Solero Technologies April 2024, Fokussierung auf Industrial"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "TISAX IT-Outsourcing Cloud/IoT/AI",
+          "affinity_score": 0.55,
+          "affinity_reasoning": "Intelligente vernetzte Aktuatoren sprechen für IoT-Affinität, Fokus auf Automatisierung/Elektrifizierung. Aber: Automotive-Sparte verkauft, Industrial-Fokus. 18 offene Stellen ohne spezifische Cloud/IoT-Positionen",
+          "relevant_news": [
+            "Fokus auf intelligente Aktuatoren und Automatisierung, keine expliziten Cloud/IoT-Stellen"
+          ]
+        },
+        "combined_score": 0.57
+      },
+      "financials": {
+        "revenue_estimate": "329 Mio EUR (DE)",
+        "profit_estimate": "EBITDA-Marge ~15%",
+        "employee_count": 1099,
+        "hiring_activity": {
+          "general_hiring_score": 0.4,
+          "total_job_postings": 18,
+          "hiring_reasoning": "18 offene Stellen auf Indeed, hauptsächlich Produktion/Engineering/Logistik, keine spezifischen Cloud/IoT-Stellen"
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.3,
+          "relevant_job_postings": 0,
+          "topic_hiring_reasoning": "Keine spezifischen Cloud/IoT-Stellen, aber intelligente vernetzte Aktuatoren implizieren Bedarf an IoT-Kompetenz",
+          "example_positions": [
+            "Potenzial: Embedded/IoT Engineering"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.7,
+          "financial_health_score": 0.6,
+          "pressure_score": 0.6,
+          "strategic_reasoning": "Gute Groesse fuer IT-Dienstleister, Transformation durch Automotive-Verkauf erzeugt Druck fuer neue IT-Landschaft. Intelligente Aktuatoren = IoT-Potenzial. Aber: Hauptsitz NL, DE-Standort Villingen-Schwenningen"
+        },
+        "customer_rating": 0.485,
+        "rating_reasoning": "Gute Groesse fuer IT-Dienstleister, Transformation durch Automotive-Verkauf erzeugt Druck fuer neue IT-Landschaft. Intelligente Aktuatoren = IoT-Potenzial. Aber: Hauptsitz NL, DE-Standort Villingen-Schwenningen"
+      },
+      "overall_score": 0.48
+    },
+    {
+      "company": {
         "name": "D+H Mechatronic AG",
         "website": "dh-partner.com",
         "address": "Ammersbek, Schleswig-Holstein",
@@ -3842,6 +4554,60 @@
         },
         "customer_rating": 0.44,
         "rating_reasoning": "Viel zu groß (14 Mrd Konzern), entwickelt IoT/KI komplett selbst, kein Outsourcing-Bedarf"
+      },
+      "overall_score": 0.465
+    },
+    {
+      "company": {
+        "name": "IMS Gear SE & Co. KGaA",
+        "website": "imsgear.com",
+        "address": "Donaueschingen, BW",
+        "industry": "Präzisionsgetriebe / Aktuatoren",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.6,
+          "activity_reasoning": "578 Mio EUR Umsatz 2024 (leicht unter 591 Mio 2023). 3.100 MA weltweit. Top-Mittelständler Rang 71. Erwartet stagnierendes Marktumfeld für 2025/2026. 35 Mio EUR Investitionen 2024. Neuer Standort Kroatien geplant Q1/2026. Q1/2025 im Plan. Fokus auf Prozessoptimierung.",
+          "recent_news": [
+            "578 Mio EUR Umsatz 2024, stagnierendes Marktumfeld erwartet, neuer Standort Kroatien Q1/2026, 35 Mio EUR Investitionen, Q1/2025 im Plan"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "TISAX IT-Dienstleister Cloud/IoT/AI/Data Platform",
+          "affinity_score": 0.75,
+          "affinity_reasoning": "HOHER BEDARF: IMS Gear ist klassischer Maschinenbauer/Getriebehersteller mit 3.100 MA aber minimaler IT-Präsenz. Nur 1 IT-Stelle offen (IT Network Engineer OT). Keine Cloud/IoT/AI-Stellen. Digitalisierung erst bei HR-Thesis angekommen. 29 Business Units brauchen vernetzte Datenplattform. Internationale Standorte (DE, Asien, Nordamerika, bald Kroatien) erfordern Cloud-Infrastruktur. Typischer Kandidat der Digitalisierung braucht aber nicht intern aufbauen kann.",
+          "relevant_news": [
+            "Nur 1 IT-Stelle offen (OT Network Engineer), keine Cloud/IoT-Stellen, HR-Digitalisierung als Thesis, neuer Standort Kroatien 2026"
+          ]
+        },
+        "combined_score": 0.69
+      },
+      "financials": {
+        "revenue_estimate": "578 Mio EUR (2024)",
+        "profit_estimate": "nicht veröffentlicht",
+        "employee_count": 3100,
+        "hiring_activity": {
+          "general_hiring_score": 0.3,
+          "total_job_postings": 10,
+          "hiring_reasoning": "Geringe Hiring-Aktivität. Nur 10 offene Stellen auf Glassdoor. 1 IT-Stelle (OT Network Engineer). Stagnierendes Marktumfeld dämpft Einstellungen. Fokus auf Kostenoptimierung und Prozessverbesserung."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.15,
+          "relevant_job_postings": 1,
+          "topic_hiring_reasoning": "Nur 1 IT Network Engineer (OT) offen. Keine Cloud/IoT/AI-Stellen. Kaum eigene IT-Kapazität, hohes Outsourcing-Potenzial aber kein aktives Projekt erkennbar.",
+          "example_positions": [
+            "IT Network Engineer OT"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.7,
+          "financial_health_score": 0.6,
+          "pressure_score": 0.7,
+          "strategic_reasoning": "Groß (578 Mio, 3.100 MA) - gute Größe, viel Potenzial. Finanziell okay aber stagnierendes Umfeld. HOHER DRUCK: Kaum eigene IT, 29 Business Units ohne vernetzte Plattform. Neuer Standort Kroatien braucht IT-Infrastruktur. Automotive-Kunden fordern Digitalisierung. Klassischer Fall für externen TISAX-IT-Partner."
+        },
+        "customer_rating": 0.448,
+        "rating_reasoning": "Groß (578 Mio, 3.100 MA) - gute Größe, viel Potenzial. Finanziell okay aber stagnierendes Umfeld. HOHER DRUCK: Kaum eigene IT, 29 Business Units ohne vernetzte Plattform. Neuer Standort Kroatien braucht IT-Infrastruktur. Automotive-Kunden fordern Digitalisierung. Klassischer Fall für externen TISAX-IT-Partner."
       },
       "overall_score": 0.465
     },
@@ -4227,6 +4993,61 @@
     },
     {
       "company": {
+        "name": "Elmos Semiconductor SE",
+        "website": "elmos.com",
+        "address": "Dortmund, NRW",
+        "industry": "Automotive Halbleiter / ICs",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.95,
+          "activity_reasoning": "Rekordumsatz 582,6 Mio EUR in 2025 (+0,3%), EBIT-Marge 21,8%. Q4 stark +16,2%. Ausblick 2026: +11% Umsatz, 24% EBIT-Marge. Mittelfristziel 1 Mrd EUR bis 2030. Dividende +50%. Starke Cash-Performance. Börsennotiert, profitiert von ADAS, E-Mobility, IoT-Megatrends.",
+          "recent_news": [
+            "Rekordumsatz 2025: 582,6 Mio EUR, Prognose 2026: +11% Wachstum, EBIT-Marge 24%, Mittelfristziel 1 Mrd EUR bis 2030, Dividende +50%"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "TISAX IT-Dienstleister Cloud/IoT/AI/Data Platform",
+          "affinity_score": 0.35,
+          "affinity_reasoning": "GERINGER BEDARF: Elmos ist selbst ein Technologieunternehmen (Halbleiter). Starke eigene IT/Software-Kompetenz. Sucht Cloud Application Administrator CRM und Digitalisierungsmanagement-Azubis - das deutet auf INTERNE Kompetenz hin. 29 offene Stellen, meist Engineering. Als Chip-Hersteller hat Elmos eigene Entwicklungstools und -infrastruktur. Baut eigene ADAS/IoT-Chips - ist also eher ANBIETER als NACHFRAGER von IoT. Wenig Bedarf an externem IT-Dienstleister.",
+          "relevant_news": [
+            "Cloud Application Admin CRM gesucht, Digitalisierungsmanagement-Azubi, 29 offene Stellen meist Engineering, eigene Chip-Entwicklung für ADAS/IoT"
+          ]
+        },
+        "combined_score": 0.59
+      },
+      "financials": {
+        "revenue_estimate": "582,6 Mio EUR (2025)",
+        "profit_estimate": "101,2 Mio EUR Jahresüberschuss (2025)",
+        "employee_count": 1500,
+        "hiring_activity": {
+          "general_hiring_score": 0.7,
+          "total_job_postings": 29,
+          "hiring_reasoning": "Aktive Hiring-Aktivität passend zum Wachstumskurs. 29 offene Stellen, v.a. Engineering, Test Development, Cloud Admin CRM. Wachstumskurs bis 1 Mrd EUR 2030 erfordert Personalaufbau. Fokus auf eigene Chip-Entwicklung."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.25,
+          "relevant_job_postings": 2,
+          "topic_hiring_reasoning": "Cloud Application Administrator CRM und Digitalisierungsmanagement-Azubi. Elmos baut IoT-CHIPS, braucht keinen externen IoT-Dienstleister. Cloud-Stelle ist CRM-fokussiert.",
+          "example_positions": [
+            "Cloud Application Administrator CRM",
+            "Kaufmann Digitalisierungsmanagement"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.4,
+          "financial_health_score": 0.95,
+          "pressure_score": 0.15,
+          "strategic_reasoning": "Groß (583 Mio, börsennotiert) - eher zu groß und zu technisch für klassischen IT-Dienstleister. Finanziell exzellent. KEIN DRUCK: Eigene Technologiekompetenz, Rekordumsatz, Wachstumskurs. Baut alles intern. Kein Bedarf an externem TISAX-IT-Dienstleister."
+        },
+        "customer_rating": 0.318,
+        "rating_reasoning": "Groß (583 Mio, börsennotiert) - eher zu groß und zu technisch für klassischen IT-Dienstleister. Finanziell exzellent. KEIN DRUCK: Eigene Technologiekompetenz, Rekordumsatz, Wachstumskurs. Baut alles intern. Kein Bedarf an externem TISAX-IT-Dienstleister."
+      },
+      "overall_score": 0.451
+    },
+    {
+      "company": {
         "name": "Niemet Manfred Niemann KG",
         "website": "niemet.com",
         "address": "Bremen, Bremen",
@@ -4387,6 +5208,61 @@
         "rating_reasoning": "~300 Mio Gruppe, gute Größe. Finanziell stark. ABER: Eigene IIoT-Kompetenz, wenig Druck extern zu vergeben."
       },
       "overall_score": 0.447
+    },
+    {
+      "company": {
+        "name": "Isabellenhütte Heusler GmbH",
+        "website": "isabellenhuette.de",
+        "address": "Dillenburg, Hessen",
+        "industry": "Präzisionsmesstechnik / Shunts",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.75,
+          "activity_reasoning": "Stabiles Familienunternehmen seit 1482, Hidden Champion Rang 505. Ca. 209 Mio EUR Umsatz (2022), 1.100 MA. International in 61 Ländern aktiv. Keine aktuellen Negativmeldungen. Starke Position in Automotive-Sensorik und Präzisionsmesstechnik. Nutzt bereits Membrain-IoT Plattform und SAP seit 2016.",
+          "recent_news": [
+            "Hidden Champion Rang 505, Produktion nahezu komplett digitalisiert mit SAP und Membrain-IoT, Fokus auf KI/IoT/Sensorik laut Stellenanzeigen"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "TISAX IT-Dienstleister Cloud/IoT/AI/Data Platform",
+          "affinity_score": 0.45,
+          "affinity_reasoning": "GERINGER BEDARF: Isabellenhütte hat bereits eine eigene Industrie 4.0-Plattform (Membrain-IoT) seit Jahren im Einsatz. SAP seit 2016 eingeführt. Produktion nahezu komplett digitalisiert. Eigene IT-Abteilung mit Teamleitern, Inhouse Consultants, IT Commercial Processes. Das Unternehmen hat Digitalisierung INTERN vorangetrieben und eigene IoT-Kompetenz aufgebaut. TISAX-relevant als Automotive-Zulieferer, aber wenig externer IT-Bedarf erkennbar.",
+          "relevant_news": [
+            "Membrain-IoT Plattform bereits im Einsatz, SAP seit 2016, eigene IT-Abteilung mit Inhouse Consultants, Produktion nahezu komplett digitalisiert"
+          ]
+        },
+        "combined_score": 0.57
+      },
+      "financials": {
+        "revenue_estimate": "209 Mio EUR (2022)",
+        "profit_estimate": "nicht veröffentlicht",
+        "employee_count": 1100,
+        "hiring_activity": {
+          "general_hiring_score": 0.5,
+          "total_job_postings": 15,
+          "hiring_reasoning": "Moderate Hiring-Aktivität. IT-Systemadministrator offen, Teamleiter IT, Inhouse Consultant. Kein massiver Ausbau erkennbar. Fokus auf Fachkräfte in Produktion und Technik."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.3,
+          "relevant_job_postings": 2,
+          "topic_hiring_reasoning": "Nur IT-Systemadmin und Inhouse Consultant gefunden. Keine expliziten Cloud/IoT/AI-Stellen. Eigene Membrain-IoT Plattform deutet auf interne Kompetenz hin.",
+          "example_positions": [
+            "IT-Systemadministrator",
+            "Inhouse Consultant IT"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.5,
+          "financial_health_score": 0.75,
+          "pressure_score": 0.3,
+          "strategic_reasoning": "Mittelgroß (209 Mio, 1.100 MA) - gute Größe für IT-Dienstleister. Finanziell stabil als Hidden Champion. ABER: Geringer Digitalisierungsdruck da bereits eigene IoT-Plattform und SAP. Kein erkennbarer Leidensdruck für externen IT-Partner."
+        },
+        "customer_rating": 0.37,
+        "rating_reasoning": "Mittelgroß (209 Mio, 1.100 MA) - gute Größe für IT-Dienstleister. Finanziell stabil als Hidden Champion. ABER: Geringer Digitalisierungsdruck da bereits eigene IoT-Plattform und SAP. Kein erkennbarer Leidensdruck für externen IT-Partner."
+      },
+      "overall_score": 0.446
     },
     {
       "company": {
@@ -4605,6 +5481,60 @@
         "rating_reasoning": "Kleines Unternehmen <100M, ideale Größe für Outsourcing. Finanzlage unsicher (Bonitätsänderung). Digitalisierungsdruck durch Industrie-4.0-Anforderungen der Kunden (Schienenfahrzeug, Wehrtechnik)."
       },
       "overall_score": 0.44
+    },
+    {
+      "company": {
+        "name": "Thomas Magnete GmbH",
+        "website": "thomas-magnete.com",
+        "address": "Herdorf, RLP",
+        "industry": "Elektromagnete / Ventiltechnik",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.75,
+          "activity_reasoning": "Starkes Familienunternehmen, Hidden Champion, Weltmarktführer für Elektromagnete. 211 Mio EUR Umsatz 2023, steigendes Wachstum. Diversifizierung in Medical (GME-Übernahme 2025). Solide Marktposition.",
+          "recent_news": [
+            "Übernahme German Medical Engineering 2025, Diversifizierung in Healthcare, 5 internationale Standorte"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "TISAX IT-Outsourcing Cloud/IoT/AI",
+          "affinity_score": 0.45,
+          "affinity_reasoning": "Hidden Champion mit IT Operations Engineer Stelle (M365). Produkte werden zunehmend elektronisch/intelligent (Aktoriksysteme). Potenzial für IoT in Produkten und Produktion. Aber IT-Fokus noch auf Basics (M365). Mittelfristig interessant durch Produktdigitalisierung.",
+          "relevant_news": [
+            "IT Operations Engineer M365 gesucht, Diversifizierung in Medizintechnik, Produkte werden smarter"
+          ]
+        },
+        "combined_score": 0.57
+      },
+      "financials": {
+        "revenue_estimate": "211 Mio EUR (2023)",
+        "profit_estimate": null,
+        "employee_count": 768,
+        "hiring_activity": {
+          "general_hiring_score": 0.45,
+          "total_job_postings": 16,
+          "hiring_reasoning": "16 offene Stellen, davon IT Operations Engineer M365. Moderate Hiring-Aktivität für ein Unternehmen dieser Größe."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.2,
+          "relevant_job_postings": 1,
+          "topic_hiring_reasoning": "IT Operations Engineer M365 - Basis-IT, kein Cloud/IoT",
+          "example_positions": [
+            "IT Operations Engineer M365"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.5,
+          "financial_health_score": 0.75,
+          "pressure_score": 0.5,
+          "strategic_reasoning": "Mittlere Größe (211 Mio), Hidden Champion, solide Finanzen. Mittlerer Druck durch Produktdigitalisierung. Potenzial mittelfristig."
+        },
+        "customer_rating": 0.387,
+        "rating_reasoning": "Mittlere Größe (211 Mio), Hidden Champion, solide Finanzen. Mittlerer Druck durch Produktdigitalisierung. Potenzial mittelfristig."
+      },
+      "overall_score": 0.439
     },
     {
       "company": {
@@ -6108,6 +7038,60 @@
     },
     {
       "company": {
+        "name": "Linde + Wiemann Deutschland SE",
+        "website": "linde-wiemann.com",
+        "address": "Dillenburg, Hessen",
+        "industry": "Strukturbauteile / Automotive",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.7,
+          "activity_reasoning": "Solides Familienunternehmen, 625 Mio Umsatz, 19 Standorte, 8 Länder. Leichter Umsatzrückgang 2024 vs 2023 (625 vs 645 Mio). Indischer Partner Neel Metal seit 2019",
+          "recent_news": [
+            "Umsatz 2024 über 625 Mio EUR, globale Expansion, Rang 252 Top-Mittelstand"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "TISAX IT-Outsourcing Cloud/IoT/AI",
+          "affinity_score": 0.4,
+          "affinity_reasoning": "IT-Coordinator Stelle in den USA zeigt grundlegende IT-Bedürfnisse, aber keine Cloud/IoT-Stellen. 19 Standorte global = Bedarf an vernetzter IT-Infrastruktur. DDW listet Digitalisierung/KI als Thema",
+          "relevant_news": [
+            "IT Coordinator Stelle USA, keine Cloud/IoT-spezifischen Stellen in DE"
+          ]
+        },
+        "combined_score": 0.52
+      },
+      "financials": {
+        "revenue_estimate": "625 Mio EUR",
+        "profit_estimate": "k.A.",
+        "employee_count": 2300,
+        "hiring_activity": {
+          "general_hiring_score": 0.3,
+          "total_job_postings": 10,
+          "hiring_reasoning": "4 Stellen auf Glassdoor, IT Coordinator in USA, keine Cloud/IoT-spezifischen Stellen in Deutschland"
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.15,
+          "relevant_job_postings": 0,
+          "topic_hiring_reasoning": "Nur generische IT-Koordinator-Stelle USA, keine Cloud/IoT/AI-Stellen",
+          "example_positions": [
+            "IT Coordinator (USA)"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.7,
+          "financial_health_score": 0.7,
+          "pressure_score": 0.4,
+          "strategic_reasoning": "Gute Groesse (625 Mio, 2300 MA), Familienunternehmen mit Entscheidungsfreiheit, 19 Standorte global = Bedarf an vernetzter IT. Aber: Strukturbauteile-Fertigung hat mittleren Cloud/IoT-Bedarf. TISAX-relevant"
+        },
+        "customer_rating": 0.357,
+        "rating_reasoning": "Gute Groesse (625 Mio, 2300 MA), Familienunternehmen mit Entscheidungsfreiheit, 19 Standorte global = Bedarf an vernetzter IT. Aber: Strukturbauteile-Fertigung hat mittleren Cloud/IoT-Bedarf. TISAX-relevant"
+      },
+      "overall_score": 0.385
+    },
+    {
+      "company": {
         "name": "Mecklenburger Backstuben GmbH",
         "website": "mecklenburger-backstuben.de",
         "address": "Waren/Müritz, Mecklenburg-Vorpommern",
@@ -6651,6 +7635,58 @@
     },
     {
       "company": {
+        "name": "Sumida Components & Modules GmbH",
+        "website": "sumida.com",
+        "address": "Obernzell, Bayern",
+        "industry": "Spulen / Induktivitäten / Automotive",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.7,
+          "activity_reasoning": "Globaler Konzern mit 20.000 MA weltweit, 560 in DE. 70% Umsatz aus Automotive. Stabil, aber keine spezifischen Wachstumszahlen verfügbar. Öffentliche Förderung für F&E erhalten.",
+          "recent_news": [
+            "Sumida investiert in SeVen-Projekt zur Ressourceneffizienz, arbeitet mit GZDN Digitalisierung Niederbayern"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "Cloud/IoT/AI IT-Outsourcing",
+          "affinity_score": 0.4,
+          "affinity_reasoning": "Elektronik-Zulieferer mit Fokus auf physische Komponenten (Spulen/Induktivitäten). Kooperiert mit GZDN Digitalisierung, aber keine aktiven IT/Cloud/IoT-Stellenausschreibungen. Digitalisierungsbedarf vorhanden aber nicht priorisiert.",
+          "relevant_news": [
+            "Zusammenarbeit mit Gründerzentrum Digitalisierung Niederbayern"
+          ]
+        },
+        "combined_score": 0.52
+      },
+      "financials": {
+        "revenue_estimate": "n/a (Konzern: ca. 1Mrd+ JPY)",
+        "profit_estimate": "n/a",
+        "employee_count": 560,
+        "hiring_activity": {
+          "general_hiring_score": 0.3,
+          "total_job_postings": 10,
+          "hiring_reasoning": "Wenige offene Stellen, keine IT/Cloud/IoT-Stellen gefunden. Fokus auf technische und Produktionsmitarbeiter."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.1,
+          "relevant_job_postings": 0,
+          "topic_hiring_reasoning": "Keine IT/Cloud/IoT-Stellen ausgeschrieben. Kein erkennbarer Bedarf an externer IT-Dienstleistung.",
+          "example_positions": []
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.4,
+          "financial_health_score": 0.7,
+          "pressure_score": 0.3,
+          "strategic_reasoning": "Mittelgroßer Standort (560 MA DE). Automotive-Zulieferer mit Fokus auf physische Komponenten. IT-Entscheidungen zentral in Japan. Geringer Druck fuer Cloud/IoT/AI-Outsourcing."
+        },
+        "customer_rating": 0.25,
+        "rating_reasoning": "Mittelgroßer Standort (560 MA DE). Automotive-Zulieferer mit Fokus auf physische Komponenten. IT-Entscheidungen zentral in Japan. Geringer Druck fuer Cloud/IoT/AI-Outsourcing."
+      },
+      "overall_score": 0.333
+    },
+    {
+      "company": {
         "name": "ZARM Technik AG",
         "website": "zarm-technik.de",
         "address": "Bremen, Bremen",
@@ -6705,6 +7741,58 @@
     },
     {
       "company": {
+        "name": "Fondium Group GmbH",
+        "website": "fondium.de",
+        "address": "Mettmann, NRW",
+        "industry": "Eisenguss / Automotive",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.5,
+          "activity_reasoning": "Mittelgroße Gießerei, 500 Mio EUR Umsatz (2019), seitdem keine aktuellen Zahlen. MBO 2018 aus Georg Fischer, mehrfacher Führungswechsel 2023-2024. Investitionen in Digitalisierung geplant, aber Automotive-Transformation als Risiko.",
+          "recent_news": [
+            "CEO-Wechsel zu Rainer Bosky 2024, Investitionen in Digitalisierung und Automation am Standort Mettmann geplant"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "TISAX IT-Outsourcing Cloud/IoT/AI",
+          "affinity_score": 0.35,
+          "affinity_reasoning": "Klassische Eisengießerei mit Digitalisierungsabsicht, aber keine konkreten Cloud/IoT-Projekte sichtbar. Keine IT-Stellen gefunden. Weg zur agilen Fabrik noch früh. Braucht eher MES/Automation als Cloud/IoT-Plattform.",
+          "relevant_news": [
+            "Plant Investitionen in Digitalisierung und Automation, aber keine konkreten IT-Outsourcing-Signale"
+          ]
+        },
+        "combined_score": 0.41
+      },
+      "financials": {
+        "revenue_estimate": "500 Mio EUR (2019)",
+        "profit_estimate": null,
+        "employee_count": 1800,
+        "hiring_activity": {
+          "general_hiring_score": 0.3,
+          "total_job_postings": 15,
+          "hiring_reasoning": "Wenige offene Stellen, hauptsächlich Engineering/Produktion. Keine IT-Stellen sichtbar. Moderate Hiring-Aktivität."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.1,
+          "relevant_job_postings": 0,
+          "topic_hiring_reasoning": "Keine IT-Stellen im Bereich Cloud/IoT/AI gefunden",
+          "example_positions": []
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.5,
+          "financial_health_score": 0.5,
+          "pressure_score": 0.4,
+          "strategic_reasoning": "Mittelgroß (500 Mio), aber Automotive-Transformation erzeugt mittleren Druck. Digitalisierung gewollt, aber kein konkreter IT-Bedarf für Cloud/IoT erkennbar."
+        },
+        "customer_rating": 0.3,
+        "rating_reasoning": "Mittelgroß (500 Mio), aber Automotive-Transformation erzeugt mittleren Druck. Digitalisierung gewollt, aber kein konkreter IT-Bedarf für Cloud/IoT erkennbar."
+      },
+      "overall_score": 0.312
+    },
+    {
+      "company": {
         "name": "Poppe und Groninger GmbH",
         "website": "poppe-groninger.de",
         "address": "Hamburg",
@@ -6756,6 +7844,58 @@
         "rating_reasoning": "Sehr kleines Unternehmen unter 10M, perfekte Groesse fuer Outsourcing aber sehr begrenztes Budget"
       },
       "overall_score": 0.309
+    },
+    {
+      "company": {
+        "name": "HBPO GmbH",
+        "website": "hbpogroup.com",
+        "address": "Lippstadt, NRW",
+        "industry": "Frontend-Module / Automotive",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.7,
+          "activity_reasoning": "Weltmarktführer Frontend-Module, 2 Mrd Umsatz, aber 2022 von Plastic Omnium übernommen - Entscheidungen nun beim Mutterkonzern OPmobility in Frankreich",
+          "recent_news": [
+            "100% Übernahme durch Plastic Omnium 2022, Integration in OPmobility-Gruppe"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "TISAX IT-Outsourcing Cloud/IoT/AI",
+          "affinity_score": 0.35,
+          "affinity_reasoning": "Hauptsächlich SAP ERP und MS Office, keine Cloud/IoT-Stellenanzeigen, IT-Entscheidungen nun bei Mutterkonzern OPmobility in Frankreich. Geringe Eigenständigkeit bei IT-Investitionen",
+          "relevant_news": [
+            "Keine IT/Cloud/IoT-Stellen ausgeschrieben, stark auf SAP fokussiert"
+          ]
+        },
+        "combined_score": 0.49
+      },
+      "financials": {
+        "revenue_estimate": "2.0 Mrd EUR",
+        "profit_estimate": "k.A.",
+        "employee_count": 2800,
+        "hiring_activity": {
+          "general_hiring_score": 0.2,
+          "total_job_postings": 5,
+          "hiring_reasoning": "Kaum offene Stellen, keine IT-spezifischen Positionen, Hiring scheint nach Übernahme durch OPmobility reduziert"
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.1,
+          "relevant_job_postings": 0,
+          "topic_hiring_reasoning": "Keine Cloud/IoT/AI-Stellen, IT basiert auf SAP ERP, keine Digitalisierungsinitiative erkennbar",
+          "example_positions": []
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.3,
+          "financial_health_score": 0.7,
+          "pressure_score": 0.3,
+          "strategic_reasoning": "Teil von OPmobility (11.4 Mrd Konzern) - IT-Entscheidungen beim franzoesischen Mutterkonzern. Geringer Druck, da Fertigung/Montage-fokussiert. TISAX ja, aber Outsourcing-Entscheidung nicht in Lippstadt"
+        },
+        "customer_rating": 0.215,
+        "rating_reasoning": "Teil von OPmobility (11.4 Mrd Konzern) - IT-Entscheidungen beim franzoesischen Mutterkonzern. Geringer Druck, da Fertigung/Montage-fokussiert. TISAX ja, aber Outsourcing-Entscheidung nicht in Lippstadt"
+      },
+      "overall_score": 0.302
     },
     {
       "company": {
@@ -6868,6 +8008,112 @@
     },
     {
       "company": {
+        "name": "E-T-A Elektrotechnische Apparate",
+        "website": "e-t-a.de",
+        "address": "Altdorf, Bayern",
+        "industry": "Schutzschalter / Circuit Protection",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "Vacuumschmelze GmbH",
+        "website": "vacuumschmelze.com",
+        "address": "Hanau, Hessen",
+        "industry": "Magnetwerkstoffe / Automotive",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.75,
+          "activity_reasoning": "Hidden Champion, Weltmarktfuehrer Magnetwerkstoffe. Ca. 400 Mio EUR Umsatz, 4300 MA weltweit (1450 Hanau). Apollo Global Management als Eigentuemer. 800 Patente. Stabil positioniert.",
+          "recent_news": [
+            "Rang 1534 der deutschen Top-Unternehmen, Hidden Champion, Apollo-Portfolio"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "Cloud/IoT/AI IT-Outsourcing",
+          "affinity_score": 0.45,
+          "affinity_reasoning": "Groesserer Mittelstaendler mit 1450 MA in Hanau. Keine oeffentlich sichtbare Digitalisierungsstrategie. Klassische Werkstoffindustrie mit Bedarf an ERP/MES-Modernisierung. Automotive-Zulieferer (TISAX relevant). Keine Cloud/IoT-Stellen gefunden, aber als Hidden Champion mit 400 Mio Umsatz zwangslaeufig IT-Bedarf.",
+          "relevant_news": [
+            "Keine spezifischen Digitalisierungsinitiativen oeffentlich bekannt"
+          ]
+        },
+        "combined_score": 0.57
+      },
+      "financials": {
+        "revenue_estimate": "400 Mio EUR",
+        "profit_estimate": "n/a",
+        "employee_count": 4300,
+        "hiring_activity": {
+          "general_hiring_score": 0.5,
+          "total_job_postings": 21,
+          "hiring_reasoning": "21 offene Stellen bei Glassdoor. Schwerpunkt Metallurgie und Ingenieurwesen. Keine dedizierten IT/Cloud-Stellen sichtbar."
+        },
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "Hongfa Europe GmbH",
+        "website": "hongfa.com",
+        "address": "Maintal, Hessen",
+        "industry": "Relais / Automotive Elektronik",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.6,
+          "activity_reasoning": "Europazentrale des chinesischen Relais-Weltmarktfuehrers. Bilanzsumme 90 Mio EUR (2023, -17.8%). 51-200 MA in Europa. Top 50 Supply Chain New Energy 2025. Leichter Rueckgang.",
+          "recent_news": [
+            "Hongfa Top 50 Supply Chain New Energy 2025, Bilanzsumme leicht ruecklaeufig"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "Cloud/IoT/AI IT-Outsourcing",
+          "affinity_score": 0.3,
+          "affinity_reasoning": "Primaer Vertriebsbuero und Distributionszentrum in Europa. Entwicklung und Produktion hauptsaechlich in China. 80% automatisierte Produktion. Kaum eigener IT-Bedarf fuer Cloud/IoT in Europa. Kein Hinweis auf TISAX.",
+          "relevant_news": [
+            "80% automatisierte Produktion in China, Europa primär Vertrieb und Logistik"
+          ]
+        },
+        "combined_score": 0.42
+      },
+      "financials": {
+        "revenue_estimate": "n/a (Bilanzsumme 90 Mio EUR)",
+        "profit_estimate": "n/a",
+        "employee_count": 150,
+        "hiring_activity": {
+          "general_hiring_score": 0.3,
+          "total_job_postings": 8,
+          "hiring_reasoning": "Wenige offene Stellen, Fokus auf Sales und Technical Support. Keine IT-Stellen."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.05,
+          "relevant_job_postings": 0,
+          "topic_hiring_reasoning": "Keine IT/Cloud/IoT-Stellen in Europa. Reines Vertriebsbuero ohne eigene SW-Entwicklung.",
+          "example_positions": []
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.2,
+          "financial_health_score": 0.6,
+          "pressure_score": 0.15,
+          "strategic_reasoning": "Kleine Europa-Niederlassung (150 MA). Vertrieb+Logistik, keine Produktion/Entwicklung in DE. IT-Entscheidungen in China. Kein Bedarf an TISAX-zertifiziertem IT-Dienstleister in DE."
+        },
+        "customer_rating": 0.148,
+        "rating_reasoning": "Kleine Europa-Niederlassung (150 MA). Vertrieb+Logistik, keine Produktion/Entwicklung in DE. IT-Entscheidungen in China. Kein Bedarf an TISAX-zertifiziertem IT-Dienstleister in DE."
+      },
+      "overall_score": 0.247
+    },
+    {
+      "company": {
         "name": "LENNARTZ GmbH Medizinprodukte",
         "website": "lennartz-gmbh.de",
         "address": "Hamburg",
@@ -6922,147 +8168,55 @@
     },
     {
       "company": {
-        "name": "Helbako GmbH",
-        "website": "helbako.com",
-        "address": "Heiligenhaus, NRW",
-        "industry": "Automotive Elektronik / Steuergeräte",
+        "name": "WEGU GmbH Schwingungsdämpfung",
+        "website": "wegu.de",
+        "address": "Kassel, Hessen",
+        "industry": "Schwingungsdämpfung / NVH",
         "source": null
       },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "InnoSenT GmbH",
-        "website": "innosent.de",
-        "address": "Donnersdorf, Bayern",
-        "industry": "Radarsensoren / Messtechnik",
-        "source": null
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.5,
+          "activity_reasoning": "Mittelständischer Nischenanbieter, keine öffentlichen Umsatzzahlen, kleine Firmengruppe mit Standorten DE/SK/CN, begrenzte Sichtbarkeit",
+          "recent_news": [
+            "Keine aktuellen Nachrichten gefunden, stabile aber kleine Firmengruppe"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "TISAX IT-Outsourcing Cloud/IoT/AI",
+          "affinity_score": 0.2,
+          "affinity_reasoning": "Klassischer Mittelständler, keine IT/Cloud/IoT-Stellen, keine Digitalisierungsstrategie erkennbar, Produktion von Gummi/Kunststoffteilen hat geringe IT-Affinität",
+          "relevant_news": [
+            "Keine IT-Stellen, keine Digitalisierungsinitiativen öffentlich bekannt"
+          ]
+        },
+        "combined_score": 0.32
       },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "MRS Electronic GmbH",
-        "website": "mrs-electronic.com",
-        "address": "Rottweil, BW",
-        "industry": "Automotive Steuergeräte / ECU",
-        "source": null
+      "financials": {
+        "revenue_estimate": "ca. 50-80 Mio EUR (geschätzt)",
+        "profit_estimate": "k.A.",
+        "employee_count": 500,
+        "hiring_activity": {
+          "general_hiring_score": 0.1,
+          "total_job_postings": 3,
+          "hiring_reasoning": "Keine öffentlich sichtbaren IT-Stellenanzeigen, sehr kleine Firma mit begrenztem Hiring"
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.05,
+          "relevant_job_postings": 0,
+          "topic_hiring_reasoning": "Keinerlei IT/Cloud/IoT-Stellen, klassischer Fertigungsbetrieb ohne erkennbare Digitalisierungsstrategie",
+          "example_positions": []
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.4,
+          "financial_health_score": 0.5,
+          "pressure_score": 0.2,
+          "strategic_reasoning": "Mittelstaendler passender Groesse, aber geringe Finanzkraft und kaum Digitalisierungsdruck. Gummi/Kunststoff-Fertigung hat geringen Cloud/IoT/AI-Bedarf. TISAX-zertifiziert aber IT-Bedarf minimal"
+        },
+        "customer_rating": 0.173,
+        "rating_reasoning": "Mittelstaendler passender Groesse, aber geringe Finanzkraft und kaum Digitalisierungsdruck. Gummi/Kunststoff-Fertigung hat geringen Cloud/IoT/AI-Bedarf. TISAX-zertifiziert aber IT-Bedarf minimal"
       },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "SAR Elektronic GmbH",
-        "website": "sar.biz",
-        "address": "Dingolfing, Bayern",
-        "industry": "Automotive Elektronik",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "paragon GmbH & Co. KGaA",
-        "website": "paragon.ag",
-        "address": "Delbrück, NRW",
-        "industry": "Automotive Elektronik / Sensorik",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Isabellenhütte Heusler GmbH",
-        "website": "isabellenhuette.de",
-        "address": "Dillenburg, Hessen",
-        "industry": "Präzisionsmesstechnik / Shunts",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "E-T-A Elektrotechnische Apparate",
-        "website": "e-t-a.de",
-        "address": "Altdorf, Bayern",
-        "industry": "Schutzschalter / Circuit Protection",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Elmos Semiconductor SE",
-        "website": "elmos.com",
-        "address": "Dortmund, NRW",
-        "industry": "Automotive Halbleiter / ICs",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "IMS Gear SE & Co. KGaA",
-        "website": "imsgear.com",
-        "address": "Donaueschingen, BW",
-        "industry": "Präzisionsgetriebe / Aktuatoren",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "KSM Castings Group GmbH",
-        "website": "ksmcastings.com",
-        "address": "Hildesheim, Niedersachsen",
-        "industry": "Aluminium-Druckguss",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Fondium Group GmbH",
-        "website": "fondium.de",
-        "address": "Mettmann, NRW",
-        "industry": "Eisenguss / Automotive",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Fritz Winter Eisengießerei",
-        "website": "fritzwinter.de",
-        "address": "Stadtallendorf, Hessen",
-        "industry": "Eisenguss / Automotive",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
+      "overall_score": 0.208
     },
     {
       "company": {
@@ -7072,153 +8226,49 @@
         "industry": "Stanz-/Umformtechnik",
         "source": null
       },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Thomas Magnete GmbH",
-        "website": "thomas-magnete.com",
-        "address": "Herdorf, RLP",
-        "industry": "Elektromagnete / Ventiltechnik",
-        "source": null
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.4,
+          "activity_reasoning": "Von INDUS an Mutares verkauft (2023), typisches Restrukturierungsobjekt. Mitarbeiterzahl von 800 auf 440 geschrumpft. Umsatz ca. 130 Mio EUR geplant 2025. Verschmelzung mit Selzer Systemtechnik 2025. Operative Neuausrichtung unter Mutares.",
+          "recent_news": [
+            "Übernahme durch Mutares 2023, Verschmelzung mit Selzer Systemtechnik 2025, Neugestaltung operativer Strukturen"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "TISAX IT-Outsourcing Cloud/IoT/AI",
+          "affinity_score": 0.2,
+          "affinity_reasoning": "Unter Mutares-Restrukturierung, keine IT-Stellen sichtbar, keine Digitalisierungssignale. Fokus auf operative Neuausrichtung und Kosteneffizienz. Kein Budget für IT-Innovation zu erwarten. Kleines Unternehmen nach Personalabbau.",
+          "relevant_news": [
+            "Keine Digitalisierungsprojekte oder IT-Stellenangebote sichtbar, Fokus auf Restrukturierung"
+          ]
+        },
+        "combined_score": 0.28
       },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Mekra Lang GmbH",
-        "website": "mekra.de",
-        "address": "Ergersheim, Bayern",
-        "industry": "Spiegel / Kamerasysteme",
-        "source": null
+      "financials": {
+        "revenue_estimate": "130 Mio EUR (2025 geplant)",
+        "profit_estimate": null,
+        "employee_count": 440,
+        "hiring_activity": {
+          "general_hiring_score": 0.15,
+          "total_job_postings": 5,
+          "hiring_reasoning": "Kaum offene Stellen sichtbar, Unternehmen im Restrukturierungsmodus nach Mutares-Übernahme. Personalabbau von 800 auf 440."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.05,
+          "relevant_job_postings": 0,
+          "topic_hiring_reasoning": "Keine IT-Stellen, Fokus auf Restrukturierung",
+          "example_positions": []
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.2,
+          "financial_health_score": 0.3,
+          "pressure_score": 0.3,
+          "strategic_reasoning": "Klein (130 Mio, 440 MA), unter Restrukturierung bei Mutares. Kein Budget für IT-Innovation. Zu klein und instabil für strategische Partnerschaft."
+        },
+        "customer_rating": 0.17,
+        "rating_reasoning": "Klein (130 Mio, 440 MA), unter Restrukturierung bei Mutares. Kein Budget für IT-Innovation. Zu klein und instabil für strategische Partnerschaft."
       },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Rosenberger Hochfrequenztechnik",
-        "website": "rosenberger.com",
-        "address": "Fridolfing, Bayern",
-        "industry": "HF-Steckverbinder / Automotive",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "HBPO GmbH",
-        "website": "hbpogroup.com",
-        "address": "Lippstadt, NRW",
-        "industry": "Frontend-Module / Automotive",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "WEGU GmbH Schwingungsdämpfung",
-        "website": "wegu.de",
-        "address": "Kassel, Hessen",
-        "industry": "Schwingungsdämpfung / NVH",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Kendrion GmbH",
-        "website": "kendrion.com",
-        "address": "Villingen-Schwenningen, BW",
-        "industry": "Elektromagnetik / Aktuatoren",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Linde + Wiemann Deutschland SE",
-        "website": "linde-wiemann.com",
-        "address": "Dillenburg, Hessen",
-        "industry": "Strukturbauteile / Automotive",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Sumida Components & Modules GmbH",
-        "website": "sumida.com",
-        "address": "Obernzell, Bayern",
-        "industry": "Spulen / Induktivitäten / Automotive",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Hongfa Europe GmbH",
-        "website": "hongfa.com",
-        "address": "Maintal, Hessen",
-        "industry": "Relais / Automotive Elektronik",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "SHW Automotive GmbH",
-        "website": "shw.de",
-        "address": "Bad Schussenried, BW",
-        "industry": "Pumpen / Bremsscheiben / Automotive",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Gentherm Präzision SE",
-        "website": "gentherm.com",
-        "address": "Treuchtlingen, Bayern",
-        "industry": "Thermomanagement / Automotive",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Vacuumschmelze GmbH",
-        "website": "vacuumschmelze.com",
-        "address": "Hanau, Hessen",
-        "industry": "Magnetwerkstoffe / Automotive",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
+      "overall_score": 0.19
     }
   ],
   "metadata": {},
