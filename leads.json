@@ -6697,8 +6697,38 @@
         "industry": "Brauerei / Getränkeherstellung",
         "source": null
       },
-      "topic_relevance": null,
-      "financials": null,
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.7,
+          "activity_reasoning": "Marktführer MV, 200 MA, 1.5 Mio hl/Jahr. Teil der Carlsberg-Gruppe (global). Modernste Brauerei in Ostdeutschland. Stabile Konzernzugehörigkeit. Seit 1877 in Lübz.",
+          "recent_news": [
+            "Teil der Carlsberg-Gruppe über Holsten. Kapazität 1.1 Mio hl. Größter Arbeitgeber in Lübz. Qualitäts- und Umwelt-zertifiziert."
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.6,
+          "affinity_reasoning": "Brauerei hat IoT-Potenzial: Prozessüberwachung (Temperatur, Gärung), Qualitätskontrolle, Energiemanagement, Logistik. Keine eigenen IoT-Projekte erkennbar. Aber: Carlsberg-Konzern steuert IT zentral, lokale Entscheidungsfreiheit begrenzt.",
+          "relevant_news": [
+            "Keine IoT/Digitalisierungs-Projekte gefunden. Carlsberg-Konzern steuert zentral."
+          ]
+        },
+        "combined_score": 0.64
+      },
+      "financials": {
+        "revenue_estimate": "ca. 50-80 Mio EUR (geschätzt, 1.5 Mio hl)",
+        "profit_estimate": "k.A.",
+        "employee_count": 200,
+        "hiring_activity": {
+          "general_hiring_score": 0.3,
+          "total_job_postings": 10,
+          "hiring_reasoning": "200 MA, moderate Einstellungsaktivität. Produktion und Logistik."
+        },
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
       "overall_score": 0.25
     },
     {
