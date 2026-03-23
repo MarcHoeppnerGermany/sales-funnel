@@ -112,7 +112,114 @@ Stand: 2026-03-23
 
 ---
 
+## Übersicht Block 2 (Platz 11–20)
+
+| # | Firma | IT-Entscheider | Position | Konfidenz | LinkedIn |
+|---|-------|----------------|----------|-----------|----------|
+| 11 | GP JOULE, Reußenköge | **Kerrit Friedrichsen** | CIO | HIGH | [LinkedIn](https://www.linkedin.com/in/kerrit-friedrichsen-94b047b8/) |
+| 12 | FFG Flensburg | Stefan Kösterke | CISO | MEDIUM | [LinkedIn](https://www.linkedin.com/in/stefan-k%C3%B6sterke-03a738198/) |
+| 13 | Stern-Wywiol Gruppe, Hamburg | **Kay Postwig** | Head of IT/OT | HIGH | [LinkedIn](https://de.linkedin.com/in/kay-postwig-858157281) |
+| 14 | Sikora AG, Bremen | **Christoph Hüniken** | IT-Leiter | HIGH | [LinkedIn](https://de.linkedin.com/in/christoph-h%C3%BCniken-4785721a6) |
+| 15 | Friesenkrone, Marne | *(nicht gefunden)* — GF: Hendrik Schwarz | Inhaber & GF | LOW | — |
+| 16 | Helbako, Heiligenhaus | Martin Niermann | Leiter Logistik/IT | MEDIUM | [LinkedIn](https://www.linkedin.com/in/martin-niermann-abba3211a/) |
+| 17 | Heinrich Rönner Gruppe, Bremerhaven | *(nicht gefunden)* — GF: Thorsten Rönner | GF (treibt Digitalisierung) | LOW | — |
+| 18 | SHW Automotive, Bad Schussenried | *(nicht gefunden)* — CEO: Wolfgang Plasser | Vorstandsvorsitzender | LOW | — |
+| 19 | SAACKE, Bremen | *(vakant)* — CEO: Dr. Christian Ausfelder | GF | LOW | — |
+| 20 | Brunsbüttel Ports | *(nicht gefunden)* — GF: Frank Schnabel | GF (leitet Digitalprojekte) | MEDIUM | — |
+
+---
+
+## Detailprofile Block 2
+
+### 11. GP JOULE GmbH, Reußenköge
+- **Branche:** Erneuerbare Energien / Windenergie / Wasserstoff
+- **IT-Entscheider:** **Kerrit Friedrichsen** — CIO, GP JOULE Gruppe
+- **LinkedIn:** [Profil](https://www.linkedin.com/in/kerrit-friedrichsen-94b047b8/)
+- **Kontakt:** info@gp-joule.de | +49 4671 6074-0
+- **Adresse:** Cecilienkoog 16, 25821 Reußenköge
+- **Hinweis:** Friedrichsen ist neuer CIO mit Fokus auf Technologie & Nachhaltigkeit. Digitalisierung auch auf Vorstandsebene bei COO Jürgen Gerold. Aktive Suche nach Projektleitern Digitalisierung, ERP/CRM-Spezialisten.
+
+### 12. FFG Flensburger Fahrzeugbau GmbH, Flensburg
+- **Branche:** Fahrzeugbau / Wehrtechnik
+- **IT-/Security-Entscheider:** **Stefan Kösterke** — CISO
+- **LinkedIn:** [Profil](https://www.linkedin.com/in/stefan-k%C3%B6sterke-03a738198/)
+- **GF:** Norbert Erichsen (Sprecher), Max Heimann, Jörg Kamper
+- **Kontakt:** info@ffg-flensburg.de | +49 461 4812-0
+- **Adresse:** Werftstraße 24, 24939 Flensburg
+- **Hinweis:** Kein CIO/IT-Leiter öffentlich sichtbar — Wehrtechnik-Branche bewusst diskret. Kösterke (CISO) kommt von Rheinmetall, postet zu NIS 2 und KI. ISO 27001 zertifiziert.
+
+### 13. Stern-Wywiol Gruppe, Hamburg
+- **Branche:** Lebensmittelzusatzstoffe / Food Ingredients | **12 Spezialfirmen, 19 internationale Töchter**
+- **IT-Entscheider:** **Kay Postwig** — Head of IT/OT
+- **LinkedIn:** [Profil](https://de.linkedin.com/in/kay-postwig-858157281)
+- **Hintergrund:** Dipl. Wirtschaftsinformatik (DHSH), vorher Nordgetreide GmbH
+- **CEO:** Torsten Wywiol
+- **Kontakt:** info@stern-wywiol-gruppe.de | +49 40 284 039 0
+- **Adresse:** An der Alster 81, 20099 Hamburg
+- **Hinweis:** Digitalisierungs-Unit "SternConnect" treibt Transformation. IT/OT-Kombination = IoT-Affinität.
+
+### 14. Sikora AG, Bremen
+- **Branche:** Mess- und Regeltechnik | **~400 MA**
+- **IT-Entscheider:** **Christoph Hüniken** — IT-Leiter, Sikora Holding GmbH & Co. KG
+- **LinkedIn:** [Profil](https://de.linkedin.com/in/christoph-h%C3%BCniken-4785721a6)
+- **GF (operativ):** Alaaddin Aydin, Christian Frank, Holger Lieder
+- **Kontakt:** sales@sikora.net / communications@sikora.net | +49 421 48900 0
+- **Adresse:** Bruchweide 2, 28307 Bremen
+- **Hinweis:** IT unter Sikora Holding organisiert (zusammen mit Finanzen, PR, Facility). Seit 4+ Jahren im Amt.
+
+### 15. Friesenkrone Feinkost, Marne
+- **Branche:** Lebensmittelproduktion / Fischfeinkost | **~275 MA, ~90 Mio EUR**
+- **IT-Entscheider:** Nicht öffentlich identifizierbar
+- **GF:** Hendrik Schwarz (Inhaber), Lars Kleinschmidt (kaufm. Betriebsleiter & GF), Christian Strasoldo (GF)
+- **Kontakt:** info@friesenkrone.de | +49 4851 803-0
+- **Adresse:** Alter Kirchweg 18, 25709 Marne
+- **Hinweis:** Kein IT-Titel öffentlich. Bei dieser Größe vermutlich beim kaufm. Betriebsleiter (Kleinschmidt) angesiedelt.
+
+### 16. Helbako GmbH, Heiligenhaus
+- **Branche:** Automotive Elektronik / Steuergeräte | **~350 MA, ~65 Mio EUR**
+- **IT-Entscheider:** **Martin Niermann** — Leiter Logistik / IT
+- **LinkedIn:** [Profil](https://www.linkedin.com/in/martin-niermann-abba3211a/)
+- **GF:** Ulf Zimmermann, Nick Burmester (seit Nov 2025)
+- **Kontakt:** infos@helbako.de | +49 2056 912-0
+- **Adresse:** Weilenburgstr. 30, 42579 Heiligenhaus
+- **Hinweis:** Kombinierte Logistik/IT-Rolle, typisch Mittelstand. Kunden: BMW, Daimler, VW, Audi, Porsche.
+
+### 17. Heinrich Rönner Gruppe, Bremerhaven
+- **Branche:** Schiffbau / Industriemontage | **2.000+ MA, 20+ Standorte**
+- **IT-Entscheider:** Nicht öffentlich identifizierbar
+- **GF:** Thorsten Rönner, Marcus Rönner, Heinrich Rönner (Familienunternehmen)
+- **Kontakt:** kontakt@hr-gruppe.de | +49 471 80960 900
+- **Adresse:** Am Lunedeich 156, 27572 Bremerhaven
+- **Hinweis:** IT zentralisiert in Rönner Verwaltungsgesellschaft (gegr. 2014 als Hub für IT, HR, Finanzen). ERP-Konsolidierung mit ams.erp. Thorsten Rönner spricht öffentlich über Industrie 4.0. Kürzlich FSG-Werft in Flensburg übernommen.
+
+### 18. SHW Automotive GmbH, Bad Schussenried
+- **Branche:** Pumpen / Bremsscheiben / Automotive
+- **IT-Entscheider:** Nicht öffentlich identifizierbar
+- **Nächster IT-Kontakt:** Bernd Hammerlindl (SAP, Cross-Modul) — [LinkedIn](https://www.linkedin.com/in/bernd-hammerlindl-90212b10b/)
+- **Vorstand:** Wolfgang Plasser (CEO), Sophie-Theres Ebert (CFO), Sebastian Rotermann, Anton Ostrizkij
+- **Kontakt:** info@shw.de | +49 7361 502-1 (Aalen HQ) / +49 7583 946-0 (Bad Schussenried)
+- **Adresse:** Stiewingstr. 111, 73433 Aalen (HQ)
+- **Hinweis:** Aktiv SAP-Team aufbauend. Kein CIO/IT-Leiter öffentlich sichtbar.
+
+### 19. SAACKE GmbH, Bremen
+- **Branche:** Feuerungsanlagen / Brennertechnik | **~1.200 MA, seit 1931**
+- **IT-Entscheider:** Vakant — ehemals Rainer Kammer (Leiter Organisation, ERP & IT, seit 2012, inzwischen zu Rheinmetall gewechselt)
+- **GF:** Dr. Christian Ausfelder (CEO), Dennis Lühr (Head of Global Sales), Nina Mehl (Head of Finance)
+- **Kontakt:** info@saacke.com | +49 421 6495-0 | Presse: Margit A. Hendricks, m.hendricks@saacke.com
+- **Adresse:** Südweststr. 13, 28237 Bremen
+- **Hinweis:** Arbeitet aktiv mit BIBA (Uni Bremen) an Industrie 4.0 — Fernüberwachung Brennersysteme, VR für Wartung. IT-Leiter-Rolle existiert, aktueller Inhaber unbekannt.
+
+### 20. Brunsbüttel Ports GmbH, Brunsbüttel
+- **Branche:** Hafenlogistik / Industriehafen | **Teil der SCHRAMM Group (400+ MA)**
+- **IT-Entscheider:** Nicht öffentlich identifizierbar
+- **GF & Digitalisierungstreiber:** **Frank Schnabel** — +49 4852 884-35, f.schnabel@schrammgroup.de
+- **GF:** Hans Helmut Schramm, Frank Schnabel
+- **Kontakt:** info-bp@schrammgroup.de | +49 4852 884-0
+- **Adresse:** Elbehafen, 25541 Brunsbüttel
+- **Hinweis:** Sehr aktiv in Digitalisierung: "UniPort 4.0" (öffentlich gefördertes Digitalisierungsprojekt, 433k EUR), "Connected Cleanport" (Sensorprojekt, 174k EUR). Schnabel ist das Gesicht dieser Projekte — bester Ansprechpartner.
+
+---
+
 ## Nächste Blöcke (noch ausstehend)
 
-- **Block 2:** Platz 11–20 (GP JOULE, FFG, Stern-Wywiol, Sikora, Friesenkrone, Helbako, Heinrich Rönner, SHW Automotive, SAACKE, Brunsbüttel Ports)
 - **Block 3:** Platz 21–30 (Nordex, Helm, Fritz Winter, SH Netz, Alfred PRACHT, Tamsen Maritim, Nordex Rostock, Limtronik, HF Group, Blohm+Voss)
