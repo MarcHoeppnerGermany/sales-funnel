@@ -8281,6 +8281,138 @@
         "rating_reasoning": "Klein (130 Mio, 440 MA), unter Restrukturierung bei Mutares. Kein Budget für IT-Innovation. Zu klein und instabil für strategische Partnerschaft."
       },
       "overall_score": 0.19
+    },
+    {
+      "company": {
+        "name": "Huber Automotive AG",
+        "website": "huber-automotive.com",
+        "address": "Mühlhausen i.T., Baden-Württemberg",
+        "industry": "Automotive Steuergeräte / ECU / E-Mobility",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Sontheim Industrie Elektronik GmbH",
+        "website": "sontheim-industrie-elektronik.de",
+        "address": "Kempten, Bayern",
+        "industry": "Automotive ECU / Automation / Diagnostics",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "b-plus GmbH",
+        "website": "b-plus.com",
+        "address": "Deggendorf, Bayern",
+        "industry": "Automotive Embedded / ECU / ADAS",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Schaeffler Engineering GmbH",
+        "website": "schaeffler-engineering.com",
+        "address": "Werdohl, NRW",
+        "industry": "Automotive Steuergeräte / Mechatronik",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "ACTIA IME GmbH",
+        "website": "ime-actia.de",
+        "address": "Braunschweig, Niedersachsen",
+        "industry": "Automotive ECU / Diagnostics / Embedded",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Sensor-Technik Wiedemann GmbH (STW)",
+        "website": "stw-mobile-machines.com",
+        "address": "Kaufbeuren, Bayern",
+        "industry": "Embedded Steuergeräte / Mobile Machines / IoT",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "RT-Systemtechnik GmbH",
+        "website": "rt-systemtechnik.de",
+        "address": "Rheine, NRW",
+        "industry": "Automotive Steuergeräte / Embedded / Off-Highway",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "HEINEN Elektronik GmbH",
+        "website": "heinen-elektronik.de",
+        "address": "Haan, NRW",
+        "industry": "Automotive Elektronik / Embedded / IT-Sicherheit",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "PHYTEC Messtechnik GmbH",
+        "website": "phytec.eu",
+        "address": "Mainz, Rheinland-Pfalz",
+        "industry": "Embedded Systems / Automotive / IoT",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "HEITEC AG",
+        "website": "heitec.de",
+        "address": "Erlangen, Bayern",
+        "industry": "Automotive Embedded / ECU / Elektronikentwicklung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "eSystems MTG GmbH",
+        "website": "esystems-mtg.de",
+        "address": "Wendlingen am Neckar, BW",
+        "industry": "Automotive ECU / E-Mobility / Ladesysteme",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
     }
   ],
   "metadata": {},
