@@ -639,11 +639,28 @@
         "industry": "Kaffeemühlen / Maschinenbau",
         "source": null
       },
-      "topic_relevance": null,
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.85,
+          "activity_reasoning": "Starkes Wachstum, Expansion in Home-Segment (Xenia), neuer HQ Zürich, neue Distributionspartner weltweit. Bilanzsumme +85% 2021. Akquisition Xenia Espresso 2025.",
+          "recent_news": [
+            "Mahlkönig Xenia Home-Espressomaschine Launch Okt 2025, Parts Town UK Partnerschaft Feb 2026, La Marzocco USA Distribution"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.4,
+          "affinity_reasoning": "ACHTUNG: Hemro hat EIGENE IoT-Strategie - Sync System mit Cloud-Connectivity, automatische Mahlgrad-Anpassung via App. Kooperation mit La Marzocco und Sanremo. Hemro baut eigenes Connected-Coffee-Ökosystem auf. Software wird vermutlich intern/Zürich entwickelt. ABER: Keine sichtbaren IT/Software-Stellen in Hamburg - Produktion in HH, Software eher in Zürich. Potential für externe Plattform-Entwicklung möglich, aber hohe eigene Kompetenz vorhanden.",
+          "relevant_news": [
+            "Mahlkönig Sync System, Grind-by-Sync Cloud-Connectivity, E64 WS connected grinder"
+          ]
+        },
+        "combined_score": 0.58
+      },
       "financials": {
-        "revenue_estimate": "~100 Mio EUR (geschätzt)",
-        "profit_estimate": null,
-        "employee_count": 400,
+        "revenue_estimate": "ca. 40-60 Mio EUR (geschätzt, Bilanzsumme 40 Mio 2021)",
+        "profit_estimate": "nicht veröffentlicht",
+        "employee_count": 320,
         "hiring_activity": null,
         "topic_hiring": null,
         "strategic_fit": null,
@@ -681,12 +698,33 @@
         "industry": "Maschinenbau / Werkzeugmaschinen",
         "source": null
       },
-      "topic_relevance": null,
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.7,
+          "activity_reasoning": "100 Jahre Familienunternehmen, Hidden Champion, ca. 92,5 Mio Umsatz, global in 30+ Ländern aktiv. Bilanzsumme 2023 um 15% gesunken, aber solide Basis. 4. Generation führt Unternehmen.",
+          "recent_news": [
+            "FABTECH 2025 Chicago, Fabtech MX 2026 Mexiko, neuer Katalog 2025, BobCAD-CAM Partnerschaft, 5-Jahres-Garantie auf Maschinen"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.5,
+          "affinity_reasoning": "GEMISCHT: KNUTH nutzt bereits die Synctive IoT-Plattform für Maschinenvernetzung und JobRouter für Digitalisierung. Haben Digitalisierung angestoßen, aber keine große eigene IT-Abteilung erkennbar. Synctive ist extern zugekauft. Mittelgroßes Potenzial - könnten ergänzende IoT-Lösungen brauchen, aber Kernbereich bereits abgedeckt.",
+          "relevant_news": [
+            "Synctive IoT-Plattform für Maschinenvernetzung, JobRouter Digitalisierungsplattform, Fokus auf präventive Wartung und Datentransparenz"
+          ]
+        },
+        "combined_score": 0.58
+      },
       "financials": {
-        "revenue_estimate": "92,5 Mio EUR",
-        "profit_estimate": null,
+        "revenue_estimate": "ca. 92,5 Mio EUR (geschätzt)",
+        "profit_estimate": "nicht veröffentlicht",
         "employee_count": 370,
-        "hiring_activity": null,
+        "hiring_activity": {
+          "general_hiring_score": 0.3,
+          "total_job_postings": 8,
+          "hiring_reasoning": "Nur 8 offene Stellen auf jobs.knuth.de. Für 370 MA wenig Hiring-Aktivität. Bilanzsumme 2023 um 15% gesunken - vorsichtiges Recruiting."
+        },
         "topic_hiring": null,
         "strategic_fit": null,
         "customer_rating": 0.0,
@@ -723,10 +761,27 @@
         "industry": "Lebensmittelproduktion / Fischfeinkost",
         "source": null
       },
-      "topic_relevance": null,
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.75,
+          "activity_reasoning": "Stabiles Familienunternehmen seit 1904, 90 Mio EUR Umsatz, 275 MA. Innovativ mit neuen Produktlinien (Küsten Bullar, Küstensalate). Seafood Star Awards 2025+2026. Keine Anzeichen finanzieller Probleme.",
+          "recent_news": [
+            "Seafood Star 2025 und 2026 gewonnen, Matjes Around the World Kampagne 2025, 94 offene Stellen auf StepStone"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.85,
+          "affinity_reasoning": "Lebensmittelproduzent mit 275 MA, KEINE erkennbare eigene IT/IoT-Abteilung. Sucht Fachinformatiker für IT-Abteilung - deutet auf minimale IT hin. Produktion (Fischverarbeitung) bietet großes IoT-Potenzial: Kühlketten-Monitoring, Qualitätskontrolle, Produktionsoptimierung. Kein Hinweis auf eigene Digitalisierungsprojekte. GOLDKANDIDAT für IoT-Outsourcing.",
+          "relevant_news": [
+            "Stellenanzeige Fachinformatiker IT-Abteilung zeigt kleines IT-Team. Keine IoT-Eigenentwicklung erkennbar."
+          ]
+        },
+        "combined_score": 0.81
+      },
       "financials": {
         "revenue_estimate": "90 Mio EUR (2023)",
-        "profit_estimate": null,
+        "profit_estimate": "nicht veröffentlicht",
         "employee_count": 275,
         "hiring_activity": null,
         "topic_hiring": null,
@@ -744,12 +799,33 @@
         "industry": "Maschinenbau / Etikettiersysteme",
         "source": null
       },
-      "topic_relevance": null,
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.7,
+          "activity_reasoning": "Stabile Possehl-Tochter, Weltmarktführer Etikettiersysteme, aktiv auf Messen (LogiMAT 2025, drinktec 2025), RFID@WORK Events 2025/2026. Umsatz relativ klein aber stabil.",
+          "recent_news": [
+            "LogiMAT 2025 Auftritt, RFID@WORK Live Event 2026, Logomatic 850 PSC Neuvorstellung, PID 3SIXTY Softwareplattform"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.3,
+          "affinity_reasoning": "NEGATIV: Logopak bietet SELBST IoT-Technologie an (RFID, Smart Labels, PID 3SIXTY Plattform). 17 IT-MA. Eigene Softwareentwicklung (LogoSoft). Sie SIND ein IoT-Anbieter im Etikettierbereich - würden IoT nicht outsourcen sondern selbst entwickeln.",
+          "relevant_news": [
+            "RFID@WORK Event 2026, eigene IoT-Technologie im Portfolio, PID 3SIXTY Softwareplattform, LogoSoft Industrie 4.0 Integration"
+          ]
+        },
+        "combined_score": 0.46
+      },
       "financials": {
-        "revenue_estimate": "~50 Mio EUR (geschätzt)",
-        "profit_estimate": null,
+        "revenue_estimate": "ca. 9,6 Mio USD (geschätzt)",
+        "profit_estimate": "nicht veröffentlicht",
         "employee_count": 300,
-        "hiring_activity": null,
+        "hiring_activity": {
+          "general_hiring_score": 0.6,
+          "total_job_postings": 28,
+          "hiring_reasoning": "28 Stellen auf LinkedIn, aktives Recruiting. Suchen v.a. Technik und Vertrieb. Für 300 MA relativ viele Stellen - deutet auf Wachstum hin."
+        },
         "topic_hiring": null,
         "strategic_fit": null,
         "customer_rating": 0.0,
@@ -807,10 +883,27 @@
         "industry": "Mechatronik / Gebäudetechnik",
         "source": null
       },
-      "topic_relevance": null,
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.7,
+          "activity_reasoning": "Familiengeführt seit 50+ Jahren, 500+ MA weltweit, Bilanzsumme 30 Mio EUR. Aktiv auf Messen (BAU 2025), neue Produkte (CDM Kettenantrieb). Certified R&D 2025. Umsatzschätzungen variieren (20-75 Mio EUR je nach Quelle/Konsolidierung).",
+          "recent_news": [
+            "BAU 2025 Messeauftritt, neuer CDM Kettenantrieb, Certified R&D 2025, Atmosphere Awards für Partnerprojekte"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.4,
+          "affinity_reasoning": "D+H ist auf IoT Use Case Plattform gelistet und bietet selbst Steuerungstechnologien für Gebäudeautomation. Eigene Mechatronik-Entwicklung mit Antrieben und Controllern. Auf BAU 2025 mit Smart-Building-Lösungen. Hat eigene R&D (Certified R&D 2025). Bildet IT-Systemkaufleute aus. ABER: Kernkompetenz ist Mechatronik/Hardware, nicht IoT-Plattformen. Mittlere eigene IT-Kapazität. Eher schwieriger Kandidat - könnte eigene IoT-Ambitionen haben.",
+          "relevant_news": [
+            "Gelistet auf iotusecase.com, Smart Building Lösungen, eigene Steuerungstechnik-Entwicklung, Certified R&D 2025"
+          ]
+        },
+        "combined_score": 0.52
+      },
       "financials": {
-        "revenue_estimate": "~30 Mio EUR",
-        "profit_estimate": null,
+        "revenue_estimate": "75 Mio EUR (Gruppe, 2025 geschätzt)",
+        "profit_estimate": "nicht veröffentlicht",
         "employee_count": 500,
         "hiring_activity": null,
         "topic_hiring": null,
@@ -870,11 +963,28 @@
         "industry": "Verbindungstechnik / Fertigung",
         "source": null
       },
-      "topic_relevance": null,
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.7,
+          "activity_reasoning": "Hidden Champion seit 1907, 6. Generation Familienunternehmen. Bilanzsumme 2022 bei 10 Mio EUR (+28,3%). KfW40-Neubau fertiggestellt 2023 zeigt Investitionskraft. Neue Geschäftsführer 2025 eingesetzt. Amazon-Vertriebskanal eröffnet. Solide mittelständische Basis.",
+          "recent_news": [
+            "Neuer Geschäftsführer Dirk Fischer und Kristina Brügmann 2025, Waldpflegespende Jan 2025, Amazon-Vertrieb seit Juli 2024"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.75,
+          "affinity_reasoning": "Verbindungstechnik-Hersteller mit 50-100 MA. Hat kleine IT-Abteilung die als strategisch wichtig gilt (Digitalisierung als Megatrend benannt). IT-Team hält Systeme am Laufen und implementiert neue - aber keine Hinweise auf eigene IoT-Entwicklung. Produktion (Muffen-Fertigung, Lager) bietet IoT-Potenzial. Neuer KfW40-Neubau mit moderner Gebäudetechnik. Digitalisierung/Automatisierung explizit als Megatrend benannt - Bedarf vorhanden, eigene Kapazität begrenzt.",
+          "relevant_news": [
+            "IT-Abteilung vorhanden aber klein, Digitalisierung als Megatrend definiert, KfW40-Neubau mit moderner Technik"
+          ]
+        },
+        "combined_score": 0.73
+      },
       "financials": {
-        "revenue_estimate": "~10 Mio EUR",
-        "profit_estimate": null,
-        "employee_count": 44,
+        "revenue_estimate": "ca. 10 Mio EUR",
+        "profit_estimate": "nicht veröffentlicht",
+        "employee_count": 70,
         "hiring_activity": null,
         "topic_hiring": null,
         "strategic_fit": null,
@@ -1152,11 +1262,28 @@
         "industry": "Industriekameras / Vision Technology",
         "source": null
       },
-      "topic_relevance": null,
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.8,
+          "activity_reasoning": "Börsennotiert, starke Erholung 2025: Umsatz +22% auf 224,5 Mio EUR, zurück in Gewinnzone mit 11,6 Mio EUR Jahresüberschuss. EBITDA vervierfacht. Starker Auftragseingang +23%. Neue Führung ab 2026 (CEO Hardy Mehl, CTO Dr. Ströder, CFO Brückel). Mittelfristziel 275 Mio EUR Umsatz bis 2028.",
+          "recent_news": [
+            "Vorläufige GJ2025-Zahlen März 2026: Umsatz 224,5 Mio EUR, EBT 16,2 Mio EUR. CEO-Wechsel zu Hardy Mehl Jan 2026. Beteiligung an Alpha TechSys (Indien). IP67-Gehäuse und Hybrid-Bonding-Technologie vorgestellt."
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.15,
+          "affinity_reasoning": "Basler IST ein IoT/Computer-Vision-Technologieunternehmen! 850 MA, davon viele Entwickler. Eigene IoT-Embedded-Vision-Systeme, Cloud-Anbindung, AI-Lösungen. Kooperation mit AWS für IoT/ML. Mitglied der 5G Alliance. Bietet selbst IoT-Lösungen an (Kameras, Software, Embedded Systems). Eigene R&D mit CTO-Position. KEIN Outsourcing-Kandidat - macht IoT selbst und verkauft es an andere!",
+          "relevant_news": [
+            "Eigene IoT Embedded Vision Systeme, AWS-Kooperation, 5G Alliance Mitglied, AI-optimierte Embedded Vision mit Cloud-Connectivity"
+          ]
+        },
+        "combined_score": 0.41
+      },
       "financials": {
-        "revenue_estimate": "150 Mio EUR",
-        "profit_estimate": null,
-        "employee_count": 800,
+        "revenue_estimate": "224,5 Mio EUR (2025)",
+        "profit_estimate": "11,6 Mio EUR Jahresüberschuss (2025)",
+        "employee_count": 850,
         "hiring_activity": null,
         "topic_hiring": null,
         "strategic_fit": null,
@@ -1173,12 +1300,33 @@
         "industry": "Medizintechnik / Einmalprodukte",
         "source": null
       },
-      "topic_relevance": null,
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.75,
+          "activity_reasoning": "Solides inhabergeführtes Medizintechnikunternehmen, ca. 96 Mio Umsatz, 480 MA. Akquisition Arcomed AG stärkt Infusionstechnologie-Portfolio. Neue Geschäftseinheit CODAN COMPONENTS. Grüne Energiepartnerschaft mit Sunnic Lighthouse.",
+          "recent_news": [
+            "Arcomed AG Akquisition, CODAN COMPONENTS neue Einheit, CODAN CLOSE-LOCK Neuprodukt, Sunnic Lighthouse PPA grüne Energie"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.7,
+          "affinity_reasoning": "GUT: Kein IoT/Digitalisierungsprojekt erkennbar. IT-Abteilung wird gerade aufgebaut (Stellenanzeigen für 1st/2nd Level Support, Netzwerkadmin). Fokus auf Produktion medizinischer Einmalartikel - nicht auf Software. Medizintechnik hat hohen Digitalisierungsdruck (Cybersecurity, Regulierung). Würden IoT-Entwicklung wahrscheinlich outsourcen.",
+          "relevant_news": [
+            "IT-Support Stellenanzeigen, keine IoT-Strategie erkennbar, Branche unter Digitalisierungsdruck 2026, neue Geschäftseinheit CODAN COMPONENTS"
+          ]
+        },
+        "combined_score": 0.72
+      },
       "financials": {
-        "revenue_estimate": "~50 Mio EUR (geschätzt)",
-        "profit_estimate": null,
-        "employee_count": 300,
-        "hiring_activity": null,
+        "revenue_estimate": "ca. 96 Mio EUR (geschätzt)",
+        "profit_estimate": "nicht veröffentlicht",
+        "employee_count": 480,
+        "hiring_activity": {
+          "general_hiring_score": 0.5,
+          "total_job_postings": 10,
+          "hiring_reasoning": "Ca. 6-10 Stellen aktiv (Stepstone, Glassdoor, eigene Seite). Suchen IT-Admin, Projektingenieur, Regulatory Affairs, Ausbildungsplätze. Für 480 MA moderate Hiring-Aktivität."
+        },
         "topic_hiring": null,
         "strategic_fit": null,
         "customer_rating": 0.0,
@@ -1206,12 +1354,33 @@
         "industry": "Getränkeproduktion / Brauerei",
         "source": null
       },
-      "topic_relevance": null,
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.85,
+          "activity_reasoning": "Hervorragend: 17x positives Jahresergebnis in Folge, ca. 90 Mio Umsatz, Wachstum gegen den Markttrend (+2,4% Absatz 2025). Starke Innovationskraft (Strand-Lager, Küstenlimos). Massive Investition in neues Sudhaus (Inbetriebnahme 2027), EMAS-Zertifizierung.",
+          "recent_news": [
+            "Bestes Jahr ever laut GF Schumann 2025, Küstenlimos 45k HL im Erstjahr, neues Sudhaus Grundsteinlegung, Cola Zero und Strand-Lager 0.0% für 2026, neues Corporate Design 2026"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.55,
+          "affinity_reasoning": "MITTEL: Hat eine gut ausgestattete IT-Abteilung (200 User, 270 PCs, 80 Server, 40 Switche). Nutzt KUMAVISION ERP auf Microsoft Dynamics NAV. Bildet Fachinformatiker aus. Neues Sudhaus 2027 wird IoT-Bedarf erzeugen. Aber: IT-Abteilung deckt breiten Bereich ab, spezialisierte IoT-Plattformentwicklung könnte extern vergeben werden.",
+          "relevant_news": [
+            "Neues Sudhaus 2027 mit modernster Technik, KUMAVISION ERP, EMAS-Zertifizierung, Ausbildung Fachinformatiker Systemintegration"
+          ]
+        },
+        "combined_score": 0.67
+      },
       "financials": {
-        "revenue_estimate": "~100 Mio EUR (geschätzt)",
-        "profit_estimate": null,
-        "employee_count": 300,
-        "hiring_activity": null,
+        "revenue_estimate": "ca. 90 Mio EUR (2024)",
+        "profit_estimate": "nicht veröffentlicht, 17x positiv in Folge",
+        "employee_count": 270,
+        "hiring_activity": {
+          "general_hiring_score": 0.3,
+          "total_job_postings": 6,
+          "hiring_reasoning": "Nur 6 Stellen auf Indeed. Fokus auf Produktion, Vertrieb, Ausbildung. Keine IT-Stellen ausgeschrieben. Für 270 MA wenig Hiring-Aktivität."
+        },
         "topic_hiring": null,
         "strategic_fit": null,
         "customer_rating": 0.0,
