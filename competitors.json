@@ -1,0 +1,307 @@
+{
+  "agent_name": "store",
+  "leads": [
+    {
+      "company": {
+        "name": "idem telematics GmbH",
+        "website": "idemtelematics.com",
+        "address": "München, Bayern",
+        "industry": "Trailer Telematics / IoT",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Nexxiot AG",
+        "website": "nexxiot.com",
+        "address": "Zürich, Schweiz",
+        "industry": "Trailer & Container IoT",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "ORBCOMM Inc.",
+        "website": "orbcomm.com",
+        "address": "Rochelle Park, NJ, USA",
+        "industry": "Trailer Telematics / IoT",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "AddSecure Smart Transport",
+        "website": "addsecure.com",
+        "address": "Stockholm, Schweden",
+        "industry": "Fleet Management / Trailer Telematics",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Webfleet (Bridgestone)",
+        "website": "webfleet.com",
+        "address": "Zaventem, Belgien",
+        "industry": "Fleet Management / Trailer Telematics",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Samsara Inc.",
+        "website": "samsara.com",
+        "address": "San Francisco, CA, USA",
+        "industry": "Fleet IoT / Telematics",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Geotab Inc.",
+        "website": "geotab.com",
+        "address": "Oakville, Ontario, Kanada",
+        "industry": "Fleet Telematics",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Krone Telematics",
+        "website": "krone-trailer.com",
+        "address": "Werlte, Niedersachsen",
+        "industry": "Trailer OEM Telematics",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Kögel Trailer GmbH",
+        "website": "koegel.com",
+        "address": "Burtenbach, Bayern",
+        "industry": "Trailer OEM Telematics",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "MECOMO AG",
+        "website": "mecomo.com",
+        "address": "Unterschleißheim, Bayern",
+        "industry": "Cold Chain / Trailer Telematics",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "SAVVY Telematic Systems AG",
+        "website": "savvy-telematics.com",
+        "address": "Schaffhausen, Schweiz",
+        "industry": "Container / Trailer IoT",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "ZF Transics (SCALAR)",
+        "website": "zf-scalar.com",
+        "address": "Friedrichshafen, Baden-Württemberg",
+        "industry": "Trailer Telematics / Fleet Orchestration",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Microlise Group PLC",
+        "website": "microlise.com",
+        "address": "Nottingham, UK",
+        "industry": "Fleet & Trailer Telematics",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Targa Telematics S.p.A.",
+        "website": "targatelematics.com",
+        "address": "Treviso, Italien",
+        "industry": "Fleet Management / IoT",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Powerfleet Inc. (MiX)",
+        "website": "powerfleet.com",
+        "address": "Woodcliff Lake, NJ, USA",
+        "industry": "Fleet & Trailer IoT",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "SkyBitz (Telular)",
+        "website": "skybitz.com",
+        "address": "Herndon, VA, USA",
+        "industry": "Trailer Tracking",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Phillips Connect",
+        "website": "phillips-connect.com",
+        "address": "Irvine, CA, USA",
+        "industry": "Trailer Telematics",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Tive Inc.",
+        "website": "tive.com",
+        "address": "Cambridge, MA, USA",
+        "industry": "Supply Chain IoT / Trailer Sensors",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Trailermatics (Novacom/CLS)",
+        "website": "trailermatics.com",
+        "address": "Amsterdam, Niederlande",
+        "industry": "Trailer Telematics",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "DOT Telematik GmbH",
+        "website": "dot-telematik.com",
+        "address": "Wien, Österreich",
+        "industry": "Container & Trailer IoT",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "YellowFox GmbH",
+        "website": "yellowfox.de",
+        "address": "Kesselsdorf, Sachsen",
+        "industry": "Fleet & Trailer Telematics",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "GPSoverIP GmbH",
+        "website": "gpsauge.de",
+        "address": "Schweinfurt, Bayern",
+        "industry": "Fleet Telematics / GPS Tracking",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Platform Science",
+        "website": "platformscience.com",
+        "address": "La Jolla, CA, USA",
+        "industry": "Trailer Telematics Platform",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Couplink Group AG",
+        "website": "couplink.de",
+        "address": "Aldenhoven, NRW",
+        "industry": "Fleet & Trailer Telematics",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Schwarzmüller Group",
+        "website": "schwarzmueller.com",
+        "address": "Freinberg, Österreich",
+        "industry": "Trailer OEM (idem Telematics)",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    }
+  ],
+  "metadata": {},
+  "timestamp": "2026-03-23T16:14:00.404441"
+}
