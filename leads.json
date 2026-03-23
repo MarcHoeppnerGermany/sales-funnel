@@ -885,6 +885,61 @@
     },
     {
       "company": {
+        "name": "Alfred PRACHT Lichttechnik",
+        "website": "pfrachtgroup.com",
+        "address": "Dautphetal, Hessen",
+        "industry": "Lichttechnik / Beleuchtung",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.8,
+          "activity_reasoning": "TOP 100 Innovator 2024, 170 MA, Familienunternehmen, Bilanzsumme +17%. PRACHT INFINITY Kreislaufwirtschaft, Hessen-Champions Innovationspreis. Sehr innovativ.",
+          "recent_news": [
+            "TOP 100 Innovator 2024, Hessen-Champions Preis für INFINITY Recycling-Leuchten, 100+ Jahre Firmengeschichte"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.7,
+          "affinity_reasoning": "Smart Lighting ist Kernthema: PRACHT CONNECT Modul, dezentrale smarte Lichtsteuerung, SmartFactory-Konzept. Entwickelt Smart-Lighting-Schnittstellen aber braucht IoT-Plattform-Kompetenz für Vernetzung und Datenanalyse. Hat Bedarf an IoT-Backend/Cloud.",
+          "relevant_news": [
+            "COMO BL mit PRACHT CONNECT Modul, dezentrale smarte Lichtsteuerung, SmartFactory-Lichtsystem, Light & Building Messe"
+          ]
+        },
+        "combined_score": 0.74
+      },
+      "financials": {
+        "revenue_estimate": "ca. 40 Mio EUR (geschätzt)",
+        "profit_estimate": "nicht veröffentlicht",
+        "employee_count": 170,
+        "hiring_activity": {
+          "general_hiring_score": 0.4,
+          "total_job_postings": 10,
+          "hiring_reasoning": "Kleines Familienunternehmen mit 170 MA, moderate Einstellungsaktivität"
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.3,
+          "relevant_job_postings": 2,
+          "topic_hiring_reasoning": "Wenige IT/IoT-Stellen, braucht externe Unterstützung für IoT-Plattform",
+          "example_positions": [
+            "Elektronikentwickler",
+            "Produktmanager Smart Lighting"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.9,
+          "financial_health_score": 0.8,
+          "pressure_score": 0.7,
+          "strategic_reasoning": "Klein (40 Mio geschätzt), sehr innovativ (TOP 100), Smart Lighting als strategische Richtung. Hoher Druck IoT-Plattform für Connected Lighting aufzubauen, aber zu klein für eigene Plattformentwicklung."
+        },
+        "customer_rating": 0.555,
+        "rating_reasoning": "Klein (40 Mio geschätzt), sehr innovativ (TOP 100), Smart Lighting als strategische Richtung. Hoher Druck IoT-Plattform für Connected Lighting aufzubauen, aber zu klein für eigene Plattformentwicklung."
+      },
+      "overall_score": 0.568
+    },
+    {
+      "company": {
         "name": "Limtronik",
         "website": "limtronik.de",
         "address": "Limburg, Hessen",
@@ -1100,6 +1155,61 @@
         },
         "customer_rating": 0.49,
         "rating_reasoning": "801 Mio Umsatz, Heristo-Konzern. Neue Produktionsanlagen brauchen Digitalisierung, nutzt bereits externe Partner. Hoher Druck durch Expansion"
+      },
+      "overall_score": 0.552
+    },
+    {
+      "company": {
+        "name": "Papierfabrik Adolf Jass",
+        "website": "jass.de",
+        "address": "Fulda, Hessen",
+        "industry": "Papierherstellung",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.8,
+          "activity_reasoning": "Führendes europäisches Papierkreislaufunternehmen, 483 Mio EUR Umsatz, 800 MA, 1 Mio t/a Kapazität. BMWK Klimaschutzvertrag 563 Mio EUR Förderung. Sehr starke Position.",
+          "recent_news": [
+            "BMWK Klimaschutzvertrag Okt 2024, 563 Mio EUR Förderung Dekarbonisierung, Voith Modernisierung PM3, Rang 2450 Top-Unternehmen"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.75,
+          "affinity_reasoning": "Große Papierproduktion braucht IoT für Energieeffizienz (2/3 Energie in Trocknung), Prozessoptimierung, Qualitätskontrolle. Voith liefert Papermaking 4.0 aber Jass braucht eigene IoT-Plattform für Energiemanagement und Prozessdaten. Keine eigene IT-Entwicklung erkennbar.",
+          "relevant_news": [
+            "Voith Papermaking 4.0 Technologiepartner, Energieeffizienz-Fokus, BMWK Klimaschutzvertrag erfordert Digitalisierung"
+          ]
+        },
+        "combined_score": 0.77
+      },
+      "financials": {
+        "revenue_estimate": "483 Mio EUR (2023)",
+        "profit_estimate": "nicht veröffentlicht",
+        "employee_count": 800,
+        "hiring_activity": {
+          "general_hiring_score": 0.5,
+          "total_job_postings": 25,
+          "hiring_reasoning": "Großes Industrieunternehmen, 800 MA, stellt regelmäßig ein"
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.2,
+          "relevant_job_postings": 2,
+          "topic_hiring_reasoning": "Kaum IT/IoT-Stellen, Fokus auf Papierproduktion und Technik",
+          "example_positions": [
+            "Prozessingenieur",
+            "Elektrotechniker"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.6,
+          "financial_health_score": 0.8,
+          "pressure_score": 0.8,
+          "strategic_reasoning": "Groß (483 Mio), sehr gesund mit BMWK-Förderung, HOHER Druck durch Klimaschutzvertrag - muss digitalisieren für Energieeffizienz. Keine eigene IoT-Kompetenz."
+        },
+        "customer_rating": 0.505,
+        "rating_reasoning": "Groß (483 Mio), sehr gesund mit BMWK-Förderung, HOHER Druck durch Klimaschutzvertrag - muss digitalisieren für Energieeffizienz. Keine eigene IoT-Kompetenz."
       },
       "overall_score": 0.552
     },
@@ -3661,6 +3771,61 @@
     },
     {
       "company": {
+        "name": "Weiss Umwelttechnik",
+        "website": "weiss-technik.com",
+        "address": "Reiskirchen, Hessen",
+        "industry": "Prüfsysteme / Umweltsimulation",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.7,
+          "activity_reasoning": "Weltmarktführer Umweltsimulationsanlagen, Teil der starken Schunk Group, stabile Marktposition in Prüftechnik",
+          "recent_news": [
+            "Firmierung jetzt Weiss Technik GmbH, Teil der Schunk Group mit 8250 MA"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.3,
+          "affinity_reasoning": "Hat eigene Cloud-Lösung S!MPATI online entwickelt, sucht Senior Product Manager Digital Products, eigene IoT-Kommunikation mit TLS-Verschlüsselung. Entwickelt IoT selbst, aber möglicherweise Bedarf an Erweiterungen. Eher selbständig.",
+          "relevant_news": [
+            "S!MPATI online Cloud-Lösung für Umweltsimulationsanlagen, Senior PM Digital Products gesucht"
+          ]
+        },
+        "combined_score": 0.46
+      },
+      "financials": {
+        "revenue_estimate": "Teil der Schunk Group (8250 MA), Einzelumsatz nicht bekannt, geschätzt 100-200 Mio EUR",
+        "profit_estimate": "nicht bekannt",
+        "employee_count": 500,
+        "hiring_activity": {
+          "general_hiring_score": 0.5,
+          "total_job_postings": 40,
+          "hiring_reasoning": "Ca. 500 MA am Standort, moderate Hiring-Aktivität, sucht Digital Product Manager"
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.3,
+          "relevant_job_postings": 3,
+          "topic_hiring_reasoning": "Sucht Senior PM Digital Products, baut Cloud-Lösung intern aus",
+          "example_positions": [
+            "Senior Product Manager Digital",
+            "Software Developer"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.7,
+          "financial_health_score": 0.7,
+          "pressure_score": 0.4,
+          "strategic_reasoning": "Mittelgroß als Teil der Schunk Group, finanziell solide, moderate Nachfrage nach IoT aber eigene Cloud-Lösung vorhanden"
+        },
+        "customer_rating": 0.44,
+        "rating_reasoning": "Mittelgroß als Teil der Schunk Group, finanziell solide, moderate Nachfrage nach IoT aber eigene Cloud-Lösung vorhanden"
+      },
+      "overall_score": 0.445
+    },
+    {
+      "company": {
         "name": "DMT GmbH",
         "website": "dmt-demmin.de",
         "address": "Demmin, Mecklenburg-Vorpommern",
@@ -4960,6 +5125,56 @@
           "total_job_postings": 20,
           "hiring_reasoning": "Solide Gruppe 1750 MA, Patentanmeldungen zeigen Innovationsaktivität, Tariferhöhung positiv"
         },
+        "topic_hiring": {
+          "topic_hiring_score": 0.3,
+          "relevant_job_postings": 2,
+          "topic_hiring_reasoning": "Litronic-Tochter hat eigene Elektronikkompetenz",
+          "example_positions": [
+            "Elektronikentwickler",
+            "Automatisierungstechniker"
+          ]
+        },
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.385
+    },
+    {
+      "company": {
+        "name": "Störtebeker Braumanufaktur GmbH",
+        "website": "stoertebeker.com",
+        "address": "Stralsund, Mecklenburg-Vorpommern",
+        "industry": "Brauerei / Getränkeherstellung",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.7,
+          "activity_reasoning": "Organisches Wachstum 2.8% in 2024, starke Marke, Ausstoß von 60k auf 300k hl in 8 Jahren, alkoholfreies Segment wächst, aber Verlust 2022",
+          "recent_news": [
+            "2.8% Absatzplus 2024, jede 5. Flasche alkoholfrei, Investition in digitalisierte Wertschöpfungskette"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.6,
+          "affinity_reasoning": "Hat bereits stark in Digitalisierung investiert: SitePilot Suite, SAP, Krones Abfülltechnik, vollautomatisiertes Hochregallager, GEA InsightPartner für Echtzeit-Brauprozessdaten. Viel bereits umgesetzt mit externen Partnern (Krones/Syskron, System Logistics, GEA). Weitere IoT-Projekte möglich aber Kerninfrastruktur steht bereits.",
+          "relevant_news": [
+            "SitePilot Suite von Syskron, GEA InsightPartner Pilotprojekt, vollautomatisiertes Hochregallager"
+          ]
+        },
+        "combined_score": 0.64
+      },
+      "financials": {
+        "revenue_estimate": "~50 Mio EUR",
+        "profit_estimate": "-2.1 Mio EUR (2022)",
+        "employee_count": 200,
+        "hiring_activity": {
+          "general_hiring_score": 0.5,
+          "total_job_postings": 10,
+          "hiring_reasoning": "Wachsende Brauerei, 2.8% Plus 2024, aber ~200 MA - moderate Einstellungsaktivität"
+        },
         "topic_hiring": null,
         "strategic_fit": null,
         "customer_rating": 0.0,
@@ -5002,7 +5217,15 @@
           "total_job_postings": 30,
           "hiring_reasoning": "Weltmarktführer mit Rekordumsatz, 500 MA am Standort NB, kontinuierlich wachsend"
         },
-        "topic_hiring": null,
+        "topic_hiring": {
+          "topic_hiring_score": 0.2,
+          "relevant_job_postings": 2,
+          "topic_hiring_reasoning": "Eigene IIoT-Produkte, suchen intern Softwareentwickler",
+          "example_positions": [
+            "Software Developer",
+            "Service Techniker"
+          ]
+        },
         "strategic_fit": null,
         "customer_rating": 0.0,
         "rating_reasoning": ""
@@ -5098,7 +5321,15 @@
           "total_job_postings": 20,
           "hiring_reasoning": "Wachsendes Unternehmen mit 250+ MA, neuer GL-Member 2025, Smart Meter Rollout erfordert Personal"
         },
-        "topic_hiring": null,
+        "topic_hiring": {
+          "topic_hiring_score": 0.1,
+          "relevant_job_postings": 0,
+          "topic_hiring_reasoning": "Haben eigene IoT/Smart-Meter-Kompetenz, suchen keine externe IoT-Hilfe",
+          "example_positions": [
+            "Firmware Engineer",
+            "Embedded Developer"
+          ]
+        },
         "strategic_fit": null,
         "customer_rating": 0.0,
         "rating_reasoning": ""
@@ -5257,6 +5488,59 @@
     },
     {
       "company": {
+        "name": "ml&s manufacturing GmbH",
+        "website": "mls-group.de",
+        "address": "Greifswald, Mecklenburg-Vorpommern",
+        "industry": "Elektronikfertigung / EMS",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.0,
+          "activity_reasoning": "Noch nicht bewertet",
+          "recent_news": []
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.3,
+          "affinity_reasoning": "Als EMS-Dienstleister FERTIGT ml&s Elektronik/IoT-Hardware für andere - sie sind Teil der Lösung, nicht der Kunde. Haben eigene IT-Services und technische Kompetenz. Kein typischer IoT-Plattform-Kunde, da sie selbst in der Elektronik-Wertschöpfungskette sind.",
+          "relevant_news": [
+            "Bietet selbst IT-Services an. Fertigt Elektronik für Siemens, Nokia etc. Eigene Systemkonfiguration und -test."
+          ]
+        },
+        "combined_score": 0.18
+      },
+      "financials": {
+        "revenue_estimate": "205.9 Mio EUR (2023)",
+        "profit_estimate": "k.A.",
+        "employee_count": 500,
+        "hiring_activity": {
+          "general_hiring_score": 0.6,
+          "total_job_postings": 40,
+          "hiring_reasoning": "500 MA, aktiv einstellend. EMS-Unternehmen mit kontinuierlichem Personalbedarf."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.2,
+          "relevant_job_postings": 2,
+          "topic_hiring_reasoning": "Hat eigene IT-Services. Wenige IoT-relevante Stellen, aber IT-Kompetenz intern vorhanden.",
+          "example_positions": [
+            "IT-Service-Techniker",
+            "Systemtechniker"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.7,
+          "financial_health_score": 0.8,
+          "pressure_score": 0.3,
+          "strategic_reasoning": "Mittelgroß (206M Umsatz). Finanziell stabil. Geringer IoT-Outsourcing-Druck da eigene IT-Kompetenz vorhanden."
+        },
+        "customer_rating": 0.39,
+        "rating_reasoning": "Mittelgroß (206M Umsatz). Finanziell stabil. Geringer IoT-Outsourcing-Druck da eigene IT-Kompetenz vorhanden."
+      },
+      "overall_score": 0.352
+    },
+    {
+      "company": {
         "name": "Seekamp Metallverarbeitung GmbH",
         "website": "seekamp-metall.de",
         "address": "Bremen, Bremen",
@@ -5308,6 +5592,61 @@
         "rating_reasoning": "Sehr klein, stabil aber traditionell, geringer IoT-Druck im Metallbau-Handwerk"
       },
       "overall_score": 0.345
+    },
+    {
+      "company": {
+        "name": "JUMO",
+        "website": "jumo.de",
+        "address": "Fulda, Hessen",
+        "industry": "Mess- und Regeltechnik",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.8,
+          "activity_reasoning": "301 Mio Umsatz 2024 (-3.5% aber besser als Branchenschnitt -6.3%), massives Investitionsprogramm 121 Mio EUR in 6 Jahren, neues 48 Mio Sensorenwerk in Fulda",
+          "recent_news": [
+            "JUMO 2024 Umsatz 301 Mio EUR, neues Sensilo-Werk Fulda 48 Mio Investition, 28 Mio geplant für 2025"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.1,
+          "affinity_reasoning": "JUMO IST selbst IoT-Plattform-Anbieter! JUMO Cloud, smartWARE SCADA, variTRON Gateway, MQTT-Broker, Sensor-to-Cloud. Komplettlösung vom Sensor bis zur Cloud. ABSOLUT KEIN Outsourcing-Bedarf - eher ein Wettbewerber.",
+          "relevant_news": [
+            "Eigene IoT-Plattform: JUMO Cloud, smartWARE SCADA, variTRON, Sensor-to-Cloud mit Single Pair Ethernet"
+          ]
+        },
+        "combined_score": 0.38
+      },
+      "financials": {
+        "revenue_estimate": "301 Mio EUR (2024)",
+        "profit_estimate": "nicht bekannt",
+        "employee_count": 2420,
+        "hiring_activity": {
+          "general_hiring_score": 0.6,
+          "total_job_postings": 80,
+          "hiring_reasoning": "2420 MA, reduziert Personal um 100 in 2024, aber investiert massiv in neue Werke"
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.1,
+          "relevant_job_postings": 0,
+          "topic_hiring_reasoning": "JUMO entwickelt IoT selbst, ist IoT-Plattform-Anbieter. Kein Outsourcing-Bedarf.",
+          "example_positions": [
+            "Sensor-Entwickler",
+            "Cloud-Entwickler"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.7,
+          "financial_health_score": 0.8,
+          "pressure_score": 0.1,
+          "strategic_reasoning": "Mittelgroß 301 Mio, finanziell stark mit massiven Investitionen, NULL Outsourcing-Druck da selbst IoT-Anbieter"
+        },
+        "customer_rating": 0.295,
+        "rating_reasoning": "Mittelgroß 301 Mio, finanziell stark mit massiven Investitionen, NULL Outsourcing-Druck da selbst IoT-Anbieter"
+      },
+      "overall_score": 0.343
     },
     {
       "company": {
@@ -5399,7 +5738,15 @@
           "total_job_postings": 5,
           "hiring_reasoning": "Kleines Unternehmen ~100 MA, als Lohnfertiger begrenzte Wachstumsperspektive"
         },
-        "topic_hiring": null,
+        "topic_hiring": {
+          "topic_hiring_score": 0.1,
+          "relevant_job_postings": 0,
+          "topic_hiring_reasoning": "Zu klein für IoT-Stellen, keine IT-Stellenangebote",
+          "example_positions": [
+            "Schweißer",
+            "Konstrukteur"
+          ]
+        },
         "strategic_fit": null,
         "customer_rating": 0.0,
         "rating_reasoning": ""
@@ -5441,7 +5788,15 @@
           "total_job_postings": 5,
           "hiring_reasoning": "Nach Übernahme Konsolidierungsphase, 300 Arbeitsplätze gesichert aber kein Wachstumskurs"
         },
-        "topic_hiring": null,
+        "topic_hiring": {
+          "topic_hiring_score": 0.1,
+          "relevant_job_postings": 0,
+          "topic_hiring_reasoning": "Keine IoT-bezogenen Stellen, traditionelle Gießerei",
+          "example_positions": [
+            "Gießereitechniker",
+            "Schmelzer"
+          ]
+        },
         "strategic_fit": null,
         "customer_rating": 0.0,
         "rating_reasoning": ""
@@ -5504,48 +5859,6 @@
     },
     {
       "company": {
-        "name": "Störtebeker Braumanufaktur GmbH",
-        "website": "stoertebeker.com",
-        "address": "Stralsund, Mecklenburg-Vorpommern",
-        "industry": "Brauerei / Getränkeherstellung",
-        "source": null
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.7,
-          "activity_reasoning": "Organisches Wachstum 2.8% in 2024, starke Marke, Ausstoß von 60k auf 300k hl in 8 Jahren, alkoholfreies Segment wächst, aber Verlust 2022",
-          "recent_news": [
-            "2.8% Absatzplus 2024, jede 5. Flasche alkoholfrei, Investition in digitalisierte Wertschöpfungskette"
-          ]
-        },
-        "topic_affinity": {
-          "topic": "IoT-Plattform-Entwicklung",
-          "affinity_score": 0.6,
-          "affinity_reasoning": "Hat bereits stark in Digitalisierung investiert: SitePilot Suite, SAP, Krones Abfülltechnik, vollautomatisiertes Hochregallager, GEA InsightPartner für Echtzeit-Brauprozessdaten. Viel bereits umgesetzt mit externen Partnern (Krones/Syskron, System Logistics, GEA). Weitere IoT-Projekte möglich aber Kerninfrastruktur steht bereits.",
-          "relevant_news": [
-            "SitePilot Suite von Syskron, GEA InsightPartner Pilotprojekt, vollautomatisiertes Hochregallager"
-          ]
-        },
-        "combined_score": 0.64
-      },
-      "financials": {
-        "revenue_estimate": "~50 Mio EUR",
-        "profit_estimate": "-2.1 Mio EUR (2022)",
-        "employee_count": 200,
-        "hiring_activity": {
-          "general_hiring_score": 0.5,
-          "total_job_postings": 10,
-          "hiring_reasoning": "Wachsende Brauerei, 2.8% Plus 2024, aber ~200 MA - moderate Einstellungsaktivität"
-        },
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": 0.31
-    },
-    {
-      "company": {
         "name": "Poppe und Groninger GmbH",
         "website": "poppe-groninger.de",
         "address": "Hamburg",
@@ -5597,6 +5910,48 @@
         "rating_reasoning": "Sehr kleines Unternehmen unter 10M, perfekte Groesse fuer Outsourcing aber sehr begrenztes Budget"
       },
       "overall_score": 0.309
+    },
+    {
+      "company": {
+        "name": "Webasto Neubrandenburg GmbH",
+        "website": "webasto.com",
+        "address": "Neubrandenburg, Mecklenburg-Vorpommern",
+        "industry": "Fahrzeugheizungen / Automotive-Zulieferer",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.6,
+          "activity_reasoning": "800 MA am Standort, 1.5 Mio Heizgeräte produziert, aber Webasto Gruppe unter Sparkurs, Automobilindustrie unter Druck, neue Kreditlinien 1.4 Mrd nötig",
+          "recent_news": [
+            "Sparkurs 2024, Kreditlinien 1.4 Mrd EUR verlängert, neues Logistikzentrum eröffnet, Hochvoltheizer für E-Autos"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.2,
+          "affinity_reasoning": "Webasto hat EIGENE starke IoT/Digitalisierung: Future Factory Konzept, MES-System (FGL/Python), IoT-Gateways mit SITEC/in.hub, Energiemonitoring, Predictive Maintenance, vollautomatisiertes Lager, eigene IT-Stellenangebote für Softwareentwickler. Konzern mit 4.3 Mrd EUR macht alles selbst.",
+          "relevant_news": [
+            "Future Factory, IoT mit SITEC/in.hub, MES-System, eigene Softwareentwickler gesucht"
+          ]
+        },
+        "combined_score": 0.36
+      },
+      "financials": {
+        "revenue_estimate": "~4.3 Mrd EUR (Webasto Gruppe)",
+        "profit_estimate": "k.A.",
+        "employee_count": 800,
+        "hiring_activity": {
+          "general_hiring_score": 0.4,
+          "total_job_postings": 10,
+          "hiring_reasoning": "800 MA aber Sparkurs im Konzern, kaum noch neue Einstellungen laut Nordkurier, Automobilindustrie unter Druck"
+        },
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.3
     },
     {
       "company": {
@@ -5688,7 +6043,15 @@
           "total_job_postings": 5,
           "hiring_reasoning": "Massiver Stellenabbau 200 Jobs in Greifswald, Produktion wird ab Juli 2025 reduziert, Krisenmodus"
         },
-        "topic_hiring": null,
+        "topic_hiring": {
+          "topic_hiring_score": 0.2,
+          "relevant_job_postings": 1,
+          "topic_hiring_reasoning": "Hat MyHanse Safety Cloud aber im Stellenabbau",
+          "example_positions": [
+            "IT Administrator",
+            "Produktentwickler"
+          ]
+        },
         "strategic_fit": null,
         "customer_rating": 0.0,
         "rating_reasoning": ""
@@ -5697,24 +6060,57 @@
     },
     {
       "company": {
-        "name": "JUMO",
-        "website": "jumo.de",
-        "address": "Fulda, Hessen",
-        "industry": "Mess- und Regeltechnik",
+        "name": "Flensburger Schiffbau-Gesellschaft",
+        "website": "fsg-ship.de",
+        "address": "Flensburg, Schleswig-Holstein",
+        "industry": "Schiffbau / Werft",
         "source": null
       },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "ca. 300 Mio EUR",
-        "profit_estimate": null,
-        "employee_count": 2300,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.3,
+          "activity_reasoning": "Zwei Insolvenzen in 4 Jahren, Neustart unter Rönner-Gruppe seit Jan 2025",
+          "recent_news": [
+            "FSG Shipyard GmbH Neustart, SeaRoad I Fähre getauft Nov 2025"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.5,
+          "affinity_reasoning": "Schiffbau hat IoT-Potenzial aber Firma in Restrukturierung nach Doppel-Insolvenz, kein Budget kurzfristig",
+          "relevant_news": [
+            "Digitalisierung im Schiffbau relevant, aber FSG im Überlebensmodus"
+          ]
+        },
+        "combined_score": 0.42
       },
-      "overall_score": 0.275
+      "financials": {
+        "revenue_estimate": "213 Mio EUR (2018, aktuell unklar)",
+        "profit_estimate": "Verlust (2x Insolvenz)",
+        "employee_count": 280,
+        "hiring_activity": {
+          "general_hiring_score": 0.3,
+          "total_job_postings": 10,
+          "hiring_reasoning": "Nach Insolvenz vorsichtiger Personalaufbau"
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.05,
+          "relevant_job_postings": 0,
+          "topic_hiring_reasoning": "Keine IoT-Stellen, Überlebensmodus nach Insolvenz",
+          "example_positions": [
+            "keine"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.7,
+          "financial_health_score": 0.3,
+          "pressure_score": 0.3,
+          "strategic_reasoning": "Nach Doppel-Insolvenz finanziell angeschlagen, IoT unrealistisch kurzfristig"
+        },
+        "customer_rating": 0.292,
+        "rating_reasoning": "Nach Doppel-Insolvenz finanziell angeschlagen, IoT unrealistisch kurzfristig"
+      },
+      "overall_score": 0.285
     },
     {
       "company": {
@@ -5760,27 +6156,6 @@
     },
     {
       "company": {
-        "name": "Papierfabrik Adolf Jass",
-        "website": "jass.de",
-        "address": "Fulda, Hessen",
-        "industry": "Papierherstellung",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": {
-        "revenue_estimate": "ca. 80 Mio EUR",
-        "profit_estimate": null,
-        "employee_count": 300,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": 0.275
-    },
-    {
-      "company": {
         "name": "VIAOPTIC",
         "website": "viaoptic.de",
         "address": "Wetzlar, Hessen",
@@ -5789,9 +6164,9 @@
       },
       "topic_relevance": null,
       "financials": {
-        "revenue_estimate": "ca. 15 Mio EUR",
-        "profit_estimate": null,
-        "employee_count": 80,
+        "revenue_estimate": "ca. 30 Mio EUR (geschätzt)",
+        "profit_estimate": "nicht veröffentlicht",
+        "employee_count": 165,
         "hiring_activity": null,
         "topic_hiring": null,
         "strategic_fit": null,
@@ -5799,169 +6174,6 @@
         "rating_reasoning": ""
       },
       "overall_score": 0.275
-    },
-    {
-      "company": {
-        "name": "Alfred PRACHT Lichttechnik",
-        "website": "pfrachtgroup.com",
-        "address": "Dautphetal, Hessen",
-        "industry": "Lichttechnik / Beleuchtung",
-        "source": null
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.8,
-          "activity_reasoning": "TOP 100 Innovator 2024, 170 MA, Familienunternehmen, Bilanzsumme +17%. PRACHT INFINITY Kreislaufwirtschaft, Hessen-Champions Innovationspreis. Sehr innovativ.",
-          "recent_news": [
-            "TOP 100 Innovator 2024, Hessen-Champions Preis für INFINITY Recycling-Leuchten, 100+ Jahre Firmengeschichte"
-          ]
-        },
-        "topic_affinity": {
-          "topic": "IoT-Plattform-Entwicklung",
-          "affinity_score": 0.7,
-          "affinity_reasoning": "Smart Lighting ist Kernthema: PRACHT CONNECT Modul, dezentrale smarte Lichtsteuerung, SmartFactory-Konzept. Entwickelt Smart-Lighting-Schnittstellen aber braucht IoT-Plattform-Kompetenz für Vernetzung und Datenanalyse. Hat Bedarf an IoT-Backend/Cloud.",
-          "relevant_news": [
-            "COMO BL mit PRACHT CONNECT Modul, dezentrale smarte Lichtsteuerung, SmartFactory-Lichtsystem, Light & Building Messe"
-          ]
-        },
-        "combined_score": 0.74
-      },
-      "financials": {
-        "revenue_estimate": "ca. 40 Mio EUR (geschätzt)",
-        "profit_estimate": "nicht veröffentlicht",
-        "employee_count": 170,
-        "hiring_activity": {
-          "general_hiring_score": 0.4,
-          "total_job_postings": 10,
-          "hiring_reasoning": "Kleines Familienunternehmen mit 170 MA, moderate Einstellungsaktivität"
-        },
-        "topic_hiring": {
-          "topic_hiring_score": 0.3,
-          "relevant_job_postings": 2,
-          "topic_hiring_reasoning": "Wenige IT/IoT-Stellen, braucht externe Unterstützung für IoT-Plattform",
-          "example_positions": [
-            "Elektronikentwickler",
-            "Produktmanager Smart Lighting"
-          ]
-        },
-        "strategic_fit": {
-          "size_fit_score": 0.9,
-          "financial_health_score": 0.8,
-          "pressure_score": 0.7,
-          "strategic_reasoning": "Klein (40 Mio geschätzt), sehr innovativ (TOP 100), Smart Lighting als strategische Richtung. Hoher Druck IoT-Plattform für Connected Lighting aufzubauen, aber zu klein für eigene Plattformentwicklung."
-        },
-        "customer_rating": 0.555,
-        "rating_reasoning": "Klein (40 Mio geschätzt), sehr innovativ (TOP 100), Smart Lighting als strategische Richtung. Hoher Druck IoT-Plattform für Connected Lighting aufzubauen, aber zu klein für eigene Plattformentwicklung."
-      },
-      "overall_score": 0.275
-    },
-    {
-      "company": {
-        "name": "ml&s manufacturing GmbH",
-        "website": "mls-group.de",
-        "address": "Greifswald, Mecklenburg-Vorpommern",
-        "industry": "Elektronikfertigung / EMS",
-        "source": null
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.0,
-          "activity_reasoning": "Noch nicht bewertet",
-          "recent_news": []
-        },
-        "topic_affinity": {
-          "topic": "IoT-Plattform-Entwicklung",
-          "affinity_score": 0.3,
-          "affinity_reasoning": "Als EMS-Dienstleister FERTIGT ml&s Elektronik/IoT-Hardware für andere - sie sind Teil der Lösung, nicht der Kunde. Haben eigene IT-Services und technische Kompetenz. Kein typischer IoT-Plattform-Kunde, da sie selbst in der Elektronik-Wertschöpfungskette sind.",
-          "relevant_news": [
-            "Bietet selbst IT-Services an. Fertigt Elektronik für Siemens, Nokia etc. Eigene Systemkonfiguration und -test."
-          ]
-        },
-        "combined_score": 0.18
-      },
-      "financials": {
-        "revenue_estimate": "205.9 Mio EUR (2023)",
-        "profit_estimate": "k.A.",
-        "employee_count": 500,
-        "hiring_activity": {
-          "general_hiring_score": 0.6,
-          "total_job_postings": 40,
-          "hiring_reasoning": "500 MA, aktiv einstellend. EMS-Unternehmen mit kontinuierlichem Personalbedarf."
-        },
-        "topic_hiring": {
-          "topic_hiring_score": 0.2,
-          "relevant_job_postings": 2,
-          "topic_hiring_reasoning": "Hat eigene IT-Services. Wenige IoT-relevante Stellen, aber IT-Kompetenz intern vorhanden.",
-          "example_positions": [
-            "IT-Service-Techniker",
-            "Systemtechniker"
-          ]
-        },
-        "strategic_fit": {
-          "size_fit_score": 0.7,
-          "financial_health_score": 0.8,
-          "pressure_score": 0.3,
-          "strategic_reasoning": "Mittelgroß (206M Umsatz). Finanziell stabil. Geringer IoT-Outsourcing-Druck da eigene IT-Kompetenz vorhanden."
-        },
-        "customer_rating": 0.39,
-        "rating_reasoning": "Mittelgroß (206M Umsatz). Finanziell stabil. Geringer IoT-Outsourcing-Druck da eigene IT-Kompetenz vorhanden."
-      },
-      "overall_score": 0.275
-    },
-    {
-      "company": {
-        "name": "Weiss Umwelttechnik",
-        "website": "weiss-technik.com",
-        "address": "Reiskirchen, Hessen",
-        "industry": "Prüfsysteme / Umweltsimulation",
-        "source": null
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.7,
-          "activity_reasoning": "Weltmarktführer Umweltsimulationsanlagen, Teil der starken Schunk Group, stabile Marktposition in Prüftechnik",
-          "recent_news": [
-            "Firmierung jetzt Weiss Technik GmbH, Teil der Schunk Group mit 8250 MA"
-          ]
-        },
-        "topic_affinity": {
-          "topic": "IoT-Plattform-Entwicklung",
-          "affinity_score": 0.3,
-          "affinity_reasoning": "Hat eigene Cloud-Lösung S!MPATI online entwickelt, sucht Senior Product Manager Digital Products, eigene IoT-Kommunikation mit TLS-Verschlüsselung. Entwickelt IoT selbst, aber möglicherweise Bedarf an Erweiterungen. Eher selbständig.",
-          "relevant_news": [
-            "S!MPATI online Cloud-Lösung für Umweltsimulationsanlagen, Senior PM Digital Products gesucht"
-          ]
-        },
-        "combined_score": 0.46
-      },
-      "financials": {
-        "revenue_estimate": "Teil der Schunk Group (8250 MA), Einzelumsatz nicht bekannt, geschätzt 100-200 Mio EUR",
-        "profit_estimate": "nicht bekannt",
-        "employee_count": 500,
-        "hiring_activity": {
-          "general_hiring_score": 0.5,
-          "total_job_postings": 40,
-          "hiring_reasoning": "Ca. 500 MA am Standort, moderate Hiring-Aktivität, sucht Digital Product Manager"
-        },
-        "topic_hiring": {
-          "topic_hiring_score": 0.3,
-          "relevant_job_postings": 3,
-          "topic_hiring_reasoning": "Sucht Senior PM Digital Products, baut Cloud-Lösung intern aus",
-          "example_positions": [
-            "Senior Product Manager Digital",
-            "Software Developer"
-          ]
-        },
-        "strategic_fit": {
-          "size_fit_score": 0.7,
-          "financial_health_score": 0.7,
-          "pressure_score": 0.4,
-          "strategic_reasoning": "Mittelgroß als Teil der Schunk Group, finanziell solide, moderate Nachfrage nach IoT aber eigene Cloud-Lösung vorhanden"
-        },
-        "customer_rating": 0.44,
-        "rating_reasoning": "Mittelgroß als Teil der Schunk Group, finanziell solide, moderate Nachfrage nach IoT aber eigene Cloud-Lösung vorhanden"
-      },
-      "overall_score": 0.265
     },
     {
       "company": {
@@ -5981,18 +6193,6 @@
         "website": "dockweiler.com",
         "address": "Neustadt-Glewe, Mecklenburg-Vorpommern",
         "industry": "Edelstahlrohrsysteme / Reinraumtechnik",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": 0.25
-    },
-    {
-      "company": {
-        "name": "Nordex SE Rostock",
-        "website": "nordex-online.com",
-        "address": "Rostock, Mecklenburg-Vorpommern",
-        "industry": "Windkraftanlagen / Erneuerbare Energie",
         "source": null
       },
       "topic_relevance": null,
@@ -6073,43 +6273,57 @@
     },
     {
       "company": {
-        "name": "Webasto Neubrandenburg GmbH",
-        "website": "webasto.com",
-        "address": "Neubrandenburg, Mecklenburg-Vorpommern",
-        "industry": "Fahrzeugheizungen / Automotive-Zulieferer",
+        "name": "Nordex SE Rostock",
+        "website": "nordex-online.com",
+        "address": "Rostock, Mecklenburg-Vorpommern",
+        "industry": "Windkraftanlagen / Erneuerbare Energie",
         "source": null
       },
       "topic_relevance": {
         "company_health": {
-          "activity_score": 0.6,
-          "activity_reasoning": "800 MA am Standort, 1.5 Mio Heizgeräte produziert, aber Webasto Gruppe unter Sparkurs, Automobilindustrie unter Druck, neue Kreditlinien 1.4 Mrd nötig",
+          "activity_score": 0.9,
+          "activity_reasoning": "Börsennotierter Windkraft-OEM, 7.3 Mrd EUR Umsatz 2024 (+12.5%). Erstmals profitabel 2024 (9 Mio EUR). EBITDA 296 Mio EUR. 10.400 MA. Rekordauftragseingang. Prognose 2025: 7.4-7.9 Mrd EUR. 57 GW installiert in 40+ Märkten.",
           "recent_news": [
-            "Sparkurs 2024, Kreditlinien 1.4 Mrd EUR verlängert, neues Logistikzentrum eröffnet, Hochvoltheizer für E-Autos"
+            "Umsatz 2024: 7.3 Mrd EUR. EBITDA: 296 Mio EUR. Erstmals Gewinn 2024. Neuer Teststand Rostock Nov 2025. 31.5% Marktanteil DE 2025."
           ]
         },
         "topic_affinity": {
           "topic": "IoT-Plattform-Entwicklung",
-          "affinity_score": 0.2,
-          "affinity_reasoning": "Webasto hat EIGENE starke IoT/Digitalisierung: Future Factory Konzept, MES-System (FGL/Python), IoT-Gateways mit SITEC/in.hub, Energiemonitoring, Predictive Maintenance, vollautomatisiertes Lager, eigene IT-Stellenangebote für Softwareentwickler. Konzern mit 4.3 Mrd EUR macht alles selbst.",
+          "affinity_score": 0.15,
+          "affinity_reasoning": "Nordex hat EIGENE IoT-Kompetenz: Cumulocity IoT der Software AG im Einsatz, eigenes SCADA-System (Nordex OS SCADA EDGE), IIoT-Plattform, LiDAT-ähnliche Echtzeit-Überwachung. CIO Stefan Ewald treibt Digitalisierung. Brauchen KEINEN externen IoT-Anbieter.",
           "relevant_news": [
-            "Future Factory, IoT mit SITEC/in.hub, MES-System, eigene Softwareentwickler gesucht"
+            "Cumulocity IoT (Software AG) für 6800 Windanlagen. Nordex OS SCADA EDGE (IIoT). Eigenes Control Center Hamburg. CIO Stefan Ewald."
           ]
         },
-        "combined_score": 0.36
+        "combined_score": 0.45
       },
       "financials": {
-        "revenue_estimate": "~4.3 Mrd EUR (Webasto Gruppe)",
-        "profit_estimate": "k.A.",
-        "employee_count": 800,
+        "revenue_estimate": "7.3 Mrd EUR (2024)",
+        "profit_estimate": "9 Mio EUR Konzernergebnis (2024)",
+        "employee_count": 10400,
         "hiring_activity": {
-          "general_hiring_score": 0.4,
-          "total_job_postings": 10,
-          "hiring_reasoning": "800 MA aber Sparkurs im Konzern, kaum noch neue Einstellungen laut Nordkurier, Automobilindustrie unter Druck"
+          "general_hiring_score": 0.8,
+          "total_job_postings": 500,
+          "hiring_reasoning": "10.400 MA, aktiv wachsend. Viele offene Stellen weltweit."
         },
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
+        "topic_hiring": {
+          "topic_hiring_score": 0.7,
+          "relevant_job_postings": 50,
+          "topic_hiring_reasoning": "Stellt aktiv IoT/IT/SCADA-Entwickler ein. Eigene Digitalisierungsabteilung.",
+          "example_positions": [
+            "SCADA Engineer",
+            "IoT Developer",
+            "Data Analyst"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.3,
+          "financial_health_score": 0.9,
+          "pressure_score": 0.2,
+          "strategic_reasoning": "Viel zu groß (7.3 Mrd EUR). Haben eigene IoT/IT-Abteilung. Kein Outsourcing-Bedarf für IoT-Plattform."
+        },
+        "customer_rating": 0.485,
+        "rating_reasoning": "Viel zu groß (7.3 Mrd EUR). Haben eigene IoT/IT-Abteilung. Kein Outsourcing-Bedarf für IoT-Plattform."
       },
       "overall_score": 0.24
     },
@@ -6166,58 +6380,6 @@
         "rating_reasoning": "Zu kleiner Distributor (3 Mio Bilanz, 30 MA), kein IoT-Bedarf, kein Digitalisierungsdruck. Nicht relevant fuer IoT-Outsourcing."
       },
       "overall_score": 0.23
-    },
-    {
-      "company": {
-        "name": "Flensburger Schiffbau-Gesellschaft",
-        "website": "fsg-ship.de",
-        "address": "Flensburg, Schleswig-Holstein",
-        "industry": "Schiffbau / Werft",
-        "source": null
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.3,
-          "activity_reasoning": "Zwei Insolvenzen in 4 Jahren, Neustart unter Rönner-Gruppe seit Jan 2025",
-          "recent_news": [
-            "FSG Shipyard GmbH Neustart, SeaRoad I Fähre getauft Nov 2025"
-          ]
-        },
-        "topic_affinity": {
-          "topic": "(nicht gesetzt)",
-          "affinity_score": 0.0,
-          "affinity_reasoning": "Noch nicht bewertet",
-          "relevant_news": []
-        },
-        "combined_score": 0.12
-      },
-      "financials": {
-        "revenue_estimate": "213 Mio EUR (2018, aktuell unklar)",
-        "profit_estimate": "Verlust (2x Insolvenz)",
-        "employee_count": 280,
-        "hiring_activity": {
-          "general_hiring_score": 0.3,
-          "total_job_postings": 10,
-          "hiring_reasoning": "Nach Insolvenz vorsichtiger Personalaufbau"
-        },
-        "topic_hiring": {
-          "topic_hiring_score": 0.05,
-          "relevant_job_postings": 0,
-          "topic_hiring_reasoning": "Keine IoT-Stellen, Überlebensmodus nach Insolvenz",
-          "example_positions": [
-            "keine"
-          ]
-        },
-        "strategic_fit": {
-          "size_fit_score": 0.7,
-          "financial_health_score": 0.3,
-          "pressure_score": 0.3,
-          "strategic_reasoning": "Nach Doppel-Insolvenz finanziell angeschlagen, IoT unrealistisch kurzfristig"
-        },
-        "customer_rating": 0.292,
-        "rating_reasoning": "Nach Doppel-Insolvenz finanziell angeschlagen, IoT unrealistisch kurzfristig"
-      },
-      "overall_score": 0.21
     }
   ],
   "metadata": {},
