@@ -6815,19 +6815,32 @@
           ]
         },
         "topic_affinity": {
-          "topic": "(nicht gesetzt)",
-          "affinity_score": 0.0,
-          "affinity_reasoning": "Noch nicht bewertet",
-          "relevant_news": []
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.9,
+          "affinity_reasoning": "GOLD-Kandidat! Plant aktiv Digitalisierung aller Fertigungsschritte, Maschinen und Prozessketten. EFRE-Förderung (400.000 EUR) für Prozessdigitalisierung. Will manuelle Prozesse vollständig automatisieren. Hat KEINE eigene IT-Kompetenz. Braucht dringend externen IoT/IT-Partner.",
+          "relevant_news": [
+            "EFRE-gefördertes Digitalisierungsprojekt: Vernetzung aller Fertigungsschritte, Maschinen und Prozessketten. Gesamtinvestition 400.000 EUR."
+          ]
         },
-        "combined_score": 0.28
+        "combined_score": 0.82
       },
       "financials": {
         "revenue_estimate": "ca. 20-30 Mio EUR (geschätzt, Bilanzsumme 20 Mio 2023)",
         "profit_estimate": "k.A.",
         "employee_count": 130,
-        "hiring_activity": null,
-        "topic_hiring": null,
+        "hiring_activity": {
+          "general_hiring_score": 0.5,
+          "total_job_postings": 15,
+          "hiring_reasoning": "130 MA + 18 Azubis. Moderate Einstellungsaktivität. Wachstum durch Bundeswehr-Aufträge."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.1,
+          "relevant_job_postings": 0,
+          "topic_hiring_reasoning": "Keine eigenen IoT/IT-Stellen - genau deshalb brauchen sie Outsourcing! Projektleiter Schiffbau gesucht, aber keine IT.",
+          "example_positions": [
+            "Projektleiter Schiffbau"
+          ]
+        },
         "strategic_fit": null,
         "customer_rating": 0.0,
         "rating_reasoning": ""
