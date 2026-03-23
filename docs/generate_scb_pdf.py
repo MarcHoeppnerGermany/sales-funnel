@@ -149,7 +149,7 @@ class SCBDocument(FPDF):
     def header(self):
         self.set_font("DejaVu", "B", 8)
         self.set_text_color(0, 51, 102)
-        self.cell(0, 6, "VERTRAULICH — Projektreferenz: Schmitz Cargobull TrailerConnect® Telematik", align="R")
+        self.cell(0, 6, "Projektreferenz: Schmitz Cargobull TrailerConnect\u00ae Telematik", align="R")
         self.ln(8)
         self.set_draw_color(0, 51, 102)
         self.set_line_width(0.4)
@@ -235,10 +235,14 @@ def build_pdf(chart_markt, chart_wachstum, chart_arch):
     pdf.set_text_color(88, 89, 91)
     pdf.cell(0, 8, "IoT-Plattform f\u00fcr Europas gr\u00f6\u00dfte vernetzte Trailer-Flotte", align="C", new_x="LMARGIN", new_y="NEXT")
     pdf.cell(0, 8, "95.000+ Telematik-Einheiten \u2014 65.000 aktive Systeme", align="C", new_x="LMARGIN", new_y="NEXT")
-    pdf.ln(30)
+    pdf.ln(8)
+    pdf.set_font("DejaVu", "B", 10)
+    pdf.set_text_color(232, 119, 34)
+    pdf.cell(0, 8, "\u2605 Cloud Native Rockstars Award 2022 \u2014 Kategorie Digital Business \u2605", align="C", new_x="LMARGIN", new_y="NEXT")
+    pdf.ln(20)
     pdf.set_font("DejaVu", "I", 10)
     pdf.set_text_color(120, 120, 120)
-    pdf.cell(0, 8, "Vertrauliche Unterlage \u2014 M\u00e4rz 2026", align="C", new_x="LMARGIN", new_y="NEXT")
+    pdf.cell(0, 8, "M\u00e4rz 2026", align="C", new_x="LMARGIN", new_y="NEXT")
 
     # ---- Page 2: Kundenüberblick ----
     pdf.add_page()
@@ -265,8 +269,9 @@ def build_pdf(chart_markt, chart_wachstum, chart_arch):
         pdf.ln(5)
 
     pdf.highlight_box(
-        "Auszeichnungen: Trailer Innovation 2019 (SmartTrailer), Digital Champion 2021 & 2022, "
-        "Digital Innovator 2022, TOP 100 Innovator, Deutscher Nachhaltigkeitspreis 2025"
+        "Auszeichnungen (Auswahl): Trailer Innovation 2019 (SmartTrailer), Digital Champion 2021 & 2022, "
+        "Digital Innovator 2022, TOP 100 Innovator, Deutscher Nachhaltigkeitspreis 2025, "
+        "Cloud Native Rockstars Award 2022 (Kat. Digital Business \u2014 gemeinsam mit Entwicklungspartner)"
     )
 
     # ---- Page 3: Projekt ----
@@ -274,10 +279,16 @@ def build_pdf(chart_markt, chart_wachstum, chart_arch):
     pdf.section_title("2. Das Projekt: TrailerConnect\u00ae Telematik")
 
     pdf.body_text(
-        "Im Rahmen einer langfristigen Zusammenarbeit haben wir die IoT- und Telematik-Plattform "
-        "TrailerConnect\u00ae f\u00fcr Schmitz Cargobull entwickelt und weiterentwickelt. Die Plattform "
-        "verwandelt jeden Trailer in ein IoT-Ger\u00e4t und bildet das R\u00fcckgrat der Digitalisierungsstrategie "
-        "von Europas gr\u00f6\u00dftem Trailer-Hersteller."
+        "Wir haben die IoT- und Telematik-Plattform TrailerConnect\u00ae f\u00fcr Schmitz Cargobull "
+        "vollst\u00e4ndig konzipiert, entwickelt und betrieben \u2014 von der Systemarchitektur \u00fcber "
+        "die Implementierung bis zum laufenden Betrieb. Die Plattform verwandelt jeden Trailer "
+        "in ein IoT-Ger\u00e4t und bildet das R\u00fcckgrat der Digitalisierungsstrategie von Europas "
+        "gr\u00f6\u00dftem Trailer-Hersteller."
+    )
+    pdf.highlight_box(
+        "Auszeichnung: Cloud Native Rockstars Award 2022 (Kategorie Digital Business) \u2014 "
+        "gemeinsam mit Schmitz Cargobull auf der Cloud Native Conference in Garching pr\u00e4sentiert. "
+        "Vortrag: \u201eNeue Telematik-Plattform in Rekordzeit entwickelt\u201c"
     )
 
     pdf.sub_title("Projektziele")
@@ -403,15 +414,33 @@ def build_pdf(chart_markt, chart_wachstum, chart_arch):
         "IoT- und Telematik-Anforderungen."
     )
 
-    pdf.ln(8)
+    pdf.ln(5)
+    pdf.section_title("7. Quellenhinweise")
+    pdf.set_font("DejaVu", "", 7)
+    pdf.set_text_color(80, 80, 80)
+    sources = [
+        "Cloud Native Rockstars Award 2022: datacenter-insider.de, cloudnativeconference.de (Juli 2022)",
+        "SCB Geschäftsbericht GJ 2024/25: cargobull.com/presse",
+        "TrailerConnect Produktseite: cargobull.com/de/services/data-services",
+        "SCB Partnerschaften: Pressemitteilungen auf cargobull.com (2024\u20132026)",
+        "Azure-Migration / Cloud-Strategie: Microsoft Customer Story, Podcast \u201eTechnik aufs Ohr\u201c",
+        "Patente: Europäisches Patentamt (EP3392084A1, EP3618469A1)",
+    ]
+    for s in sources:
+        pdf.cell(5, 4, chr(8226))
+        pdf.multi_cell(0, 4, s)
+        pdf.ln(0.5)
+
+    pdf.ln(5)
     pdf.set_font("DejaVu", "I", 7)
     pdf.set_text_color(120, 120, 120)
     pdf.multi_cell(0, 4,
-        "Hinweis: Dieses Dokument dient ausschlie\u00dflich der Information \u00fcber unsere Projekterfahrung. "
-        "Alle genannten Fakten basieren auf \u00f6ffentlich zug\u00e4nglichen Quellen (Pressemitteilungen, "
-        "Fachpublikationen, Podcasts, Unternehmenswebseiten). Schmitz Cargobull\u00ae und TrailerConnect\u00ae "
-        "sind eingetragene Marken der Schmitz Cargobull AG. Dieses Dokument ist vertraulich und ausschlie\u00dflich "
-        "f\u00fcr den angegebenen Empf\u00e4nger bestimmt."
+        "Hinweis: S\u00e4mtliche in diesem Dokument genannten Fakten basieren ausschlie\u00dflich auf "
+        "\u00f6ffentlich zug\u00e4nglichen Quellen (Pressemitteilungen, Gesch\u00e4ftsberichte, Fachpublikationen, "
+        "Podcasts, Unternehmenswebseiten, Patentregister). Es werden keine vertraulichen oder NDA-gesch\u00fctzten "
+        "Informationen weitergegeben. Die Zusammenarbeit ist durch den gemeinsam gewonnenen Cloud Native "
+        "Rockstars Award 2022 \u00f6ffentlich dokumentiert. Schmitz Cargobull\u00ae und TrailerConnect\u00ae "
+        "sind eingetragene Marken der Schmitz Cargobull AG."
     )
 
     out_path = BASE / "scb_telematics_referenz.pdf"
