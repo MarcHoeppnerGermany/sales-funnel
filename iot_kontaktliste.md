@@ -220,6 +220,111 @@ Stand: 2026-03-23
 
 ---
 
-## Nächste Blöcke (noch ausstehend)
+## Übersicht Block 3 (Platz 21–30)
 
-- **Block 3:** Platz 21–30 (Nordex, Helm, Fritz Winter, SH Netz, Alfred PRACHT, Tamsen Maritim, Nordex Rostock, Limtronik, HF Group, Blohm+Voss)
+| # | Firma | IT-Entscheider | Position | Konfidenz | LinkedIn |
+|---|-------|----------------|----------|-----------|----------|
+| 21 | Nordex SE, Hamburg | **Stefan Ewald** | CIO, Head of IT & Organization | HIGH | [LinkedIn](https://www.linkedin.com/in/stefanewald/) |
+| 22 | Helm AG, Hamburg | Thomas Roos | CIO | MEDIUM | [LinkedIn](https://de.linkedin.com/in/thomas-roos-b461573) |
+| 23 | Fritz Winter, Stadtallendorf | *(nicht gefunden)* | Leiter IT & Digitalisierung (Stelle 2022 ausgeschrieben) | LOW | — |
+| 24 | SH Netz AG (HanseWerk), Quickborn | **Thorsten Frye** (HanseWerk) | CIO & CDO | HIGH | [LinkedIn](https://www.linkedin.com/in/thorsten-frye-517a44155) |
+| 25 | Alfred PRACHT, Dautphetal | *(nicht gefunden)* — GF: Jonathan Pracht | GF (3. Generation) | LOW | — |
+| 26 | Tamsen Maritim, Rostock | *(nicht gefunden)* — GF: Christian Schmoll | GF | LOW | — |
+| 27 | Nordex SE Rostock | = Nordex SE (s. #21, Stefan Ewald) | CIO | HIGH | — |
+| 28 | Limtronik, Limburg | Gerd Ohl (GF, treibt I4.0) | GF / Industrie 4.0 Lead | MEDIUM | [LinkedIn](https://www.linkedin.com/in/gerd-ohl-6a4b9b4a/) |
+| 29 | HF Group, Hamburg-Harburg | **Alexander Bodi** | Head of IT | HIGH | [LinkedIn](https://www.linkedin.com/in/alexander-bodi-4b5ab199/) |
+| 30 | Blohm+Voss, Hamburg | Sebastian Herke (NVL Group) | Senior IT/Data (NVL-Ebene) | MEDIUM | [LinkedIn](https://www.linkedin.com/in/sebastian-herke-56295616/) |
+
+---
+
+## Detailprofile Block 3
+
+### 21. Nordex SE, Hamburg
+- **Branche:** Windenergieanlagen / Erneuerbare Energie | **~8,5 Mrd EUR Umsatz**
+- **IT-Entscheider:** **Stefan Ewald** — CIO, Head of IT & Organization
+- **LinkedIn:** [Profil](https://www.linkedin.com/in/stefanewald/)
+- **Hintergrund:** M.Eng. Industrial Engineering (TU Berlin), vorher VP IT bei Senvion, davor Diageo. CIO bei Nordex seit März 2018. Berichtet an CFO.
+- **Weitere IT-Kontakte:** Volker Scheeff (Director Corporate IT ERP, seit April 2022)
+- **Vorstand:** Jose Luis Blanco (CEO), Dr. Ilya Hartmann (CFO)
+- **Kontakt:** info@nordex-online.com | +49 40 300 30-1000
+- **Adresse:** Langenhorner Chaussee 600, 22419 Hamburg
+- **IoT-Initiativen:** Nordex OS SCADA EDGE (IIoT-Steuerungssystem auf Software AG Cumulocity IoT), 6.800+ Turbinen vernetzt. 5-Jahres-Deal mit Mindtree für digitale Transformation. SAP-Rollout nach Acciona-Fusion.
+
+### 22. Helm AG, Hamburg
+- **Branche:** Chemiehandel / Distribution | **5,8 Mrd EUR Umsatz, 2.257 MA, 100+ Tochtergesellschaften**
+- **IT-Entscheider:** **Thomas Roos** — CIO (LinkedIn-Titel teils mehrdeutig; möglicherweise Nachfolger Sydney Sharpe — Verifizierung empfohlen)
+- **LinkedIn:** [Profil](https://de.linkedin.com/in/thomas-roos-b461573)
+- **Vorstand:** Stephan Schnabel (Vors., 3. Generation), Axel Viering, Dr. John Luhrs, Daniel Tepe, Bernd Stoiber
+- **Kontakt:** info@helmag.com | +49 40 2375-0
+- **Adresse:** Nordkanalstraße 28, 20097 Hamburg
+- **Hinweis:** Aktives Digital-Transformation-Programm, SaaS-Plattform "Skyfld" (seit 2017), Strategierahmen "HELMbild 2030".
+
+### 23. Fritz Winter Eisengießerei, Stadtallendorf
+- **Branche:** Eisenguss / Automotive | **3.000+ MA, Europas führende unabhängige Kundengießerei**
+- **IT-Entscheider:** Nicht öffentlich identifizierbar — Stelle "Leiter IT & Digitalisierung" wurde März 2022 ausgeschrieben (von damaligem GF Gottfried Sihler geteilt)
+- **GF:** Thomas Giese, Ralf von Horsten
+- **Kontakt:** info@fritzwinter.de | +49 6428 708-0
+- **Adresse:** Albert-Schweitzer-Straße 15, 35260 Stadtallendorf
+- **Hinweis:** Massiver SAP-basierter I4.0-Umbau (ERP/PPS/MES-Konsolidierung). IT-Infrastruktur-Modernisierung 2025/26 mit Fsas/NetApp (uSCALE Pay-per-Use). CIO.de-Artikel über Ressourcen-Optimierung. Sehr aktiv in IT — Telefonrecherche (+49 6428 708-0) nach "Leiter IT" empfohlen.
+
+### 24. SH Netz AG (HanseWerk), Quickborn
+- **Branche:** Energieversorgung / Netzbetreiber | **Teil von HanseWerk / E.ON**
+- **IT-Entscheider (HanseWerk-Ebene):** **Thorsten Frye** — CIO & CDO
+- **LinkedIn:** [Profil](https://www.linkedin.com/in/thorsten-frye-517a44155)
+- **Direktkontakt SH Netz:** **Lisa Hebenstreit** — GF Netztechnik (seit Jan 2025), vorher Head of Digital & IT bei HanseWerk. IT/Digi-Hintergrund + jetzt in GF-Rolle bei SH Netz.
+- **GF SH Netz:** Steffen Bandelow (Netzwirtschaft), Malgorzata Cybulska (Netzdienste), Lisa Hebenstreit (Netztechnik)
+- **Kontakt:** kundenservice@sh-netz.com | +49 4106 629-0
+- **Adresse:** Schleswag-HeinGas-Platz 1, 25451 Quickborn
+- **IoT-Initiativen:** LoRaWAN-Netz (60+ Antennen auf Strommasten, 400+ geplant, Smart-City-Use-Cases). Smart Metering mit DXC Technology.
+
+### 25. Alfred PRACHT Lichttechnik, Dautphetal
+- **Branche:** Lichttechnik / Beleuchtung | **~200-500 MA (geschätzt), Top-100 innovativster Mittelstand**
+- **IT-Entscheider:** Nicht öffentlich identifizierbar
+- **IoT-Kontakt:** Gerhard Hillebrand (LinkedIn: "Nothing is impossible with IoT!", verlinkt auf PRACHT.COM) — [LinkedIn](https://www.linkedin.com/in/gerhard-hillebrand-3b6637134/)
+- **GF:** Jonathan Pracht (3. Generation), Thomas Wolfgang Scherer (CSO), Prof. Dr. Friedhelm Pracht
+- **Kontakt:** welcome@pracht.com | +49 6466 9140-0
+- **Adresse:** Am Seerain 3, 35232 Dautphetal-Buchenau
+- **Hinweis:** PIT (PRACHT Institute of Technology) als eigenes Forschungsinstitut. IoT-fokussierte Beleuchtungslösungen. E-Mobility-Ladeinfrastruktur.
+
+### 26. Tamsen Maritim GmbH, Rostock
+- **Branche:** Schiffbau / Spezialschiffe | **~130 MA + 18 Azubis**
+- **IT-Entscheider:** Nicht öffentlich identifizierbar
+- **Techn. Betriebsleiter:** Gregor Uloth (nächste technische Führungskraft)
+- **GF:** Christian Schmoll | Eigentümer: Heiner Tamsen (Hamburg)
+- **Kontakt:** info@tamsen-maritim.de | +49 381 6581 0 | GF direkt: +49 381 65 81 108
+- **Adresse:** Maritimstr. 1, 18147 Rostock
+- **Hinweis:** EFRE-gefördertes Digitalisierungsprojekt (~400k EUR): Digitalisierung aller Fertigungsschritte, Maschinen, Betriebsprozesse. Guter Ansatzpunkt trotz fehlendem IT-Kontakt.
+
+### 27. Nordex SE Rostock (Produktionsstandort)
+- **Siehe #21 — gleiche Firma**, Produktionsstandort in Rostock
+- **IT zentral über Stefan Ewald (CIO) in Hamburg gesteuert**
+
+### 28. Limtronik GmbH, Limburg
+- **Branche:** Elektronikfertigung / EMS | **Hessen-Champions 2023**
+- **IT-Entscheider:** **Gerd Ohl** — GF & primärer Digitalisierungstreiber (seit 1992 bei Limtronik)
+- **LinkedIn:** [Profil](https://www.linkedin.com/in/gerd-ohl-6a4b9b4a/)
+- **Weitere GF:** Dr. Anjou Appelt, Georgios Giantsios
+- **Kontakt:** info@limtronik.de | +49 6431 968-0
+- **Adresse:** Industriestraße 11-13, 65549 Limburg an der Lahn
+- **IoT-Initiativen:** Mitbegründer & Gastgeber der **SEF Smart Electronic Factory e.V.** — reale I4.0-Forschungsplattform in laufender Produktion (seit 2014). IoT-Plattform "sphinx open online", MES von iTAC seit den 90ern, KI-Bilderkennung für PCB-Qualität, Wireless-Sensorik mit THM. Einer der fortschrittlichsten I4.0-Betriebe Deutschlands.
+
+### 29. Harburg-Freudenberger / HF Group, Hamburg-Harburg
+- **Branche:** Maschinenbau / Anlagenbau | **~2.000 MA, ~367 Mio EUR Umsatz, Teil der Possehl Group**
+- **IT-Entscheider:** **Alexander Bodi** — Head of IT (leitet 71 MA IT-Abteilung)
+- **LinkedIn:** [Profil](https://www.linkedin.com/in/alexander-bodi-4b5ab199/)
+- **GF:** Olaf J. Müller, Dr. Holger Rudzio, Ian Wilson
+- **Kontakt:** info@hf-group.com | +49 40 77179-0
+- **Adresse:** Schlachthofstraße 22, 21079 Hamburg
+- **Hinweis:** ECM-Digitalisierungsprojekt mit ACTIWARE/ELO. Possehl Group betreibt gruppenweite digitale Transformation inkl. "Possehl Digital Conference". Business Units: HF Mixing, HF TireTech, HF Press+LipidTech, HF FoodTech.
+
+### 30. Blohm+Voss, Hamburg-Steinwerder
+- **Branche:** Schiffbau / Werft | **Teil der NVL Group → seit März 2026 Rheinmetall Division Naval Systems**
+- **IT-Entscheider (NVL-Ebene):** **Sebastian Herke** — Senior IT/Data-Rolle bei NVL B.V. & Co. KG (18+ Jahre Data, ERP-Rollouts)
+- **LinkedIn:** [Profil](https://www.linkedin.com/in/sebastian-herke-56295616/)
+- **Weitere IT:** Mareike Radtke (IT Project Manager, NVL)
+- **GF Blohm+Voss:** Dr. Ralph Petersen, Harald Wilke
+- **Kontakt:** info@blohmvoss.com | +49 40 3119-0
+- **Adresse:** Hermann-Blohm-Straße 3, 20457 Hamburg
+- **Hinweis:** IT zentral auf NVL-Group-Ebene gesteuert. Seit März 2026 unter Rheinmetall — bringt zusätzliche digitale/IT-Ressourcen. ERP-Implementierung über internationale Standorte läuft.
+
+---
