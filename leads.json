@@ -2567,7 +2567,15 @@
           "total_job_postings": 80,
           "hiring_reasoning": "Massives Wachstum, 80 neue MA in 2023, weitere 30 in 2024, 30 Mio Investition, 25 Azubis, aktiv einstellend"
         },
-        "topic_hiring": null,
+        "topic_hiring": {
+          "topic_hiring_score": 0.2,
+          "relevant_job_postings": 1,
+          "topic_hiring_reasoning": "SAP-Migration zeigt IT-Bedarf, aber keine spezifischen IoT-Stellen, 25 Azubis in verschiedenen Bereichen",
+          "example_positions": [
+            "IT Administrator",
+            "Mechatroniker"
+          ]
+        },
         "strategic_fit": null,
         "customer_rating": 0.0,
         "rating_reasoning": ""
@@ -3913,7 +3921,15 @@
           "total_job_postings": 15,
           "hiring_reasoning": "350 MA, starke Muttergesellschaft Stern-Wywiol, kontinuierlicher Ausbau des Standorts"
         },
-        "topic_hiring": null,
+        "topic_hiring": {
+          "topic_hiring_score": 0.1,
+          "relevant_job_postings": 0,
+          "topic_hiring_reasoning": "Keine IoT-bezogenen Stellen, Lohnhersteller Pulverprodukte",
+          "example_positions": [
+            "Anlagenführer",
+            "Qualitätsmanager"
+          ]
+        },
         "strategic_fit": null,
         "customer_rating": 0.0,
         "rating_reasoning": ""
@@ -5175,7 +5191,15 @@
           "total_job_postings": 10,
           "hiring_reasoning": "Wachsende Brauerei, 2.8% Plus 2024, aber ~200 MA - moderate Einstellungsaktivität"
         },
-        "topic_hiring": null,
+        "topic_hiring": {
+          "topic_hiring_score": 0.1,
+          "relevant_job_postings": 0,
+          "topic_hiring_reasoning": "Hat bereits SitePilot/SAP/GEA implementiert, keine offenen IoT-Stellen",
+          "example_positions": [
+            "Braumeister",
+            "Logistik"
+          ]
+        },
         "strategic_fit": null,
         "customer_rating": 0.0,
         "rating_reasoning": ""
@@ -5425,7 +5449,15 @@
           "total_job_postings": 10,
           "hiring_reasoning": "660 MA, CEO-Wechsel und Restrukturierung, Markt unter Druck, aber Thai Union als stabiler Eigentümer"
         },
-        "topic_hiring": null,
+        "topic_hiring": {
+          "topic_hiring_score": 0.1,
+          "relevant_job_postings": 0,
+          "topic_hiring_reasoning": "Keine IoT-Stellen, Lebensmittelfertigung ohne IT-Fokus",
+          "example_positions": [
+            "Produktionsmitarbeiter",
+            "Qualitätssicherung"
+          ]
+        },
         "strategic_fit": null,
         "customer_rating": 0.0,
         "rating_reasoning": ""
@@ -5946,7 +5978,15 @@
           "total_job_postings": 10,
           "hiring_reasoning": "800 MA aber Sparkurs im Konzern, kaum noch neue Einstellungen laut Nordkurier, Automobilindustrie unter Druck"
         },
-        "topic_hiring": null,
+        "topic_hiring": {
+          "topic_hiring_score": 0.3,
+          "relevant_job_postings": 3,
+          "topic_hiring_reasoning": "Sucht Softwareentwickler/IT-Systembetreuer für MES-System, aber intern beim Konzern",
+          "example_positions": [
+            "Softwareentwickler MES",
+            "IT-Systembetreuer"
+          ]
+        },
         "strategic_fit": null,
         "customer_rating": 0.0,
         "rating_reasoning": ""
@@ -6120,16 +6160,50 @@
         "industry": "Optik / Medizintechnik",
         "source": null
       },
-      "topic_relevance": null,
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.7,
+          "activity_reasoning": "Familienunternehmen seit 1895, 107 Mio Umsatz, 800 MA, 55% Exportquote, 12 Tochterunternehmen, stabile Marktposition in Augendiagnostik",
+          "recent_news": [
+            "Rang 5845 unter Top-Unternehmen DE, 60% der MA in F&E/Fertigung/Service"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.6,
+          "affinity_reasoning": "Medizintechnik-Hersteller mit Fokus auf Diagnostikgeräte. Keine eigenen IoT/Cloud-Projekte gefunden. Hat Erfahrung mit Betriebsdatenerfassung und Maschinendatenerfassung. Könnte IoT für Geräte-Telemetrie, Remote Monitoring und predictive Maintenance brauchen. Medizintechnik hat regulatorische Anforderungen.",
+          "relevant_news": [
+            "Buch über BDE/MDE-Einführung bei Oculus, keine eigenen IoT-Projekte sichtbar"
+          ]
+        },
+        "combined_score": 0.64
+      },
       "financials": {
-        "revenue_estimate": "ca. 80 Mio EUR",
-        "profit_estimate": null,
-        "employee_count": 400,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
+        "revenue_estimate": "107 Mio EUR (2023)",
+        "profit_estimate": "nicht bekannt",
+        "employee_count": 800,
+        "hiring_activity": {
+          "general_hiring_score": 0.5,
+          "total_job_postings": 30,
+          "hiring_reasoning": "800 MA, mittelgroß, moderate Hiring-Aktivität"
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.3,
+          "relevant_job_postings": 2,
+          "topic_hiring_reasoning": "Keine spezifischen IoT-Stellen gefunden, aber F&E-intensiv mit 60% der MA in Entwicklung/Fertigung",
+          "example_positions": [
+            "Softwareentwickler Medizintechnik",
+            "Embedded Systems Engineer"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.8,
+          "financial_health_score": 0.7,
+          "pressure_score": 0.5,
+          "strategic_reasoning": "KMU 100 Mio Bereich, finanziell gesund, mittlerer Digitalisierungsdruck in Medizintechnik (Remote Monitoring, Telemetrie)"
+        },
+        "customer_rating": 0.49,
+        "rating_reasoning": "KMU 100 Mio Bereich, finanziell gesund, mittlerer Digitalisierungsdruck in Medizintechnik (Remote Monitoring, Telemetrie)"
       },
       "overall_score": 0.275
     },
@@ -6162,12 +6236,33 @@
         "industry": "Kunststoffoptik",
         "source": null
       },
-      "topic_relevance": null,
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.7,
+          "activity_reasoning": "Kunststoffoptik-Spezialist, 165 MA, Umsatz 8x seit Gründung. 60% Kapazitätserweiterung 2024. Automobilbranche 1/3 Umsatz. Wachstumskurs, Tochter von ACM/Socrates Stiftung Wien.",
+          "recent_news": [
+            "60% Kapazitätserweiterung 2024, Anbau 3450 qm, Wachstum auf 200 MA geplant, Automotive/Medizin/Sensorik"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.6,
+          "affinity_reasoning": "Produziert Optikkomponenten für Sensorik, LIDAR, autonomes Fahren. Spritzguss-Automatisierung nimmt zu. Braucht IoT für Qualitätskontrolle und Fertigungssteuerung. Keine eigene IoT/IT-Entwicklung erkennbar, aber Digitalisierung der Fertigung relevant.",
+          "relevant_news": [
+            "Zunehmende Automatisierung Spritzguss-Fertigung, Sensorik/LIDAR-Produkte, Konzeptpark GmbH als regionaler IoT-Partner"
+          ]
+        },
+        "combined_score": 0.64
+      },
       "financials": {
         "revenue_estimate": "ca. 30 Mio EUR (geschätzt)",
         "profit_estimate": "nicht veröffentlicht",
         "employee_count": 165,
-        "hiring_activity": null,
+        "hiring_activity": {
+          "general_hiring_score": 0.5,
+          "total_job_postings": 15,
+          "hiring_reasoning": "Wachsendes Unternehmen, von 130 auf 165 MA, Ziel 200"
+        },
         "topic_hiring": null,
         "strategic_fit": null,
         "customer_rating": 0.0,
@@ -6207,8 +6302,45 @@
         "industry": "Kartoffelverarbeitung / Lebensmittel",
         "source": null
       },
-      "topic_relevance": null,
-      "financials": null,
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.7,
+          "activity_reasoning": "Teil der Emsland Group (900 Mio EUR, 1400 MA). Vertriebsgesellschaft und Produktion am Standort Hagenow. Vierschichtbetrieb mit 200+ MA. Stabile Konzernzugehörigkeit. Weltmarktführer für Stärkeprodukte.",
+          "recent_news": [
+            "Bilanzsumme 2023: 40 Mio EUR. Teil Emsland Group (Weltmarktführer Stärke). Vierschichtbetrieb Hagenow."
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.8,
+          "affinity_reasoning": "Lebensmittelproduktion im Vierschichtbetrieb - hohes IoT-Potenzial (Temperaturüberwachung, Qualitätskontrolle, Maschinenüberwachung, Energiemanagement). Keine eigene IT/IoT-Kompetenz erkennbar. Konzern-IT bei Emsland Group, aber lokaler Standort braucht Unterstützung. Idealer Outsourcing-Kandidat.",
+          "relevant_news": [
+            "Keine IoT/Digitalisierungs-Projekte gefunden. Produktion und Export aktiv."
+          ]
+        },
+        "combined_score": 0.76
+      },
+      "financials": {
+        "revenue_estimate": "ca. 40 Mio EUR (Bilanzsumme 2023, Emsland Group 900 Mio)",
+        "profit_estimate": "k.A.",
+        "employee_count": 200,
+        "hiring_activity": {
+          "general_hiring_score": 0.4,
+          "total_job_postings": 10,
+          "hiring_reasoning": "200+ MA, moderate Einstellungsaktivität. Vierschichtbetrieb erfordert kontinuierliche Personalsuche."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.1,
+          "relevant_job_postings": 0,
+          "topic_hiring_reasoning": "Keine IoT/IT-Stellen gefunden. IT über Emsland Group.",
+          "example_positions": [
+            "keine"
+          ]
+        },
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
       "overall_score": 0.25
     },
     {
