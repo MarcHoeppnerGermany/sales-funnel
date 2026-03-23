@@ -4279,6 +4279,61 @@
     },
     {
       "company": {
+        "name": "Störtebeker Braumanufaktur GmbH",
+        "website": "stoertebeker.com",
+        "address": "Stralsund, Mecklenburg-Vorpommern",
+        "industry": "Brauerei / Getränkeherstellung",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.7,
+          "activity_reasoning": "Organisches Wachstum 2.8% in 2024, starke Marke, Ausstoß von 60k auf 300k hl in 8 Jahren, alkoholfreies Segment wächst, aber Verlust 2022",
+          "recent_news": [
+            "2.8% Absatzplus 2024, jede 5. Flasche alkoholfrei, Investition in digitalisierte Wertschöpfungskette"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.6,
+          "affinity_reasoning": "Hat bereits stark in Digitalisierung investiert: SitePilot Suite, SAP, Krones Abfülltechnik, vollautomatisiertes Hochregallager, GEA InsightPartner für Echtzeit-Brauprozessdaten. Viel bereits umgesetzt mit externen Partnern (Krones/Syskron, System Logistics, GEA). Weitere IoT-Projekte möglich aber Kerninfrastruktur steht bereits.",
+          "relevant_news": [
+            "SitePilot Suite von Syskron, GEA InsightPartner Pilotprojekt, vollautomatisiertes Hochregallager"
+          ]
+        },
+        "combined_score": 0.64
+      },
+      "financials": {
+        "revenue_estimate": "~50 Mio EUR",
+        "profit_estimate": "-2.1 Mio EUR (2022)",
+        "employee_count": 200,
+        "hiring_activity": {
+          "general_hiring_score": 0.5,
+          "total_job_postings": 10,
+          "hiring_reasoning": "Wachsende Brauerei, 2.8% Plus 2024, aber ~200 MA - moderate Einstellungsaktivität"
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.1,
+          "relevant_job_postings": 0,
+          "topic_hiring_reasoning": "Hat bereits SitePilot/SAP/GEA implementiert, keine offenen IoT-Stellen",
+          "example_positions": [
+            "Braumeister",
+            "Logistik"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.9,
+          "financial_health_score": 0.7,
+          "pressure_score": 0.4,
+          "strategic_reasoning": "~50 Mio, ideale Größe. Wachsend aber Verlust 2022. Moderater Druck - hat bereits massiv in Digitalisierung investiert (Krones, GEA, SAP)."
+        },
+        "customer_rating": 0.41,
+        "rating_reasoning": "~50 Mio, ideale Größe. Wachsend aber Verlust 2022. Moderater Druck - hat bereits massiv in Digitalisierung investiert (Krones, GEA, SAP)."
+      },
+      "overall_score": 0.445
+    },
+    {
+      "company": {
         "name": "DMT GmbH",
         "website": "dmt-demmin.de",
         "address": "Demmin, Mecklenburg-Vorpommern",
@@ -4758,61 +4813,6 @@
         "rating_reasoning": ""
       },
       "overall_score": 0.42
-    },
-    {
-      "company": {
-        "name": "Störtebeker Braumanufaktur GmbH",
-        "website": "stoertebeker.com",
-        "address": "Stralsund, Mecklenburg-Vorpommern",
-        "industry": "Brauerei / Getränkeherstellung",
-        "source": null
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.7,
-          "activity_reasoning": "Organisches Wachstum 2.8% in 2024, starke Marke, Ausstoß von 60k auf 300k hl in 8 Jahren, alkoholfreies Segment wächst, aber Verlust 2022",
-          "recent_news": [
-            "2.8% Absatzplus 2024, jede 5. Flasche alkoholfrei, Investition in digitalisierte Wertschöpfungskette"
-          ]
-        },
-        "topic_affinity": {
-          "topic": "IoT-Plattform-Entwicklung",
-          "affinity_score": 0.6,
-          "affinity_reasoning": "Hat bereits stark in Digitalisierung investiert: SitePilot Suite, SAP, Krones Abfülltechnik, vollautomatisiertes Hochregallager, GEA InsightPartner für Echtzeit-Brauprozessdaten. Viel bereits umgesetzt mit externen Partnern (Krones/Syskron, System Logistics, GEA). Weitere IoT-Projekte möglich aber Kerninfrastruktur steht bereits.",
-          "relevant_news": [
-            "SitePilot Suite von Syskron, GEA InsightPartner Pilotprojekt, vollautomatisiertes Hochregallager"
-          ]
-        },
-        "combined_score": 0.64
-      },
-      "financials": {
-        "revenue_estimate": "~50 Mio EUR",
-        "profit_estimate": "-2.1 Mio EUR (2022)",
-        "employee_count": 200,
-        "hiring_activity": {
-          "general_hiring_score": 0.5,
-          "total_job_postings": 10,
-          "hiring_reasoning": "Wachsende Brauerei, 2.8% Plus 2024, aber ~200 MA - moderate Einstellungsaktivität"
-        },
-        "topic_hiring": {
-          "topic_hiring_score": 0.1,
-          "relevant_job_postings": 0,
-          "topic_hiring_reasoning": "Hat bereits SitePilot/SAP/GEA implementiert, keine offenen IoT-Stellen",
-          "example_positions": [
-            "Braumeister",
-            "Logistik"
-          ]
-        },
-        "strategic_fit": {
-          "size_fit_score": 0.9,
-          "financial_health_score": 0.7,
-          "pressure_score": 0.4,
-          "strategic_reasoning": "~50 Mio, ideale Größe. Wachsend aber Verlust 2022. Moderater Druck - hat bereits massiv in Digitalisierung investiert (Krones, GEA, SAP)."
-        },
-        "customer_rating": 0.41,
-        "rating_reasoning": "~50 Mio, ideale Größe. Wachsend aber Verlust 2022. Moderater Druck - hat bereits massiv in Digitalisierung investiert (Krones, GEA, SAP)."
-      },
-      "overall_score": 0.415
     },
     {
       "company": {
@@ -5724,61 +5724,6 @@
     },
     {
       "company": {
-        "name": "Webasto Neubrandenburg GmbH",
-        "website": "webasto.com",
-        "address": "Neubrandenburg, Mecklenburg-Vorpommern",
-        "industry": "Fahrzeugheizungen / Automotive-Zulieferer",
-        "source": null
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.6,
-          "activity_reasoning": "800 MA am Standort, 1.5 Mio Heizgeräte produziert, aber Webasto Gruppe unter Sparkurs, Automobilindustrie unter Druck, neue Kreditlinien 1.4 Mrd nötig",
-          "recent_news": [
-            "Sparkurs 2024, Kreditlinien 1.4 Mrd EUR verlängert, neues Logistikzentrum eröffnet, Hochvoltheizer für E-Autos"
-          ]
-        },
-        "topic_affinity": {
-          "topic": "IoT-Plattform-Entwicklung",
-          "affinity_score": 0.2,
-          "affinity_reasoning": "Webasto hat EIGENE starke IoT/Digitalisierung: Future Factory Konzept, MES-System (FGL/Python), IoT-Gateways mit SITEC/in.hub, Energiemonitoring, Predictive Maintenance, vollautomatisiertes Lager, eigene IT-Stellenangebote für Softwareentwickler. Konzern mit 4.3 Mrd EUR macht alles selbst.",
-          "relevant_news": [
-            "Future Factory, IoT mit SITEC/in.hub, MES-System, eigene Softwareentwickler gesucht"
-          ]
-        },
-        "combined_score": 0.36
-      },
-      "financials": {
-        "revenue_estimate": "~4.3 Mrd EUR (Webasto Gruppe)",
-        "profit_estimate": "k.A.",
-        "employee_count": 800,
-        "hiring_activity": {
-          "general_hiring_score": 0.4,
-          "total_job_postings": 10,
-          "hiring_reasoning": "800 MA aber Sparkurs im Konzern, kaum noch neue Einstellungen laut Nordkurier, Automobilindustrie unter Druck"
-        },
-        "topic_hiring": {
-          "topic_hiring_score": 0.3,
-          "relevant_job_postings": 3,
-          "topic_hiring_reasoning": "Sucht Softwareentwickler/IT-Systembetreuer für MES-System, aber intern beim Konzern",
-          "example_positions": [
-            "Softwareentwickler MES",
-            "IT-Systembetreuer"
-          ]
-        },
-        "strategic_fit": {
-          "size_fit_score": 0.3,
-          "financial_health_score": 0.6,
-          "pressure_score": 0.2,
-          "strategic_reasoning": "4.3 Mrd Konzern, zu groß - machen alles intern. Sparkurs aber stabil. Kein Druck extern IoT zu vergeben, eigene Future Factory."
-        },
-        "customer_rating": 0.285,
-        "rating_reasoning": "4.3 Mrd Konzern, zu groß - machen alles intern. Sparkurs aber stabil. Kein Druck extern IoT zu vergeben, eigene Future Factory."
-      },
-      "overall_score": 0.39
-    },
-    {
-      "company": {
         "name": "Julius Koch GmbH",
         "website": "juliuskoch.com",
         "address": "Malente, Schleswig-Holstein",
@@ -6418,6 +6363,61 @@
     },
     {
       "company": {
+        "name": "Webasto Neubrandenburg GmbH",
+        "website": "webasto.com",
+        "address": "Neubrandenburg, Mecklenburg-Vorpommern",
+        "industry": "Fahrzeugheizungen / Automotive-Zulieferer",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.6,
+          "activity_reasoning": "800 MA am Standort, 1.5 Mio Heizgeräte produziert, aber Webasto Gruppe unter Sparkurs, Automobilindustrie unter Druck, neue Kreditlinien 1.4 Mrd nötig",
+          "recent_news": [
+            "Sparkurs 2024, Kreditlinien 1.4 Mrd EUR verlängert, neues Logistikzentrum eröffnet, Hochvoltheizer für E-Autos"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.2,
+          "affinity_reasoning": "Webasto hat EIGENE starke IoT/Digitalisierung: Future Factory Konzept, MES-System (FGL/Python), IoT-Gateways mit SITEC/in.hub, Energiemonitoring, Predictive Maintenance, vollautomatisiertes Lager, eigene IT-Stellenangebote für Softwareentwickler. Konzern mit 4.3 Mrd EUR macht alles selbst.",
+          "relevant_news": [
+            "Future Factory, IoT mit SITEC/in.hub, MES-System, eigene Softwareentwickler gesucht"
+          ]
+        },
+        "combined_score": 0.36
+      },
+      "financials": {
+        "revenue_estimate": "~4.3 Mrd EUR (Webasto Gruppe)",
+        "profit_estimate": "k.A.",
+        "employee_count": 800,
+        "hiring_activity": {
+          "general_hiring_score": 0.4,
+          "total_job_postings": 10,
+          "hiring_reasoning": "800 MA aber Sparkurs im Konzern, kaum noch neue Einstellungen laut Nordkurier, Automobilindustrie unter Druck"
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.3,
+          "relevant_job_postings": 3,
+          "topic_hiring_reasoning": "Sucht Softwareentwickler/IT-Systembetreuer für MES-System, aber intern beim Konzern",
+          "example_positions": [
+            "Softwareentwickler MES",
+            "IT-Systembetreuer"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.3,
+          "financial_health_score": 0.6,
+          "pressure_score": 0.2,
+          "strategic_reasoning": "4.3 Mrd Konzern, zu groß - machen alles intern. Sparkurs aber stabil. Kein Druck extern IoT zu vergeben, eigene Future Factory."
+        },
+        "customer_rating": 0.285,
+        "rating_reasoning": "4.3 Mrd Konzern, zu groß - machen alles intern. Sparkurs aber stabil. Kein Druck extern IoT zu vergeben, eigene Future Factory."
+      },
+      "overall_score": 0.338
+    },
+    {
+      "company": {
         "name": "ZARM Technik AG",
         "website": "zarm-technik.de",
         "address": "Bremen, Bremen",
@@ -6650,24 +6650,44 @@
           ]
         },
         "topic_affinity": {
-          "topic": "(nicht gesetzt)",
-          "affinity_score": 0.0,
-          "affinity_reasoning": "Noch nicht bewertet",
-          "relevant_news": []
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.2,
+          "affinity_reasoning": "Liebherr hat EIGENE IoT-Plattform: Liebherr Connect, LiDAT smartApp, XpertAssist, LiMain (Intelligent Maintenance). Komplette digitale Infrastruktur für Kran-Monitoring vorhanden. Machen IoT selbst, brauchen keinen externen Anbieter.",
+          "relevant_news": [
+            "Liebherr Connect: IoT-Plattform für maritime Krane. LiDAT smartApp: Echtzeit-Kranüberwachung. XpertAssist: AR-Remote-Support. LiMain: Intelligente Wartung."
+          ]
         },
-        "combined_score": 0.36
+        "combined_score": 0.48
       },
       "financials": {
         "revenue_estimate": "553 Mio EUR (2022)",
         "profit_estimate": "k.A.",
         "employee_count": 1800,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
+        "hiring_activity": {
+          "general_hiring_score": 0.7,
+          "total_job_postings": 100,
+          "hiring_reasoning": "1800 MA, aktiv einstellend. Großer Arbeitgeber in Rostock."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.5,
+          "relevant_job_postings": 15,
+          "topic_hiring_reasoning": "Stellt IT/Software-Entwickler ein für eigene IoT-Plattformen (Connect, LiDAT). Eigene digitale Kompetenz.",
+          "example_positions": [
+            "Software Developer",
+            "IoT Engineer",
+            "Data Scientist"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.6,
+          "financial_health_score": 0.9,
+          "pressure_score": 0.2,
+          "strategic_reasoning": "Großes Unternehmen (553M Umsatz, 14 Mrd Konzern). Eigene IoT-Plattform vorhanden. Kein Outsourcing-Bedarf."
+        },
+        "customer_rating": 0.46,
+        "rating_reasoning": "Großes Unternehmen (553M Umsatz, 14 Mrd Konzern). Eigene IoT-Plattform vorhanden. Kein Outsourcing-Bedarf."
       },
-      "overall_score": 0.275
+      "overall_score": 0.27
     },
     {
       "company": {
