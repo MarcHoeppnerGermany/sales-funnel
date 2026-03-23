@@ -6724,10 +6724,22 @@
           "total_job_postings": 10,
           "hiring_reasoning": "200 MA, moderate Einstellungsaktivität. Produktion und Logistik."
         },
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
+        "topic_hiring": {
+          "topic_hiring_score": 0.1,
+          "relevant_job_postings": 0,
+          "topic_hiring_reasoning": "Keine IoT/IT-Stellen. IT über Carlsberg-Konzern.",
+          "example_positions": [
+            "keine"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.8,
+          "financial_health_score": 0.7,
+          "pressure_score": 0.4,
+          "strategic_reasoning": "Mittelgroß (50-80M geschätzt). Konzernrückhalt. Mittlerer Druck - Carlsberg steuert Digitalisierung zentral, wenig lokale Entscheidungsfreiheit."
+        },
+        "customer_rating": 0.36,
+        "rating_reasoning": "Mittelgroß (50-80M geschätzt). Konzernrückhalt. Mittlerer Druck - Carlsberg steuert Digitalisierung zentral, wenig lokale Entscheidungsfreiheit."
       },
       "overall_score": 0.25
     },
@@ -6739,8 +6751,32 @@
         "industry": "Schiffbau / Flusskreuzfahrtschiffe",
         "source": null
       },
-      "topic_relevance": null,
-      "financials": null,
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.8,
+          "activity_reasoning": "Teil der Meyer Neptun Group. 650 MA. Rang 350 von 35.000 Unternehmen in DE. Baut Maschinenraummodule für Kreuzfahrtschiffe. Neue Geschäftsfelder: Offshore-Konverterplattformen (JV mit Smulders). Volle Auftragsbücher.",
+          "recent_news": [
+            "Neptun Smulders Engineering gegründet (Offshore-Konverter, +100 Jobs). Neue Schiffbauhalle 2018 (13.000 qm). LNG-Kreuzfahrtschiff-Module."
+          ]
+        },
+        "topic_affinity": {
+          "topic": "(nicht gesetzt)",
+          "affinity_score": 0.0,
+          "affinity_reasoning": "Noch nicht bewertet",
+          "relevant_news": []
+        },
+        "combined_score": 0.32
+      },
+      "financials": {
+        "revenue_estimate": "ca. 300-500 Mio EUR (geschätzt, Rang 350 DE)",
+        "profit_estimate": "k.A.",
+        "employee_count": 650,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
       "overall_score": 0.25
     },
     {
