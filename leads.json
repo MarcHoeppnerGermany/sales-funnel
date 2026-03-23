@@ -583,7 +583,15 @@
           "total_job_postings": 10,
           "hiring_reasoning": "Wenige offene Stellen auf Glassdoor. Sucht Senior IT Projektmanager und OT/IT Infrastructure Manager - zeigt aktiven Ausbau der IT. Duales Studium Business Informatics angeboten. Moderate Hiring-Aktivität."
         },
-        "topic_hiring": null,
+        "topic_hiring": {
+          "topic_hiring_score": 0.6,
+          "relevant_job_postings": 1,
+          "topic_hiring_reasoning": "OT/IT Infrastructure Manager gesucht. SternConnect baut Kompetenz auf, nutzt aber externe Dienstleister. Gute Chance für IoT-Outsourcing.",
+          "example_positions": [
+            "Infrastructure Manager OT/IT",
+            "Senior IT Projektmanager"
+          ]
+        },
         "strategic_fit": null,
         "customer_rating": 0.0,
         "rating_reasoning": ""
@@ -625,7 +633,15 @@
           "total_job_postings": 15,
           "hiring_reasoning": "15 Stellenangebote auf finest-jobs. IT-Abteilung hat 71 MA. Nur 1 IT-Ausbildungsstelle (Fachinformatiker 2026). Wenig aktives IT-Recruiting trotz großer IT-Abteilung - Bestand stabil."
         },
-        "topic_hiring": null,
+        "topic_hiring": {
+          "topic_hiring_score": 0.5,
+          "relevant_job_postings": 0,
+          "topic_hiring_reasoning": "Keine IoT-spezifischen Stellen. IT-Abteilung 71 MA. IO-Link extern mit Murrelektronik. Potenzial aber eigene IT könnte es selbst machen.",
+          "example_positions": [
+            "Fachinformatiker Systemintegration",
+            "Werkstudent Automatisierungstechnologie"
+          ]
+        },
         "strategic_fit": null,
         "customer_rating": 0.0,
         "rating_reasoning": ""
@@ -667,7 +683,14 @@
           "total_job_postings": 4,
           "hiring_reasoning": "Nur 4 offene Stellen auf Glassdoor. Keine spezifischen IT/IoT-Stellen gefunden. Bei 450 MA wenig Hiring-Aktivität. Aber: haben eigene IoT-Kompetenz intern, daher wenig IT-Outsourcing-Bedarf."
         },
-        "topic_hiring": null,
+        "topic_hiring": {
+          "topic_hiring_score": 0.2,
+          "relevant_job_postings": 0,
+          "topic_hiring_reasoning": "Keine IoT-Stellen offen. NEGATIV: haben eigene IoT-Kompetenz (Cool X, Telekom-Kooperation). Machen IoT selbst.",
+          "example_positions": [
+            "keine IoT-Stellen gefunden"
+          ]
+        },
         "strategic_fit": null,
         "customer_rating": 0.0,
         "rating_reasoning": ""
@@ -705,9 +728,9 @@
       },
       "topic_relevance": null,
       "financials": {
-        "revenue_estimate": "~500 Mio EUR (geschätzt)",
-        "profit_estimate": null,
-        "employee_count": 1000,
+        "revenue_estimate": "333.5 Mio EUR (2023)",
+        "profit_estimate": "nicht veröffentlicht",
+        "employee_count": 830,
         "hiring_activity": null,
         "topic_hiring": null,
         "strategic_fit": null,
@@ -919,10 +942,22 @@
           "total_job_postings": 15,
           "hiring_reasoning": "Mittelgrosses Unternehmen, stellt regelmaessig ein (Fahrer, Disponenten, Lager). Keine IT-Stellen bei Sander direkt - IT laeuft ueber Duvenbeck-Konzern."
         },
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
+        "topic_hiring": {
+          "topic_hiring_score": 0.15,
+          "relevant_job_postings": 0,
+          "topic_hiring_reasoning": "Keine IoT/IT-Stellen bei Sander. IT-Entscheidungen auf Duvenbeck-Konzernebene. CIO bei Duvenbeck eingestellt.",
+          "example_positions": [
+            "keine bei Sander"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.7,
+          "financial_health_score": 0.75,
+          "pressure_score": 0.5,
+          "strategic_reasoning": "Logistik hat hohen IoT-Bedarf (Telematik, Tracking, Warehouse). ABER: Sander ist seit 2024 Tochter von Duvenbeck (50+ Standorte, 12 Laender). Entscheidungen ueber IT/IoT werden auf Konzernebene getroffen. Duvenbeck hat eigenen CIO seit Mai 2025. Sander allein kein Entscheider mehr. Sonstiges: 140 LKW Flotte, CargoLine-Partner, 31.000qm Logistikflaeche. E-LKW Pilotprojekt bei Duvenbeck laeuft. Ansprechpartner waere eher Duvenbeck-Zentrale."
+        },
+        "customer_rating": 0.417,
+        "rating_reasoning": "Logistik hat hohen IoT-Bedarf (Telematik, Tracking, Warehouse). ABER: Sander ist seit 2024 Tochter von Duvenbeck (50+ Standorte, 12 Laender). Entscheidungen ueber IT/IoT werden auf Konzernebene getroffen. Duvenbeck hat eigenen CIO seit Mai 2025. Sander allein kein Entscheider mehr. Sonstiges: 140 LKW Flotte, CargoLine-Partner, 31.000qm Logistikflaeche. E-LKW Pilotprojekt bei Duvenbeck laeuft. Ansprechpartner waere eher Duvenbeck-Zentrale."
       },
       "overall_score": 0.275
     },
@@ -1666,7 +1701,14 @@
           "total_job_postings": 20,
           "hiring_reasoning": "Ca. 20 Stellen auf Indeed, aber nur 1 IT-Stelle (IT-Systemadministrator Hamburg). SEHR GUT für uns: Bei 360 MA und 10 Mühlenstandorten nur 1 IT-Stelle zeigt minimale eigene IT. Outsourcing-Wahrscheinlichkeit hoch."
         },
-        "topic_hiring": null,
+        "topic_hiring": {
+          "topic_hiring_score": 0.85,
+          "relevant_job_postings": 0,
+          "topic_hiring_reasoning": "KEINE IoT-Stellen. Nur 1 IT-Sysadmin. Bei 10 Mühlenstandorten MUSS IoT extern kommen. Schwester Österreich outsourced an CSB-System.",
+          "example_positions": [
+            "IT-Systemadministrator"
+          ]
+        },
         "strategic_fit": null,
         "customer_rating": 0.0,
         "rating_reasoning": ""
