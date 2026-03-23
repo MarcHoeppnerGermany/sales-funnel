@@ -169,61 +169,6 @@
     },
     {
       "company": {
-        "name": "Rosenberger Hochfrequenztechnik",
-        "website": "rosenberger.com",
-        "address": "Fridolfing, Bayern",
-        "industry": "HF-Steckverbinder / Automotive",
-        "source": null
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.85,
-          "activity_reasoning": "Weltmarktführer HF-Steckverbinder, 1.76 Mrd Umsatz, 14.800 MA, Hidden Champion, stabil wachsend, neuer CFO 2025",
-          "recent_news": [
-            "Josef Rottenaicher neuer CFO ab Okt 2025, Rang 318 Deutsche Wirtschaft"
-          ]
-        },
-        "topic_affinity": {
-          "topic": "TISAX IT-Outsourcing Cloud/IoT/AI",
-          "affinity_score": 0.8,
-          "affinity_reasoning": "Aktive IT-Abteilung, Rosenberger Telematics sucht IoT/Cloud-Entwickler, Zukunftsmarkt Robotik/Automation, hohe Digitalisierungsaffinität durch Telematik-Tochter",
-          "relevant_news": [
-            "Rosenberger Telematics sucht Software Developer IoT & Cloud Solutions"
-          ]
-        },
-        "combined_score": 0.82
-      },
-      "financials": {
-        "revenue_estimate": "1.76 Mrd EUR",
-        "profit_estimate": "k.A.",
-        "employee_count": 14800,
-        "hiring_activity": {
-          "general_hiring_score": 0.7,
-          "total_job_postings": 50,
-          "hiring_reasoning": "Aktive Karriereseite, IT-Abteilung mit Remote/Flex-Optionen, Rosenberger Telematics sucht aktiv IoT/Cloud-Entwickler"
-        },
-        "topic_hiring": {
-          "topic_hiring_score": 0.75,
-          "relevant_job_postings": 5,
-          "topic_hiring_reasoning": "Rosenberger Telematics sucht aktiv IoT/Cloud Software Developer, SCRUM-Team, internationale Projekte",
-          "example_positions": [
-            "Software Developer IoT & Cloud Solutions",
-            "IT Specialists"
-          ]
-        },
-        "strategic_fit": {
-          "size_fit_score": 0.6,
-          "financial_health_score": 0.9,
-          "pressure_score": 0.7,
-          "strategic_reasoning": "Grosskonzern 1.76 Mrd - etwas zu gross fuer Mittelstands-IT-Dienstleister (size-fit mittel), aber finanziell sehr stark. Druck durch Digitalisierung/IoT/Telematik hoch. TISAX-relevant durch Automotive-Fokus"
-        },
-        "customer_rating": 0.697,
-        "rating_reasoning": "Grosskonzern 1.76 Mrd - etwas zu gross fuer Mittelstands-IT-Dienstleister (size-fit mittel), aber finanziell sehr stark. Druck durch Digitalisierung/IoT/Telematik hoch. TISAX-relevant durch Automotive-Fokus"
-      },
-      "overall_score": 0.752
-    },
-    {
-      "company": {
         "name": "Gentherm Präzision SE",
         "website": "gentherm.com",
         "address": "Treuchtlingen, Bayern",
@@ -276,7 +221,62 @@
         "customer_rating": 0.727,
         "rating_reasoning": "Starker Digitalisierungsdruck durch Software-defined Vehicle. Eigene SW-Plattformen. TISAX hochrelevant. Fusion mit Modine erhoeht Komplexitaet."
       },
-      "overall_score": 0.685
+      "overall_score": 0.764
+    },
+    {
+      "company": {
+        "name": "Rosenberger Hochfrequenztechnik",
+        "website": "rosenberger.com",
+        "address": "Fridolfing, Bayern",
+        "industry": "HF-Steckverbinder / Automotive",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.85,
+          "activity_reasoning": "Weltmarktführer HF-Steckverbinder, 1.76 Mrd Umsatz, 14.800 MA, Hidden Champion, stabil wachsend, neuer CFO 2025",
+          "recent_news": [
+            "Josef Rottenaicher neuer CFO ab Okt 2025, Rang 318 Deutsche Wirtschaft"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "TISAX IT-Outsourcing Cloud/IoT/AI",
+          "affinity_score": 0.8,
+          "affinity_reasoning": "Aktive IT-Abteilung, Rosenberger Telematics sucht IoT/Cloud-Entwickler, Zukunftsmarkt Robotik/Automation, hohe Digitalisierungsaffinität durch Telematik-Tochter",
+          "relevant_news": [
+            "Rosenberger Telematics sucht Software Developer IoT & Cloud Solutions"
+          ]
+        },
+        "combined_score": 0.82
+      },
+      "financials": {
+        "revenue_estimate": "1.76 Mrd EUR",
+        "profit_estimate": "k.A.",
+        "employee_count": 14800,
+        "hiring_activity": {
+          "general_hiring_score": 0.7,
+          "total_job_postings": 50,
+          "hiring_reasoning": "Aktive Karriereseite, IT-Abteilung mit Remote/Flex-Optionen, Rosenberger Telematics sucht aktiv IoT/Cloud-Entwickler"
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.75,
+          "relevant_job_postings": 5,
+          "topic_hiring_reasoning": "Rosenberger Telematics sucht aktiv IoT/Cloud Software Developer, SCRUM-Team, internationale Projekte",
+          "example_positions": [
+            "Software Developer IoT & Cloud Solutions",
+            "IT Specialists"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.6,
+          "financial_health_score": 0.9,
+          "pressure_score": 0.7,
+          "strategic_reasoning": "Grosskonzern 1.76 Mrd - etwas zu gross fuer Mittelstands-IT-Dienstleister (size-fit mittel), aber finanziell sehr stark. Druck durch Digitalisierung/IoT/Telematik hoch. TISAX-relevant durch Automotive-Fokus"
+        },
+        "customer_rating": 0.697,
+        "rating_reasoning": "Grosskonzern 1.76 Mrd - etwas zu gross fuer Mittelstands-IT-Dienstleister (size-fit mittel), aber finanziell sehr stark. Druck durch Digitalisierung/IoT/Telematik hoch. TISAX-relevant durch Automotive-Fokus"
+      },
+      "overall_score": 0.752
     },
     {
       "company": {
@@ -4993,6 +4993,60 @@
     },
     {
       "company": {
+        "name": "Vacuumschmelze GmbH",
+        "website": "vacuumschmelze.com",
+        "address": "Hanau, Hessen",
+        "industry": "Magnetwerkstoffe / Automotive",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.75,
+          "activity_reasoning": "Hidden Champion, Weltmarktfuehrer Magnetwerkstoffe. Ca. 400 Mio EUR Umsatz, 4300 MA weltweit (1450 Hanau). Apollo Global Management als Eigentuemer. 800 Patente. Stabil positioniert.",
+          "recent_news": [
+            "Rang 1534 der deutschen Top-Unternehmen, Hidden Champion, Apollo-Portfolio"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "Cloud/IoT/AI IT-Outsourcing",
+          "affinity_score": 0.45,
+          "affinity_reasoning": "Groesserer Mittelstaendler mit 1450 MA in Hanau. Keine oeffentlich sichtbare Digitalisierungsstrategie. Klassische Werkstoffindustrie mit Bedarf an ERP/MES-Modernisierung. Automotive-Zulieferer (TISAX relevant). Keine Cloud/IoT-Stellen gefunden, aber als Hidden Champion mit 400 Mio Umsatz zwangslaeufig IT-Bedarf.",
+          "relevant_news": [
+            "Keine spezifischen Digitalisierungsinitiativen oeffentlich bekannt"
+          ]
+        },
+        "combined_score": 0.57
+      },
+      "financials": {
+        "revenue_estimate": "400 Mio EUR",
+        "profit_estimate": "n/a",
+        "employee_count": 4300,
+        "hiring_activity": {
+          "general_hiring_score": 0.5,
+          "total_job_postings": 21,
+          "hiring_reasoning": "21 offene Stellen bei Glassdoor. Schwerpunkt Metallurgie und Ingenieurwesen. Keine dedizierten IT/Cloud-Stellen sichtbar."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.2,
+          "relevant_job_postings": 1,
+          "topic_hiring_reasoning": "Kaum IT-Stellen oeffentlich sichtbar. Nutzt Salesforce Pardot und Cloudflare. Moeglicher versteckter IT-Bedarf, aber nicht aktiv am Markt suchend.",
+          "example_positions": [
+            "IT-Administrator"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.6,
+          "financial_health_score": 0.75,
+          "pressure_score": 0.5,
+          "strategic_reasoning": "Groesserer Mittelstaendler (400 Mio EUR, 4300 MA). Hidden Champion mit Modernisierungsbedarf. TISAX als Automotive-Zulieferer relevant. Mittlerer Digitalisierungsdruck. Apollo als PE-Eigentuemer koennte IT-Investitionen treiben."
+        },
+        "customer_rating": 0.415,
+        "rating_reasoning": "Groesserer Mittelstaendler (400 Mio EUR, 4300 MA). Hidden Champion mit Modernisierungsbedarf. TISAX als Automotive-Zulieferer relevant. Mittlerer Digitalisierungsdruck. Apollo als PE-Eigentuemer koennte IT-Investitionen treiben."
+      },
+      "overall_score": 0.454
+    },
+    {
+      "company": {
         "name": "Elmos Semiconductor SE",
         "website": "elmos.com",
         "address": "Dortmund, NRW",
@@ -8016,48 +8070,6 @@
       },
       "topic_relevance": null,
       "financials": null,
-      "overall_score": 0.25
-    },
-    {
-      "company": {
-        "name": "Vacuumschmelze GmbH",
-        "website": "vacuumschmelze.com",
-        "address": "Hanau, Hessen",
-        "industry": "Magnetwerkstoffe / Automotive",
-        "source": null
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.75,
-          "activity_reasoning": "Hidden Champion, Weltmarktfuehrer Magnetwerkstoffe. Ca. 400 Mio EUR Umsatz, 4300 MA weltweit (1450 Hanau). Apollo Global Management als Eigentuemer. 800 Patente. Stabil positioniert.",
-          "recent_news": [
-            "Rang 1534 der deutschen Top-Unternehmen, Hidden Champion, Apollo-Portfolio"
-          ]
-        },
-        "topic_affinity": {
-          "topic": "Cloud/IoT/AI IT-Outsourcing",
-          "affinity_score": 0.45,
-          "affinity_reasoning": "Groesserer Mittelstaendler mit 1450 MA in Hanau. Keine oeffentlich sichtbare Digitalisierungsstrategie. Klassische Werkstoffindustrie mit Bedarf an ERP/MES-Modernisierung. Automotive-Zulieferer (TISAX relevant). Keine Cloud/IoT-Stellen gefunden, aber als Hidden Champion mit 400 Mio Umsatz zwangslaeufig IT-Bedarf.",
-          "relevant_news": [
-            "Keine spezifischen Digitalisierungsinitiativen oeffentlich bekannt"
-          ]
-        },
-        "combined_score": 0.57
-      },
-      "financials": {
-        "revenue_estimate": "400 Mio EUR",
-        "profit_estimate": "n/a",
-        "employee_count": 4300,
-        "hiring_activity": {
-          "general_hiring_score": 0.5,
-          "total_job_postings": 21,
-          "hiring_reasoning": "21 offene Stellen bei Glassdoor. Schwerpunkt Metallurgie und Ingenieurwesen. Keine dedizierten IT/Cloud-Stellen sichtbar."
-        },
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
       "overall_score": 0.25
     },
     {
