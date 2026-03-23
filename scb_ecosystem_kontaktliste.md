@@ -139,3 +139,64 @@ Ausgangspunkt: **MRS Electronic GmbH** (Rottweil) als idealer Kandidat — Autom
 | **Webfleet (Bridgestone)** | OEM.connect — integriert SCB-Trailerdaten |
 | **AddSecure** | TPMS + Trailerdaten-Integration seit Okt 2025 |
 | **YellowFox** | Connected OEM Services — aggregiert SCB + Krone + Kögel Daten |
+
+---
+
+## Querverbindungen zu SCB-Kontakten (Busacker, Honkomp, Schöller, Hollah)
+
+### DIREKTE Verbindungen (dokumentiert, bestätigt)
+
+| Verbindung | Von (SCB) | Zu (Neue Firma) | Details | Aktion |
+|-----------|-----------|------------------|---------|--------|
+| **BPW/idem = SCB-Zulieferer** | Honkomp (E/E) | **idem telematics (BPW)** | BPW liefert Trailer-Achsen an SCB + strategische Telematik-Partnerschaft seit IAA 2018 (cargofleet3 <-> TrailerConnect) | Honkomp kennt BPW/idem-Team persönlich |
+| **SCB-Krone Telematik-Kooperation** | Schöller/Hollah | **Krone** (CIO: Sascha Gebhardt) | Seit 2020 gegenseitige Telematik-Schnittstellen offen. Beide VDA-Präsidium. Co-Kläger VECTO-Klage | CIO-Level Kontakt über VDA-Events |
+| **AddSecure Partnership** | Honkomp | **AddSecure** | Europa-weite strategische Partnerschaft seit Okt 2025 (TPMS + Trailerdaten) | Direkte Integration mit Honkomps TrailerConnect-Hardware |
+| **Webfleet OEM.connect** | Honkomp | **Webfleet (Bridgestone)** | SCB = erster OEM.connect-Partner (seit IAA Transportation 2024) | Direkte CTU-Hardware-Integration |
+| **Kögel nutzt idem (wie SCB)** | Honkomp | **Kögel** (IT: Mario Winkeljann) | Kögel Telematics = White-Label von idem telematics (BPW) — selber Tech-Stack wie SCB-Partner | Winkeljann arbeitet mit selben idem-Leuten wie Honkomp |
+| **Krone kauft Schwarzmüller** | Busacker | **Schwarzmüller** | Krone hat Schwarzmüller-Beteiligung erworben (EU-Genehmigung Dez 2024) — Zugang über Krone | Verkauf an Krone = Zugang zu Schwarzmüller |
+
+### STARKE INDIREKTE Verbindungen
+
+| Verbindung | Von (SCB) | Zu (Neue Firma) | Details | Aktion |
+|-----------|-----------|------------------|---------|--------|
+| **Robin Stalker: Doppel-AR** | **Busacker** (CFO) | **Schaeffler Engineering** (Werdohl, NRW) | Robin J. Stalker sitzt im AR von Schaeffler AG UND SCB AG (seit 2017, stellv. Vors.). Leitet Prüfungsausschuss bei beiden. | **Busacker arbeitet direkt mit Stalker im Prüfungsausschuss** → Intro zu Schaeffler Engineering über Stalker bitten |
+| **Busacker-Hollah: Mondi-Connection** | Busacker + Hollah | (intern) | Beide kommen aus Nordenia/Mondi. Busacker war CFO, Hollah war GF der Mondi IT Services Barleben. Busacker steht sogar im Handelsregister als GF der Mondi IT Services. | Tiefes persönliches Vertrauen — gemeinsame Vergangenheit nutzen |
+| **Astrid Hamker → Possehl Electronics** | Busacker (über AR) | **Possehl Electronics** (Niefern, BW) | Hamker sitzt im AR von SCB UND L. Possehl. Possehl Electronics fertigt 1,7 Mrd Stanzteile/Jahr für Automotive-ECU-Anwendungen (Navigation, Bremsen, Getriebe, E-Fahrzeuge). | Nicht auf unserer Liste, aber direkter Hamker-Brücke zu Automotive-Elektronik |
+| **VDA-Koalition: VECTO-Klage** | alle 4 SCB-Kontakte | **Krone, Kögel, Fliegl, Schwarzmüller, Langendorf/Wielton** | Gemeinsame Klage gegen EU CO2-Regulierung schafft enge Koordination auf GF-Ebene | Solidarität als Gesprächsöffner nutzen |
+| **adesso SE → Kompetenznetz Logistik NRW** | Schöller | **Kompetenznetz Logistik NRW** | adesso mobile (Schöllers Tech-Partner) ist seit 2025 Mitglied im Kompetenznetz Logistik.NRW. SCB ist ebenfalls Mitglied. | Gemeinsames NRW-Netzwerk vertiefen |
+| **Arvato Systems als geteilter IT-Partner** | Hollah/Schöller | potenziell alle Azure-Nutzer | Arvato = SCB-Schlüsselpartner für SAP-to-Azure (Gütersloh, Münsterland-nah). Alle Firmen mit Arvato-Beziehung teilen IT-Ökosystem. | Bei Zielkunden nach Arvato-Nutzung fragen |
+| **Sascha Gebhardt (Krone CIO): Parallel-Karriere** | Hollah (CIO) | **Krone** (CIO: Gebhardt) | Beide CIOs treiben Azure-Cloud-Strategien bei direkten Konkurrenten. Gebhardt kommt von Benteler Automotive. Hohe Wahrscheinlichkeit für Begegnungen bei VDA/IAA. | CIO-Peer-Kontakt über Branchenevents |
+
+### SCHWACHE INDIREKTE Verbindungen
+
+| Verbindung | Details |
+|-----------|---------|
+| **Schaeffler Engineering Werdohl** | Sauerland/NRW, grenzt an südliches Münsterland. TISAX-zertifiziert. Stärkste Verbindung über Robin Stalker (s.o.) |
+| **Platform Science → Krone → SCB** | Platform Science hat Krone-Partnerschaft (Transport Logistic 2025). Da Krone+SCB gegenseitige Telematik-Schnittstellen haben, fließen Daten indirekt ins SCB-Ökosystem |
+| **Alfons Hollah (Verwandter CIO) bei Prodware** | Prodware = größter Microsoft Dynamics 365 Partner in Europa. SCB tief in Microsoft-Ökosystem (Azure). Familienverbindung zu CIO Hollah. |
+| **Clemens Hollah (Verwandter CIO) bei DIL Technologie** | GF DIL Engineering, Quakenbrück (bei Osnabrück). Lebensmitteltechnologie — thematische Überschneidung mit SCB-Kühltrailern |
+| **Schöllers Konferenz-Netzwerk** | XaaS Evolution 2021 neben Siemens, ThyssenKrupp, Infineon, Porsche. SCB nutzt Siemens PLM Software für R&D. |
+| **SPEDION als gemeinsamer Partner** | SPEDION listet SAVVY Telematic Systems, SCB Telematics UND Krone Telematics als Partner — technische Integrationsbrücke zu SAVVY |
+| **Transport Logistic 2025** | SCB, Krone, idem telematics, Platform Science alle in Halle A6 München. Nächste Ausgabe 2027 = Key Networking. |
+
+---
+
+## Empfohlene Vorgehensweise (nach Priorität)
+
+### 1. Robin Stalker → Schaeffler Engineering
+Stalker sitzt in beiden ARs (SCB + Schaeffler AG). Busacker bitten, Stalker um Intro zu Schaeffler Engineering Werdohl zu bitten. Dort ECU-Entwicklung (ASIL D, TISAX) — perfekter Kandidat.
+
+### 2. Krone über VDA/Telematik-Kooperation
+SCB und Krone haben offene Telematik-Schnittstellen + gemeinsame VECTO-Klage. Gebhardt (Krone CIO) ist erreichbar. Schöller oder Hollah als Intro-Geber für CIO-Peer-Kontakt.
+
+### 3. idem telematics über BPW-Zulieferbeziehung
+BPW liefert Achsen an SCB + Telematik-Partnerschaft. Honkomp kennt das BPW/idem-Team persönlich. Direktes Intro möglich.
+
+### 4. Kögel über geteilten idem-Tech-Stack
+Winkeljann (Kögel IT) arbeitet mit denselben idem-Leuten wie Honkomp. Gemeinsamer technischer Kontext als Gesprächsöffner.
+
+### 5. Astrid Hamker → Possehl Electronics
+Für Automotive-ECU-Kontakte: Hamker als Brücke zu Possehl Electronics (1,7 Mrd Stanzteile/Jahr für Auto-ECUs). Über Busacker ansprechen.
+
+### 6. VECTO-Solidarität nutzen
+SCB, Krone, Kögel, Fliegl, Schwarzmüller, Langendorf/Wielton klagen gemeinsam. Diese Solidarität als natürlichen Gesprächsöffner bei allen Trailer-Herstellern nutzen.
