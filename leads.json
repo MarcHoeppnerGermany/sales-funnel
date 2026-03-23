@@ -8557,6 +8557,234 @@
       "topic_relevance": null,
       "financials": null,
       "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Mabanaft GmbH (MB Energy)",
+        "website": "mabanaft.com",
+        "address": "Hamburg",
+        "industry": "Energiehandel / Mineralöl / Tanklagerlagerlogistik",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "H&R GmbH & Co. KGaA",
+        "website": "hur.com",
+        "address": "Hamburg",
+        "industry": "Spezialchemie / Ölraffinerie / Mineralölprodukte",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Westfalen AG",
+        "website": "westfalen.com",
+        "address": "Münster, NRW",
+        "industry": "Energiehandel / Industriegase / Tankstellen",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Q1 Energie AG",
+        "website": "q1.eu",
+        "address": "Osnabrück, Niedersachsen",
+        "industry": "Mineralölhandel / Tankstellen / Energievertrieb",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Deutsche AVIA Mineralöl GmbH",
+        "website": "avia.de",
+        "address": "München, Bayern",
+        "industry": "Mineralölhandel / Tankstellen / Energieverbund",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Friedrich Scharr KG (SCHARR Gruppe)",
+        "website": "scharr.de",
+        "address": "Stuttgart-Vaihingen, BW",
+        "industry": "Energiehandel / Mineralöl / Brennstoffe",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Orlen Deutschland GmbH",
+        "website": "orlen-deutschland.de",
+        "address": "Elmshorn, Schleswig-Holstein",
+        "industry": "Mineralölhandel / Tankstellen (Star/Orlen)",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Wilhelm Hoyer KG",
+        "website": "hoyer.de",
+        "address": "Visselhövede, Niedersachsen",
+        "industry": "Mineralölhandel / Tankstellen / Energieversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Team SE (Team Energie)",
+        "website": "team.de",
+        "address": "Flensburg, Schleswig-Holstein",
+        "industry": "Energiehandel / Agrarhandel / Tankstellen",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Varo Energy Germany (Bayernoil)",
+        "website": "varoenergy.com",
+        "address": "Neustadt/Vohburg, Bayern",
+        "industry": "Ölraffinerie / Energiehandel / Tanklagerlagerlogistik",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "TanQuid GmbH & Co. KG",
+        "website": "tanquid.com",
+        "address": "Duisburg, NRW",
+        "industry": "Tanklagerbetreiber / Mineralöl-Lagerung / Logistik",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Gunvor Raffinerie Ingolstadt GmbH",
+        "website": "gunvor-deutschland.de",
+        "address": "Ingolstadt, Bayern",
+        "industry": "Ölraffinerie / Kraftstoffhandel / Rohstoffhandel",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "DS-Mineralöl GmbH (Diersch & Schröder)",
+        "website": "ds-mineraloel.de",
+        "address": "Bremen",
+        "industry": "Mineralölimport / Großhandel / Holzpellets",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Klöckner & Co SE",
+        "website": "kloeckner.com",
+        "address": "Düsseldorf, NRW",
+        "industry": "Stahlhandel / Rohstoffhandel / Metallverarbeitung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "RWE Supply & Trading GmbH",
+        "website": "rwe.com",
+        "address": "Essen, NRW",
+        "industry": "Energiehandel / Commodity Trading / Risikomanagement",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Uniper Global Commodities SE",
+        "website": "uniper.energy",
+        "address": "Düsseldorf, NRW",
+        "industry": "Energiehandel / Commodity Trading / Gas & Strom",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "EnBW Trading GmbH",
+        "website": "enbw.com",
+        "address": "Karlsruhe, BW",
+        "industry": "Energiehandel / Commodity Trading / Erneuerbare",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Calpam Mineralöl-Gesellschaft mbH",
+        "website": "calpam.com",
+        "address": "Aschaffenburg / Hamburg",
+        "industry": "Mineralölhandel / Bunkergeschäft / Tankstellen",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "BayWa AG Energie",
+        "website": "baywa.com",
+        "address": "München, Bayern",
+        "industry": "Energiehandel / Agrar / Baustoffe / Mineralöl",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
     }
   ],
   "metadata": {},
