@@ -224,6 +224,61 @@
     },
     {
       "company": {
+        "name": "Sweet Tec GmbH",
+        "website": "sweettec.de",
+        "address": "Boizenburg, Mecklenburg-Vorpommern",
+        "industry": "Süßwarenproduktion",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.9,
+          "activity_reasoning": "Starkes Wachstum 30% in 2023, über 500 MA, 30 Mio EUR Investition geplant 2024/25 für neue Fruchtgummilinie, moderne Produktion, expandierend",
+          "recent_news": [
+            "30% Umsatzwachstum 2023, 30 Mio EUR Investition neue Fruchtgummilinie 2024/25, 80 neue MA eingestellt"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.8,
+          "affinity_reasoning": "Wachsender Süßwarenproduzent 500+ MA, modernste Produktion, 30 Mio Investition in neue Linien. SAP S/4HANA Migration zeigt Digitalisierungswillen, aber KEIN IoT auf Shopfloor-Ebene erkennbar. Hoher Bedarf: Produktionslinien-Monitoring, Qualitätssicherung, OEE, Energiemanagement bei Expansion. Keine eigene IoT-Kompetenz.",
+          "relevant_news": [
+            "SAP S/4HANA Migration mit Innovabee, keine IoT-Projekte auf Produktionsebene"
+          ]
+        },
+        "combined_score": 0.84
+      },
+      "financials": {
+        "revenue_estimate": "~66 Mio EUR (220 Mio Gruppe)",
+        "profit_estimate": "k.A.",
+        "employee_count": 500,
+        "hiring_activity": {
+          "general_hiring_score": 0.9,
+          "total_job_postings": 80,
+          "hiring_reasoning": "Massives Wachstum, 80 neue MA in 2023, weitere 30 in 2024, 30 Mio Investition, 25 Azubis, aktiv einstellend"
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.2,
+          "relevant_job_postings": 1,
+          "topic_hiring_reasoning": "SAP-Migration zeigt IT-Bedarf, aber keine spezifischen IoT-Stellen, 25 Azubis in verschiedenen Bereichen",
+          "example_positions": [
+            "IT Administrator",
+            "Mechatroniker"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.9,
+          "financial_health_score": 0.9,
+          "pressure_score": 0.7,
+          "strategic_reasoning": "66 Mio Umsatz, ideale Größe. Finanziell stark mit Wachstum. Hoher Druck: massive Expansion (30 Mio Invest) erfordert IoT für neue Linien."
+        },
+        "customer_rating": 0.595,
+        "rating_reasoning": "66 Mio Umsatz, ideale Größe. Finanziell stark mit Wachstum. Hoher Druck: massive Expansion (30 Mio Invest) erfordert IoT für neue Linien."
+      },
+      "overall_score": 0.645
+    },
+    {
+      "company": {
         "name": "H. & J. Brüggen KG",
         "website": "brueggen.com",
         "address": "Lübeck, Schleswig-Holstein",
@@ -940,6 +995,62 @@
     },
     {
       "company": {
+        "name": "Nordex SE Rostock",
+        "website": "nordex-online.com",
+        "address": "Rostock, Mecklenburg-Vorpommern",
+        "industry": "Windkraftanlagen / Erneuerbare Energie",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.9,
+          "activity_reasoning": "Börsennotierter Windkraft-OEM, 7.3 Mrd EUR Umsatz 2024 (+12.5%). Erstmals profitabel 2024 (9 Mio EUR). EBITDA 296 Mio EUR. 10.400 MA. Rekordauftragseingang. Prognose 2025: 7.4-7.9 Mrd EUR. 57 GW installiert in 40+ Märkten.",
+          "recent_news": [
+            "Umsatz 2024: 7.3 Mrd EUR. EBITDA: 296 Mio EUR. Erstmals Gewinn 2024. Neuer Teststand Rostock Nov 2025. 31.5% Marktanteil DE 2025."
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.15,
+          "affinity_reasoning": "Nordex hat EIGENE IoT-Kompetenz: Cumulocity IoT der Software AG im Einsatz, eigenes SCADA-System (Nordex OS SCADA EDGE), IIoT-Plattform, LiDAT-ähnliche Echtzeit-Überwachung. CIO Stefan Ewald treibt Digitalisierung. Brauchen KEINEN externen IoT-Anbieter.",
+          "relevant_news": [
+            "Cumulocity IoT (Software AG) für 6800 Windanlagen. Nordex OS SCADA EDGE (IIoT). Eigenes Control Center Hamburg. CIO Stefan Ewald."
+          ]
+        },
+        "combined_score": 0.45
+      },
+      "financials": {
+        "revenue_estimate": "7.3 Mrd EUR (2024)",
+        "profit_estimate": "9 Mio EUR Konzernergebnis (2024)",
+        "employee_count": 10400,
+        "hiring_activity": {
+          "general_hiring_score": 0.8,
+          "total_job_postings": 500,
+          "hiring_reasoning": "10.400 MA, aktiv wachsend. Viele offene Stellen weltweit."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.7,
+          "relevant_job_postings": 50,
+          "topic_hiring_reasoning": "Stellt aktiv IoT/IT/SCADA-Entwickler ein. Eigene Digitalisierungsabteilung.",
+          "example_positions": [
+            "SCADA Engineer",
+            "IoT Developer",
+            "Data Analyst"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.3,
+          "financial_health_score": 0.9,
+          "pressure_score": 0.2,
+          "strategic_reasoning": "Viel zu groß (7.3 Mrd EUR). Haben eigene IoT/IT-Abteilung. Kein Outsourcing-Bedarf für IoT-Plattform."
+        },
+        "customer_rating": 0.485,
+        "rating_reasoning": "Viel zu groß (7.3 Mrd EUR). Haben eigene IoT/IT-Abteilung. Kein Outsourcing-Bedarf für IoT-Plattform."
+      },
+      "overall_score": 0.562
+    },
+    {
+      "company": {
         "name": "Limtronik",
         "website": "limtronik.de",
         "address": "Limburg, Hessen",
@@ -1210,6 +1321,61 @@
         },
         "customer_rating": 0.505,
         "rating_reasoning": "Groß (483 Mio), sehr gesund mit BMWK-Förderung, HOHER Druck durch Klimaschutzvertrag - muss digitalisieren für Energieeffizienz. Keine eigene IoT-Kompetenz."
+      },
+      "overall_score": 0.552
+    },
+    {
+      "company": {
+        "name": "SternMaid GmbH & Co. KG",
+        "website": "sternmaid.de",
+        "address": "Wittenburg, Mecklenburg-Vorpommern",
+        "industry": "Pulverprodukte / Lohnherstellung Lebensmittel",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.8,
+          "activity_reasoning": "Einer der führenden Lohnhersteller Europas, 50.000t Kapazität, Teil der starken Stern-Wywiol Gruppe (668 Mio EUR), kontinuierliche Investitionen in Ausbau",
+          "recent_news": [
+            "Stern-Wywiol Gruppe 668 Mio EUR Umsatz 2024, 9 Ausbaustufen am Standort Wittenburg"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.8,
+          "affinity_reasoning": "Großer Lohnhersteller 350 MA, 50.000t Kapazität, keine eigene IT/IoT-Kompetenz erkennbar. Hoher IoT-Bedarf: Chargenverfolgung Pulverprodukte, Qualitätskontrolle pharmazeutischer Produkte, Mischprozess-Überwachung, GMP-Compliance. Stern-Wywiol nutzt SAP S/4HANA - aber kein IoT auf Produktionsebene erkennbar.",
+          "relevant_news": [
+            "Keine IoT-Projekte öffentlich, Stern-Wywiol Gruppe nutzt SAP S/4HANA (Innovabee)"
+          ]
+        },
+        "combined_score": 0.8
+      },
+      "financials": {
+        "revenue_estimate": "~50 Mio EUR (geschätzt)",
+        "profit_estimate": "k.A.",
+        "employee_count": 350,
+        "hiring_activity": {
+          "general_hiring_score": 0.6,
+          "total_job_postings": 15,
+          "hiring_reasoning": "350 MA, starke Muttergesellschaft Stern-Wywiol, kontinuierlicher Ausbau des Standorts"
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.1,
+          "relevant_job_postings": 0,
+          "topic_hiring_reasoning": "Keine IoT-bezogenen Stellen, Lohnhersteller Pulverprodukte",
+          "example_positions": [
+            "Anlagenführer",
+            "Qualitätsmanager"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.9,
+          "financial_health_score": 0.8,
+          "pressure_score": 0.7,
+          "strategic_reasoning": "~50 Mio Standort, ideale Größe. Starke Muttergesellschaft. Hoher Druck: GMP-Compliance, Chargenverfolgung, Pharma-Qualität erfordert Digitalisierung."
+        },
+        "customer_rating": 0.515,
+        "rating_reasoning": "~50 Mio Standort, ideale Größe. Starke Muttergesellschaft. Hoher Druck: GMP-Compliance, Chargenverfolgung, Pharma-Qualität erfordert Digitalisierung."
       },
       "overall_score": 0.552
     },
@@ -2042,6 +2208,61 @@
     },
     {
       "company": {
+        "name": "Mecklenburger Metallguss GmbH",
+        "website": "mmg-propeller.de",
+        "address": "Waren/Müritz, Mecklenburg-Vorpommern",
+        "industry": "Schiffspropeller / Metallguss",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.8,
+          "activity_reasoning": "Weltmarktführer Schiffspropeller >80t (60% Marktanteil), 210 MA, ~100 Mio EUR Umsatz 2023. Rekordumsatz, volle Auftragsbücher bis 2025. Retrofit-Propeller boomen.",
+          "recent_news": [
+            "An 100 Mio EUR Umsatzmarke 2023, volle Auftragsbücher 2024/2025, zweitbestes Ergebnis der Geschichte nach 2015"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.65,
+          "affinity_reasoning": "Nutzt Digital Twin und additive Fertigung (3D-Druck Roboter). Kooperiert mit Hochschulen und Fraunhofer. Braucht IoT für Gießereiprozess-Überwachung und Digital Twin Infrastruktur. Hat F&E aber keine eigene IT-Plattformentwicklung.",
+          "relevant_news": [
+            "Digital Twin im Einsatz, additive Fertigung mit Schweißroboter, XXL 3D-Drucker, Kooperationen TU Hamburg/Uni Rostock/Fraunhofer"
+          ]
+        },
+        "combined_score": 0.71
+      },
+      "financials": {
+        "revenue_estimate": "ca. 100 Mio EUR (2023)",
+        "profit_estimate": "nicht veröffentlicht",
+        "employee_count": 210,
+        "hiring_activity": {
+          "general_hiring_score": 0.5,
+          "total_job_postings": 15,
+          "hiring_reasoning": "Von 200 auf 210 MA gewachsen, stellt moderat ein"
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.2,
+          "relevant_job_postings": 1,
+          "topic_hiring_reasoning": "Kaum IT-Stellen, Fokus auf Gießerei-Fachkräfte und Ingenieure",
+          "example_positions": [
+            "Konstrukteur",
+            "Gießereiingenieur"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.8,
+          "financial_health_score": 0.8,
+          "pressure_score": 0.6,
+          "strategic_reasoning": "Mittelgroß (~100 Mio), sehr gesund, Weltmarktführer. Digitalisierungsdruck durch Digital Twin und additive Fertigung. Braucht IoT-Plattform aber hat keine eigene IT-Entwicklung."
+        },
+        "customer_rating": 0.485,
+        "rating_reasoning": "Mittelgroß (~100 Mio), sehr gesund, Weltmarktführer. Digitalisierungsdruck durch Digital Twin und additive Fertigung. Braucht IoT-Plattform aber hat keine eigene IT-Entwicklung."
+      },
+      "overall_score": 0.522
+    },
+    {
+      "company": {
         "name": "R-Biopharm",
         "website": "r-biopharm.com",
         "address": "Darmstadt, Hessen",
@@ -2094,6 +2315,116 @@
         "rating_reasoning": "Mittelgroß (125 Mio), gesund, mittlerer Druck - Diagnostik-Markt digitalisiert sich, Connected Devices werden Pflicht"
       },
       "overall_score": 0.52
+    },
+    {
+      "company": {
+        "name": "BRITA",
+        "website": "brita.de",
+        "address": "Taunusstein, Hessen",
+        "industry": "Wasserfiltration / Konsumgüter",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.9,
+          "activity_reasoning": "Rekordumsatz 691 Mio EUR 2023 (+4%), Weltmarktführer Wasserfilter, 82% Umsatz international, starkes Wachstum im Professional-Bereich (+14%)",
+          "recent_news": [
+            "Rekordumsatz 691 Mio EUR 2023, Professional Filter +14% Wachstum, Markus Hankammer CEO"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.3,
+          "affinity_reasoning": "BRITA entwickelt aktiv eigene IoT-Produkte: PURITY C iQ Smart-Filterkopf mit SIM/Antenne/Online-Portal, Infinity Smart Pitcher mit WiFi/Amazon Dash, Smart Light Sensor. Sucht Werkstudent IoT Digital Products. Hat eigene IoT-Kompetenz, outsourced vermutlich nicht.",
+          "relevant_news": [
+            "PURITY C iQ digitaler Filterkopf mit SIM-Karte und Online-Portal, Werkstudent IoT Digital Products gesucht"
+          ]
+        },
+        "combined_score": 0.54
+      },
+      "financials": {
+        "revenue_estimate": "691 Mio EUR (2023, Rekord)",
+        "profit_estimate": "nicht bekannt",
+        "employee_count": 2314,
+        "hiring_activity": {
+          "general_hiring_score": 0.7,
+          "total_job_postings": 120,
+          "hiring_reasoning": "2314 MA, aktives Hiring, wachsendes Unternehmen mit Rekordumstzen"
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.4,
+          "relevant_job_postings": 5,
+          "topic_hiring_reasoning": "Sucht Werkstudent IoT Digital Products, baut eigene Smart-Product-Linie auf, DevOps-Stellen",
+          "example_positions": [
+            "Werkstudent IoT Digital Products",
+            "IT Digitalisierung DevOps"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.6,
+          "financial_health_score": 0.9,
+          "pressure_score": 0.3,
+          "strategic_reasoning": "Groß (691 Mio), finanziell sehr stark, aber entwickelt IoT selbst. Könnte eventuell Teilprojekte outsourcen aber unwahrscheinlich als Hauptkunde."
+        },
+        "customer_rating": 0.455,
+        "rating_reasoning": "Groß (691 Mio), finanziell sehr stark, aber entwickelt IoT selbst. Könnte eventuell Teilprojekte outsourcen aber unwahrscheinlich als Hauptkunde."
+      },
+      "overall_score": 0.517
+    },
+    {
+      "company": {
+        "name": "Oculus Optikgeräte",
+        "website": "oculus.de",
+        "address": "Wetzlar, Hessen",
+        "industry": "Optik / Medizintechnik",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.7,
+          "activity_reasoning": "Familienunternehmen seit 1895, 107 Mio Umsatz, 800 MA, 55% Exportquote, 12 Tochterunternehmen, stabile Marktposition in Augendiagnostik",
+          "recent_news": [
+            "Rang 5845 unter Top-Unternehmen DE, 60% der MA in F&E/Fertigung/Service"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.6,
+          "affinity_reasoning": "Medizintechnik-Hersteller mit Fokus auf Diagnostikgeräte. Keine eigenen IoT/Cloud-Projekte gefunden. Hat Erfahrung mit Betriebsdatenerfassung und Maschinendatenerfassung. Könnte IoT für Geräte-Telemetrie, Remote Monitoring und predictive Maintenance brauchen. Medizintechnik hat regulatorische Anforderungen.",
+          "relevant_news": [
+            "Buch über BDE/MDE-Einführung bei Oculus, keine eigenen IoT-Projekte sichtbar"
+          ]
+        },
+        "combined_score": 0.64
+      },
+      "financials": {
+        "revenue_estimate": "107 Mio EUR (2023)",
+        "profit_estimate": "nicht bekannt",
+        "employee_count": 800,
+        "hiring_activity": {
+          "general_hiring_score": 0.5,
+          "total_job_postings": 30,
+          "hiring_reasoning": "800 MA, mittelgroß, moderate Hiring-Aktivität"
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.3,
+          "relevant_job_postings": 2,
+          "topic_hiring_reasoning": "Keine spezifischen IoT-Stellen gefunden, aber F&E-intensiv mit 60% der MA in Entwicklung/Fertigung",
+          "example_positions": [
+            "Softwareentwickler Medizintechnik",
+            "Embedded Systems Engineer"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.8,
+          "financial_health_score": 0.7,
+          "pressure_score": 0.5,
+          "strategic_reasoning": "KMU 100 Mio Bereich, finanziell gesund, mittlerer Digitalisierungsdruck in Medizintechnik (Remote Monitoring, Telemetrie)"
+        },
+        "customer_rating": 0.49,
+        "rating_reasoning": "KMU 100 Mio Bereich, finanziell gesund, mittlerer Digitalisierungsdruck in Medizintechnik (Remote Monitoring, Telemetrie)"
+      },
+      "overall_score": 0.513
     },
     {
       "company": {
@@ -2370,6 +2701,61 @@
     },
     {
       "company": {
+        "name": "Hydraulik Nord GmbH",
+        "website": "hydrauliknord.de",
+        "address": "Parchim, Mecklenburg-Vorpommern",
+        "industry": "Hydrauliksysteme / Maschinenbau",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.7,
+          "activity_reasoning": "Solide Gruppe mit 1750 MA und 220 Mio Umsatz, 6 Unternehmen zusammengeschlossen, im DDW Top-Ranking, Patentanmeldungen 2024, Segment Robotik und Automation",
+          "recent_news": [
+            "4 Patentanmeldungen 2024, Tariferhöhung 2025, Inflationsausgleichsprämie 2024"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.5,
+          "affinity_reasoning": "Hydraulik-Gruppe mit eigener Elektronik-Tochter Litronic (Steuer- und Regeltechnik, Automatisierung). Kooperation mit Fraunhofer und Unis. IoT-Bedarf für Hydraulikkomponenten (Predictive Maintenance, Condition Monitoring) vorhanden, ABER Litronic hat eigene Elektronik/Automatisierungskompetenz. Teilweise eigene Fähigkeiten.",
+          "relevant_news": [
+            "Litronic als eigene Elektronik/Automatisierungs-Tochter, Kooperation mit Fraunhofer Rostock"
+          ]
+        },
+        "combined_score": 0.58
+      },
+      "financials": {
+        "revenue_estimate": "~220 Mio EUR (Gruppe)",
+        "profit_estimate": "k.A.",
+        "employee_count": 1750,
+        "hiring_activity": {
+          "general_hiring_score": 0.6,
+          "total_job_postings": 20,
+          "hiring_reasoning": "Solide Gruppe 1750 MA, Patentanmeldungen zeigen Innovationsaktivität, Tariferhöhung positiv"
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.3,
+          "relevant_job_postings": 2,
+          "topic_hiring_reasoning": "Litronic-Tochter hat eigene Elektronikkompetenz",
+          "example_positions": [
+            "Elektronikentwickler",
+            "Automatisierungstechniker"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.7,
+          "financial_health_score": 0.7,
+          "pressure_score": 0.5,
+          "strategic_reasoning": "220 Mio Gruppe, gute Größe. Solide Finanzen. Mittlerer Druck - Litronic hat eigene Elektronik, aber IoT-Plattform könnte fehlen."
+        },
+        "customer_rating": 0.485,
+        "rating_reasoning": "220 Mio Gruppe, gute Größe. Solide Finanzen. Mittlerer Druck - Litronic hat eigene Elektronik, aber IoT-Plattform könnte fehlen."
+      },
+      "overall_score": 0.505
+    },
+    {
+      "company": {
         "name": "KNUTH Werkzeugmaschinen GmbH",
         "website": "knuth.com",
         "address": "Wasbek, Schleswig-Holstein",
@@ -2531,56 +2917,6 @@
         "rating_reasoning": "Mittelgross 100-150M, starke Eigentuemer, hoher Druck da Wartungsvertrag wechselt und Digitalisierung der Fernueberwachung kritisch ist"
       },
       "overall_score": 0.497
-    },
-    {
-      "company": {
-        "name": "Sweet Tec GmbH",
-        "website": "sweettec.de",
-        "address": "Boizenburg, Mecklenburg-Vorpommern",
-        "industry": "Süßwarenproduktion",
-        "source": null
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.9,
-          "activity_reasoning": "Starkes Wachstum 30% in 2023, über 500 MA, 30 Mio EUR Investition geplant 2024/25 für neue Fruchtgummilinie, moderne Produktion, expandierend",
-          "recent_news": [
-            "30% Umsatzwachstum 2023, 30 Mio EUR Investition neue Fruchtgummilinie 2024/25, 80 neue MA eingestellt"
-          ]
-        },
-        "topic_affinity": {
-          "topic": "IoT-Plattform-Entwicklung",
-          "affinity_score": 0.8,
-          "affinity_reasoning": "Wachsender Süßwarenproduzent 500+ MA, modernste Produktion, 30 Mio Investition in neue Linien. SAP S/4HANA Migration zeigt Digitalisierungswillen, aber KEIN IoT auf Shopfloor-Ebene erkennbar. Hoher Bedarf: Produktionslinien-Monitoring, Qualitätssicherung, OEE, Energiemanagement bei Expansion. Keine eigene IoT-Kompetenz.",
-          "relevant_news": [
-            "SAP S/4HANA Migration mit Innovabee, keine IoT-Projekte auf Produktionsebene"
-          ]
-        },
-        "combined_score": 0.84
-      },
-      "financials": {
-        "revenue_estimate": "~66 Mio EUR (220 Mio Gruppe)",
-        "profit_estimate": "k.A.",
-        "employee_count": 500,
-        "hiring_activity": {
-          "general_hiring_score": 0.9,
-          "total_job_postings": 80,
-          "hiring_reasoning": "Massives Wachstum, 80 neue MA in 2023, weitere 30 in 2024, 30 Mio Investition, 25 Azubis, aktiv einstellend"
-        },
-        "topic_hiring": {
-          "topic_hiring_score": 0.2,
-          "relevant_job_postings": 1,
-          "topic_hiring_reasoning": "SAP-Migration zeigt IT-Bedarf, aber keine spezifischen IoT-Stellen, 25 Azubis in verschiedenen Bereichen",
-          "example_positions": [
-            "IT Administrator",
-            "Mechatroniker"
-          ]
-        },
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": 0.495
     },
     {
       "company": {
@@ -2905,6 +3241,60 @@
         "rating_reasoning": "Mittelstand 60M EUR, finanziell stabil, aber bereits mit IoT-Partner versorgt (N-iX, A1 Digital). Geringer Outsourcing-Druck da Bedarf gedeckt."
       },
       "overall_score": 0.485
+    },
+    {
+      "company": {
+        "name": "Mecklenburger Kartoffelveredelung GmbH",
+        "website": "mkv-hagenow.de",
+        "address": "Hagenow, Mecklenburg-Vorpommern",
+        "industry": "Kartoffelverarbeitung / Lebensmittel",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.7,
+          "activity_reasoning": "Teil der Emsland Group (900 Mio EUR, 1400 MA). Vertriebsgesellschaft und Produktion am Standort Hagenow. Vierschichtbetrieb mit 200+ MA. Stabile Konzernzugehörigkeit. Weltmarktführer für Stärkeprodukte.",
+          "recent_news": [
+            "Bilanzsumme 2023: 40 Mio EUR. Teil Emsland Group (Weltmarktführer Stärke). Vierschichtbetrieb Hagenow."
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.8,
+          "affinity_reasoning": "Lebensmittelproduktion im Vierschichtbetrieb - hohes IoT-Potenzial (Temperaturüberwachung, Qualitätskontrolle, Maschinenüberwachung, Energiemanagement). Keine eigene IT/IoT-Kompetenz erkennbar. Konzern-IT bei Emsland Group, aber lokaler Standort braucht Unterstützung. Idealer Outsourcing-Kandidat.",
+          "relevant_news": [
+            "Keine IoT/Digitalisierungs-Projekte gefunden. Produktion und Export aktiv."
+          ]
+        },
+        "combined_score": 0.76
+      },
+      "financials": {
+        "revenue_estimate": "ca. 40 Mio EUR (Bilanzsumme 2023, Emsland Group 900 Mio)",
+        "profit_estimate": "k.A.",
+        "employee_count": 200,
+        "hiring_activity": {
+          "general_hiring_score": 0.4,
+          "total_job_postings": 10,
+          "hiring_reasoning": "200+ MA, moderate Einstellungsaktivität. Vierschichtbetrieb erfordert kontinuierliche Personalsuche."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.1,
+          "relevant_job_postings": 0,
+          "topic_hiring_reasoning": "Keine IoT/IT-Stellen gefunden. IT über Emsland Group.",
+          "example_positions": [
+            "keine"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.8,
+          "financial_health_score": 0.7,
+          "pressure_score": 0.6,
+          "strategic_reasoning": "Mittelgroß (40M Bilanzsumme, aber Teil 900M Konzern). Stabil durch Konzernzugehörigkeit. Digitalisierungsdruck durch Lebensmittelindustrie-Anforderungen (Rückverfolgbarkeit, Effizienz)."
+        },
+        "customer_rating": 0.435,
+        "rating_reasoning": "Mittelgroß (40M Bilanzsumme, aber Teil 900M Konzern). Stabil durch Konzernzugehörigkeit. Digitalisierungsdruck durch Lebensmittelindustrie-Anforderungen (Rückverfolgbarkeit, Effizienz)."
+      },
+      "overall_score": 0.483
     },
     {
       "company": {
@@ -3725,6 +4115,61 @@
     },
     {
       "company": {
+        "name": "Weber Maschinenbau GmbH",
+        "website": "weberweb.com",
+        "address": "Neubrandenburg, Mecklenburg-Vorpommern",
+        "industry": "Lebensmittelmaschinen / Slicer",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.8,
+          "activity_reasoning": "Weltmarktführer Lebensmittelslicer, Rekordumsatz 2023, Umbenennung zu Weber Food Technology 2024, hohe Eigenfertigungsquote 80%, größter Standort in Neubrandenburg",
+          "recent_news": [
+            "Umbenennung zu Weber Food Technology 2024, 10 Mio EUR Investition Logistik"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.3,
+          "affinity_reasoning": "Weber hat EIGENE IIoT-Kompetenz: Weber@net Software, DurabladeCare digitales Klingenmanagement, VideoAssist, Guardian Smart Service, AR-Brillen für Ferndiagnose. Slicer sind IIoT-ready. Starke eigene Digitalisierung - machen es weitgehend selbst.",
+          "relevant_news": [
+            "IIoT-ready Slicer, Weber@net Software, DurabladeCare, Guardian Smart Service, AR-Ferndiagnose"
+          ]
+        },
+        "combined_score": 0.5
+      },
+      "financials": {
+        "revenue_estimate": "~300 Mio EUR (Gruppe)",
+        "profit_estimate": "k.A.",
+        "employee_count": 500,
+        "hiring_activity": {
+          "general_hiring_score": 0.7,
+          "total_job_postings": 30,
+          "hiring_reasoning": "Weltmarktführer mit Rekordumsatz, 500 MA am Standort NB, kontinuierlich wachsend"
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.2,
+          "relevant_job_postings": 2,
+          "topic_hiring_reasoning": "Eigene IIoT-Produkte, suchen intern Softwareentwickler",
+          "example_positions": [
+            "Software Developer",
+            "Service Techniker"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.7,
+          "financial_health_score": 0.8,
+          "pressure_score": 0.3,
+          "strategic_reasoning": "~300 Mio Gruppe, gute Größe. Finanziell stark. ABER: Eigene IIoT-Kompetenz, wenig Druck extern zu vergeben."
+        },
+        "customer_rating": 0.405,
+        "rating_reasoning": "~300 Mio Gruppe, gute Größe. Finanziell stark. ABER: Eigene IIoT-Kompetenz, wenig Druck extern zu vergeben."
+      },
+      "overall_score": 0.447
+    },
+    {
+      "company": {
         "name": "FSV Technik GmbH",
         "website": "fsv-technik.com",
         "address": "Bremen, Bremen",
@@ -3888,56 +4333,6 @@
     },
     {
       "company": {
-        "name": "SternMaid GmbH & Co. KG",
-        "website": "sternmaid.de",
-        "address": "Wittenburg, Mecklenburg-Vorpommern",
-        "industry": "Pulverprodukte / Lohnherstellung Lebensmittel",
-        "source": null
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.8,
-          "activity_reasoning": "Einer der führenden Lohnhersteller Europas, 50.000t Kapazität, Teil der starken Stern-Wywiol Gruppe (668 Mio EUR), kontinuierliche Investitionen in Ausbau",
-          "recent_news": [
-            "Stern-Wywiol Gruppe 668 Mio EUR Umsatz 2024, 9 Ausbaustufen am Standort Wittenburg"
-          ]
-        },
-        "topic_affinity": {
-          "topic": "IoT-Plattform-Entwicklung",
-          "affinity_score": 0.8,
-          "affinity_reasoning": "Großer Lohnhersteller 350 MA, 50.000t Kapazität, keine eigene IT/IoT-Kompetenz erkennbar. Hoher IoT-Bedarf: Chargenverfolgung Pulverprodukte, Qualitätskontrolle pharmazeutischer Produkte, Mischprozess-Überwachung, GMP-Compliance. Stern-Wywiol nutzt SAP S/4HANA - aber kein IoT auf Produktionsebene erkennbar.",
-          "relevant_news": [
-            "Keine IoT-Projekte öffentlich, Stern-Wywiol Gruppe nutzt SAP S/4HANA (Innovabee)"
-          ]
-        },
-        "combined_score": 0.8
-      },
-      "financials": {
-        "revenue_estimate": "~50 Mio EUR (geschätzt)",
-        "profit_estimate": "k.A.",
-        "employee_count": 350,
-        "hiring_activity": {
-          "general_hiring_score": 0.6,
-          "total_job_postings": 15,
-          "hiring_reasoning": "350 MA, starke Muttergesellschaft Stern-Wywiol, kontinuierlicher Ausbau des Standorts"
-        },
-        "topic_hiring": {
-          "topic_hiring_score": 0.1,
-          "relevant_job_postings": 0,
-          "topic_hiring_reasoning": "Keine IoT-bezogenen Stellen, Lohnhersteller Pulverprodukte",
-          "example_positions": [
-            "Anlagenführer",
-            "Qualitätsmanager"
-          ]
-        },
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": 0.44
-    },
-    {
-      "company": {
         "name": "Cimbergy (ee-Nord)",
         "website": "cimbergy.com",
         "address": "Schleswig-Holstein",
@@ -4042,6 +4437,61 @@
         },
         "customer_rating": 0.405,
         "rating_reasoning": "Mittelgroß 100-500M, finanziell stark, aber kaum Outsourcing-Druck da eigene Digital Factory"
+      },
+      "overall_score": 0.432
+    },
+    {
+      "company": {
+        "name": "Dockweiler AG",
+        "website": "dockweiler.com",
+        "address": "Neustadt-Glewe, Mecklenburg-Vorpommern",
+        "industry": "Edelstahlrohrsysteme / Reinraumtechnik",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.5,
+          "activity_reasoning": "Hidden Champion Edelstahlrohrsysteme, 780 MA, 164 Mio EUR. ABER: Krisenjahr 2024 mit Kurzarbeit (180 MA betroffen). Auftragseingang zieht Ende 2024 an, Erholung 2025 erwartet. Familienunternehmen.",
+          "recent_news": [
+            "Kurzarbeit 2024 für 180 MA, Auftragseingang zieht Ende 2024 an, 2025 positive Entwicklung erwartet, Asien-Fokus"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.55,
+          "affinity_reasoning": "Zulieferer für Halbleiter- und Pharmaindustrie, profitiert von Digitalisierungswelle. Hat Tochter Dockweiler Industrial Automation GmbH für Automatisierung. Braucht IoT für Qualitätsmanagement der Reinraum-Rohrsysteme. Eigene Automatisierungs-Tochter reduziert Outsourcing-Bedarf etwas.",
+          "relevant_news": [
+            "Dockweiler Industrial Automation GmbH Tochter, zweistelliger Mio-Auftrag Mikrochip-Hersteller, Digitalisierung als Wachstumstreiber"
+          ]
+        },
+        "combined_score": 0.53
+      },
+      "financials": {
+        "revenue_estimate": "164 Mio EUR (2023)",
+        "profit_estimate": "nicht veröffentlicht",
+        "employee_count": 780,
+        "hiring_activity": {
+          "general_hiring_score": 0.3,
+          "total_job_postings": 15,
+          "hiring_reasoning": "Nach Kurzarbeit 2024 eher verhaltene Einstellungspolitik"
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.3,
+          "relevant_job_postings": 3,
+          "topic_hiring_reasoning": "Tochter Dockweiler Industrial Automation sucht Automatisierungs-Experten",
+          "example_positions": [
+            "Automatisierungstechniker",
+            "Robotik-Ingenieur"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.7,
+          "financial_health_score": 0.5,
+          "pressure_score": 0.5,
+          "strategic_reasoning": "Mittelgroß (164 Mio), nach Krisenjahr 2024. Kurzarbeit beendet sich, aber Budget für IoT-Projekte könnte knapp sein. Hat eigene Automatisierungs-Tochter."
+        },
+        "customer_rating": 0.44,
+        "rating_reasoning": "Mittelgroß (164 Mio), nach Krisenjahr 2024. Kurzarbeit beendet sich, aber Budget für IoT-Projekte könnte knapp sein. Hat eigene Automatisierungs-Tochter."
       },
       "overall_score": 0.432
     },
@@ -4156,6 +4606,61 @@
     },
     {
       "company": {
+        "name": "Rügen Fisch AG",
+        "website": "ruegen-fisch.de",
+        "address": "Sassnitz, Mecklenburg-Vorpommern",
+        "industry": "Fischkonserven / Lebensmittelproduktion",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.5,
+          "activity_reasoning": "Größter dt. Fischkonservenhersteller, aber Markt unter Druck, Hawesta-Produktion wird nach Sassnitz verlagert, CEO-Wechsel 2024, Thai Union als starker Mutterkonzern",
+          "recent_news": [
+            "CEO-Wechsel zu Volker Büttel, Hawesta-Produktionsverlagerung nach Sassnitz, Thai Union 100% Eigentümer"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.7,
+          "affinity_reasoning": "Großer Lebensmittelproduzent (660 MA, 140 Mio EUR) ohne erkennbare eigene IT/IoT-Kompetenz. IoT-Bedarf hoch: Produktionsüberwachung Konservenlinien, Kühlkettenmonitoring, Qualitätssicherung Lebensmittel, Energiemonitoring. Thai Union als Mutter könnte aber zentral IT steuern.",
+          "relevant_news": [
+            "Keine eigenen IoT-Projekte öffentlich bekannt, Thai Union als Mutterkonzern"
+          ]
+        },
+        "combined_score": 0.62
+      },
+      "financials": {
+        "revenue_estimate": "~140 Mio EUR",
+        "profit_estimate": "k.A.",
+        "employee_count": 660,
+        "hiring_activity": {
+          "general_hiring_score": 0.4,
+          "total_job_postings": 10,
+          "hiring_reasoning": "660 MA, CEO-Wechsel und Restrukturierung, Markt unter Druck, aber Thai Union als stabiler Eigentümer"
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.1,
+          "relevant_job_postings": 0,
+          "topic_hiring_reasoning": "Keine IoT-Stellen, Lebensmittelfertigung ohne IT-Fokus",
+          "example_positions": [
+            "Produktionsmitarbeiter",
+            "Qualitätssicherung"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.7,
+          "financial_health_score": 0.5,
+          "pressure_score": 0.6,
+          "strategic_reasoning": "140 Mio Umsatz, gute Größe. Markt unter Druck aber Thai Union stabil. Hoher Digitalisierungsdruck in Lebensmittelindustrie (Rückverfolgbarkeit, Effizienz)."
+        },
+        "customer_rating": 0.415,
+        "rating_reasoning": "140 Mio Umsatz, gute Größe. Markt unter Druck aber Thai Union stabil. Hoher Digitalisierungsdruck in Lebensmittelindustrie (Rückverfolgbarkeit, Effizienz)."
+      },
+      "overall_score": 0.425
+    },
+    {
+      "company": {
         "name": "Hemro Group (Mahlkönig)",
         "website": "mahlkoenig.com",
         "address": "Hamburg",
@@ -4253,6 +4758,116 @@
         "rating_reasoning": ""
       },
       "overall_score": 0.42
+    },
+    {
+      "company": {
+        "name": "Störtebeker Braumanufaktur GmbH",
+        "website": "stoertebeker.com",
+        "address": "Stralsund, Mecklenburg-Vorpommern",
+        "industry": "Brauerei / Getränkeherstellung",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.7,
+          "activity_reasoning": "Organisches Wachstum 2.8% in 2024, starke Marke, Ausstoß von 60k auf 300k hl in 8 Jahren, alkoholfreies Segment wächst, aber Verlust 2022",
+          "recent_news": [
+            "2.8% Absatzplus 2024, jede 5. Flasche alkoholfrei, Investition in digitalisierte Wertschöpfungskette"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.6,
+          "affinity_reasoning": "Hat bereits stark in Digitalisierung investiert: SitePilot Suite, SAP, Krones Abfülltechnik, vollautomatisiertes Hochregallager, GEA InsightPartner für Echtzeit-Brauprozessdaten. Viel bereits umgesetzt mit externen Partnern (Krones/Syskron, System Logistics, GEA). Weitere IoT-Projekte möglich aber Kerninfrastruktur steht bereits.",
+          "relevant_news": [
+            "SitePilot Suite von Syskron, GEA InsightPartner Pilotprojekt, vollautomatisiertes Hochregallager"
+          ]
+        },
+        "combined_score": 0.64
+      },
+      "financials": {
+        "revenue_estimate": "~50 Mio EUR",
+        "profit_estimate": "-2.1 Mio EUR (2022)",
+        "employee_count": 200,
+        "hiring_activity": {
+          "general_hiring_score": 0.5,
+          "total_job_postings": 10,
+          "hiring_reasoning": "Wachsende Brauerei, 2.8% Plus 2024, aber ~200 MA - moderate Einstellungsaktivität"
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.1,
+          "relevant_job_postings": 0,
+          "topic_hiring_reasoning": "Hat bereits SitePilot/SAP/GEA implementiert, keine offenen IoT-Stellen",
+          "example_positions": [
+            "Braumeister",
+            "Logistik"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.9,
+          "financial_health_score": 0.7,
+          "pressure_score": 0.4,
+          "strategic_reasoning": "~50 Mio, ideale Größe. Wachsend aber Verlust 2022. Moderater Druck - hat bereits massiv in Digitalisierung investiert (Krones, GEA, SAP)."
+        },
+        "customer_rating": 0.41,
+        "rating_reasoning": "~50 Mio, ideale Größe. Wachsend aber Verlust 2022. Moderater Druck - hat bereits massiv in Digitalisierung investiert (Krones, GEA, SAP)."
+      },
+      "overall_score": 0.415
+    },
+    {
+      "company": {
+        "name": "KGW Schweriner Maschinen- und Anlagenbau",
+        "website": "kgw-schwerin.de",
+        "address": "Schwerin, Mecklenburg-Vorpommern",
+        "industry": "Schwerer Stahlbau / Windturm-Fertigung",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.4,
+          "activity_reasoning": "Kleines Unternehmen mit ~100 Mitarbeitern, Insolvenzgeschichte 2006, abhängig von Windkraft-Aufträgen als Lohnfertiger, begrenzte Diversifikation",
+          "recent_news": [
+            "Zugehörigkeit zur Wilms-Gruppe, Fertigung von Windtürmen für Nordex und GE"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.7,
+          "affinity_reasoning": "Kleiner Stahlbau-Lohnfertiger mit ~100 MA, keine eigene IT-Abteilung erkennbar. IoT-Bedarf vorhanden: Produktionsüberwachung Schweißprozesse, Qualitätssicherung Windtürme, Energiemonitoring. Aber klein und finanziell angespannt - Budget fraglich.",
+          "relevant_news": [
+            "Keine IoT/Digitalisierungsprojekte öffentlich bekannt"
+          ]
+        },
+        "combined_score": 0.58
+      },
+      "financials": {
+        "revenue_estimate": "~20-30 Mio EUR (geschätzt)",
+        "profit_estimate": "k.A.",
+        "employee_count": 100,
+        "hiring_activity": {
+          "general_hiring_score": 0.3,
+          "total_job_postings": 5,
+          "hiring_reasoning": "Kleines Unternehmen ~100 MA, als Lohnfertiger begrenzte Wachstumsperspektive"
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.1,
+          "relevant_job_postings": 0,
+          "topic_hiring_reasoning": "Zu klein für IoT-Stellen, keine IT-Stellenangebote",
+          "example_positions": [
+            "Schweißer",
+            "Konstrukteur"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 1.0,
+          "financial_health_score": 0.4,
+          "pressure_score": 0.6,
+          "strategic_reasoning": "Klein ~20-30 Mio, perfekte Größe für IoT-Outsourcing. Finanziell angespannt. Mittlerer bis hoher Druck als Zulieferer Windkraft."
+        },
+        "customer_rating": 0.46,
+        "rating_reasoning": "Klein ~20-30 Mio, perfekte Größe für IoT-Outsourcing. Finanziell angespannt. Mittlerer bis hoher Druck als Zulieferer Windkraft."
+      },
+      "overall_score": 0.415
     },
     {
       "company": {
@@ -4359,6 +4974,61 @@
         },
         "customer_rating": 0.395,
         "rating_reasoning": "Als Verband schwierig als direkter Kunde. Hoher Digitalisierungsdruck in Hafenlogistik, aber eigener IT-Partner (dbh) bereits etabliert"
+      },
+      "overall_score": 0.412
+    },
+    {
+      "company": {
+        "name": "EMH metering GmbH",
+        "website": "emh-metering.com",
+        "address": "Gallin, Mecklenburg-Vorpommern",
+        "industry": "Elektronische Stromzähler / Messtechnik",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.9,
+          "activity_reasoning": "Starkes Wachstum, Umsatz verdoppelt in 4 Jahren, Wirtschaftspreis VORSPRUNG 2024, Smart Meter Rollout treibt Nachfrage",
+          "recent_news": [
+            "Wirtschaftspreis VORSPRUNG 2024, Re-Zertifizierung CASA Gateway"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.2,
+          "affinity_reasoning": "EMH IST selbst ein IoT/Smart-Meter-Unternehmen. Sie entwickeln eigene Smart Meter Gateways (CASA), IoT-Anbindungen, BSI-zertifizierte Kommunikationsgateways. Eigene IT-Kompetenz vorhanden. Kein Outsourcing-Bedarf.",
+          "relevant_news": [
+            "Eigenes Smart Meter Gateway CASA, BSI IT-Grundschutz, Kooperation mit aktiver EMT für CLS-Anwendungen"
+          ]
+        },
+        "combined_score": 0.48
+      },
+      "financials": {
+        "revenue_estimate": "~120 Mio EUR (geschätzt, verdoppelt seit 2019)",
+        "profit_estimate": "k.A.",
+        "employee_count": 250,
+        "hiring_activity": {
+          "general_hiring_score": 0.7,
+          "total_job_postings": 20,
+          "hiring_reasoning": "Wachsendes Unternehmen mit 250+ MA, neuer GL-Member 2025, Smart Meter Rollout erfordert Personal"
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.1,
+          "relevant_job_postings": 0,
+          "topic_hiring_reasoning": "Haben eigene IoT/Smart-Meter-Kompetenz, suchen keine externe IoT-Hilfe",
+          "example_positions": [
+            "Firmware Engineer",
+            "Embedded Developer"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.8,
+          "financial_health_score": 0.9,
+          "pressure_score": 0.2,
+          "strategic_reasoning": "~120 Mio Umsatz, gut passend. Finanziell stark. ABER: Machen IoT selbst, kein Druck extern zu vergeben."
+        },
+        "customer_rating": 0.36,
+        "rating_reasoning": "~120 Mio Umsatz, gut passend. Finanziell stark. ABER: Machen IoT selbst, kein Druck extern zu vergeben."
       },
       "overall_score": 0.412
     },
@@ -4782,6 +5452,61 @@
     },
     {
       "company": {
+        "name": "Eisengießerei Torgelow GmbH",
+        "website": "silbitz-group.com",
+        "address": "Torgelow, Mecklenburg-Vorpommern",
+        "industry": "Großguss / Windkraftkomponenten",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.5,
+          "activity_reasoning": "Nach Insolvenz von Silbitz Group übernommen, 300 Arbeitsplätze gesichert, aber abhängig von Windkraft-Konjunktur, 90% Umsatz aus Windenergie",
+          "recent_news": [
+            "Übernahme durch Silbitz Group (DBAG-Portfolio), Firmierung als Silbitz Group Torgelow GmbH"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.6,
+          "affinity_reasoning": "Traditionelle Gießerei, Großguss für Windkraft. Keine eigene IT-Kompetenz erkennbar. IoT-Bedarf moderat: Produktionsüberwachung, Qualitätskontrolle bei 20-100t Gussteilen, Energiemonitoring. Aber niedrige Digitalisierungsreife und nach Übernahme andere Prioritäten.",
+          "relevant_news": [
+            "Keine öffentlichen IoT/Digitalisierungsprojekte gefunden"
+          ]
+        },
+        "combined_score": 0.56
+      },
+      "financials": {
+        "revenue_estimate": "~45 Mio EUR",
+        "profit_estimate": "k.A.",
+        "employee_count": 300,
+        "hiring_activity": {
+          "general_hiring_score": 0.3,
+          "total_job_postings": 5,
+          "hiring_reasoning": "Nach Übernahme Konsolidierungsphase, 300 Arbeitsplätze gesichert aber kein Wachstumskurs"
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.1,
+          "relevant_job_postings": 0,
+          "topic_hiring_reasoning": "Keine IoT-bezogenen Stellen, traditionelle Gießerei",
+          "example_positions": [
+            "Gießereitechniker",
+            "Schmelzer"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.9,
+          "financial_health_score": 0.5,
+          "pressure_score": 0.5,
+          "strategic_reasoning": "~45 Mio Umsatz, gute Größe. Nach Übernahme stabil aber nicht stark. Mittlerer Digitalisierungsdruck in der Windkraft-Zulieferung."
+        },
+        "customer_rating": 0.41,
+        "rating_reasoning": "~45 Mio Umsatz, gute Größe. Nach Übernahme stabil aber nicht stark. Mittlerer Digitalisierungsdruck in der Windkraft-Zulieferung."
+      },
+      "overall_score": 0.395
+    },
+    {
+      "company": {
         "name": "Scholz Mechanik GmbH",
         "website": "scholz-mechanik.de",
         "address": "Hamburg",
@@ -4999,6 +5724,61 @@
     },
     {
       "company": {
+        "name": "Webasto Neubrandenburg GmbH",
+        "website": "webasto.com",
+        "address": "Neubrandenburg, Mecklenburg-Vorpommern",
+        "industry": "Fahrzeugheizungen / Automotive-Zulieferer",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.6,
+          "activity_reasoning": "800 MA am Standort, 1.5 Mio Heizgeräte produziert, aber Webasto Gruppe unter Sparkurs, Automobilindustrie unter Druck, neue Kreditlinien 1.4 Mrd nötig",
+          "recent_news": [
+            "Sparkurs 2024, Kreditlinien 1.4 Mrd EUR verlängert, neues Logistikzentrum eröffnet, Hochvoltheizer für E-Autos"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.2,
+          "affinity_reasoning": "Webasto hat EIGENE starke IoT/Digitalisierung: Future Factory Konzept, MES-System (FGL/Python), IoT-Gateways mit SITEC/in.hub, Energiemonitoring, Predictive Maintenance, vollautomatisiertes Lager, eigene IT-Stellenangebote für Softwareentwickler. Konzern mit 4.3 Mrd EUR macht alles selbst.",
+          "relevant_news": [
+            "Future Factory, IoT mit SITEC/in.hub, MES-System, eigene Softwareentwickler gesucht"
+          ]
+        },
+        "combined_score": 0.36
+      },
+      "financials": {
+        "revenue_estimate": "~4.3 Mrd EUR (Webasto Gruppe)",
+        "profit_estimate": "k.A.",
+        "employee_count": 800,
+        "hiring_activity": {
+          "general_hiring_score": 0.4,
+          "total_job_postings": 10,
+          "hiring_reasoning": "800 MA aber Sparkurs im Konzern, kaum noch neue Einstellungen laut Nordkurier, Automobilindustrie unter Druck"
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.3,
+          "relevant_job_postings": 3,
+          "topic_hiring_reasoning": "Sucht Softwareentwickler/IT-Systembetreuer für MES-System, aber intern beim Konzern",
+          "example_positions": [
+            "Softwareentwickler MES",
+            "IT-Systembetreuer"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.3,
+          "financial_health_score": 0.6,
+          "pressure_score": 0.2,
+          "strategic_reasoning": "4.3 Mrd Konzern, zu groß - machen alles intern. Sparkurs aber stabil. Kein Druck extern IoT zu vergeben, eigene Future Factory."
+        },
+        "customer_rating": 0.285,
+        "rating_reasoning": "4.3 Mrd Konzern, zu groß - machen alles intern. Sparkurs aber stabil. Kein Druck extern IoT zu vergeben, eigene Future Factory."
+      },
+      "overall_score": 0.39
+    },
+    {
+      "company": {
         "name": "Julius Koch GmbH",
         "website": "juliuskoch.com",
         "address": "Malente, Schleswig-Holstein",
@@ -5108,163 +5888,45 @@
     },
     {
       "company": {
-        "name": "Hydraulik Nord GmbH",
-        "website": "hydrauliknord.de",
-        "address": "Parchim, Mecklenburg-Vorpommern",
-        "industry": "Hydrauliksysteme / Maschinenbau",
+        "name": "VIAOPTIC",
+        "website": "viaoptic.de",
+        "address": "Wetzlar, Hessen",
+        "industry": "Kunststoffoptik",
         "source": null
       },
       "topic_relevance": {
         "company_health": {
           "activity_score": 0.7,
-          "activity_reasoning": "Solide Gruppe mit 1750 MA und 220 Mio Umsatz, 6 Unternehmen zusammengeschlossen, im DDW Top-Ranking, Patentanmeldungen 2024, Segment Robotik und Automation",
+          "activity_reasoning": "Kunststoffoptik-Spezialist, 165 MA, Umsatz 8x seit Gründung. 60% Kapazitätserweiterung 2024. Automobilbranche 1/3 Umsatz. Wachstumskurs, Tochter von ACM/Socrates Stiftung Wien.",
           "recent_news": [
-            "4 Patentanmeldungen 2024, Tariferhöhung 2025, Inflationsausgleichsprämie 2024"
-          ]
-        },
-        "topic_affinity": {
-          "topic": "IoT-Plattform-Entwicklung",
-          "affinity_score": 0.5,
-          "affinity_reasoning": "Hydraulik-Gruppe mit eigener Elektronik-Tochter Litronic (Steuer- und Regeltechnik, Automatisierung). Kooperation mit Fraunhofer und Unis. IoT-Bedarf für Hydraulikkomponenten (Predictive Maintenance, Condition Monitoring) vorhanden, ABER Litronic hat eigene Elektronik/Automatisierungskompetenz. Teilweise eigene Fähigkeiten.",
-          "relevant_news": [
-            "Litronic als eigene Elektronik/Automatisierungs-Tochter, Kooperation mit Fraunhofer Rostock"
-          ]
-        },
-        "combined_score": 0.58
-      },
-      "financials": {
-        "revenue_estimate": "~220 Mio EUR (Gruppe)",
-        "profit_estimate": "k.A.",
-        "employee_count": 1750,
-        "hiring_activity": {
-          "general_hiring_score": 0.6,
-          "total_job_postings": 20,
-          "hiring_reasoning": "Solide Gruppe 1750 MA, Patentanmeldungen zeigen Innovationsaktivität, Tariferhöhung positiv"
-        },
-        "topic_hiring": {
-          "topic_hiring_score": 0.3,
-          "relevant_job_postings": 2,
-          "topic_hiring_reasoning": "Litronic-Tochter hat eigene Elektronikkompetenz",
-          "example_positions": [
-            "Elektronikentwickler",
-            "Automatisierungstechniker"
-          ]
-        },
-        "strategic_fit": {
-          "size_fit_score": 0.7,
-          "financial_health_score": 0.7,
-          "pressure_score": 0.5,
-          "strategic_reasoning": "220 Mio Gruppe, gute Größe. Solide Finanzen. Mittlerer Druck - Litronic hat eigene Elektronik, aber IoT-Plattform könnte fehlen."
-        },
-        "customer_rating": 0.485,
-        "rating_reasoning": "220 Mio Gruppe, gute Größe. Solide Finanzen. Mittlerer Druck - Litronic hat eigene Elektronik, aber IoT-Plattform könnte fehlen."
-      },
-      "overall_score": 0.385
-    },
-    {
-      "company": {
-        "name": "Störtebeker Braumanufaktur GmbH",
-        "website": "stoertebeker.com",
-        "address": "Stralsund, Mecklenburg-Vorpommern",
-        "industry": "Brauerei / Getränkeherstellung",
-        "source": null
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.7,
-          "activity_reasoning": "Organisches Wachstum 2.8% in 2024, starke Marke, Ausstoß von 60k auf 300k hl in 8 Jahren, alkoholfreies Segment wächst, aber Verlust 2022",
-          "recent_news": [
-            "2.8% Absatzplus 2024, jede 5. Flasche alkoholfrei, Investition in digitalisierte Wertschöpfungskette"
+            "60% Kapazitätserweiterung 2024, Anbau 3450 qm, Wachstum auf 200 MA geplant, Automotive/Medizin/Sensorik"
           ]
         },
         "topic_affinity": {
           "topic": "IoT-Plattform-Entwicklung",
           "affinity_score": 0.6,
-          "affinity_reasoning": "Hat bereits stark in Digitalisierung investiert: SitePilot Suite, SAP, Krones Abfülltechnik, vollautomatisiertes Hochregallager, GEA InsightPartner für Echtzeit-Brauprozessdaten. Viel bereits umgesetzt mit externen Partnern (Krones/Syskron, System Logistics, GEA). Weitere IoT-Projekte möglich aber Kerninfrastruktur steht bereits.",
+          "affinity_reasoning": "Produziert Optikkomponenten für Sensorik, LIDAR, autonomes Fahren. Spritzguss-Automatisierung nimmt zu. Braucht IoT für Qualitätskontrolle und Fertigungssteuerung. Keine eigene IoT/IT-Entwicklung erkennbar, aber Digitalisierung der Fertigung relevant.",
           "relevant_news": [
-            "SitePilot Suite von Syskron, GEA InsightPartner Pilotprojekt, vollautomatisiertes Hochregallager"
+            "Zunehmende Automatisierung Spritzguss-Fertigung, Sensorik/LIDAR-Produkte, Konzeptpark GmbH als regionaler IoT-Partner"
           ]
         },
         "combined_score": 0.64
       },
       "financials": {
-        "revenue_estimate": "~50 Mio EUR",
-        "profit_estimate": "-2.1 Mio EUR (2022)",
-        "employee_count": 200,
+        "revenue_estimate": "ca. 30 Mio EUR (geschätzt)",
+        "profit_estimate": "nicht veröffentlicht",
+        "employee_count": 165,
         "hiring_activity": {
           "general_hiring_score": 0.5,
-          "total_job_postings": 10,
-          "hiring_reasoning": "Wachsende Brauerei, 2.8% Plus 2024, aber ~200 MA - moderate Einstellungsaktivität"
+          "total_job_postings": 15,
+          "hiring_reasoning": "Wachsendes Unternehmen, von 130 auf 165 MA, Ziel 200"
         },
-        "topic_hiring": {
-          "topic_hiring_score": 0.1,
-          "relevant_job_postings": 0,
-          "topic_hiring_reasoning": "Hat bereits SitePilot/SAP/GEA implementiert, keine offenen IoT-Stellen",
-          "example_positions": [
-            "Braumeister",
-            "Logistik"
-          ]
-        },
+        "topic_hiring": null,
         "strategic_fit": null,
         "customer_rating": 0.0,
         "rating_reasoning": ""
       },
       "overall_score": 0.385
-    },
-    {
-      "company": {
-        "name": "Weber Maschinenbau GmbH",
-        "website": "weberweb.com",
-        "address": "Neubrandenburg, Mecklenburg-Vorpommern",
-        "industry": "Lebensmittelmaschinen / Slicer",
-        "source": null
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.8,
-          "activity_reasoning": "Weltmarktführer Lebensmittelslicer, Rekordumsatz 2023, Umbenennung zu Weber Food Technology 2024, hohe Eigenfertigungsquote 80%, größter Standort in Neubrandenburg",
-          "recent_news": [
-            "Umbenennung zu Weber Food Technology 2024, 10 Mio EUR Investition Logistik"
-          ]
-        },
-        "topic_affinity": {
-          "topic": "IoT-Plattform-Entwicklung",
-          "affinity_score": 0.3,
-          "affinity_reasoning": "Weber hat EIGENE IIoT-Kompetenz: Weber@net Software, DurabladeCare digitales Klingenmanagement, VideoAssist, Guardian Smart Service, AR-Brillen für Ferndiagnose. Slicer sind IIoT-ready. Starke eigene Digitalisierung - machen es weitgehend selbst.",
-          "relevant_news": [
-            "IIoT-ready Slicer, Weber@net Software, DurabladeCare, Guardian Smart Service, AR-Ferndiagnose"
-          ]
-        },
-        "combined_score": 0.5
-      },
-      "financials": {
-        "revenue_estimate": "~300 Mio EUR (Gruppe)",
-        "profit_estimate": "k.A.",
-        "employee_count": 500,
-        "hiring_activity": {
-          "general_hiring_score": 0.7,
-          "total_job_postings": 30,
-          "hiring_reasoning": "Weltmarktführer mit Rekordumsatz, 500 MA am Standort NB, kontinuierlich wachsend"
-        },
-        "topic_hiring": {
-          "topic_hiring_score": 0.2,
-          "relevant_job_postings": 2,
-          "topic_hiring_reasoning": "Eigene IIoT-Produkte, suchen intern Softwareentwickler",
-          "example_positions": [
-            "Software Developer",
-            "Service Techniker"
-          ]
-        },
-        "strategic_fit": {
-          "size_fit_score": 0.7,
-          "financial_health_score": 0.8,
-          "pressure_score": 0.3,
-          "strategic_reasoning": "~300 Mio Gruppe, gute Größe. Finanziell stark. ABER: Eigene IIoT-Kompetenz, wenig Druck extern zu vergeben."
-        },
-        "customer_rating": 0.405,
-        "rating_reasoning": "~300 Mio Gruppe, gute Größe. Finanziell stark. ABER: Eigene IIoT-Kompetenz, wenig Druck extern zu vergeben."
-      },
-      "overall_score": 0.38
     },
     {
       "company": {
@@ -5322,61 +5984,6 @@
     },
     {
       "company": {
-        "name": "EMH metering GmbH",
-        "website": "emh-metering.com",
-        "address": "Gallin, Mecklenburg-Vorpommern",
-        "industry": "Elektronische Stromzähler / Messtechnik",
-        "source": null
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.9,
-          "activity_reasoning": "Starkes Wachstum, Umsatz verdoppelt in 4 Jahren, Wirtschaftspreis VORSPRUNG 2024, Smart Meter Rollout treibt Nachfrage",
-          "recent_news": [
-            "Wirtschaftspreis VORSPRUNG 2024, Re-Zertifizierung CASA Gateway"
-          ]
-        },
-        "topic_affinity": {
-          "topic": "IoT-Plattform-Entwicklung",
-          "affinity_score": 0.2,
-          "affinity_reasoning": "EMH IST selbst ein IoT/Smart-Meter-Unternehmen. Sie entwickeln eigene Smart Meter Gateways (CASA), IoT-Anbindungen, BSI-zertifizierte Kommunikationsgateways. Eigene IT-Kompetenz vorhanden. Kein Outsourcing-Bedarf.",
-          "relevant_news": [
-            "Eigenes Smart Meter Gateway CASA, BSI IT-Grundschutz, Kooperation mit aktiver EMT für CLS-Anwendungen"
-          ]
-        },
-        "combined_score": 0.48
-      },
-      "financials": {
-        "revenue_estimate": "~120 Mio EUR (geschätzt, verdoppelt seit 2019)",
-        "profit_estimate": "k.A.",
-        "employee_count": 250,
-        "hiring_activity": {
-          "general_hiring_score": 0.7,
-          "total_job_postings": 20,
-          "hiring_reasoning": "Wachsendes Unternehmen mit 250+ MA, neuer GL-Member 2025, Smart Meter Rollout erfordert Personal"
-        },
-        "topic_hiring": {
-          "topic_hiring_score": 0.1,
-          "relevant_job_postings": 0,
-          "topic_hiring_reasoning": "Haben eigene IoT/Smart-Meter-Kompetenz, suchen keine externe IoT-Hilfe",
-          "example_positions": [
-            "Firmware Engineer",
-            "Embedded Developer"
-          ]
-        },
-        "strategic_fit": {
-          "size_fit_score": 0.8,
-          "financial_health_score": 0.9,
-          "pressure_score": 0.2,
-          "strategic_reasoning": "~120 Mio Umsatz, gut passend. Finanziell stark. ABER: Machen IoT selbst, kein Druck extern zu vergeben."
-        },
-        "customer_rating": 0.36,
-        "rating_reasoning": "~120 Mio Umsatz, gut passend. Finanziell stark. ABER: Machen IoT selbst, kein Druck extern zu vergeben."
-      },
-      "overall_score": 0.375
-    },
-    {
-      "company": {
         "name": "Haje Maschinenbau GmbH",
         "website": "haje.de",
         "address": "Bremen, Bremen",
@@ -5428,61 +6035,6 @@
         "rating_reasoning": "Sehr klein unter 5M, finanziell okay, moderater Druck"
       },
       "overall_score": 0.373
-    },
-    {
-      "company": {
-        "name": "Rügen Fisch AG",
-        "website": "ruegen-fisch.de",
-        "address": "Sassnitz, Mecklenburg-Vorpommern",
-        "industry": "Fischkonserven / Lebensmittelproduktion",
-        "source": null
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.5,
-          "activity_reasoning": "Größter dt. Fischkonservenhersteller, aber Markt unter Druck, Hawesta-Produktion wird nach Sassnitz verlagert, CEO-Wechsel 2024, Thai Union als starker Mutterkonzern",
-          "recent_news": [
-            "CEO-Wechsel zu Volker Büttel, Hawesta-Produktionsverlagerung nach Sassnitz, Thai Union 100% Eigentümer"
-          ]
-        },
-        "topic_affinity": {
-          "topic": "IoT-Plattform-Entwicklung",
-          "affinity_score": 0.7,
-          "affinity_reasoning": "Großer Lebensmittelproduzent (660 MA, 140 Mio EUR) ohne erkennbare eigene IT/IoT-Kompetenz. IoT-Bedarf hoch: Produktionsüberwachung Konservenlinien, Kühlkettenmonitoring, Qualitätssicherung Lebensmittel, Energiemonitoring. Thai Union als Mutter könnte aber zentral IT steuern.",
-          "relevant_news": [
-            "Keine eigenen IoT-Projekte öffentlich bekannt, Thai Union als Mutterkonzern"
-          ]
-        },
-        "combined_score": 0.62
-      },
-      "financials": {
-        "revenue_estimate": "~140 Mio EUR",
-        "profit_estimate": "k.A.",
-        "employee_count": 660,
-        "hiring_activity": {
-          "general_hiring_score": 0.4,
-          "total_job_postings": 10,
-          "hiring_reasoning": "660 MA, CEO-Wechsel und Restrukturierung, Markt unter Druck, aber Thai Union als stabiler Eigentümer"
-        },
-        "topic_hiring": {
-          "topic_hiring_score": 0.1,
-          "relevant_job_postings": 0,
-          "topic_hiring_reasoning": "Keine IoT-Stellen, Lebensmittelfertigung ohne IT-Fokus",
-          "example_positions": [
-            "Produktionsmitarbeiter",
-            "Qualitätssicherung"
-          ]
-        },
-        "strategic_fit": {
-          "size_fit_score": 0.7,
-          "financial_health_score": 0.5,
-          "pressure_score": 0.6,
-          "strategic_reasoning": "140 Mio Umsatz, gute Größe. Markt unter Druck aber Thai Union stabil. Hoher Digitalisierungsdruck in Lebensmittelindustrie (Rückverfolgbarkeit, Effizienz)."
-        },
-        "customer_rating": 0.415,
-        "rating_reasoning": "140 Mio Umsatz, gute Größe. Markt unter Druck aber Thai Union stabil. Hoher Digitalisierungsdruck in Lebensmittelindustrie (Rückverfolgbarkeit, Effizienz)."
-      },
-      "overall_score": 0.365
     },
     {
       "company": {
@@ -5590,6 +6142,115 @@
         "rating_reasoning": "Mittelgroß (206M Umsatz). Finanziell stabil. Geringer IoT-Outsourcing-Druck da eigene IT-Kompetenz vorhanden."
       },
       "overall_score": 0.352
+    },
+    {
+      "company": {
+        "name": "Weka Holzbau GmbH",
+        "website": "weka-holzbau.de",
+        "address": "Neubrandenburg, Mecklenburg-Vorpommern",
+        "industry": "Holzbau / Fertighäuser",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.6,
+          "activity_reasoning": "Marktführer DE für DIY-Holzprodukte (Gartenhäuser, Wellness). 135 MA, ca. 28 Mio EUR Umsatz. Seit 2018 Teil der holländischen Outdoor Life Group. Bilanzsumme 2022: 20 Mio EUR (-26.2%). Rückgang deutet auf Konsolidierung hin.",
+          "recent_news": [
+            "Bilanzsumme 2022: 20 Mio EUR (-26.2%). Teil Outdoor Life Group (NL) seit 2018. Marktführer DE Holz-Bausätze. HR-Änderung 12/2025."
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.4,
+          "affinity_reasoning": "Holzbau/DIY-Produkte haben begrenztes IoT-Potenzial. Mögliche Anwendungen: Produktions-Monitoring, Logistik-Optimierung. Aber Produkte selbst (Gartenhäuser, Carports) sind nicht IoT-fähig. Kein erkennbarer Digitalisierungsdruck.",
+          "relevant_news": [
+            "Keine IoT/Digitalisierungs-Projekte gefunden. Reines Produktionsunternehmen für Holz-Bausätze."
+          ]
+        },
+        "combined_score": 0.48
+      },
+      "financials": {
+        "revenue_estimate": "ca. 28 Mio EUR (geschätzt)",
+        "profit_estimate": "k.A.",
+        "employee_count": 135,
+        "hiring_activity": {
+          "general_hiring_score": 0.3,
+          "total_job_postings": 8,
+          "hiring_reasoning": "135 MA, wenige offene Stellen. Konsolidierungsphase."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.1,
+          "relevant_job_postings": 0,
+          "topic_hiring_reasoning": "Keine IoT/IT-Stellen. Holzverarbeitung, nicht technologiegetrieben.",
+          "example_positions": [
+            "keine"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.9,
+          "financial_health_score": 0.6,
+          "pressure_score": 0.3,
+          "strategic_reasoning": "Kleine Firma (<100M). Moderate Finanzlage (Bilanzsumme rückläufig). Geringer IoT-Druck - Produkte sind einfache Holzbausätze."
+        },
+        "customer_rating": 0.35,
+        "rating_reasoning": "Kleine Firma (<100M). Moderate Finanzlage (Bilanzsumme rückläufig). Geringer IoT-Druck - Produkte sind einfache Holzbausätze."
+      },
+      "overall_score": 0.352
+    },
+    {
+      "company": {
+        "name": "HanseYachts AG",
+        "website": "hanseyachtsag.com",
+        "address": "Greifswald, Mecklenburg-Vorpommern",
+        "industry": "Yachtbau / Bootsbau",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.4,
+          "activity_reasoning": "Rekordumsatz 185 Mio 2023/24, ABER massiver Stellenabbau 200 von 800 Jobs in Greifswald, Eigentümerwechsel von Aurelius zu Müller Verwaltung, sinkende Nachfrage ab Juli 2025",
+          "recent_news": [
+            "Eigentümerwechsel 2025, Stellenabbau 200 Jobs Greifswald, Produktion wird ab Juli 2025 reduziert"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.5,
+          "affinity_reasoning": "HanseYachts hat bereits MyHanse Safety Cloud (IoT: Alarme, eLogBook, Kollisionserkennung, Geofencing, Lichtsteuerung per App, eService Book). Digitalisierung aktiv mit 3D-Konfigurator. Neuer Investor mit IoT-Hintergrund (cap-on). Sie haben bereits IoT implementiert - aber unklar ob intern oder zugekauft. Momentan im Krisenmodus mit Stellenabbau.",
+          "relevant_news": [
+            "MyHanse Safety Cloud, CZone digital switching, neuer Investor Andreas Müller mit IoT-Expertise"
+          ]
+        },
+        "combined_score": 0.46
+      },
+      "financials": {
+        "revenue_estimate": "185 Mio EUR (2023/24)",
+        "profit_estimate": "1.8 Mio EUR Nettogewinn",
+        "employee_count": 1500,
+        "hiring_activity": {
+          "general_hiring_score": 0.2,
+          "total_job_postings": 5,
+          "hiring_reasoning": "Massiver Stellenabbau 200 Jobs in Greifswald, Produktion wird ab Juli 2025 reduziert, Krisenmodus"
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.2,
+          "relevant_job_postings": 1,
+          "topic_hiring_reasoning": "Hat MyHanse Safety Cloud aber im Stellenabbau",
+          "example_positions": [
+            "IT Administrator",
+            "Produktentwickler"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.7,
+          "financial_health_score": 0.4,
+          "pressure_score": 0.4,
+          "strategic_reasoning": "185 Mio Umsatz, gute Größe. ABER Krise: Stellenabbau, Eigentümerwechsel, sinkende Nachfrage. Kein Budget für neue IoT-Projekte."
+        },
+        "customer_rating": 0.36,
+        "rating_reasoning": "185 Mio Umsatz, gute Größe. ABER Krise: Stellenabbau, Eigentümerwechsel, sinkende Nachfrage. Kein Budget für neue IoT-Projekte."
+      },
+      "overall_score": 0.347
     },
     {
       "company": {
@@ -5757,116 +6418,6 @@
     },
     {
       "company": {
-        "name": "KGW Schweriner Maschinen- und Anlagenbau",
-        "website": "kgw-schwerin.de",
-        "address": "Schwerin, Mecklenburg-Vorpommern",
-        "industry": "Schwerer Stahlbau / Windturm-Fertigung",
-        "source": null
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.4,
-          "activity_reasoning": "Kleines Unternehmen mit ~100 Mitarbeitern, Insolvenzgeschichte 2006, abhängig von Windkraft-Aufträgen als Lohnfertiger, begrenzte Diversifikation",
-          "recent_news": [
-            "Zugehörigkeit zur Wilms-Gruppe, Fertigung von Windtürmen für Nordex und GE"
-          ]
-        },
-        "topic_affinity": {
-          "topic": "IoT-Plattform-Entwicklung",
-          "affinity_score": 0.7,
-          "affinity_reasoning": "Kleiner Stahlbau-Lohnfertiger mit ~100 MA, keine eigene IT-Abteilung erkennbar. IoT-Bedarf vorhanden: Produktionsüberwachung Schweißprozesse, Qualitätssicherung Windtürme, Energiemonitoring. Aber klein und finanziell angespannt - Budget fraglich.",
-          "relevant_news": [
-            "Keine IoT/Digitalisierungsprojekte öffentlich bekannt"
-          ]
-        },
-        "combined_score": 0.58
-      },
-      "financials": {
-        "revenue_estimate": "~20-30 Mio EUR (geschätzt)",
-        "profit_estimate": "k.A.",
-        "employee_count": 100,
-        "hiring_activity": {
-          "general_hiring_score": 0.3,
-          "total_job_postings": 5,
-          "hiring_reasoning": "Kleines Unternehmen ~100 MA, als Lohnfertiger begrenzte Wachstumsperspektive"
-        },
-        "topic_hiring": {
-          "topic_hiring_score": 0.1,
-          "relevant_job_postings": 0,
-          "topic_hiring_reasoning": "Zu klein für IoT-Stellen, keine IT-Stellenangebote",
-          "example_positions": [
-            "Schweißer",
-            "Konstrukteur"
-          ]
-        },
-        "strategic_fit": {
-          "size_fit_score": 1.0,
-          "financial_health_score": 0.4,
-          "pressure_score": 0.6,
-          "strategic_reasoning": "Klein ~20-30 Mio, perfekte Größe für IoT-Outsourcing. Finanziell angespannt. Mittlerer bis hoher Druck als Zulieferer Windkraft."
-        },
-        "customer_rating": 0.46,
-        "rating_reasoning": "Klein ~20-30 Mio, perfekte Größe für IoT-Outsourcing. Finanziell angespannt. Mittlerer bis hoher Druck als Zulieferer Windkraft."
-      },
-      "overall_score": 0.34
-    },
-    {
-      "company": {
-        "name": "Eisengießerei Torgelow GmbH",
-        "website": "silbitz-group.com",
-        "address": "Torgelow, Mecklenburg-Vorpommern",
-        "industry": "Großguss / Windkraftkomponenten",
-        "source": null
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.5,
-          "activity_reasoning": "Nach Insolvenz von Silbitz Group übernommen, 300 Arbeitsplätze gesichert, aber abhängig von Windkraft-Konjunktur, 90% Umsatz aus Windenergie",
-          "recent_news": [
-            "Übernahme durch Silbitz Group (DBAG-Portfolio), Firmierung als Silbitz Group Torgelow GmbH"
-          ]
-        },
-        "topic_affinity": {
-          "topic": "IoT-Plattform-Entwicklung",
-          "affinity_score": 0.6,
-          "affinity_reasoning": "Traditionelle Gießerei, Großguss für Windkraft. Keine eigene IT-Kompetenz erkennbar. IoT-Bedarf moderat: Produktionsüberwachung, Qualitätskontrolle bei 20-100t Gussteilen, Energiemonitoring. Aber niedrige Digitalisierungsreife und nach Übernahme andere Prioritäten.",
-          "relevant_news": [
-            "Keine öffentlichen IoT/Digitalisierungsprojekte gefunden"
-          ]
-        },
-        "combined_score": 0.56
-      },
-      "financials": {
-        "revenue_estimate": "~45 Mio EUR",
-        "profit_estimate": "k.A.",
-        "employee_count": 300,
-        "hiring_activity": {
-          "general_hiring_score": 0.3,
-          "total_job_postings": 5,
-          "hiring_reasoning": "Nach Übernahme Konsolidierungsphase, 300 Arbeitsplätze gesichert aber kein Wachstumskurs"
-        },
-        "topic_hiring": {
-          "topic_hiring_score": 0.1,
-          "relevant_job_postings": 0,
-          "topic_hiring_reasoning": "Keine IoT-bezogenen Stellen, traditionelle Gießerei",
-          "example_positions": [
-            "Gießereitechniker",
-            "Schmelzer"
-          ]
-        },
-        "strategic_fit": {
-          "size_fit_score": 0.9,
-          "financial_health_score": 0.5,
-          "pressure_score": 0.5,
-          "strategic_reasoning": "~45 Mio Umsatz, gute Größe. Nach Übernahme stabil aber nicht stark. Mittlerer Digitalisierungsdruck in der Windkraft-Zulieferung."
-        },
-        "customer_rating": 0.41,
-        "rating_reasoning": "~45 Mio Umsatz, gute Größe. Nach Übernahme stabil aber nicht stark. Mittlerer Digitalisierungsdruck in der Windkraft-Zulieferung."
-      },
-      "overall_score": 0.335
-    },
-    {
-      "company": {
         "name": "ZARM Technik AG",
         "website": "zarm-technik.de",
         "address": "Bremen, Bremen",
@@ -5975,56 +6526,6 @@
     },
     {
       "company": {
-        "name": "Webasto Neubrandenburg GmbH",
-        "website": "webasto.com",
-        "address": "Neubrandenburg, Mecklenburg-Vorpommern",
-        "industry": "Fahrzeugheizungen / Automotive-Zulieferer",
-        "source": null
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.6,
-          "activity_reasoning": "800 MA am Standort, 1.5 Mio Heizgeräte produziert, aber Webasto Gruppe unter Sparkurs, Automobilindustrie unter Druck, neue Kreditlinien 1.4 Mrd nötig",
-          "recent_news": [
-            "Sparkurs 2024, Kreditlinien 1.4 Mrd EUR verlängert, neues Logistikzentrum eröffnet, Hochvoltheizer für E-Autos"
-          ]
-        },
-        "topic_affinity": {
-          "topic": "IoT-Plattform-Entwicklung",
-          "affinity_score": 0.2,
-          "affinity_reasoning": "Webasto hat EIGENE starke IoT/Digitalisierung: Future Factory Konzept, MES-System (FGL/Python), IoT-Gateways mit SITEC/in.hub, Energiemonitoring, Predictive Maintenance, vollautomatisiertes Lager, eigene IT-Stellenangebote für Softwareentwickler. Konzern mit 4.3 Mrd EUR macht alles selbst.",
-          "relevant_news": [
-            "Future Factory, IoT mit SITEC/in.hub, MES-System, eigene Softwareentwickler gesucht"
-          ]
-        },
-        "combined_score": 0.36
-      },
-      "financials": {
-        "revenue_estimate": "~4.3 Mrd EUR (Webasto Gruppe)",
-        "profit_estimate": "k.A.",
-        "employee_count": 800,
-        "hiring_activity": {
-          "general_hiring_score": 0.4,
-          "total_job_postings": 10,
-          "hiring_reasoning": "800 MA aber Sparkurs im Konzern, kaum noch neue Einstellungen laut Nordkurier, Automobilindustrie unter Druck"
-        },
-        "topic_hiring": {
-          "topic_hiring_score": 0.3,
-          "relevant_job_postings": 3,
-          "topic_hiring_reasoning": "Sucht Softwareentwickler/IT-Systembetreuer für MES-System, aber intern beim Konzern",
-          "example_positions": [
-            "Softwareentwickler MES",
-            "IT-Systembetreuer"
-          ]
-        },
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": 0.3
-    },
-    {
-      "company": {
         "name": "Scheffler Metallverarbeitung",
         "website": "scheffler-metallverarbeitung.de",
         "address": "Bremen, Bremen",
@@ -6077,61 +6578,6 @@
         "rating_reasoning": "Sehr kleiner Handwerksbetrieb, kein realistisches Budget für IoT-Projekte, geringer Digitalisierungsdruck"
       },
       "overall_score": 0.297
-    },
-    {
-      "company": {
-        "name": "HanseYachts AG",
-        "website": "hanseyachtsag.com",
-        "address": "Greifswald, Mecklenburg-Vorpommern",
-        "industry": "Yachtbau / Bootsbau",
-        "source": null
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.4,
-          "activity_reasoning": "Rekordumsatz 185 Mio 2023/24, ABER massiver Stellenabbau 200 von 800 Jobs in Greifswald, Eigentümerwechsel von Aurelius zu Müller Verwaltung, sinkende Nachfrage ab Juli 2025",
-          "recent_news": [
-            "Eigentümerwechsel 2025, Stellenabbau 200 Jobs Greifswald, Produktion wird ab Juli 2025 reduziert"
-          ]
-        },
-        "topic_affinity": {
-          "topic": "IoT-Plattform-Entwicklung",
-          "affinity_score": 0.5,
-          "affinity_reasoning": "HanseYachts hat bereits MyHanse Safety Cloud (IoT: Alarme, eLogBook, Kollisionserkennung, Geofencing, Lichtsteuerung per App, eService Book). Digitalisierung aktiv mit 3D-Konfigurator. Neuer Investor mit IoT-Hintergrund (cap-on). Sie haben bereits IoT implementiert - aber unklar ob intern oder zugekauft. Momentan im Krisenmodus mit Stellenabbau.",
-          "relevant_news": [
-            "MyHanse Safety Cloud, CZone digital switching, neuer Investor Andreas Müller mit IoT-Expertise"
-          ]
-        },
-        "combined_score": 0.46
-      },
-      "financials": {
-        "revenue_estimate": "185 Mio EUR (2023/24)",
-        "profit_estimate": "1.8 Mio EUR Nettogewinn",
-        "employee_count": 1500,
-        "hiring_activity": {
-          "general_hiring_score": 0.2,
-          "total_job_postings": 5,
-          "hiring_reasoning": "Massiver Stellenabbau 200 Jobs in Greifswald, Produktion wird ab Juli 2025 reduziert, Krisenmodus"
-        },
-        "topic_hiring": {
-          "topic_hiring_score": 0.2,
-          "relevant_job_postings": 1,
-          "topic_hiring_reasoning": "Hat MyHanse Safety Cloud aber im Stellenabbau",
-          "example_positions": [
-            "IT Administrator",
-            "Produktentwickler"
-          ]
-        },
-        "strategic_fit": {
-          "size_fit_score": 0.7,
-          "financial_health_score": 0.4,
-          "pressure_score": 0.4,
-          "strategic_reasoning": "185 Mio Umsatz, gute Größe. ABER Krise: Stellenabbau, Eigentümerwechsel, sinkende Nachfrage. Kein Budget für neue IoT-Projekte."
-        },
-        "customer_rating": 0.36,
-        "rating_reasoning": "185 Mio Umsatz, gute Größe. ABER Krise: Stellenabbau, Eigentümerwechsel, sinkende Nachfrage. Kein Budget für neue IoT-Projekte."
-      },
-      "overall_score": 0.295
     },
     {
       "company": {
@@ -6189,368 +6635,39 @@
     },
     {
       "company": {
-        "name": "Oculus Optikgeräte",
-        "website": "oculus.de",
-        "address": "Wetzlar, Hessen",
-        "industry": "Optik / Medizintechnik",
-        "source": null
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.7,
-          "activity_reasoning": "Familienunternehmen seit 1895, 107 Mio Umsatz, 800 MA, 55% Exportquote, 12 Tochterunternehmen, stabile Marktposition in Augendiagnostik",
-          "recent_news": [
-            "Rang 5845 unter Top-Unternehmen DE, 60% der MA in F&E/Fertigung/Service"
-          ]
-        },
-        "topic_affinity": {
-          "topic": "IoT-Plattform-Entwicklung",
-          "affinity_score": 0.6,
-          "affinity_reasoning": "Medizintechnik-Hersteller mit Fokus auf Diagnostikgeräte. Keine eigenen IoT/Cloud-Projekte gefunden. Hat Erfahrung mit Betriebsdatenerfassung und Maschinendatenerfassung. Könnte IoT für Geräte-Telemetrie, Remote Monitoring und predictive Maintenance brauchen. Medizintechnik hat regulatorische Anforderungen.",
-          "relevant_news": [
-            "Buch über BDE/MDE-Einführung bei Oculus, keine eigenen IoT-Projekte sichtbar"
-          ]
-        },
-        "combined_score": 0.64
-      },
-      "financials": {
-        "revenue_estimate": "107 Mio EUR (2023)",
-        "profit_estimate": "nicht bekannt",
-        "employee_count": 800,
-        "hiring_activity": {
-          "general_hiring_score": 0.5,
-          "total_job_postings": 30,
-          "hiring_reasoning": "800 MA, mittelgroß, moderate Hiring-Aktivität"
-        },
-        "topic_hiring": {
-          "topic_hiring_score": 0.3,
-          "relevant_job_postings": 2,
-          "topic_hiring_reasoning": "Keine spezifischen IoT-Stellen gefunden, aber F&E-intensiv mit 60% der MA in Entwicklung/Fertigung",
-          "example_positions": [
-            "Softwareentwickler Medizintechnik",
-            "Embedded Systems Engineer"
-          ]
-        },
-        "strategic_fit": {
-          "size_fit_score": 0.8,
-          "financial_health_score": 0.7,
-          "pressure_score": 0.5,
-          "strategic_reasoning": "KMU 100 Mio Bereich, finanziell gesund, mittlerer Digitalisierungsdruck in Medizintechnik (Remote Monitoring, Telemetrie)"
-        },
-        "customer_rating": 0.49,
-        "rating_reasoning": "KMU 100 Mio Bereich, finanziell gesund, mittlerer Digitalisierungsdruck in Medizintechnik (Remote Monitoring, Telemetrie)"
-      },
-      "overall_score": 0.275
-    },
-    {
-      "company": {
-        "name": "BRITA",
-        "website": "brita.de",
-        "address": "Taunusstein, Hessen",
-        "industry": "Wasserfiltration / Konsumgüter",
-        "source": null
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.9,
-          "activity_reasoning": "Rekordumsatz 691 Mio EUR 2023 (+4%), Weltmarktführer Wasserfilter, 82% Umsatz international, starkes Wachstum im Professional-Bereich (+14%)",
-          "recent_news": [
-            "Rekordumsatz 691 Mio EUR 2023, Professional Filter +14% Wachstum, Markus Hankammer CEO"
-          ]
-        },
-        "topic_affinity": {
-          "topic": "IoT-Plattform-Entwicklung",
-          "affinity_score": 0.3,
-          "affinity_reasoning": "BRITA entwickelt aktiv eigene IoT-Produkte: PURITY C iQ Smart-Filterkopf mit SIM/Antenne/Online-Portal, Infinity Smart Pitcher mit WiFi/Amazon Dash, Smart Light Sensor. Sucht Werkstudent IoT Digital Products. Hat eigene IoT-Kompetenz, outsourced vermutlich nicht.",
-          "relevant_news": [
-            "PURITY C iQ digitaler Filterkopf mit SIM-Karte und Online-Portal, Werkstudent IoT Digital Products gesucht"
-          ]
-        },
-        "combined_score": 0.54
-      },
-      "financials": {
-        "revenue_estimate": "691 Mio EUR (2023, Rekord)",
-        "profit_estimate": "nicht bekannt",
-        "employee_count": 2314,
-        "hiring_activity": {
-          "general_hiring_score": 0.7,
-          "total_job_postings": 120,
-          "hiring_reasoning": "2314 MA, aktives Hiring, wachsendes Unternehmen mit Rekordumstzen"
-        },
-        "topic_hiring": {
-          "topic_hiring_score": 0.4,
-          "relevant_job_postings": 5,
-          "topic_hiring_reasoning": "Sucht Werkstudent IoT Digital Products, baut eigene Smart-Product-Linie auf, DevOps-Stellen",
-          "example_positions": [
-            "Werkstudent IoT Digital Products",
-            "IT Digitalisierung DevOps"
-          ]
-        },
-        "strategic_fit": {
-          "size_fit_score": 0.6,
-          "financial_health_score": 0.9,
-          "pressure_score": 0.3,
-          "strategic_reasoning": "Groß (691 Mio), finanziell sehr stark, aber entwickelt IoT selbst. Könnte eventuell Teilprojekte outsourcen aber unwahrscheinlich als Hauptkunde."
-        },
-        "customer_rating": 0.455,
-        "rating_reasoning": "Groß (691 Mio), finanziell sehr stark, aber entwickelt IoT selbst. Könnte eventuell Teilprojekte outsourcen aber unwahrscheinlich als Hauptkunde."
-      },
-      "overall_score": 0.275
-    },
-    {
-      "company": {
-        "name": "VIAOPTIC",
-        "website": "viaoptic.de",
-        "address": "Wetzlar, Hessen",
-        "industry": "Kunststoffoptik",
-        "source": null
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.7,
-          "activity_reasoning": "Kunststoffoptik-Spezialist, 165 MA, Umsatz 8x seit Gründung. 60% Kapazitätserweiterung 2024. Automobilbranche 1/3 Umsatz. Wachstumskurs, Tochter von ACM/Socrates Stiftung Wien.",
-          "recent_news": [
-            "60% Kapazitätserweiterung 2024, Anbau 3450 qm, Wachstum auf 200 MA geplant, Automotive/Medizin/Sensorik"
-          ]
-        },
-        "topic_affinity": {
-          "topic": "IoT-Plattform-Entwicklung",
-          "affinity_score": 0.6,
-          "affinity_reasoning": "Produziert Optikkomponenten für Sensorik, LIDAR, autonomes Fahren. Spritzguss-Automatisierung nimmt zu. Braucht IoT für Qualitätskontrolle und Fertigungssteuerung. Keine eigene IoT/IT-Entwicklung erkennbar, aber Digitalisierung der Fertigung relevant.",
-          "relevant_news": [
-            "Zunehmende Automatisierung Spritzguss-Fertigung, Sensorik/LIDAR-Produkte, Konzeptpark GmbH als regionaler IoT-Partner"
-          ]
-        },
-        "combined_score": 0.64
-      },
-      "financials": {
-        "revenue_estimate": "ca. 30 Mio EUR (geschätzt)",
-        "profit_estimate": "nicht veröffentlicht",
-        "employee_count": 165,
-        "hiring_activity": {
-          "general_hiring_score": 0.5,
-          "total_job_postings": 15,
-          "hiring_reasoning": "Wachsendes Unternehmen, von 130 auf 165 MA, Ziel 200"
-        },
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": 0.275
-    },
-    {
-      "company": {
-        "name": "Mecklenburger Metallguss GmbH",
-        "website": "mmg-propeller.de",
-        "address": "Waren/Müritz, Mecklenburg-Vorpommern",
-        "industry": "Schiffspropeller / Metallguss",
-        "source": null
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.8,
-          "activity_reasoning": "Weltmarktführer Schiffspropeller >80t (60% Marktanteil), 210 MA, ~100 Mio EUR Umsatz 2023. Rekordumsatz, volle Auftragsbücher bis 2025. Retrofit-Propeller boomen.",
-          "recent_news": [
-            "An 100 Mio EUR Umsatzmarke 2023, volle Auftragsbücher 2024/2025, zweitbestes Ergebnis der Geschichte nach 2015"
-          ]
-        },
-        "topic_affinity": {
-          "topic": "IoT-Plattform-Entwicklung",
-          "affinity_score": 0.65,
-          "affinity_reasoning": "Nutzt Digital Twin und additive Fertigung (3D-Druck Roboter). Kooperiert mit Hochschulen und Fraunhofer. Braucht IoT für Gießereiprozess-Überwachung und Digital Twin Infrastruktur. Hat F&E aber keine eigene IT-Plattformentwicklung.",
-          "relevant_news": [
-            "Digital Twin im Einsatz, additive Fertigung mit Schweißroboter, XXL 3D-Drucker, Kooperationen TU Hamburg/Uni Rostock/Fraunhofer"
-          ]
-        },
-        "combined_score": 0.71
-      },
-      "financials": {
-        "revenue_estimate": "ca. 100 Mio EUR (2023)",
-        "profit_estimate": "nicht veröffentlicht",
-        "employee_count": 210,
-        "hiring_activity": {
-          "general_hiring_score": 0.5,
-          "total_job_postings": 15,
-          "hiring_reasoning": "Von 200 auf 210 MA gewachsen, stellt moderat ein"
-        },
-        "topic_hiring": {
-          "topic_hiring_score": 0.2,
-          "relevant_job_postings": 1,
-          "topic_hiring_reasoning": "Kaum IT-Stellen, Fokus auf Gießerei-Fachkräfte und Ingenieure",
-          "example_positions": [
-            "Konstrukteur",
-            "Gießereiingenieur"
-          ]
-        },
-        "strategic_fit": {
-          "size_fit_score": 0.8,
-          "financial_health_score": 0.8,
-          "pressure_score": 0.6,
-          "strategic_reasoning": "Mittelgroß (~100 Mio), sehr gesund, Weltmarktführer. Digitalisierungsdruck durch Digital Twin und additive Fertigung. Braucht IoT-Plattform aber hat keine eigene IT-Entwicklung."
-        },
-        "customer_rating": 0.485,
-        "rating_reasoning": "Mittelgroß (~100 Mio), sehr gesund, Weltmarktführer. Digitalisierungsdruck durch Digital Twin und additive Fertigung. Braucht IoT-Plattform aber hat keine eigene IT-Entwicklung."
-      },
-      "overall_score": 0.25
-    },
-    {
-      "company": {
-        "name": "Dockweiler AG",
-        "website": "dockweiler.com",
-        "address": "Neustadt-Glewe, Mecklenburg-Vorpommern",
-        "industry": "Edelstahlrohrsysteme / Reinraumtechnik",
-        "source": null
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.5,
-          "activity_reasoning": "Hidden Champion Edelstahlrohrsysteme, 780 MA, 164 Mio EUR. ABER: Krisenjahr 2024 mit Kurzarbeit (180 MA betroffen). Auftragseingang zieht Ende 2024 an, Erholung 2025 erwartet. Familienunternehmen.",
-          "recent_news": [
-            "Kurzarbeit 2024 für 180 MA, Auftragseingang zieht Ende 2024 an, 2025 positive Entwicklung erwartet, Asien-Fokus"
-          ]
-        },
-        "topic_affinity": {
-          "topic": "IoT-Plattform-Entwicklung",
-          "affinity_score": 0.55,
-          "affinity_reasoning": "Zulieferer für Halbleiter- und Pharmaindustrie, profitiert von Digitalisierungswelle. Hat Tochter Dockweiler Industrial Automation GmbH für Automatisierung. Braucht IoT für Qualitätsmanagement der Reinraum-Rohrsysteme. Eigene Automatisierungs-Tochter reduziert Outsourcing-Bedarf etwas.",
-          "relevant_news": [
-            "Dockweiler Industrial Automation GmbH Tochter, zweistelliger Mio-Auftrag Mikrochip-Hersteller, Digitalisierung als Wachstumstreiber"
-          ]
-        },
-        "combined_score": 0.53
-      },
-      "financials": {
-        "revenue_estimate": "164 Mio EUR (2023)",
-        "profit_estimate": "nicht veröffentlicht",
-        "employee_count": 780,
-        "hiring_activity": null,
-        "topic_hiring": null,
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
-      },
-      "overall_score": 0.25
-    },
-    {
-      "company": {
-        "name": "Mecklenburger Kartoffelveredelung GmbH",
-        "website": "mkv-hagenow.de",
-        "address": "Hagenow, Mecklenburg-Vorpommern",
-        "industry": "Kartoffelverarbeitung / Lebensmittel",
-        "source": null
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.7,
-          "activity_reasoning": "Teil der Emsland Group (900 Mio EUR, 1400 MA). Vertriebsgesellschaft und Produktion am Standort Hagenow. Vierschichtbetrieb mit 200+ MA. Stabile Konzernzugehörigkeit. Weltmarktführer für Stärkeprodukte.",
-          "recent_news": [
-            "Bilanzsumme 2023: 40 Mio EUR. Teil Emsland Group (Weltmarktführer Stärke). Vierschichtbetrieb Hagenow."
-          ]
-        },
-        "topic_affinity": {
-          "topic": "IoT-Plattform-Entwicklung",
-          "affinity_score": 0.8,
-          "affinity_reasoning": "Lebensmittelproduktion im Vierschichtbetrieb - hohes IoT-Potenzial (Temperaturüberwachung, Qualitätskontrolle, Maschinenüberwachung, Energiemanagement). Keine eigene IT/IoT-Kompetenz erkennbar. Konzern-IT bei Emsland Group, aber lokaler Standort braucht Unterstützung. Idealer Outsourcing-Kandidat.",
-          "relevant_news": [
-            "Keine IoT/Digitalisierungs-Projekte gefunden. Produktion und Export aktiv."
-          ]
-        },
-        "combined_score": 0.76
-      },
-      "financials": {
-        "revenue_estimate": "ca. 40 Mio EUR (Bilanzsumme 2023, Emsland Group 900 Mio)",
-        "profit_estimate": "k.A.",
-        "employee_count": 200,
-        "hiring_activity": {
-          "general_hiring_score": 0.4,
-          "total_job_postings": 10,
-          "hiring_reasoning": "200+ MA, moderate Einstellungsaktivität. Vierschichtbetrieb erfordert kontinuierliche Personalsuche."
-        },
-        "topic_hiring": {
-          "topic_hiring_score": 0.1,
-          "relevant_job_postings": 0,
-          "topic_hiring_reasoning": "Keine IoT/IT-Stellen gefunden. IT über Emsland Group.",
-          "example_positions": [
-            "keine"
-          ]
-        },
-        "strategic_fit": {
-          "size_fit_score": 0.8,
-          "financial_health_score": 0.7,
-          "pressure_score": 0.6,
-          "strategic_reasoning": "Mittelgroß (40M Bilanzsumme, aber Teil 900M Konzern). Stabil durch Konzernzugehörigkeit. Digitalisierungsdruck durch Lebensmittelindustrie-Anforderungen (Rückverfolgbarkeit, Effizienz)."
-        },
-        "customer_rating": 0.435,
-        "rating_reasoning": "Mittelgroß (40M Bilanzsumme, aber Teil 900M Konzern). Stabil durch Konzernzugehörigkeit. Digitalisierungsdruck durch Lebensmittelindustrie-Anforderungen (Rückverfolgbarkeit, Effizienz)."
-      },
-      "overall_score": 0.25
-    },
-    {
-      "company": {
-        "name": "Weka Holzbau GmbH",
-        "website": "weka-holzbau.de",
-        "address": "Neubrandenburg, Mecklenburg-Vorpommern",
-        "industry": "Holzbau / Fertighäuser",
-        "source": null
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.6,
-          "activity_reasoning": "Marktführer DE für DIY-Holzprodukte (Gartenhäuser, Wellness). 135 MA, ca. 28 Mio EUR Umsatz. Seit 2018 Teil der holländischen Outdoor Life Group. Bilanzsumme 2022: 20 Mio EUR (-26.2%). Rückgang deutet auf Konsolidierung hin.",
-          "recent_news": [
-            "Bilanzsumme 2022: 20 Mio EUR (-26.2%). Teil Outdoor Life Group (NL) seit 2018. Marktführer DE Holz-Bausätze. HR-Änderung 12/2025."
-          ]
-        },
-        "topic_affinity": {
-          "topic": "IoT-Plattform-Entwicklung",
-          "affinity_score": 0.4,
-          "affinity_reasoning": "Holzbau/DIY-Produkte haben begrenztes IoT-Potenzial. Mögliche Anwendungen: Produktions-Monitoring, Logistik-Optimierung. Aber Produkte selbst (Gartenhäuser, Carports) sind nicht IoT-fähig. Kein erkennbarer Digitalisierungsdruck.",
-          "relevant_news": [
-            "Keine IoT/Digitalisierungs-Projekte gefunden. Reines Produktionsunternehmen für Holz-Bausätze."
-          ]
-        },
-        "combined_score": 0.48
-      },
-      "financials": {
-        "revenue_estimate": "ca. 28 Mio EUR (geschätzt)",
-        "profit_estimate": "k.A.",
-        "employee_count": 135,
-        "hiring_activity": {
-          "general_hiring_score": 0.3,
-          "total_job_postings": 8,
-          "hiring_reasoning": "135 MA, wenige offene Stellen. Konsolidierungsphase."
-        },
-        "topic_hiring": {
-          "topic_hiring_score": 0.1,
-          "relevant_job_postings": 0,
-          "topic_hiring_reasoning": "Keine IoT/IT-Stellen. Holzverarbeitung, nicht technologiegetrieben.",
-          "example_positions": [
-            "keine"
-          ]
-        },
-        "strategic_fit": {
-          "size_fit_score": 0.9,
-          "financial_health_score": 0.6,
-          "pressure_score": 0.3,
-          "strategic_reasoning": "Kleine Firma (<100M). Moderate Finanzlage (Bilanzsumme rückläufig). Geringer IoT-Druck - Produkte sind einfache Holzbausätze."
-        },
-        "customer_rating": 0.35,
-        "rating_reasoning": "Kleine Firma (<100M). Moderate Finanzlage (Bilanzsumme rückläufig). Geringer IoT-Druck - Produkte sind einfache Holzbausätze."
-      },
-      "overall_score": 0.25
-    },
-    {
-      "company": {
         "name": "Liebherr-MCCtec Rostock GmbH",
         "website": "liebherr.com",
         "address": "Rostock, Mecklenburg-Vorpommern",
         "industry": "Maritime Krane / Schwerlasttechnik",
         "source": null
       },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": 0.25
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.9,
+          "activity_reasoning": "Teil der Liebherr-Gruppe (14 Mrd EUR, 50.000 MA). 553 Mio EUR Umsatz, 1800 MA am Standort Rostock. Weltführend bei maritimen Kranen (bis 5000t). Neuer GF 2025. Umfirmierung zu Liebherr-Rostock GmbH Jan 2025.",
+          "recent_news": [
+            "Umfirmierung Jan 2025 zu Liebherr-Rostock GmbH. Neuer GF Danyel Temizkan. Liebherr-Gruppe 2023: 14 Mrd EUR. Offshore-Krane für Windenergie."
+          ]
+        },
+        "topic_affinity": {
+          "topic": "(nicht gesetzt)",
+          "affinity_score": 0.0,
+          "affinity_reasoning": "Noch nicht bewertet",
+          "relevant_news": []
+        },
+        "combined_score": 0.36
+      },
+      "financials": {
+        "revenue_estimate": "553 Mio EUR (2022)",
+        "profit_estimate": "k.A.",
+        "employee_count": 1800,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
+      "overall_score": 0.275
     },
     {
       "company": {
@@ -6587,62 +6704,6 @@
       "topic_relevance": null,
       "financials": null,
       "overall_score": 0.25
-    },
-    {
-      "company": {
-        "name": "Nordex SE Rostock",
-        "website": "nordex-online.com",
-        "address": "Rostock, Mecklenburg-Vorpommern",
-        "industry": "Windkraftanlagen / Erneuerbare Energie",
-        "source": null
-      },
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.9,
-          "activity_reasoning": "Börsennotierter Windkraft-OEM, 7.3 Mrd EUR Umsatz 2024 (+12.5%). Erstmals profitabel 2024 (9 Mio EUR). EBITDA 296 Mio EUR. 10.400 MA. Rekordauftragseingang. Prognose 2025: 7.4-7.9 Mrd EUR. 57 GW installiert in 40+ Märkten.",
-          "recent_news": [
-            "Umsatz 2024: 7.3 Mrd EUR. EBITDA: 296 Mio EUR. Erstmals Gewinn 2024. Neuer Teststand Rostock Nov 2025. 31.5% Marktanteil DE 2025."
-          ]
-        },
-        "topic_affinity": {
-          "topic": "IoT-Plattform-Entwicklung",
-          "affinity_score": 0.15,
-          "affinity_reasoning": "Nordex hat EIGENE IoT-Kompetenz: Cumulocity IoT der Software AG im Einsatz, eigenes SCADA-System (Nordex OS SCADA EDGE), IIoT-Plattform, LiDAT-ähnliche Echtzeit-Überwachung. CIO Stefan Ewald treibt Digitalisierung. Brauchen KEINEN externen IoT-Anbieter.",
-          "relevant_news": [
-            "Cumulocity IoT (Software AG) für 6800 Windanlagen. Nordex OS SCADA EDGE (IIoT). Eigenes Control Center Hamburg. CIO Stefan Ewald."
-          ]
-        },
-        "combined_score": 0.45
-      },
-      "financials": {
-        "revenue_estimate": "7.3 Mrd EUR (2024)",
-        "profit_estimate": "9 Mio EUR Konzernergebnis (2024)",
-        "employee_count": 10400,
-        "hiring_activity": {
-          "general_hiring_score": 0.8,
-          "total_job_postings": 500,
-          "hiring_reasoning": "10.400 MA, aktiv wachsend. Viele offene Stellen weltweit."
-        },
-        "topic_hiring": {
-          "topic_hiring_score": 0.7,
-          "relevant_job_postings": 50,
-          "topic_hiring_reasoning": "Stellt aktiv IoT/IT/SCADA-Entwickler ein. Eigene Digitalisierungsabteilung.",
-          "example_positions": [
-            "SCADA Engineer",
-            "IoT Developer",
-            "Data Analyst"
-          ]
-        },
-        "strategic_fit": {
-          "size_fit_score": 0.3,
-          "financial_health_score": 0.9,
-          "pressure_score": 0.2,
-          "strategic_reasoning": "Viel zu groß (7.3 Mrd EUR). Haben eigene IoT/IT-Abteilung. Kein Outsourcing-Bedarf für IoT-Plattform."
-        },
-        "customer_rating": 0.485,
-        "rating_reasoning": "Viel zu groß (7.3 Mrd EUR). Haben eigene IoT/IT-Abteilung. Kein Outsourcing-Bedarf für IoT-Plattform."
-      },
-      "overall_score": 0.24
     },
     {
       "company": {
