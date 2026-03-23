@@ -5250,9 +5250,14 @@
             "Service Techniker"
           ]
         },
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
+        "strategic_fit": {
+          "size_fit_score": 0.7,
+          "financial_health_score": 0.8,
+          "pressure_score": 0.3,
+          "strategic_reasoning": "~300 Mio Gruppe, gute Größe. Finanziell stark. ABER: Eigene IIoT-Kompetenz, wenig Druck extern zu vergeben."
+        },
+        "customer_rating": 0.405,
+        "rating_reasoning": "~300 Mio Gruppe, gute Größe. Finanziell stark. ABER: Eigene IIoT-Kompetenz, wenig Druck extern zu vergeben."
       },
       "overall_score": 0.38
     },
@@ -5354,9 +5359,14 @@
             "Embedded Developer"
           ]
         },
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
+        "strategic_fit": {
+          "size_fit_score": 0.8,
+          "financial_health_score": 0.9,
+          "pressure_score": 0.2,
+          "strategic_reasoning": "~120 Mio Umsatz, gut passend. Finanziell stark. ABER: Machen IoT selbst, kein Druck extern zu vergeben."
+        },
+        "customer_rating": 0.36,
+        "rating_reasoning": "~120 Mio Umsatz, gut passend. Finanziell stark. ABER: Machen IoT selbst, kein Druck extern zu vergeben."
       },
       "overall_score": 0.375
     },
@@ -5779,9 +5789,14 @@
             "Konstrukteur"
           ]
         },
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
+        "strategic_fit": {
+          "size_fit_score": 1.0,
+          "financial_health_score": 0.4,
+          "pressure_score": 0.6,
+          "strategic_reasoning": "Klein ~20-30 Mio, perfekte Größe für IoT-Outsourcing. Finanziell angespannt. Mittlerer bis hoher Druck als Zulieferer Windkraft."
+        },
+        "customer_rating": 0.46,
+        "rating_reasoning": "Klein ~20-30 Mio, perfekte Größe für IoT-Outsourcing. Finanziell angespannt. Mittlerer bis hoher Druck als Zulieferer Windkraft."
       },
       "overall_score": 0.34
     },
@@ -5829,9 +5844,14 @@
             "Schmelzer"
           ]
         },
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
+        "strategic_fit": {
+          "size_fit_score": 0.9,
+          "financial_health_score": 0.5,
+          "pressure_score": 0.5,
+          "strategic_reasoning": "~45 Mio Umsatz, gute Größe. Nach Übernahme stabil aber nicht stark. Mittlerer Digitalisierungsdruck in der Windkraft-Zulieferung."
+        },
+        "customer_rating": 0.41,
+        "rating_reasoning": "~45 Mio Umsatz, gute Größe. Nach Übernahme stabil aber nicht stark. Mittlerer Digitalisierungsdruck in der Windkraft-Zulieferung."
       },
       "overall_score": 0.335
     },
@@ -6215,11 +6235,28 @@
         "industry": "Wasserfiltration / Konsumgüter",
         "source": null
       },
-      "topic_relevance": null,
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.9,
+          "activity_reasoning": "Rekordumsatz 691 Mio EUR 2023 (+4%), Weltmarktführer Wasserfilter, 82% Umsatz international, starkes Wachstum im Professional-Bereich (+14%)",
+          "recent_news": [
+            "Rekordumsatz 691 Mio EUR 2023, Professional Filter +14% Wachstum, Markus Hankammer CEO"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.3,
+          "affinity_reasoning": "BRITA entwickelt aktiv eigene IoT-Produkte: PURITY C iQ Smart-Filterkopf mit SIM/Antenne/Online-Portal, Infinity Smart Pitcher mit WiFi/Amazon Dash, Smart Light Sensor. Sucht Werkstudent IoT Digital Products. Hat eigene IoT-Kompetenz, outsourced vermutlich nicht.",
+          "relevant_news": [
+            "PURITY C iQ digitaler Filterkopf mit SIM-Karte und Online-Portal, Werkstudent IoT Digital Products gesucht"
+          ]
+        },
+        "combined_score": 0.54
+      },
       "financials": {
-        "revenue_estimate": "ca. 600 Mio EUR",
-        "profit_estimate": null,
-        "employee_count": 2200,
+        "revenue_estimate": "691 Mio EUR (2023, Rekord)",
+        "profit_estimate": "nicht bekannt",
+        "employee_count": 2314,
         "hiring_activity": null,
         "topic_hiring": null,
         "strategic_fit": null,
@@ -6278,8 +6315,51 @@
         "industry": "Schiffspropeller / Metallguss",
         "source": null
       },
-      "topic_relevance": null,
-      "financials": null,
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.8,
+          "activity_reasoning": "Weltmarktführer Schiffspropeller >80t (60% Marktanteil), 210 MA, ~100 Mio EUR Umsatz 2023. Rekordumsatz, volle Auftragsbücher bis 2025. Retrofit-Propeller boomen.",
+          "recent_news": [
+            "An 100 Mio EUR Umsatzmarke 2023, volle Auftragsbücher 2024/2025, zweitbestes Ergebnis der Geschichte nach 2015"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT-Plattform-Entwicklung",
+          "affinity_score": 0.65,
+          "affinity_reasoning": "Nutzt Digital Twin und additive Fertigung (3D-Druck Roboter). Kooperiert mit Hochschulen und Fraunhofer. Braucht IoT für Gießereiprozess-Überwachung und Digital Twin Infrastruktur. Hat F&E aber keine eigene IT-Plattformentwicklung.",
+          "relevant_news": [
+            "Digital Twin im Einsatz, additive Fertigung mit Schweißroboter, XXL 3D-Drucker, Kooperationen TU Hamburg/Uni Rostock/Fraunhofer"
+          ]
+        },
+        "combined_score": 0.71
+      },
+      "financials": {
+        "revenue_estimate": "ca. 100 Mio EUR (2023)",
+        "profit_estimate": "nicht veröffentlicht",
+        "employee_count": 210,
+        "hiring_activity": {
+          "general_hiring_score": 0.5,
+          "total_job_postings": 15,
+          "hiring_reasoning": "Von 200 auf 210 MA gewachsen, stellt moderat ein"
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.2,
+          "relevant_job_postings": 1,
+          "topic_hiring_reasoning": "Kaum IT-Stellen, Fokus auf Gießerei-Fachkräfte und Ingenieure",
+          "example_positions": [
+            "Konstrukteur",
+            "Gießereiingenieur"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.8,
+          "financial_health_score": 0.8,
+          "pressure_score": 0.6,
+          "strategic_reasoning": "Mittelgroß (~100 Mio), sehr gesund, Weltmarktführer. Digitalisierungsdruck durch Digital Twin und additive Fertigung. Braucht IoT-Plattform aber hat keine eigene IT-Entwicklung."
+        },
+        "customer_rating": 0.485,
+        "rating_reasoning": "Mittelgroß (~100 Mio), sehr gesund, Weltmarktführer. Digitalisierungsdruck durch Digital Twin und additive Fertigung. Braucht IoT-Plattform aber hat keine eigene IT-Entwicklung."
+      },
       "overall_score": 0.25
     },
     {
@@ -6337,9 +6417,14 @@
             "keine"
           ]
         },
-        "strategic_fit": null,
-        "customer_rating": 0.0,
-        "rating_reasoning": ""
+        "strategic_fit": {
+          "size_fit_score": 0.8,
+          "financial_health_score": 0.7,
+          "pressure_score": 0.6,
+          "strategic_reasoning": "Mittelgroß (40M Bilanzsumme, aber Teil 900M Konzern). Stabil durch Konzernzugehörigkeit. Digitalisierungsdruck durch Lebensmittelindustrie-Anforderungen (Rückverfolgbarkeit, Effizienz)."
+        },
+        "customer_rating": 0.435,
+        "rating_reasoning": "Mittelgroß (40M Bilanzsumme, aber Teil 900M Konzern). Stabil durch Konzernzugehörigkeit. Digitalisierungsdruck durch Lebensmittelindustrie-Anforderungen (Rückverfolgbarkeit, Effizienz)."
       },
       "overall_score": 0.25
     },
@@ -6352,7 +6437,16 @@
         "source": null
       },
       "topic_relevance": null,
-      "financials": null,
+      "financials": {
+        "revenue_estimate": "ca. 28 Mio EUR (geschätzt)",
+        "profit_estimate": "k.A.",
+        "employee_count": 135,
+        "hiring_activity": null,
+        "topic_hiring": null,
+        "strategic_fit": null,
+        "customer_rating": 0.0,
+        "rating_reasoning": ""
+      },
       "overall_score": 0.25
     },
     {
