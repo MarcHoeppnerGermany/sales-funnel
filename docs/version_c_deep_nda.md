@@ -1,8 +1,8 @@
-# Projektreferenz: TrailerConnect® Telematik-Plattform
+# Projektreferenz: IoT-Telematik-Plattform
 
 ## Überblick
 
-Für Schmitz Cargobull haben wir als zentraler Entwicklungspartner maßgeblich an der Konzeption, Entwicklung und dem Betrieb der IoT- und Telematik-Plattform TrailerConnect® mitgewirkt.
+Für Schmitz Cargobull haben wir als zentraler Entwicklungspartner maßgeblich an der Konzeption, Entwicklung und dem Betrieb der IoT- und Telematik-Plattform mitgewirkt.
 
 Die Plattform bildet das digitale Rückgrat der Flotten- und Datenstrategie und verbindet Trailer europaweit in Echtzeit.
 
@@ -14,8 +14,11 @@ NeoGeo New Media GmbH ist ein deutsches Software-Engineering-Team mit über 30 J
 
 Wir sind keine Agentur und kein Body-Leasing-Anbieter. Wir sind Ingenieure, die Plattformen bauen, betreiben und verantworten. Unser Engineering sitzt in Deutschland — hier wird gedacht, geplant und gesteuert.
 
+**TISAX Stufe 3 (AL 3) zertifiziert** — höchste Sicherheitsstufe für Informationssicherheit in der Automobilindustrie. Wir erfüllen die strengsten Anforderungen an Datenschutz, IT-Sicherheit und Vertraulichkeit.
+
 **Was uns ausmacht:**
 - 30+ Jahre Erfahrung mit namhaften deutschen und europäischen Kunden
+- TISAX Stufe 3 — höchste Automotive-Sicherheitszertifizierung
 - Tiefe technische Expertise: Cloud, IoT, Embedded, Datenplattformen
 - Verantwortungsübernahme: nicht nur Code liefern, sondern Ergebnisse
 - Deutsch. Direkt. Zuverlässig.
@@ -29,7 +32,7 @@ Ein Kernvorteil unseres Ansatzes: Wir können über unser etabliertes Nearshorin
 - **Kosten im Griff** — Enterprise-Qualität zu wettbewerbsfähigen Konditionen
 - **Kein Kontrollverlust** — durchgängige deutsche Projektverantwortung, klare Prozesse, deutsche Ansprechpartner
 
-Dieses Modell hat sich im TrailerConnect®-Projekt über Jahre bewährt und ermöglicht es uns, auch Großprojekte mit fünfstelligen Gerätezahlen zuverlässig zu stemmen — ohne dass Qualität oder Steuerbarkeit leiden.
+Dieses Modell hat sich im Telematik-Projekt über Jahre bewährt und ermöglicht es uns, auch Großprojekte mit fünfstelligen Gerätezahlen zuverlässig zu stemmen — ohne dass Qualität oder Steuerbarkeit leiden.
 
 ## Projektziele
 
@@ -77,6 +80,11 @@ Dieses Modell hat sich im TrailerConnect®-Projekt über Jahre bewährt und erm�
 - Mobile Apps für Disponenten und Fahrer
 - Data Management Center
 
+### Zertifizierungen & Sicherheit
+- TISAX Stufe 3 (AL 3) — höchste Sicherheitsstufe Automobilindustrie
+- Zero Trust Security Architecture
+- DSGVO-konforme Datenverarbeitung
+
 ## Ergebnisse
 
 ### Skalierung
@@ -109,11 +117,10 @@ Die Plattform hat dem Kunden ermöglicht, ein Ökosystem strategischer Partnersc
 
 - Cloud Native Rockstars Award 2022: datacenter-insider.de, cloudnativeconference.de (Juli 2022)
 - Marktdaten Trailer-Industrie: öffentliche Branchenberichte und Fachpresse
-- Technologie-Partner: öffentliche Produktseiten und Pressemitteilungen
 
 ## Hinweis
 
-Die dargestellten Inhalte basieren auf öffentlich zugänglichen Informationen sowie abstrahierten Darstellungen unserer Leistungen. Es werden keine vertraulichen oder geschützten Informationen offengelegt. Die Zusammenarbeit ist durch den Cloud Native Rockstars Award 2022 öffentlich dokumentiert. Genannte Marken sind Eigentum ihrer jeweiligen Inhaber.
+Die dargestellten Inhalte basieren auf öffentlich zugänglichen Informationen sowie abstrahierten Darstellungen unserer Leistungen. Es werden keine vertraulichen oder geschützten Informationen offengelegt. Die Zusammenarbeit ist durch den Cloud Native Rockstars Award 2022 öffentlich dokumentiert.
 
 ---
 
@@ -127,7 +134,7 @@ Die dargestellten Inhalte basieren auf öffentlich zugänglichen Informationen s
 >
 > vielen Dank für den guten Austausch [letzte Woche / auf der Messe / im Call].
 >
-> Wie besprochen: Wir haben als zentraler Entwicklungspartner an der TrailerConnect®-Plattform von Schmitz Cargobull mitgewirkt — cloud-native IoT für eine der größten vernetzten Trailer-Flotten Europas (Cloud Native Rockstars Award 2022). Wir sind ein deutsches Engineering-Team mit über 30 Jahren Erfahrung und können über unser Nearshoring-Modell schnell und kosteneffizient skalieren.
+> Wie besprochen: Wir haben als zentraler Entwicklungspartner an der Telematik-Plattform von Schmitz Cargobull mitgewirkt — cloud-native IoT für eine der größten vernetzten Trailer-Flotten Europas (Cloud Native Rockstars Award 2022). Wir sind ein TISAX-zertifiziertes deutsches Engineering-Team mit über 30 Jahren Erfahrung und können über unser Nearshoring-Modell schnell und kosteneffizient skalieren.
 >
 > Ich habe Ihnen eine kompakte Projektreferenz vorbereitet, die zeigt, wie wir so ein Thema konkret umsetzen. Soll ich sie Ihnen zukommen lassen?
 >
@@ -138,7 +145,7 @@ Die dargestellten Inhalte basieren auf öffentlich zugänglichen Informationen s
 
 > Guten Tag Herr/Frau [Name],
 >
-> im Nachgang zu unserem Gespräch habe ich Ihnen eine detaillierte Projektreferenz zusammengestellt — IoT-Plattform, Cloud-Architektur, Skalierung auf europäischem Level. Alles, was wir als deutsches Team mit 30 Jahren Erfahrung und unserem Nearshoring-Modell konkret umgesetzt haben.
+> im Nachgang zu unserem Gespräch habe ich Ihnen eine detaillierte Projektreferenz zusammengestellt — IoT-Plattform, Cloud-Architektur, Skalierung auf europäischem Level. Alles, was wir als TISAX-zertifiziertes deutsches Team mit 30 Jahren Erfahrung und unserem Nearshoring-Modell konkret umgesetzt haben.
 >
 > Anbei das Dokument. Ich freue mich auf Ihr Feedback und den nächsten Schritt.
 >
@@ -149,7 +156,7 @@ Die dargestellten Inhalte basieren auf öffentlich zugänglichen Informationen s
 
 # 1-Slide Pitch (Version C — Deep/NDA)
 
-## TrailerConnect® — IoT-Plattform für Schmitz Cargobull
+## IoT-Telematik-Plattform für Schmitz Cargobull
 
 ### Herausforderung
 - Europaweit vernetzte Trailer-Flotte in Echtzeit steuern
@@ -158,6 +165,7 @@ Die dargestellten Inhalte basieren auf öffentlich zugänglichen Informationen s
 
 ### Wer wir sind
 - Deutsches Software-Engineering-Team, 30+ Jahre Erfahrung
+- TISAX Stufe 3 (AL 3) — höchste Automotive-Sicherheitsstufe
 - Namhafte Kunden, nachweislicher Track Record
 - Nearshoring: Engineering in DE, kontrollierte Skalierung EU+
 - Kein Body-Leasing — Plattformverantwortung

@@ -243,7 +243,7 @@ def add_page_break(doc):
 # Build the DOCX — Anonymized, NeoGeo CI
 # ---------------------------------------------------------------------------
 
-def build_docx(chart_markt, chart_wachstum, chart_arch):
+def build_docx(chart_arch):
     doc = Document()
 
     # ---- Page margins (A4 per brand guide) ----
@@ -256,11 +256,9 @@ def build_docx(chart_markt, chart_wachstum, chart_arch):
     # ---- Header: Logo left, title right ----
     header = doc.sections[0].header
     hp = header.paragraphs[0]
-    # Add logo to header if exists
     if os.path.exists(LOGO_SMALL_PATH):
         run_logo = hp.add_run()
         run_logo.add_picture(str(LOGO_SMALL_PATH), height=Cm(1.5))
-    # Add tab + title
     hp.add_run("\t\t")
     run_title = hp.add_run("Projektreferenz: IoT-Telematik-Plattform")
     run_title.font.size = Pt(10)
@@ -277,7 +275,7 @@ def build_docx(chart_markt, chart_wachstum, chart_arch):
     run.font.name = "Segoe UI"
 
     # ================================================================
-    # COVER PAGE (NeoGeo brand: logo centered, orange lines, dark text)
+    # COVER PAGE
     # ================================================================
     doc.add_paragraph()
 
@@ -334,6 +332,7 @@ def build_docx(chart_markt, chart_wachstum, chart_arch):
     meta = [
         ("Branche", "Nutzfahrzeuge / Trailer-Herstellung"),
         ("Plattform", "IoT-Telematik mit Cloud-Backend"),
+        ("Zertifizierung", "TISAX Stufe 3 (AL 3) \u2014 h\u00f6chste Sicherheitsstufe"),
         ("Auszeichnung", "Cloud Native Rockstars Award 2022 (Kat. Digital Business)"),
         ("Datum", "M\u00e4rz 2026"),
     ]
@@ -362,10 +361,48 @@ def build_docx(chart_markt, chart_wachstum, chart_arch):
         run.font.name = "Segoe UI"
 
     # ================================================================
-    # PAGE 2: Projekt\u00fcbersicht
+    # PAGE 2: Wer wir sind + Projekt\u00fcbersicht
     # ================================================================
     add_page_break(doc)
-    add_section_title(doc, "1. Projekt\u00fcbersicht")
+    add_section_title(doc, "1. Wer wir sind")
+
+    add_body_text(
+        doc,
+        "NeoGeo New Media GmbH ist ein deutsches Software-Engineering-Team mit \u00fcber "
+        "30 Jahren Erfahrung in der Entwicklung anspruchsvoller Softwaresysteme. Wir "
+        "arbeiten seit Jahrzehnten mit namhaften Kunden aus Industrie, Logistik und "
+        "Technologie \u2014 mit einem nachweislichen Track Record bei der Umsetzung "
+        "komplexer Plattformprojekte."
+    )
+
+    add_highlight_box(
+        doc,
+        "TISAX Stufe 3 (AL 3) zertifiziert \u2014 h\u00f6chste Sicherheitsstufe f\u00fcr "
+        "Informationssicherheit in der Automobilindustrie. Wir erf\u00fcllen die strengsten "
+        "Anforderungen an Datenschutz, IT-Sicherheit und Vertraulichkeit."
+    )
+
+    add_sub_title(doc, "Skalierbar und kosteneffizient")
+
+    add_body_text(
+        doc,
+        "\u00dcber unser etabliertes Nearshoring-Modell k\u00f6nnen wir Projektteams flexibel "
+        "und kontrolliert skalieren \u2014 im europ\u00e4ischen Ausland und dar\u00fcber hinaus."
+    )
+
+    for b in [
+        "Engineering und Steuerung in Deutschland \u2014 Architektur, Qualit\u00e4tssicherung, Projektleitung",
+        "Kontrollierte Skalierung \u00fcber Nearshoring \u2014 erprobte Teams in Europa",
+        "Kosten im Griff \u2014 Enterprise-Qualit\u00e4t ohne Enterprise-Preise",
+        "Kein Kontrollverlust \u2014 durchg\u00e4ngige deutsche Projektverantwortung",
+    ]:
+        add_bullet(doc, b)
+
+    # ================================================================
+    # PAGE 3: Projekt\u00fcbersicht
+    # ================================================================
+    add_page_break(doc)
+    add_section_title(doc, "2. Projekt\u00fcbersicht")
 
     add_body_text(
         doc,
@@ -394,8 +431,6 @@ def build_docx(chart_markt, chart_wachstum, chart_arch):
     for k, v in kv_data:
         add_key_value(doc, k, v)
 
-    add_image_centered(doc, chart_markt)
-
     add_info_box(
         doc,
         "Der Kunde wurde mehrfach f\u00fcr Digitalisierung und Innovation ausgezeichnet, "
@@ -403,10 +438,10 @@ def build_docx(chart_markt, chart_wachstum, chart_arch):
     )
 
     # ================================================================
-    # PAGE 3: Unsere Rolle & Leistungen
+    # PAGE 4: Unsere Rolle & Leistungen
     # ================================================================
     add_page_break(doc)
-    add_section_title(doc, "2. Unsere Rolle & Leistungen")
+    add_section_title(doc, "3. Unsere Rolle & Leistungen")
 
     add_body_text(
         doc,
@@ -438,13 +473,11 @@ def build_docx(chart_markt, chart_wachstum, chart_arch):
     ]:
         add_bullet(doc, b)
 
-    add_image_centered(doc, chart_wachstum)
-
     # ================================================================
-    # PAGE 4: Technische Architektur (abstrahiert)
+    # PAGE 5: Technische Architektur
     # ================================================================
     add_page_break(doc)
-    add_section_title(doc, "3. Technische Architektur")
+    add_section_title(doc, "4. Technische Architektur")
 
     add_image_centered(doc, chart_arch, width=Cm(16))
 
@@ -476,10 +509,10 @@ def build_docx(chart_markt, chart_wachstum, chart_arch):
         add_bullet(doc, b)
 
     # ================================================================
-    # PAGE 5: Ergebnisse & Business Impact
+    # PAGE 6: Ergebnisse & Business Impact
     # ================================================================
     add_page_break(doc)
-    add_section_title(doc, "4. Ergebnisse & Business Impact")
+    add_section_title(doc, "5. Ergebnisse & Business Impact")
 
     add_sub_title(doc, "Skalierung")
     for b in [
@@ -515,10 +548,10 @@ def build_docx(chart_markt, chart_wachstum, chart_arch):
     )
 
     # ================================================================
-    # PAGE 6: Technologie-Stack
+    # PAGE 7: Technologie-Stack
     # ================================================================
     add_page_break(doc)
-    add_section_title(doc, "5. Technologie-Stack")
+    add_section_title(doc, "6. Technologie-Stack")
 
     add_sub_title(doc, "Embedded / Hardware")
     for b in [
@@ -539,7 +572,7 @@ def build_docx(chart_markt, chart_wachstum, chart_arch):
 
     add_sub_title(doc, "Frontend & Apps")
     for b in [
-        "Webportal f\u00fcr Flottenmanagement (FleetTrack, FleetWatch)",
+        "Webportal f\u00fcr Flottenmanagement und Datenanalyse",
         "Mobile App f\u00fcr Disponenten",
         "Mobile App f\u00fcr Fahrer",
         "Data Management Center",
@@ -554,18 +587,34 @@ def build_docx(chart_markt, chart_wachstum, chart_arch):
     ]:
         add_bullet(doc, b)
 
+    add_sub_title(doc, "Zertifizierungen & Sicherheit")
+    for b in [
+        "TISAX Stufe 3 (AL 3) \u2014 h\u00f6chste Sicherheitsstufe Automobilindustrie",
+        "Zero Trust Security Architecture",
+        "DSGVO-konforme Datenverarbeitung",
+    ]:
+        add_bullet(doc, b)
+
     # ================================================================
-    # PAGE 7: \u00dcber NeoGeo + Kontakt
+    # PAGE 8: \u00dcber NeoGeo + Kontakt
     # ================================================================
     add_page_break(doc)
-    add_section_title(doc, "6. \u00dcber NeoGeo New Media GmbH")
+    add_section_title(doc, "7. \u00dcber NeoGeo New Media GmbH")
 
     add_body_text(
         doc,
-        "NeoGeo New Media GmbH ist ein Technologie-Unternehmen mit Sitz in Elmshorn. "
-        "Wir sind spezialisiert auf die Entwicklung von IoT-Plattformen, "
-        "Cloud-native Architekturen und datengetriebenen Applikationen f\u00fcr die "
-        "Industrie und Logistik."
+        "NeoGeo New Media GmbH ist ein deutsches Software-Engineering-Unternehmen mit Sitz "
+        "in Elmshorn und \u00fcber 30 Jahren Erfahrung. Wir sind spezialisiert auf die "
+        "Entwicklung von IoT-Plattformen, Cloud-native Architekturen und datengetriebenen "
+        "Applikationen f\u00fcr die Industrie und Logistik."
+    )
+
+    add_body_text(
+        doc,
+        "Wir sind TISAX Stufe 3 (AL 3) zertifiziert \u2014 die h\u00f6chste Sicherheitsstufe "
+        "f\u00fcr Informationssicherheit in der Automobilindustrie. \u00dcber unser Nearshoring-Modell "
+        "skalieren wir schnell und kosteneffizient: Engineering in Deutschland, kontrollierte "
+        "Skalierung im europ\u00e4ischen Ausland und dar\u00fcber hinaus."
     )
 
     add_sub_title(doc, "Unsere Kernkompetenzen")
@@ -579,7 +628,7 @@ def build_docx(chart_markt, chart_wachstum, chart_arch):
     ]:
         add_bullet(doc, b)
 
-    add_section_title(doc, "7. Kontakt")
+    add_section_title(doc, "8. Kontakt")
 
     add_body_text(
         doc,
@@ -619,7 +668,6 @@ def build_docx(chart_markt, chart_wachstum, chart_arch):
     sources = [
         "Cloud Native Rockstars Award 2022: datacenter-insider.de, cloudnativeconference.de (Juli 2022)",
         "Marktdaten Trailer-Industrie: \u00f6ffentliche Branchenberichte und Fachpresse",
-        "Technologie-Partner: \u00f6ffentliche Produktseiten und Pressemitteilungen",
     ]
     for s in sources:
         add_bullet(doc, s)
@@ -631,8 +679,7 @@ def build_docx(chart_markt, chart_wachstum, chart_arch):
         "Hinweis: Dieses Dokument beschreibt unsere Rolle als Entwicklungspartner auf Basis "
         "\u00f6ffentlich zug\u00e4nglicher Informationen. Es werden keine vertraulichen oder "
         "NDA-gesch\u00fctzten Informationen weitergegeben. Die Zusammenarbeit ist durch den "
-        "Cloud Native Rockstars Award 2022 \u00f6ffentlich dokumentiert. Genannte Marken "
-        "sind Eigentum ihrer jeweiligen Inhaber."
+        "Cloud Native Rockstars Award 2022 \u00f6ffentlich dokumentiert."
     )
     run.italic = True
     run.font.size = Pt(9)
@@ -650,27 +697,19 @@ def build_docx(chart_markt, chart_wachstum, chart_arch):
 # ---------------------------------------------------------------------------
 
 def main():
-    chart_markt = str(BASE / "chart_marktanteil.png")
-    chart_wachstum = str(BASE / "chart_telematik_wachstum.png")
     chart_arch = str(BASE / "chart_architektur.png")
 
-    missing = [c for c in [chart_markt, chart_wachstum, chart_arch] if not os.path.exists(c)]
-    if missing:
-        print("Generating charts first...")
+    if not os.path.exists(chart_arch):
+        print("Generating architecture diagram...")
         import importlib.util
-        spec = importlib.util.spec_from_file_location("pdf_gen", str(BASE / "generate_scb_pdf.py"))
-        pdf_gen = importlib.util.module_from_spec(spec)
-        spec.loader.exec_module(pdf_gen)
-        if not os.path.exists(chart_markt):
-            pdf_gen.create_market_share_chart()
-        if not os.path.exists(chart_wachstum):
-            pdf_gen.create_telematics_growth_chart()
-        if not os.path.exists(chart_arch):
-            pdf_gen.create_architecture_diagram()
-        print("Charts ready.")
+        spec = importlib.util.spec_from_file_location("assets", str(BASE / "generate_assets.py"))
+        assets = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(assets)
+        assets.create_architecture_diagram()
+        print("Chart ready.")
 
     print("Generating DOCX...")
-    out = build_docx(chart_markt, chart_wachstum, chart_arch)
+    out = build_docx(chart_arch)
     print(f"  -> {out}")
     print("Done!")
 

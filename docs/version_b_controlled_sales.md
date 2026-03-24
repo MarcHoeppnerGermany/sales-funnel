@@ -1,8 +1,8 @@
-# Schmitz Cargobull — TrailerConnect® Telematik-Plattform
+# Schmitz Cargobull — IoT-Telematik-Plattform
 
 ## Überblick
 
-Für Schmitz Cargobull, einen führenden europäischen Trailer-Hersteller, haben wir als zentraler Entwicklungspartner an der IoT- und Telematik-Plattform TrailerConnect® mitgewirkt.
+Für Schmitz Cargobull, einen führenden europäischen Trailer-Hersteller, haben wir als zentraler Entwicklungspartner an der IoT- und Telematik-Plattform mitgewirkt.
 
 Die Plattform verbindet Trailer europaweit und ermöglicht Echtzeit-Tracking, Datenanalyse und Integration in bestehende Logistiksysteme.
 
@@ -14,6 +14,8 @@ NeoGeo New Media GmbH ist ein deutsches Software-Engineering-Team mit über 30 J
 
 Unser Engineering sitzt in Deutschland. Wir denken, planen und steuern von hier aus — mit dem Qualitätsanspruch, den unsere Kunden von einem deutschen Technologiepartner erwarten. Kein Body-Leasing, sondern echte Plattformverantwortung.
 
+**TISAX Stufe 3 (AL 3) zertifiziert** — höchste Sicherheitsstufe für Informationssicherheit in der Automobilindustrie.
+
 ## Skalierbar und kosteneffizient
 
 Über unser etabliertes Nearshoring-Modell können wir Projektteams flexibel und kontrolliert skalieren — im europäischen Ausland und darüber hinaus:
@@ -23,7 +25,7 @@ Unser Engineering sitzt in Deutschland. Wir denken, planen und steuern von hier 
 - **Kosten im Griff** — Enterprise-Qualität ohne Enterprise-Preise
 - **Kein Kontrollverlust** — durchgängige deutsche Projektverantwortung
 
-Dieses Modell hat sich im TrailerConnect®-Projekt über Jahre bewährt und ermöglicht es uns, auch große Plattformprojekte zuverlässig zu stemmen.
+Dieses Modell hat sich im Telematik-Projekt über Jahre bewährt und ermöglicht es uns, auch große Plattformprojekte zuverlässig zu stemmen.
 
 ## Leistungen
 
@@ -69,7 +71,7 @@ Die Inhalte basieren auf öffentlich verfügbaren Informationen sowie abstrahier
 >
 > ich habe gesehen, dass Sie sich mit [IoT / Telematik / Flottenmanagement] beschäftigen.
 >
-> Wir sind ein deutsches Engineering-Team mit über 30 Jahren Erfahrung. Als zentraler Entwicklungspartner haben wir an der TrailerConnect®-Plattform von Schmitz Cargobull mitgewirkt — cloud-native IoT für eine der größten Trailer-Flotten Europas (Cloud Native Rockstars Award 2022). Über unser Nearshoring-Modell können wir solche Projekte schnell und kosteneffizient skalieren, ohne Kompromisse bei Qualität.
+> Wir sind ein TISAX-zertifiziertes deutsches Engineering-Team mit über 30 Jahren Erfahrung. Als zentraler Entwicklungspartner haben wir an der Telematik-Plattform von Schmitz Cargobull mitgewirkt — cloud-native IoT für eine der größten Trailer-Flotten Europas (Cloud Native Rockstars Award 2022). Über unser Nearshoring-Modell können wir solche Projekte schnell und kosteneffizient skalieren, ohne Kompromisse bei Qualität.
 >
 > Wo liegt bei Ihnen aktuell die größte Herausforderung — Skalierung, Integration oder Datennutzung?
 >
@@ -82,7 +84,7 @@ Die Inhalte basieren auf öffentlich verfügbaren Informationen sowie abstrahier
 >
 > eine kurze Frage aus der Praxis:
 >
-> Viele IoT-Plattformen scheitern nicht an der Technik, sondern an Integration und Betrieb im Alltag. Wir haben genau das bei der TrailerConnect®-Plattform von Schmitz Cargobull gelöst — als deutsches Team mit 30 Jahren Erfahrung, mit kontrollierter Skalierung über Nearshoring, wenn es schnell gehen muss.
+> Viele IoT-Plattformen scheitern nicht an der Technik, sondern an Integration und Betrieb im Alltag. Wir haben genau das bei der Telematik-Plattform von Schmitz Cargobull gelöst — als TISAX-zertifiziertes deutsches Team mit 30 Jahren Erfahrung, mit kontrollierter Skalierung über Nearshoring, wenn es schnell gehen muss.
 >
 > Ist das bei Ihnen aktuell auch der Engpass — oder liegt die Herausforderung woanders?
 >
@@ -93,7 +95,7 @@ Die Inhalte basieren auf öffentlich verfügbaren Informationen sowie abstrahier
 
 > Guten Tag Herr/Frau [Name],
 >
-> wir sind ein deutsches Software-Engineering-Team (30+ Jahre, namhafte Referenzen) und haben als Entwicklungspartner an der TrailerConnect®-Plattform von Schmitz Cargobull mitgewirkt. Über unser Nearshoring-Modell skalieren wir schnell und kosteneffizient — Engineering bleibt in Deutschland.
+> wir sind ein TISAX-zertifiziertes deutsches Software-Engineering-Team (30+ Jahre, namhafte Referenzen) und haben als Entwicklungspartner an der Telematik-Plattform von Schmitz Cargobull mitgewirkt. Über unser Nearshoring-Modell skalieren wir schnell und kosteneffizient — Engineering bleibt in Deutschland.
 >
 > Falls das für Sie relevant ist: Hätten Sie nächste Woche 20 Minuten für einen kurzen Austausch?
 >
@@ -104,7 +106,7 @@ Die Inhalte basieren auf öffentlich verfügbaren Informationen sowie abstrahier
 
 # 1-Slide Pitch (Version B — SCB genannt)
 
-## Schmitz Cargobull — TrailerConnect® Telematik-Plattform
+## Schmitz Cargobull — IoT-Telematik-Plattform
 
 ### Herausforderung
 - Fragmentierte Sensorlandschaft über diverse Trailertypen
@@ -113,6 +115,7 @@ Die Inhalte basieren auf öffentlich verfügbaren Informationen sowie abstrahier
 
 ### Wer wir sind
 - Deutsches Software-Engineering-Team, 30+ Jahre Erfahrung
+- TISAX Stufe 3 (AL 3) zertifiziert — höchste Automotive-Sicherheitsstufe
 - Namhafte Kunden aus Industrie, Logistik und Technologie
 - Nearshoring: Engineering in DE, kontrollierte Skalierung EU+
 

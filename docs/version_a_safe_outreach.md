@@ -12,6 +12,8 @@ NeoGeo New Media GmbH ist ein deutsches Software-Engineering-Team mit über 30 J
 
 Unser Engineering sitzt in Deutschland. Wir denken, planen und steuern aus Deutschland heraus — mit dem Qualitätsanspruch, den unsere Kunden von einem deutschen Technologiepartner erwarten.
 
+**TISAX Stufe 3 (AL 3) zertifiziert** — höchste Sicherheitsstufe für Informationssicherheit in der Automobilindustrie.
+
 ## Skalierbar und kosteneffizient
 
 Über unser etabliertes Nearshoring-Modell können wir Projektteams flexibel und kontrolliert skalieren — im europäischen Ausland und darüber hinaus. Das bedeutet:
@@ -65,7 +67,7 @@ Die dargestellten Inhalte basieren auf abstrahierten Projektinformationen. Es we
 >
 > ich habe gesehen, dass Sie sich mit [IoT / Telematik / Flottenmanagement] beschäftigen.
 >
-> Wir sind ein deutsches Engineering-Team mit über 30 Jahren Erfahrung und haben kürzlich eine cloud-native IoT-Plattform für einen großen europäischen Hersteller umgesetzt — Echtzeitdaten, Skalierung, Integration in bestehende Systeme. Über unser Nearshoring-Modell können wir solche Projekte schnell und kosteneffizient skalieren, ohne Kompromisse bei der Qualität.
+> Wir sind ein deutsches Engineering-Team mit über 30 Jahren Erfahrung (TISAX Stufe 3 zertifiziert) und haben kürzlich eine cloud-native IoT-Plattform für einen großen europäischen Hersteller umgesetzt — Echtzeitdaten, Skalierung, Integration in bestehende Systeme. Über unser Nearshoring-Modell können wir solche Projekte schnell und kosteneffizient skalieren, ohne Kompromisse bei der Qualität.
 >
 > Mich würde interessieren: Wo liegt bei Ihnen aktuell die größte Herausforderung — eher bei Skalierung, Integration oder Datennutzung?
 >
@@ -78,7 +80,7 @@ Die dargestellten Inhalte basieren auf abstrahierten Projektinformationen. Es we
 >
 > eine kurze Frage aus der Praxis:
 >
-> Viele IoT- und Telematik-Projekte scheitern nicht an der Technik, sondern an Integration und Betrieb. Wir haben genau das für einen großen europäischen OEM gelöst — cloud-native Plattform, fünfstellige Gerätezahl, API-first. Und zwar als deutsches Team mit 30 Jahren Erfahrung, das über Nearshoring kontrolliert skaliert, wenn es schnell gehen muss.
+> Viele IoT- und Telematik-Projekte scheitern nicht an der Technik, sondern an Integration und Betrieb. Wir haben genau das für einen großen europäischen OEM gelöst — cloud-native Plattform, fünfstellige Gerätezahl, API-first. Und zwar als TISAX-zertifiziertes deutsches Team mit 30 Jahren Erfahrung, das über Nearshoring kontrolliert skaliert, wenn es schnell gehen muss.
 >
 > Ist das bei Ihnen aktuell auch das Nadelöhr — oder liegt die Herausforderung woanders?
 >
@@ -89,7 +91,7 @@ Die dargestellten Inhalte basieren auf abstrahierten Projektinformationen. Es we
 
 > Guten Tag Herr/Frau [Name],
 >
-> wir sind ein deutsches Software-Engineering-Team und unterstützen Unternehmen beim Aufbau skalierbarer IoT-Plattformen — Realtime-Daten, API-Integration, Betrieb. Über 30 Jahre Erfahrung mit namhaften Kunden, und über unser Nearshoring-Modell können wir schnell und kosteneffizient skalieren.
+> wir sind ein TISAX-zertifiziertes deutsches Software-Engineering-Team und unterstützen Unternehmen beim Aufbau skalierbarer IoT-Plattformen — Realtime-Daten, API-Integration, Betrieb. Über 30 Jahre Erfahrung mit namhaften Kunden, und über unser Nearshoring-Modell können wir schnell und kosteneffizient skalieren.
 >
 > Wir haben das zuletzt für einen großen europäischen Hersteller umgesetzt und sehen aktuell viel Bedarf in diesem Bereich.
 >
@@ -111,6 +113,7 @@ Die dargestellten Inhalte basieren auf abstrahierten Projektinformationen. Es we
 
 ### Wer wir sind
 - Deutsches Software-Engineering-Team, 30+ Jahre Erfahrung
+- TISAX Stufe 3 (AL 3) zertifiziert — höchste Automotive-Sicherheitsstufe
 - Nearshoring-Modell: Engineering in DE, kontrollierte Skalierung in EU+
 - Enterprise-Qualität, kosteneffiziente Umsetzung
 
