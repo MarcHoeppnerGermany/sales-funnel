@@ -2,7 +2,7 @@
 
 ## Überblick
 
-Für Schmitz Cargobull haben wir als zentraler Entwicklungspartner maßgeblich an der Konzeption, Entwicklung und dem Betrieb der IoT- und Telematik-Plattform mitgewirkt.
+Für Schmitz Cargobull haben wir als alleiniger Entwicklungspartner die komplette IoT- und Telematik-Plattform konzipiert, entwickelt und betrieben — Architektur, Implementierung und Betrieb zu 100% aus unserer Hand, in enger Abstimmung mit dem Kunden.
 
 Die Plattform bildet das digitale Rückgrat der Flotten- und Datenstrategie und verbindet Trailer europaweit in Echtzeit.
 
@@ -32,7 +32,7 @@ Ein Kernvorteil unseres Ansatzes: Wir können über unser etabliertes Nearshorin
 - **Kosten im Griff** — Enterprise-Qualität zu wettbewerbsfähigen Konditionen
 - **Kein Kontrollverlust** — durchgängige deutsche Projektverantwortung, klare Prozesse, deutsche Ansprechpartner
 
-Dieses Modell hat sich im Telematik-Projekt über Jahre bewährt und ermöglicht es uns, auch Großprojekte mit fünfstelligen Gerätezahlen zuverlässig zu stemmen — ohne dass Qualität oder Steuerbarkeit leiden.
+Dieses Modell hat sich im Telematik-Projekt über Jahre bewährt — als alleiniger Entwicklungspartner haben wir damit ein Großprojekt mit fünfstelligen Gerätezahlen zuverlässig gestemmt, ohne dass Qualität oder Steuerbarkeit leiden.
 
 ## Projektziele
 
@@ -45,11 +45,11 @@ Dieses Modell hat sich im Telematik-Projekt über Jahre bewährt und ermöglicht
 
 ## Leistungen
 
-- Maßgebliche Mitwirkung an Architektur und Systemdesign
-- Entwicklung zentraler Backend- und Cloud-Komponenten
+- Alleiniger Entwicklungspartner — Architektur, Implementierung und Betrieb zu 100%
+- Komplette Backend- und Cloud-Entwicklung
 - Aufbau der Datenplattform und Schnittstelleninfrastruktur
 - Integration heterogener Sensorik und Drittanbietersysteme
-- Unterstützung beim Betrieb und der kontinuierlichen Weiterentwicklung
+- Laufender Betrieb und kontinuierliche Weiterentwicklung
 - Bluetooth-basiertes Ladungsträger-Tracking
 
 ## Technologie
@@ -134,7 +134,7 @@ Die dargestellten Inhalte basieren auf öffentlich zugänglichen Informationen s
 >
 > vielen Dank für den guten Austausch [letzte Woche / auf der Messe / im Call].
 >
-> Wie besprochen: Wir haben als zentraler Entwicklungspartner an der Telematik-Plattform von Schmitz Cargobull mitgewirkt — cloud-native IoT für eine der größten vernetzten Trailer-Flotten Europas (Cloud Native Rockstars Award 2022). Wir sind ein TISAX-zertifiziertes deutsches Engineering-Team mit über 30 Jahren Erfahrung und können über unser Nearshoring-Modell schnell und kosteneffizient skalieren.
+> Wie besprochen: Wir haben als alleiniger Entwicklungspartner die komplette Telematik-Plattform von Schmitz Cargobull entwickelt und betrieben — cloud-native IoT für eine der größten vernetzten Trailer-Flotten Europas (Cloud Native Rockstars Award 2022). Wir sind ein TISAX-zertifiziertes deutsches Engineering-Team mit über 30 Jahren Erfahrung und können über unser Nearshoring-Modell schnell und kosteneffizient skalieren.
 >
 > Ich habe Ihnen eine kompakte Projektreferenz vorbereitet, die zeigt, wie wir so ein Thema konkret umsetzen. Soll ich sie Ihnen zukommen lassen?
 >
@@ -177,9 +177,9 @@ Die dargestellten Inhalte basieren auf öffentlich zugänglichen Informationen s
 - Herstellerunabhängige Sensorintegration
 
 ### Unser Beitrag
-- Maßgebliche Architektur- und Entwicklungsleistung
-- Backend, Datenplattform, Apps, Schnittstellen
-- Betrieb und kontinuierliche Weiterentwicklung
+- Alleiniger Entwicklungspartner — 100% Architektur, Implementierung, Betrieb
+- Komplette Entwicklung: Backend, Datenplattform, Apps, Schnittstellen
+- Laufender Betrieb und kontinuierliche Weiterentwicklung
 - Skalierung über deutsches Nearshoring-Modell
 
 ### Ergebnis

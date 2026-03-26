@@ -406,10 +406,11 @@ def build_docx(chart_arch):
 
     add_body_text(
         doc,
-        "Als f\u00fchrender Entwicklungspartner haben wir f\u00fcr einen der gr\u00f6\u00dften "
-        "europ\u00e4ischen Trailer-Hersteller eine cloud-native IoT-Telematik-Plattform "
-        "ma\u00dfgeblich mitentwickelt. Die Plattform vernetzt Trailer europaweit und "
-        "bildet das R\u00fcckgrat der Digitalisierungsstrategie des Kunden."
+        "Wir haben f\u00fcr einen der gr\u00f6\u00dften europ\u00e4ischen Trailer-Hersteller "
+        "die komplette IoT-Telematik-Plattform entwickelt und betrieben \u2014 als alleiniger "
+        "Entwicklungspartner. Architektur, Implementierung und Betrieb lagen zu 100% bei uns, "
+        "nat\u00fcrlich in enger Abstimmung mit dem Kunden. Die Plattform vernetzt Trailer "
+        "europaweit und bildet das R\u00fcckgrat seiner Digitalisierungsstrategie."
     )
 
     add_highlight_box(
@@ -445,8 +446,9 @@ def build_docx(chart_arch):
 
     add_body_text(
         doc,
-        "NeoGeo war als f\u00fchrender Entwicklungspartner verantwortlich f\u00fcr zentrale Teile "
-        "der Plattform \u2014 von der Architektur \u00fcber die Implementierung bis zum Betrieb. "
+        "NeoGeo war der alleinige Entwicklungspartner f\u00fcr die gesamte Plattform \u2014 "
+        "von der Architektur \u00fcber die Implementierung bis zum laufenden Betrieb. "
+        "Alle Entwicklungsschritte lagen zu 100% bei uns, in enger Abstimmung mit dem Kunden. "
         "Die Zusammenarbeit umfasst mehrere Jahre und ist durch den gemeinsam gewonnenen "
         "Cloud Native Rockstars Award 2022 \u00f6ffentlich dokumentiert."
     )

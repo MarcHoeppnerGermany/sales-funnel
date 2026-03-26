@@ -2,7 +2,7 @@
 
 ## Überblick
 
-Entwicklung und Betrieb einer cloud-nativen Telematik-Plattform für einen führenden europäischen Trailer-Hersteller. Die Lösung verbindet eine fünfstellige Anzahl von Fahrzeugen in Echtzeit und bildet das digitale Rückgrat moderner Flottensteuerung.
+Als alleiniger Entwicklungspartner haben wir die komplette cloud-native Telematik-Plattform für einen führenden europäischen Trailer-Hersteller entwickelt und betrieben — Architektur, Implementierung und Betrieb zu 100% aus unserer Hand, in enger Abstimmung mit dem Kunden. Die Lösung verbindet eine fünfstellige Anzahl von Fahrzeugen in Echtzeit und bildet das digitale Rückgrat moderner Flottensteuerung.
 
 **Ausgezeichnet mit dem Cloud Native Rockstars Award 2022** (Kategorie Digital Business).
 
@@ -25,9 +25,9 @@ Unser Engineering sitzt in Deutschland. Wir denken, planen und steuern aus Deuts
 
 ## Leistungen
 
-- Maßgebliche Mitwirkung an Konzeption und Architektur der Plattform
-- Entwicklung zentraler Backend- und Cloud-Komponenten
-- Betrieb und kontinuierliche Weiterentwicklung
+- Alleiniger Entwicklungspartner — Architektur, Implementierung und Betrieb zu 100%
+- Komplette Backend- und Cloud-Entwicklung
+- Laufender Betrieb und kontinuierliche Weiterentwicklung
 - Integration von Sensorik, Fahrzeugdaten und Drittanbietersystemen
 
 ## Technologie
@@ -67,7 +67,7 @@ Die dargestellten Inhalte basieren auf abstrahierten Projektinformationen. Es we
 >
 > ich habe gesehen, dass Sie sich mit [IoT / Telematik / Flottenmanagement] beschäftigen.
 >
-> Wir sind ein deutsches Engineering-Team mit über 30 Jahren Erfahrung (TISAX Stufe 3 zertifiziert) und haben kürzlich eine cloud-native IoT-Plattform für einen großen europäischen Hersteller umgesetzt — Echtzeitdaten, Skalierung, Integration in bestehende Systeme. Über unser Nearshoring-Modell können wir solche Projekte schnell und kosteneffizient skalieren, ohne Kompromisse bei der Qualität.
+> Wir sind ein deutsches Engineering-Team mit über 30 Jahren Erfahrung (TISAX Stufe 3 zertifiziert) und haben als alleiniger Entwicklungspartner eine komplette cloud-native IoT-Plattform für einen großen europäischen Hersteller entwickelt und betrieben — Echtzeitdaten, Skalierung, Integration in bestehende Systeme. Über unser Nearshoring-Modell können wir solche Projekte schnell und kosteneffizient skalieren, ohne Kompromisse bei der Qualität.
 >
 > Mich würde interessieren: Wo liegt bei Ihnen aktuell die größte Herausforderung — eher bei Skalierung, Integration oder Datennutzung?
 >
@@ -80,7 +80,7 @@ Die dargestellten Inhalte basieren auf abstrahierten Projektinformationen. Es we
 >
 > eine kurze Frage aus der Praxis:
 >
-> Viele IoT- und Telematik-Projekte scheitern nicht an der Technik, sondern an Integration und Betrieb. Wir haben genau das für einen großen europäischen OEM gelöst — cloud-native Plattform, fünfstellige Gerätezahl, API-first. Und zwar als TISAX-zertifiziertes deutsches Team mit 30 Jahren Erfahrung, das über Nearshoring kontrolliert skaliert, wenn es schnell gehen muss.
+> Viele IoT- und Telematik-Projekte scheitern nicht an der Technik, sondern an Integration und Betrieb. Wir haben genau das gelöst — als alleiniger Entwicklungspartner für die komplette IoT-Plattform eines großen europäischen OEM. Cloud-native, fünfstellige Gerätezahl, API-first. TISAX-zertifiziertes deutsches Team mit 30 Jahren Erfahrung, das über Nearshoring kontrolliert skaliert, wenn es schnell gehen muss.
 >
 > Ist das bei Ihnen aktuell auch das Nadelöhr — oder liegt die Herausforderung woanders?
 >
@@ -93,7 +93,7 @@ Die dargestellten Inhalte basieren auf abstrahierten Projektinformationen. Es we
 >
 > wir sind ein TISAX-zertifiziertes deutsches Software-Engineering-Team und unterstützen Unternehmen beim Aufbau skalierbarer IoT-Plattformen — Realtime-Daten, API-Integration, Betrieb. Über 30 Jahre Erfahrung mit namhaften Kunden, und über unser Nearshoring-Modell können wir schnell und kosteneffizient skalieren.
 >
-> Wir haben das zuletzt für einen großen europäischen Hersteller umgesetzt und sehen aktuell viel Bedarf in diesem Bereich.
+> Wir haben das zuletzt als alleiniger Entwicklungspartner für einen großen europäischen Hersteller komplett umgesetzt und sehen aktuell viel Bedarf in diesem Bereich.
 >
 > Falls das für Sie relevant ist: Hätten Sie nächste Woche 20 Minuten für einen kurzen Austausch?
 >

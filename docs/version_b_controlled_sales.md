@@ -2,7 +2,7 @@
 
 ## Überblick
 
-Für Schmitz Cargobull, einen führenden europäischen Trailer-Hersteller, haben wir als zentraler Entwicklungspartner an der IoT- und Telematik-Plattform mitgewirkt.
+Für Schmitz Cargobull haben wir als alleiniger Entwicklungspartner die komplette IoT- und Telematik-Plattform entwickelt und betrieben — Architektur, Implementierung und Betrieb zu 100% aus unserer Hand, in enger Abstimmung mit dem Kunden.
 
 Die Plattform verbindet Trailer europaweit und ermöglicht Echtzeit-Tracking, Datenanalyse und Integration in bestehende Logistiksysteme.
 
@@ -25,13 +25,13 @@ Unser Engineering sitzt in Deutschland. Wir denken, planen und steuern von hier 
 - **Kosten im Griff** — Enterprise-Qualität ohne Enterprise-Preise
 - **Kein Kontrollverlust** — durchgängige deutsche Projektverantwortung
 
-Dieses Modell hat sich im Telematik-Projekt über Jahre bewährt und ermöglicht es uns, auch große Plattformprojekte zuverlässig zu stemmen.
+Dieses Modell hat sich im Telematik-Projekt über Jahre bewährt — als alleiniger Entwicklungspartner haben wir damit auch ein Großprojekt mit fünfstelligen Gerätezahlen zuverlässig gestemmt.
 
 ## Leistungen
 
-- Mitwirkung an Systemarchitektur und Plattformdesign
-- Entwicklung zentraler Komponenten im Backend und in der Cloud
-- Unterstützung beim Betrieb und der Skalierung der Plattform
+- Alleiniger Entwicklungspartner — Architektur, Implementierung und Betrieb zu 100%
+- Komplette Backend- und Cloud-Entwicklung
+- Laufender Betrieb und Skalierung der Plattform
 - Integration von Sensorik und externen Systemen
 
 ## Technologie
@@ -71,7 +71,7 @@ Die Inhalte basieren auf öffentlich verfügbaren Informationen sowie abstrahier
 >
 > ich habe gesehen, dass Sie sich mit [IoT / Telematik / Flottenmanagement] beschäftigen.
 >
-> Wir sind ein TISAX-zertifiziertes deutsches Engineering-Team mit über 30 Jahren Erfahrung. Als zentraler Entwicklungspartner haben wir an der Telematik-Plattform von Schmitz Cargobull mitgewirkt — cloud-native IoT für eine der größten Trailer-Flotten Europas (Cloud Native Rockstars Award 2022). Über unser Nearshoring-Modell können wir solche Projekte schnell und kosteneffizient skalieren, ohne Kompromisse bei Qualität.
+> Wir sind ein TISAX-zertifiziertes deutsches Engineering-Team mit über 30 Jahren Erfahrung. Als alleiniger Entwicklungspartner haben wir die komplette Telematik-Plattform von Schmitz Cargobull entwickelt — cloud-native IoT für eine der größten Trailer-Flotten Europas (Cloud Native Rockstars Award 2022). Über unser Nearshoring-Modell können wir solche Projekte schnell und kosteneffizient skalieren, ohne Kompromisse bei Qualität.
 >
 > Wo liegt bei Ihnen aktuell die größte Herausforderung — Skalierung, Integration oder Datennutzung?
 >
@@ -84,7 +84,7 @@ Die Inhalte basieren auf öffentlich verfügbaren Informationen sowie abstrahier
 >
 > eine kurze Frage aus der Praxis:
 >
-> Viele IoT-Plattformen scheitern nicht an der Technik, sondern an Integration und Betrieb im Alltag. Wir haben genau das bei der Telematik-Plattform von Schmitz Cargobull gelöst — als TISAX-zertifiziertes deutsches Team mit 30 Jahren Erfahrung, mit kontrollierter Skalierung über Nearshoring, wenn es schnell gehen muss.
+> Viele IoT-Plattformen scheitern nicht an der Technik, sondern an Integration und Betrieb im Alltag. Wir haben genau das gelöst — als alleiniger Entwicklungspartner für die komplette Telematik-Plattform von Schmitz Cargobull. TISAX-zertifiziertes deutsches Team mit 30 Jahren Erfahrung, mit kontrollierter Skalierung über Nearshoring, wenn es schnell gehen muss.
 >
 > Ist das bei Ihnen aktuell auch der Engpass — oder liegt die Herausforderung woanders?
 >
@@ -95,7 +95,7 @@ Die Inhalte basieren auf öffentlich verfügbaren Informationen sowie abstrahier
 
 > Guten Tag Herr/Frau [Name],
 >
-> wir sind ein TISAX-zertifiziertes deutsches Software-Engineering-Team (30+ Jahre, namhafte Referenzen) und haben als Entwicklungspartner an der Telematik-Plattform von Schmitz Cargobull mitgewirkt. Über unser Nearshoring-Modell skalieren wir schnell und kosteneffizient — Engineering bleibt in Deutschland.
+> wir sind ein TISAX-zertifiziertes deutsches Software-Engineering-Team (30+ Jahre, namhafte Referenzen) und haben als alleiniger Entwicklungspartner die komplette Telematik-Plattform von Schmitz Cargobull entwickelt und betrieben. Über unser Nearshoring-Modell skalieren wir schnell und kosteneffizient — Engineering bleibt in Deutschland.
 >
 > Falls das für Sie relevant ist: Hätten Sie nächste Woche 20 Minuten für einen kurzen Austausch?
 >
@@ -126,8 +126,8 @@ Die Inhalte basieren auf öffentlich verfügbaren Informationen sowie abstrahier
 - Herstellerunabhängige Sensoranbindung
 
 ### Unser Beitrag
-- Zentraler Entwicklungspartner für Architektur und Plattform
-- Entwicklung, Integration und Betriebsunterstützung
+- Alleiniger Entwicklungspartner — 100% Architektur, Implementierung, Betrieb
+- Komplette Entwicklung, Integration und laufender Betrieb
 - Skalierung über deutsches Nearshoring-Modell
 
 ### Ergebnis
