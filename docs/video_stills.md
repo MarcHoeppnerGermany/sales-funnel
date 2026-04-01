@@ -8,20 +8,7 @@ Diese Stills dienen als:
 - **Thumbnail** für das fertige Video
 
 Jeder Still entspricht exakt einem der 9 Shots im Video-Script.
-
----
-
-## Style Anchor
-
-> Wird an **jeden** Prompt angehängt.
-
-```
-Cinematic corporate photography, anamorphic lens, shallow depth of
-field, color graded with teal shadows and warm orange highlights
-(#E67E22), natural lighting, shot on ARRI Alexa, muted color palette
-with selective orange accents, 16:9 aspect ratio, photorealistic,
-high detail, 8K resolution
-```
+Style Anchor ist direkt in jedem Prompt eingebaut — einfach den ganzen Block kopieren.
 
 ---
 
@@ -42,8 +29,12 @@ reflecting hundreds of red and white headlights and tail lights.
 The highway curves gently into the distance. Green embankments
 and metal guardrails on both sides. No special effects, no
 overlays, no glowing elements. Pure photorealistic highway scene.
-Shot from 45-degree overhead drone angle.
-[Style Anchor]
+Shot from 45-degree overhead drone angle. Cinematic corporate
+photography, anamorphic lens, shallow depth of field, color graded
+with teal shadows and warm orange highlights (#E67E22), natural
+lighting, shot on ARRI Alexa, muted color palette with selective
+orange accents, 16:9 aspect ratio, photorealistic, high detail,
+8K resolution
 ```
 
 **Einsatz:** Video Thumbnail, LinkedIn Carousel Seite 1
@@ -63,7 +54,11 @@ thermometer icon next to a horizontal bar gauge, and a circular
 tire pressure gauge. The panels are translucent and subtle, like
 augmented reality — not sci-fi. The highway scene itself stays
 exactly the same. Wet asphalt, blue hour lighting, overhead angle.
-[Style Anchor]
+Cinematic corporate photography, anamorphic lens, shallow depth of
+field, color graded with teal shadows and warm orange highlights
+(#E67E22), natural lighting, shot on ARRI Alexa, muted color palette
+with selective orange accents, 16:9 aspect ratio, photorealistic,
+high detail, 8K resolution
 ```
 
 **Einsatz:** Hero Image, Website Banner, Pitch Deck Cover
@@ -82,8 +77,12 @@ Faint orange dotted lines connect neighboring HUD panels to each
 other, forming a visible data network across the highway. The arcs
 and connection lines are translucent, integrated into the scene
 like a Bloomberg Terminal overlay on reality. Everything else stays
-unchanged. Wet road, blue hour light, orange reflections.
-[Style Anchor]
+unchanged. Wet road, blue hour light, orange reflections. Cinematic
+corporate photography, anamorphic lens, shallow depth of field,
+color graded with teal shadows and warm orange highlights (#E67E22),
+natural lighting, shot on ARRI Alexa, muted color palette with
+selective orange accents, 16:9 aspect ratio, photorealistic,
+high detail, 8K resolution
 ```
 
 **Einsatz:** IoT/Vernetzung Slide, LinkedIn Post "Connected Fleet"
@@ -102,8 +101,12 @@ tracked trailers, connected by faint route lines. Subtle circular
 gauges and spark lines at the edges of the screen. The room is
 empty, the display glows. Ambient blue-white lighting with warm
 orange reflections from the screen. Camera perspective from the
-entrance of the room looking toward the display.
-[Style Anchor]
+entrance of the room looking toward the display. Cinematic corporate
+photography, anamorphic lens, shallow depth of field, color graded
+with teal shadows and warm orange highlights (#E67E22), natural
+lighting, shot on ARRI Alexa, muted color palette with selective
+orange accents, 16:9 aspect ratio, photorealistic, high detail,
+8K resolution
 ```
 
 **Einsatz:** Plattform-Slide, Website "Was wir tun"
@@ -118,8 +121,12 @@ in a control room, arms crossed, silhouetted against a large curved
 display. The European map with hundreds of pulsing orange dots fills
 the screen in front of him. His silhouette is dark and sharp against
 the glowing map. Slight handheld perspective. The atmosphere is calm,
-controlled, powerful. No readable text on screen.
-[Style Anchor]
+controlled, powerful. No readable text on screen. Cinematic corporate
+photography, anamorphic lens, shallow depth of field, color graded
+with teal shadows and warm orange highlights (#E67E22), natural
+lighting, shot on ARRI Alexa, muted color palette with selective
+orange accents, 16:9 aspect ratio, photorealistic, high detail,
+8K resolution
 ```
 
 **Einsatz:** Key Visual — LinkedIn, Pitch Deck Hero, DOCX Deckblatt
@@ -136,8 +143,12 @@ in perfect rows. Everything is spotless, organized, controlled.
 Cool, clean light. A wall-mounted screen on the right shows a
 security dashboard with green checkmark icons and lock symbols.
 The heavy glass door frame is visible at the edges, conveying
-restricted access. Industrial premium feel.
-[Style Anchor]
+restricted access. Industrial premium feel. Cinematic corporate
+photography, anamorphic lens, shallow depth of field, color graded
+with teal shadows and warm orange highlights (#E67E22), natural
+lighting, shot on ARRI Alexa, muted color palette with selective
+orange accents, 16:9 aspect ratio, photorealistic, high detail,
+8K resolution
 ```
 
 **Einsatz:** TISAX / Security Slide, LinkedIn Post "Vertrauen", Trust-Sektion Website
@@ -156,8 +167,11 @@ architecture diagrams drawn in orange and blue markers. One person
 points at a diagram node, the others listen engaged. Shot from a
 slight angle, capturing the team dynamic from the side — no direct
 frontal faces. Professional but relaxed atmosphere, smart casual
-clothing.
-[Style Anchor]
+clothing. Cinematic corporate photography, anamorphic lens, shallow
+depth of field, color graded with teal shadows and warm orange
+highlights (#E67E22), natural lighting, shot on ARRI Alexa, muted
+color palette with selective orange accents, 16:9 aspect ratio,
+photorealistic, high detail, 8K resolution
 ```
 
 **Einsatz:** "Über uns" Sektion, LinkedIn Team-Post, Pitch Deck "Wer wir sind"
@@ -172,8 +186,12 @@ diagrams drawn in orange and blue markers — boxes connected by
 arrows, labeled with small icons, not readable text. A hand holding
 an orange marker draws a new connecting line between two nodes.
 Shallow depth of field, the background is a soft blur of the bright
-office and windows. Warm natural light from the left.
-[Style Anchor]
+office and windows. Warm natural light from the left. Cinematic
+corporate photography, anamorphic lens, shallow depth of field,
+color graded with teal shadows and warm orange highlights (#E67E22),
+natural lighting, shot on ARRI Alexa, muted color palette with
+selective orange accents, 16:9 aspect ratio, photorealistic,
+high detail, 8K resolution
 ```
 
 **Einsatz:** Technologie-Slide, LinkedIn Post "Behind the scenes"
@@ -189,8 +207,11 @@ an orange accent bar on the left, dark charcoal text, and the URL
 "neogeo.com". Shallow depth of field, the desk surface has a subtle
 texture. The background is a soft warm blur of a bright office with
 large windows. One finger still touching the card. Minimal, premium,
-elegant feel.
-[Style Anchor]
+elegant feel. Cinematic corporate photography, anamorphic lens,
+shallow depth of field, color graded with teal shadows and warm
+orange highlights (#E67E22), natural lighting, shot on ARRI Alexa,
+muted color palette with selective orange accents, 16:9 aspect
+ratio, photorealistic, high detail, 8K resolution
 ```
 
 **Einsatz:** CTA-Slide, LinkedIn Carousel letzte Seite, E-Mail Signatur Banner
@@ -202,15 +223,15 @@ elegant feel.
 Erst den Stil-Anker pro Szene etablieren, dann die Detail-Shots:
 
 1. **Still 2.2** (Ingenieur vor Karte) — Key Visual, definiert den gesamten Look
-2. **Still 1.2** (Autobahn mit HUD) — testet Outdoor im gleichen Stil
+2. **Still 1.1** (Autobahn clean) — testet Outdoor im gleichen Stil
 3. **Still 3.1** (Team Whiteboard) — testet Personen/Innenraum
 
 Dann die restlichen 6 Shots an diesen 3 Ankern ausrichten:
 
 4. **Still 2.1** (Control Room leer) — passt zu 2.2
 5. **Still 2.3** (Server Room) — passt zu 2.1/2.2
-6. **Still 1.1** (Autobahn clean) — passt zu 1.2
-7. **Still 1.3** (Funkverkehr) — passt zu 1.2
+6. **Still 1.2** (Autobahn + HUD) — 1.1 als Referenz
+7. **Still 1.3** (Funkverkehr) — 1.2 als Referenz
 8. **Still 3.2** (Whiteboard Detail) — passt zu 3.1
 9. **Still 3.3** (Visitenkarte) — einfachste Szene, zum Schluss
 
