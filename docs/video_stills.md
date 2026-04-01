@@ -14,11 +14,11 @@ Style Anchor ist direkt in jedem Prompt eingebaut — einfach den ganzen Block k
 
 ## Szene 1 — "Die Straße"
 
-**Additiver Ansatz:** Erst die Autobahn sauber generieren, dann als Referenzbild für die nächsten Shots verwenden. Jeder Shot baut auf dem vorherigen auf.
+**Additiver Ansatz:** Erst die Autobahn sauber generieren, dann Perspektive wechseln und Details aufbauen.
 
 ### Still 1.1 — Totale Autobahn (Basis-Shot)
 
-> Dieses Bild ist die Grundlage für 1.2 und 1.3. Muss sauber sitzen.
+> Dieses Bild ist die Grundlage. Muss sauber sitzen — reine Autobahn, keine Effekte.
 
 ```
 Aerial drone photograph of a busy German Autobahn at dusk, blue
@@ -41,19 +41,48 @@ orange accents, 16:9 aspect ratio, photorealistic, high detail,
 
 ---
 
-### Still 1.2 — HUD-Overlays (Referenz: Still 1.1)
+### Still 1.2 — Kamera mitfahrend, Trailer mit GPS und Temperatur (Referenz: Still 1.1)
 
-> Still 1.1 als Referenzbild verwenden. Nur die HUD-Panels dazu beschreiben.
+> Still 1.1 als Referenzbild für Farbstimmung. Neue Perspektive: Kamera bewegt sich mit dem Verkehr.
 
 ```
-Same aerial highway scene at dusk with heavy truck traffic. Now
-each truck has a small glowing orange rectangular HUD panel floating
-directly above its roof — similar to a car head-up display
-reflection, minimal and flat, showing a tiny GPS pin icon, a small
-thermometer icon next to a horizontal bar gauge, and a circular
-tire pressure gauge. The panels are translucent and subtle, like
-augmented reality — not sci-fi. The highway scene itself stays
-exactly the same. Wet asphalt, blue hour lighting, overhead angle.
+Tracking drone photograph flying alongside traffic on a busy German
+Autobahn at dusk, blue hour lighting. The camera moves with the
+flow of traffic, shooting at a low angle from behind and slightly
+above. Several white semi-trailers and cars visible ahead on the
+highway. Each trailer has a small glowing orange HUD panel floating
+above its roof — minimal and flat like augmented reality, showing
+a GPS pin icon with a dotted route line and a thermometer icon next
+to a horizontal temperature bar gauge. The panels are translucent
+and subtle, not sci-fi. Wet asphalt reflecting tail lights, motion
+blur on the road surface suggesting speed. Cinematic corporate
+photography, anamorphic lens, shallow depth of field, color graded
+with teal shadows and warm orange highlights (#E67E22), natural
+lighting, shot on ARRI Alexa, muted color palette with selective
+orange accents, 16:9 aspect ratio, photorealistic, high detail,
+8K resolution
+```
+
+**Einsatz:** Hero Image, Website Banner, Pitch Deck Cover
+
+---
+
+### Still 1.3 — Einzelner Trailer seitlich, DCU sendet Daten (Referenz: Still 1.2)
+
+> Neuer Kamerawinkel: seitliche Nahaufnahme eines einzelnen Trailers. Zeigt die DCU (Digital Control Unit) am Trailer und deren Datenverbindung.
+
+```
+Side-angle photograph of a single white semi-trailer driving on a
+German Autobahn at dusk, shot from a drone flying alongside at roof
+height. The trailer fills the right two-thirds of the frame. A small
+black rectangular box is visible mounted under the trailer chassis
+near the rear axle — the digital control unit (DCU). From the DCU,
+thin orange concentric radio wave arcs radiate upward and outward,
+like a cell tower signal icon, representing wireless data
+transmission. A faint orange data stream line extends from the radio
+arcs upward into the sky, suggesting the data being sent to the
+cloud. The rest of the trailer is clean and realistic. Highway
+traffic blurred in the background. Wet asphalt, blue hour lighting.
 Cinematic corporate photography, anamorphic lens, shallow depth of
 field, color graded with teal shadows and warm orange highlights
 (#E67E22), natural lighting, shot on ARRI Alexa, muted color palette
@@ -61,31 +90,7 @@ with selective orange accents, 16:9 aspect ratio, photorealistic,
 high detail, 8K resolution
 ```
 
-**Einsatz:** Hero Image, Website Banner, Pitch Deck Cover
-
----
-
-### Still 1.3 — Funkverkehr / Vernetzung (Referenz: Still 1.2)
-
-> Still 1.2 als Referenzbild verwenden. Nur die Funkwellen und Verbindungslinien dazu beschreiben.
-
-```
-Same aerial highway scene at dusk with trucks and orange HUD panels.
-Now thin orange concentric radio wave arcs pulse upward between
-each truck roof and its HUD panel, like cell tower signal icons.
-Faint orange dotted lines connect neighboring HUD panels to each
-other, forming a visible data network across the highway. The arcs
-and connection lines are translucent, integrated into the scene
-like a Bloomberg Terminal overlay on reality. Everything else stays
-unchanged. Wet road, blue hour light, orange reflections. Cinematic
-corporate photography, anamorphic lens, shallow depth of field,
-color graded with teal shadows and warm orange highlights (#E67E22),
-natural lighting, shot on ARRI Alexa, muted color palette with
-selective orange accents, 16:9 aspect ratio, photorealistic,
-high detail, 8K resolution
-```
-
-**Einsatz:** IoT/Vernetzung Slide, LinkedIn Post "Connected Fleet"
+**Einsatz:** IoT/Vernetzung Slide, LinkedIn Post "Connected Fleet", Technologie-Detail
 
 ---
 

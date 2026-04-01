@@ -15,11 +15,11 @@
 
 ## Szene 1 — "Die Straße" (0-15s)
 
-**Additiver Ansatz:** Still 1.1 als Referenzbild für Kling. Jeder Shot baut auf dem vorherigen auf.
+**3 Perspektiven:** Totale → Mitfahrend → Seitlich nah. Jeder Shot wechselt den Kamerawinkel.
 
 ### Shot 1.1 — Totale Autobahn (0-5s)
 
-> Kling Input: Still 1.1 als First Frame. Nur Kamerabewegung beschreiben.
+> Kling Input: Still 1.1 als First Frame. Drohne driftet über die Autobahn.
 
 ```
 Slow aerial drone tracking shot drifting gently to the right over
@@ -33,45 +33,49 @@ Alexa, 24fps film grain, muted color palette with selective orange
 accents, 16:9 aspect ratio
 ```
 
-### Shot 1.2 — HUD-Overlays erscheinen (5-10s)
+### Shot 1.2 — Mitfahrend, Trailer mit GPS und Temperatur (5-10s)
 
-> Kling Input: Still 1.2 als First Frame. Overlays sind schon im Bild, nur Animation beschreiben.
-
-```
-Slow aerial drone tracking shot over busy highway at dusk. Small
-glowing orange HUD panels float above each truck roof, showing GPS
-pin icons, thermometer gauges, and tire pressure indicators. The
-panels glow softly and are translucent. Camera continues steady
-lateral drift to the right. The HUD panels move with their trucks.
-Cinematic corporate film, anamorphic lens, shallow depth of field,
-color graded with teal shadows and warm orange highlights (#E67E22),
-natural lighting, shot on ARRI Alexa, 24fps film grain, muted color
-palette with selective orange accents, 16:9 aspect ratio
-```
-
-### Shot 1.3 — Funkverkehr / Vernetzung (10-15s)
-
-> Kling Input: Still 1.3 als First Frame. Funkwellen sind schon im Bild, nur Animation beschreiben.
+> Kling Input: Still 1.2 als First Frame. Kamera fliegt mit dem Verkehr mit.
 
 ```
-Slow aerial drone tracking shot over busy highway at dusk. Orange
-HUD panels above each truck. Thin orange radio wave arcs pulse
-upward from truck roofs toward the panels. Faint orange dotted
-lines connect neighboring panels, forming a visible data network.
-The arcs pulse rhythmically, the connection lines glow softly.
-Camera continues steady lateral drift. Everything feels connected
-and alive. Cinematic corporate film, anamorphic lens, shallow depth
-of field, color graded with teal shadows and warm orange highlights
-(#E67E22), natural lighting, shot on ARRI Alexa, 24fps film grain,
-muted color palette with selective orange accents, 16:9 aspect ratio
+Tracking drone shot flying alongside traffic on a busy German
+Autobahn at dusk. Camera moves with the flow of traffic from behind
+and slightly above. Several white semi-trailers ahead with small
+glowing orange HUD panels floating above their roofs, showing GPS
+pin icons and thermometer gauges. The panels are translucent and
+move with the trucks. Road surface has motion blur suggesting speed.
+Steady forward camera movement. Cinematic corporate film, anamorphic
+lens, shallow depth of field, color graded with teal shadows and
+warm orange highlights (#E67E22), natural lighting, shot on ARRI
+Alexa, 24fps film grain, muted color palette with selective orange
+accents, 16:9 aspect ratio
+```
+
+### Shot 1.3 — Einzelner Trailer seitlich, DCU sendet Daten (10-15s)
+
+> Kling Input: Still 1.3 als First Frame. Kamera fliegt seitlich neben einem Trailer.
+
+```
+Side-angle drone shot flying alongside a single white semi-trailer
+on a German highway at dusk, at roof height. A small black
+rectangular digital control unit (DCU) is visible under the trailer
+chassis. From the DCU, thin orange radio wave arcs radiate upward,
+pulsing rhythmically. A faint orange data stream line extends from
+the arcs into the sky, representing data transmission to the cloud.
+The trailer drives steadily, background traffic is blurred. Camera
+holds steady alongside the trailer. Cinematic corporate film,
+anamorphic lens, shallow depth of field, color graded with teal
+shadows and warm orange highlights (#E67E22), natural lighting,
+shot on ARRI Alexa, 24fps film grain, muted color palette with
+selective orange accents, 16:9 aspect ratio
 ```
 
 **Text-Overlays (Post):**
 > *"Was passiert, wenn jeder Trailer ein IoT-Gerät wird?"* (0-5s)
 >
-> *"Zehntausende Einheiten. 20+ Länder. Echtzeit."* (5-10s)
+> *"GPS. Temperatur. Reifendruck. Alles in Echtzeit."* (5-10s)
 >
-> *"GPS. Temperatur. Reifendruck. Alles vernetzt."* (10-15s)
+> *"Von der Straße direkt in die Cloud."* (10-15s)
 
 ---
 
