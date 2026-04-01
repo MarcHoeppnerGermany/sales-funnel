@@ -27,16 +27,22 @@ high detail, 8K resolution
 
 ## Szene 1 — "Die Straße"
 
-### Still 1.1 — Totale Autobahn
+**Additiver Ansatz:** Erst die Autobahn sauber generieren, dann als Referenzbild für die nächsten Shots verwenden. Jeder Shot baut auf dem vorherigen auf.
+
+### Still 1.1 — Totale Autobahn (Basis-Shot)
+
+> Dieses Bild ist die Grundlage für 1.2 und 1.3. Muss sauber sitzen.
 
 ```
-Wide aerial drone photograph of a German Autobahn at dusk, blue
-hour lighting. Five modern white semi-trailers spread across a
-six-lane highway, each in a different lane and at varying distances
-— some overtaking, some further ahead, one just entering the frame.
-Realistic highway traffic pattern. Wet asphalt reflecting red tail
-lights. No overlays, no special effects. Shot from 45-degree
-overhead drone angle.
+Aerial drone photograph of a busy German Autobahn at dusk, blue
+hour lighting. Six-lane highway with heavy traffic — trucks,
+semi-trailers, and cars in both directions. Realistic European
+highway scene, mixed vehicle types and speeds. Wet asphalt
+reflecting hundreds of red and white headlights and tail lights.
+The highway curves gently into the distance. Green embankments
+and metal guardrails on both sides. No special effects, no
+overlays, no glowing elements. Pure photorealistic highway scene.
+Shot from 45-degree overhead drone angle.
 [Style Anchor]
 ```
 
@@ -44,19 +50,19 @@ overhead drone angle.
 
 ---
 
-### Still 1.2 — HUD-Overlays
+### Still 1.2 — HUD-Overlays (Referenz: Still 1.1)
+
+> Still 1.1 als Referenzbild verwenden. Nur die HUD-Panels dazu beschreiben.
 
 ```
-Aerial drone photograph of a German Autobahn at dusk, blue hour
-lighting. Five modern white semi-trailers spread across a six-lane
-highway at varying distances. Each trailer has a small glowing
-orange rectangular HUD panel floating directly above its roof —
-similar to a car head-up display reflection, minimal and flat,
-showing a tiny GPS pin icon with a dotted route line, a small
+Same aerial highway scene at dusk with heavy truck traffic. Now
+each truck has a small glowing orange rectangular HUD panel floating
+directly above its roof — similar to a car head-up display
+reflection, minimal and flat, showing a tiny GPS pin icon, a small
 thermometer icon next to a horizontal bar gauge, and a circular
 tire pressure gauge. The panels are translucent and subtle, like
-augmented reality. Shot from 45-degree overhead drone angle. Wet
-asphalt reflecting orange and red lights.
+augmented reality — not sci-fi. The highway scene itself stays
+exactly the same. Wet asphalt, blue hour lighting, overhead angle.
 [Style Anchor]
 ```
 
@@ -64,18 +70,19 @@ asphalt reflecting orange and red lights.
 
 ---
 
-### Still 1.3 — Funkverkehr / Vernetzung
+### Still 1.3 — Funkverkehr / Vernetzung (Referenz: Still 1.2)
+
+> Still 1.2 als Referenzbild verwenden. Nur die Funkwellen und Verbindungslinien dazu beschreiben.
 
 ```
-Closer aerial drone photograph focusing on two white semi-trailers
-on a German highway at dusk. Orange HUD panels glow above each
-roof showing GPS pin, thermometer gauge, and tire pressure icons.
-Between each trailer and its HUD panel, thin orange concentric
-radio wave arcs pulse upward like a cell tower signal icon. A faint
-orange dotted line connects the two trailers' HUD panels to each
-other, suggesting a data network. The arcs and connection lines are
-translucent, integrated into the scene like a Bloomberg Terminal
-overlay on reality. Wet road, blue hour light, orange reflections.
+Same aerial highway scene at dusk with trucks and orange HUD panels.
+Now thin orange concentric radio wave arcs pulse upward between
+each truck roof and its HUD panel, like cell tower signal icons.
+Faint orange dotted lines connect neighboring HUD panels to each
+other, forming a visible data network across the highway. The arcs
+and connection lines are translucent, integrated into the scene
+like a Bloomberg Terminal overlay on reality. Everything else stays
+unchanged. Wet road, blue hour light, orange reflections.
 [Style Anchor]
 ```
 

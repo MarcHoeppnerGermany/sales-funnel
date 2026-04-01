@@ -27,42 +27,46 @@ muted color palette with selective orange accents, 16:9 aspect ratio
 
 ## Szene 1 — "Die Straße" (0-15s)
 
+**Additiver Ansatz:** Still 1.1 als Referenzbild für Kling. Jeder Shot baut auf dem vorherigen auf.
+
 ### Shot 1.1 — Totale Autobahn (0-5s)
 
+> Kling Input: Still 1.1 als First Frame. Nur Kamerabewegung beschreiben.
+
 ```
-Wide aerial drone shot of a German Autobahn at dusk, blue hour
-lighting. Five modern white semi-trailers spread across a six-lane
-highway, each in a different lane and at varying distances — some
-overtaking, some further ahead. Realistic highway traffic pattern.
-Wet asphalt reflecting red tail lights. No overlays, no effects.
-Camera slowly drifts laterally over the highway.
+Slow aerial drone tracking shot drifting gently to the right over
+a busy German Autobahn at dusk. Heavy truck and car traffic in both
+directions. Wet asphalt reflecting red and white lights. No special
+effects, no overlays. Pure realistic highway footage. Steady,
+smooth lateral camera movement.
 [Style Anchor]
 ```
 
 ### Shot 1.2 — HUD-Overlays erscheinen (5-10s)
 
+> Kling Input: Still 1.2 als First Frame. Overlays sind schon im Bild, nur Animation beschreiben.
+
 ```
-Same aerial perspective over the Autobahn at dusk. Now each trailer
-has a small glowing orange rectangular HUD panel floating above its
-roof — similar to a car head-up display, minimal and flat, showing
-a tiny GPS pin icon with a dotted route line, a small thermometer
-icon next to a horizontal bar gauge, and a circular tire pressure
-gauge. The panels are translucent and subtle, like augmented reality.
-Camera continues lateral tracking, steady drone movement.
+Slow aerial drone tracking shot over busy highway at dusk. Small
+glowing orange HUD panels float above each truck roof, showing GPS
+pin icons, thermometer gauges, and tire pressure indicators. The
+panels glow softly and are translucent. Camera continues steady
+lateral drift to the right. The HUD panels move with their trucks.
 [Style Anchor]
 ```
 
 ### Shot 1.3 — Funkverkehr / Vernetzung (10-15s)
 
+> Kling Input: Still 1.3 als First Frame. Funkwellen sind schon im Bild, nur Animation beschreiben.
+
 ```
-Closer aerial shot focusing on two trailers on the highway at dusk.
-Orange HUD panels glow above each roof. Between each trailer and
-its HUD panel, thin orange concentric radio wave arcs pulse upward
-like a cell tower signal icon. A faint orange dotted line connects
-the two trailers' HUD panels to each other, suggesting a data
-network. The arcs and connection lines are translucent, integrated
-into the scene like a Bloomberg Terminal overlay on reality. Wet
-road, blue hour light, orange reflections.
+Slow aerial drone tracking shot over busy highway at dusk. Orange
+HUD panels above each truck. Thin orange radio wave arcs pulse
+upward from truck roofs toward the panels. Faint orange dotted
+lines connect neighboring panels, forming a visible data network.
+The arcs pulse rhythmically, the connection lines glow softly.
+Camera continues steady lateral drift. Everything feels connected
+and alive.
 [Style Anchor]
 ```
 
