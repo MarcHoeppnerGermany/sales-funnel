@@ -6,9 +6,11 @@
 - **Standalone-Bilder** für LinkedIn-Posts, Pitch Decks, Website
 - **Thumbnail** für das fertige Video
 
-Jeder Still entspricht exakt einem der 9 Shots im Video-Script.
+Jeder Still entspricht exakt einem der 6 Shots im Video-Script.
 Style Anchor ist direkt in jedem Prompt eingebaut — einfach den ganzen Block kopieren.
-Alle Prompts sind für **SeaDance 2.0** optimiert.
+Alle Prompts für **SeaDance 2.0** optimiert.
+
+**2 Szenen à 3 Shots = 6 Shots à ~5s = ~30s Gesamtlänge**
 
 ---
 
@@ -16,41 +18,43 @@ Alle Prompts sind für **SeaDance 2.0** optimiert.
 
 > Diese Beschreibungen sicherstellen, dass Personen über alle Shots konsistent aussehen. In SeaDance die gleiche Beschreibung wiederverwenden.
 
-### CHAR-A: "Der Plattform-Ingenieur" (Szene 2.2)
+### CHAR-A: "Der Disponent" (Szene 2.1)
 
 ```
-A man in his early 40s, European, medium build, short dark brown
-hair with subtle gray at the temples, clean-shaven, wearing a
-fitted dark navy crew-neck sweater over a white collared shirt.
-No glasses. Calm, focused expression. Professional and composed.
+A man in his late 40s, short gray hair buzzed on the sides, reading
+glasses pushed up on his forehead, weathered face, wearing a dark
+blue polo shirt with a small company logo on the chest. A wireless
+headset sits around his neck. His sleeves are slightly pushed up.
+He looks experienced, alert, in command. Working hands — he types
+and clicks with purpose.
 ```
 
-### CHAR-B: "Die Lead-Architektin" (Szene 3.1, 3.2)
+### CHAR-B: "Die Lead-Architektin" (Szene 2.3)
 
 ```
-A woman in her mid-30s, European, athletic build, shoulder-length
-dark auburn hair pulled back in a low ponytail, wearing a charcoal
-gray blazer over a simple white t-shirt. Small silver stud earrings.
-Confident, engaged expression. She holds an orange whiteboard marker
-in her right hand.
+A woman in her mid-30s, shoulder-length dark auburn hair pulled
+back in a low ponytail, wearing a charcoal gray blazer over a
+simple white t-shirt. Small silver stud earrings. Confident,
+engaged expression. She holds an orange whiteboard marker in her
+right hand.
 ```
 
-### CHAR-C: "Der Backend-Entwickler" (Szene 3.1)
+### CHAR-C: "Der Backend-Entwickler" (Szene 2.3)
 
 ```
-A man in his late 20s, European, slim build, short curly dark
-blond hair, light stubble, wearing a dark olive green henley shirt
-with sleeves pushed up to the elbows. Standing with arms loosely
-crossed, listening attentively. Relaxed but focused.
+A man in his late 20s, short curly dark blond hair, light stubble,
+wearing a dark olive green henley shirt with sleeves pushed up to
+the elbows. Standing with arms loosely crossed, listening
+attentively. Relaxed but focused.
 ```
 
-### CHAR-D: "Der DevOps-Ingenieur" (Szene 3.1)
+### CHAR-D: "Der DevOps-Ingenieur" (Szene 2.3)
 
 ```
-A man in his early 30s, European, medium build, short straight
-black hair, clean-shaven, wearing a simple dark blue t-shirt and
-dark jeans. Stands slightly to the side, one hand resting on the
-back of a desk chair. Engaged in the conversation, slight nod.
+A man in his early 30s, short straight black hair, clean-shaven,
+wearing a simple dark blue t-shirt and dark jeans. Stands slightly
+to the side, one hand resting on the back of a desk chair. Engaged
+in the conversation, slight nod.
 ```
 
 ---
@@ -73,23 +77,26 @@ the distance. Light mist in the air. The highway curves gently
 to the right.
 ```
 
-### LOC-2: "Der Control Room" (Szene 2.1, 2.2)
+### LOC-2: "Die Leitstelle / Disposition" (Szene 2.1)
 
 ```
-A modern network operations center (NOC) in a tech company. Dark
-room, approximately 8 meters wide and 6 meters deep. The back wall
-is dominated by a single large curved LED video wall (approximately
-4 meters wide, 2 meters tall) mounted at eye level. The display
-shows a dark-themed European map with hundreds of small orange
-glowing dots and faint route lines. Below the video wall, a sleek
-dark desk with two smaller monitors (powered off). Raised dark gray
-carpet flooring. Recessed ceiling spotlights turned low. Ambient
-blue-white indirect LED lighting along the ceiling edges. No
-windows. Glass entrance door on the left side. Clean, minimal,
-no clutter. The room feels like a command center.
+A busy fleet management dispatch office, approximately 5 meters
+wide and 4 meters deep. A large L-shaped desk dominates the room,
+with three widescreen monitors (27-inch each) arranged in a slight
+curve. The center monitor shows a dark-themed European map with
+hundreds of small orange glowing dots (tracked trailers) and faint
+route lines. The left monitor shows a list view with status rows
+and colored indicators. The right monitor shows a detail view with
+a single trailer route, temperature graph, and ETA countdown. A
+desk phone, a coffee mug, a stack of printed route sheets, and a
+wireless headset charger sit on the desk. One wall has a large
+printed European highway map with handwritten sticky notes. Overhead
+fluorescent office lighting, slightly warm. A glass wall on one
+side with a view into a larger open-plan office. The room feels
+operational — lived in, productive, under control.
 ```
 
-### LOC-3: "Der Server Room" (Szene 2.3)
+### LOC-3: "Das Datacenter" (Szene 2.2)
 
 ```
 A Tier-3 data center server room, approximately 15 meters deep.
@@ -106,7 +113,7 @@ on the far wall. Cable trays running along the ceiling. The room
 is spotless, sterile, perfectly organized. Cool air visible.
 ```
 
-### LOC-4: "Das Engineering-Büro" (Szene 3)
+### LOC-4: "Das Engineering-Büro" (Szene 2.3)
 
 ```
 A bright, modern open-plan office in a German tech company,
@@ -119,17 +126,18 @@ A large wall-mounted whiteboard (approximately 2 meters wide,
 diagrams drawn in orange and blue markers — boxes, arrows, cloud
 icons, database symbols. Three standing desks with dual monitors
 in the background, screens showing abstract dark-themed dashboards
-(no readable text). A few green potted plants on window sills. 
+(no readable text). A few green potted plants on window sills.
 White walls, minimal decoration. A glass-walled meeting room
-visible in the far background. The atmosphere is bright, clean,
-and productive.
+visible in the far background. On the wall next to the whiteboard,
+a framed TISAX certificate with a dark frame and orange seal.
+The atmosphere is bright, clean, and productive.
 ```
 
 ---
 
 ## Szene 1 — "Die Straße"
 
-**3 Perspektiven:** Weit → Mitfahrend → Seitlich nah. Kamera kommt dem Trailer immer näher.
+**3 Perspektiven:** Weit oben → Seitlich mitfahrend → Umflug, DCU-Detail.
 
 ### Still 1.1 — Totale Autobahn, Drohne nähert sich
 
@@ -191,7 +199,7 @@ detail, 8K resolution
 
 ### Still 1.3 — Kamera fliegt über Trailer, DCU hinter Stirnwand sichtbar
 
-> Kamera hat den Trailer umflogen und zeigt ihn jetzt von der gegenüberliegenden Seite, leicht von oben. DCU sitzt direkt hinter der Stirnwand, nahe dem Königszapfen (Kingpin). Funkverbindung wird visualisiert.
+> Kamera hat den Trailer umflogen und zeigt ihn jetzt von der gegenüberliegenden Seite. DCU direkt hinter Stirnwand, nahe Königszapfen. Funkverbindung visualisiert.
 
 ```
 Aerial side-angle photograph of a single white semi-trailer with
@@ -224,68 +232,44 @@ accents, 16:9 aspect ratio, photorealistic, high detail,
 
 ## Szene 2 — "Die Plattform"
 
-### Still 2.1 — Control Room Totale, leer
+**Story-Bogen:** Die Daten kommen an → Disponent arbeitet damit → Datacenter dahinter → Engineering-Team das alles gebaut hat.
 
-> Leerer Control Room, die Europakarte leuchtet. Kamera steht am Eingang.
+### Still 2.1 — Disponent überwacht die Flotte
+
+> CHAR-A sitzt an seinem Arbeitsplatz, überwacht hunderte Trailer, gibt Anweisungen. Aktive Arbeitsszene.
 
 ```
-Wide shot photograph from the glass entrance door looking into a
-modern network operations center. LOC-2: Dark room, approximately
-8 meters wide. A single large curved LED video wall (4 meters wide,
-2 meters tall) dominates the back wall, displaying a dark-themed
-European map with hundreds of small orange glowing dots representing
-tracked trailers, connected by faint gray route lines. Subtle
-circular gauges and spark line charts at the edges of the display.
-Below the video wall, a sleek dark desk with two smaller monitors
-(powered off). The room is empty, no people. Raised dark gray
-carpet floor. Recessed ceiling spotlights turned low. Ambient
-blue-white indirect LED lighting along ceiling edges. Warm orange
-reflections from the display on the floor and desk surfaces. The
-glass door frame is visible at the left edge of the photograph.
-Clean, minimal, no clutter. Cinematic corporate photography,
-anamorphic lens, shallow depth of field, color graded with teal
-shadows and warm orange highlights (#E67E22), natural lighting,
-shot on ARRI Alexa, muted color palette with selective orange
-accents, 16:9 aspect ratio, photorealistic, high detail,
-8K resolution
+Medium shot photograph of CHAR-A — a man in his late 40s, short
+gray hair buzzed on the sides, reading glasses pushed up on his
+forehead, wearing a dark blue polo shirt with a small company logo
+— sitting at a large L-shaped desk in a fleet dispatch office
+(LOC-2). Three widescreen monitors curve in front of him. The
+center monitor shows a dark-themed European map with hundreds of
+small orange glowing dots representing tracked trailers and faint
+route lines. The left monitor shows a list view with status rows
+and colored indicators. The right monitor shows a detail view with
+a single trailer route and temperature graph. His right hand is on
+the mouse, clicking. His left hand holds a wireless headset that
+he is lifting toward his ear — he is about to give an instruction.
+A desk phone, coffee mug, and stack of printed route sheets sit
+on the desk. A large printed European highway map with sticky notes
+is on the wall behind him. Shot from a slight angle to the right,
+showing his profile and all three monitors. Overhead fluorescent
+lighting, slightly warm. Glass wall on the left with a view into a
+larger office. Cinematic corporate photography, anamorphic lens,
+shallow depth of field, color graded with teal shadows and warm
+orange highlights (#E67E22), natural lighting, shot on ARRI Alexa,
+muted color palette with selective orange accents, 16:9 aspect
+ratio, photorealistic, high detail, 8K resolution
 ```
 
-**Einsatz:** Plattform-Slide, Website "Was wir tun"
+**Einsatz:** Plattform-Slide, Website "Was wir tun", LinkedIn "Die Daten kommen an"
 
 ---
 
-### Still 2.2 — Plattform-Ingenieur vor der Karte
+### Still 2.2 — Datacenter / Sicherheit
 
-> CHAR-A steht im Control Room vor der Europakarte. Over-the-shoulder, Silhouette.
-
-```
-Over-the-shoulder photograph from behind CHAR-A — a man in his
-early 40s, European, medium build, short dark brown hair with
-subtle gray at the temples, clean-shaven, wearing a fitted dark
-navy crew-neck sweater over a white collared shirt. He stands with
-arms crossed in the center of a modern network operations center,
-facing a large curved LED video wall displaying a dark-themed
-European map with hundreds of pulsing orange dots and faint route
-lines. His silhouette is dark and sharp against the glowing map.
-The room is dark with ambient blue-white LED lighting along the
-ceiling edges. Orange light from the display reflects on his
-sweater and the dark desk in front of him. Camera is positioned
-behind his right shoulder, slightly below eye level. The atmosphere
-is calm, controlled, powerful. No readable text on the display.
-Cinematic corporate photography, anamorphic lens, shallow depth of
-field, color graded with teal shadows and warm orange highlights
-(#E67E22), natural lighting, shot on ARRI Alexa, muted color
-palette with selective orange accents, 16:9 aspect ratio,
-photorealistic, high detail, 8K resolution
-```
-
-**Einsatz:** Key Visual — LinkedIn, Pitch Deck Hero, DOCX Deckblatt
-
----
-
-### Still 2.3 — Server Room / TISAX Sicherheit
-
-> Kamera blickt durch die Sicherheitstür in den Server Room.
+> Blick durch die Sicherheitstür in den Server Room. Sicherheit, Kontrolle, TISAX.
 
 ```
 Photograph taken from just inside a heavy glass security door with
@@ -296,28 +280,26 @@ in hot-aisle/cold-aisle configuration. Each rack has blue and
 orange LED status indicators in perfect vertical rows. White raised
 flooring with perforated tiles. Bright cool-white overhead
 fluorescent lighting. A wall-mounted 24-inch monitor on the right
-wall near the entrance displays a dark security dashboard with
-green checkmark icons and lock symbols. Cable trays run along the
-ceiling. Temperature displays visible on the far wall. Everything
-is spotless, sterile, perfectly organized. The heavy glass door
-frame is visible at the edges of the photograph, conveying
-restricted access and high security. Cool air atmosphere.
-Cinematic corporate photography, anamorphic lens, shallow depth of
-field, color graded with teal shadows and warm orange highlights
-(#E67E22), natural lighting, shot on ARRI Alexa, muted color
-palette with selective orange accents, 16:9 aspect ratio,
-photorealistic, high detail, 8K resolution
+wall displays a dark security dashboard with green checkmark icons
+and lock symbols. Cable trays along the ceiling. Temperature
+displays visible on the far wall. Everything is spotless, sterile,
+perfectly organized. The heavy glass door frame is visible at the
+edges of the photograph, conveying restricted access and high
+security. Cool air atmosphere. Cinematic corporate photography,
+anamorphic lens, shallow depth of field, color graded with teal
+shadows and warm orange highlights (#E67E22), natural lighting,
+shot on ARRI Alexa, muted color palette with selective orange
+accents, 16:9 aspect ratio, photorealistic, high detail,
+8K resolution
 ```
 
 **Einsatz:** TISAX / Security Slide, LinkedIn Post "Vertrauen", Trust-Sektion Website
 
 ---
 
-## Szene 3 — "Die Ingenieure"
+### Still 2.3 — Engineering-Team + TISAX
 
-### Still 3.1 — Team am Whiteboard
-
-> CHAR-B, CHAR-C und CHAR-D diskutieren Architektur im Engineering-Büro. Seitlicher Winkel.
+> CHAR-B, CHAR-C, CHAR-D diskutieren Architektur. TISAX-Zertifikat sichtbar an der Wand.
 
 ```
 Medium shot photograph in a bright modern open-plan office (LOC-4).
@@ -327,79 +309,26 @@ software engineers stand around a large wall-mounted whiteboard
 (2 meters wide) covered with architecture diagrams drawn in orange
 and blue markers — boxes, arrows, cloud icons, database symbols.
 
-Left: CHAR-B — a woman in her mid-30s, European, athletic build,
-shoulder-length dark auburn hair in a low ponytail, wearing a
-charcoal gray blazer over a white t-shirt, small silver stud
-earrings. She points at a diagram node with an orange marker in
-her right hand.
+Left: CHAR-B — a woman in her mid-30s, shoulder-length dark auburn
+hair in a low ponytail, wearing a charcoal gray blazer over a white
+t-shirt, small silver stud earrings. She points at a diagram node
+with an orange marker in her right hand.
 
-Center: CHAR-C — a man in his late 20s, European, slim build, short
-curly dark blond hair, light stubble, wearing a dark olive green
-henley shirt with sleeves pushed up. Arms loosely crossed, listening
-attentively.
+Center: CHAR-C — a man in his late 20s, short curly dark blond
+hair, light stubble, wearing a dark olive green henley shirt with
+sleeves pushed up. Arms loosely crossed, listening attentively.
 
-Right: CHAR-D — a man in his early 30s, European, medium build,
-short straight black hair, clean-shaven, wearing a dark blue
-t-shirt. Stands slightly to the side, one hand on the back of a
-desk chair, engaged, slight nod.
+Right: CHAR-D — a man in his early 30s, short straight black hair,
+clean-shaven, wearing a dark blue t-shirt. One hand on desk chair
+back, engaged, slight nod.
+
+On the wall next to the whiteboard, a framed TISAX certificate
+with a dark frame and an orange seal is clearly visible.
 
 Shot from a slight angle from the right, capturing the team dynamic
 from the side — no direct frontal faces visible. Standing desks
 with dual monitors showing abstract dark dashboards in the
-background. A few green potted plants on window sills. Cinematic
-corporate photography, anamorphic lens, shallow depth of field,
-color graded with teal shadows and warm orange highlights (#E67E22),
-natural lighting, shot on ARRI Alexa, muted color palette with
-selective orange accents, 16:9 aspect ratio, photorealistic, high
-detail, 8K resolution
-```
-
-**Einsatz:** "Über uns" Sektion, LinkedIn Team-Post, Pitch Deck "Wer wir sind"
-
----
-
-### Still 3.2 — Detail: CHAR-B zeichnet am Whiteboard
-
-> Nahaufnahme von CHAR-Bs Hand am Whiteboard. Architektur-Diagramm in Orange und Blau.
-
-```
-Close-up photograph of a whiteboard in a bright office (LOC-4).
-Architecture diagrams drawn in orange and blue markers — rounded
-rectangular boxes connected by arrows, small cloud icons and
-database cylinder symbols, no readable text. CHAR-B's right hand
-— a woman's hand with short natural nails and small silver stud
-bracelet — holds an orange whiteboard marker and draws a new
-connecting arrow between two diagram nodes. Her charcoal gray
-blazer sleeve is visible at the wrist. Shallow depth of field,
-the background is a soft warm blur of floor-to-ceiling windows
-with daylight and green potted plants on the sill. Warm natural
-light from the left. Cinematic corporate photography, anamorphic
-lens, shallow depth of field, color graded with teal shadows and
-warm orange highlights (#E67E22), natural lighting, shot on ARRI
-Alexa, muted color palette with selective orange accents, 16:9
-aspect ratio, photorealistic, high detail, 8K resolution
-```
-
-**Einsatz:** Technologie-Slide, LinkedIn Post "Behind the scenes"
-
----
-
-### Still 3.3 — Visitenkarte / CTA
-
-> CHAR-A legt Visitenkarte auf einen Schreibtisch im Engineering-Büro.
-
-```
-Extreme close-up photograph in the engineering office (LOC-4). A
-man's hand — CHAR-A, wearing a fitted dark navy crew-neck sweater,
-sleeve visible at the wrist — places a business card on a clean
-light oak desk surface. The card shows a minimalist design: an
-orange accent bar on the left edge, dark charcoal text, and the
-URL "neogeo.com". The card is crisp and white against the warm oak.
-Shallow depth of field, the desk surface has a subtle wood grain
-texture. The background is a soft warm blur of floor-to-ceiling
-windows with bright daylight streaming in, green potted plants on
-the sill barely visible. One index finger still touching the top
-edge of the card. Minimal, premium, elegant. Cinematic corporate
+background. Green potted plants on window sills. Cinematic corporate
 photography, anamorphic lens, shallow depth of field, color graded
 with teal shadows and warm orange highlights (#E67E22), natural
 lighting, shot on ARRI Alexa, muted color palette with selective
@@ -407,36 +336,32 @@ orange accents, 16:9 aspect ratio, photorealistic, high detail,
 8K resolution
 ```
 
-**Einsatz:** CTA-Slide, LinkedIn Carousel letzte Seite, E-Mail Signatur Banner
+**Einsatz:** "Über uns", LinkedIn Team-Post, Pitch Deck "Wer wir sind", TISAX-Slide
 
 ---
 
 ## Generierungs-Reihenfolge
 
-Erst die Stil-Anker pro Szene, dann Detail-Shots:
+1. **Still 1.1** (Autobahn Totale) — Outdoor-Basis
+2. **Still 2.1** (Disponent) — Key Visual Indoor + erster Charakter
+3. **Still 2.3** (Team Whiteboard) — 3 Personen + TISAX
 
-1. **Still 1.1** (Autobahn Totale) — Outdoor-Basis, muss sauber sitzen
-2. **Still 2.2** (CHAR-A vor Karte) — Key Visual, definiert Indoor-Look + Charakter
-3. **Still 3.1** (Team Whiteboard) — testet 3 Personen + Büro-Location
-
-Dann die restlichen 6 Shots:
+Dann:
 
 4. **Still 1.2** (Mitfahrend + HUDs) — Stil von 1.1
 5. **Still 1.3** (DCU-Detail) — Stil von 1.1/1.2
-6. **Still 2.1** (Control Room leer) — Location von 2.2
-7. **Still 2.3** (Server Room) — neue Location, Stil von 2.1
-8. **Still 3.2** (Whiteboard Detail) — CHAR-B aus 3.1
-9. **Still 3.3** (Visitenkarte) — CHAR-A aus 2.2 + LOC-4 aus 3.1
+6. **Still 2.2** (Datacenter) — Übergang von 2.1 zu 2.3
 
 ---
 
 ## Konsistenz-Checkliste
 
-- [ ] **Alle 9 Stills generiert**
-- [ ] **4 Charaktere konsistent** über alle Shots
-- [ ] **4 Locations konsistent** über alle Shots
+- [ ] **Alle 6 Stills generiert**
+- [ ] **4 Charaktere konsistent** (CHAR-A bis D, gleiche Beschreibung in jedem Shot)
+- [ ] **4 Locations konsistent** (LOC-1 bis 4)
+- [ ] **TISAX-Zertifikat sichtbar** in Still 2.3
 - [ ] **Orange (#E67E22) ist einzige Akzentfarbe** in jedem Bild
-- [ ] **Keine frontalen Gesichter** — Silhouette, Seite, Over-Shoulder
+- [ ] **Keine frontalen Gesichter** — Profil, Seite, Over-Shoulder
 - [ ] **Kein lesbarer Code/Text auf Bildschirmen**
 - [ ] **Gleiche Farbtemperatur** — teal/blau Schatten, warme Orange-Highlights
 - [ ] **Konsistenter Film-Look** — Grain, Shallow DOF, Anamorphic
