@@ -340,6 +340,96 @@ orange accents, 16:9 aspect ratio, photorealistic, high detail,
 
 ---
 
+## Szene 3 — "Der Abschluss"
+
+**Story:** Vom Detail der Arbeit → zum menschlichen Moment → zur Einladung.
+
+### Still 3.1 — Detail: CHAR-B zeichnet am Whiteboard
+
+> Nahaufnahme von CHAR-Bs Hand am Whiteboard. Architektur-Diagramm in Orange und Blau. Zeigt: hier wird wirklich gearbeitet, echte Ingenieure bauen echte Systeme.
+
+```
+Close-up photograph of a whiteboard in a bright office (LOC-4).
+Architecture diagrams drawn in orange and blue markers — rounded
+rectangular boxes connected by arrows, small cloud icons and
+database cylinder symbols, no readable text. CHAR-B's right hand
+— a hand with short natural nails and a small silver bracelet —
+holds an orange whiteboard marker and draws a new connecting arrow
+between two diagram nodes. A charcoal gray blazer sleeve is visible
+at the wrist. Shallow depth of field, the background is a soft warm
+blur of floor-to-ceiling windows with daylight and green potted
+plants on the sill. Warm natural light from the left illuminates
+the hand and whiteboard surface. The marker tip touches the board
+at the point of drawing. Cinematic corporate photography, anamorphic
+lens, shallow depth of field, color graded with teal shadows and
+warm orange highlights (#E67E22), natural lighting, shot on ARRI
+Alexa, muted color palette with selective orange accents, 16:9
+aspect ratio, photorealistic, high detail, 8K resolution
+```
+
+**Einsatz:** Technologie-Slide, LinkedIn Post "Behind the scenes"
+
+---
+
+### Still 3.2 — Disponent und Lead-Architektin im Gespräch
+
+> CHAR-A (Disponent) und CHAR-B (Architektin) stehen zusammen im Engineering-Büro, diskutieren über ein Tablet oder Ausdruck. Verbindet die beiden Welten: Betrieb trifft Entwicklung.
+
+```
+Medium shot photograph in the bright engineering office (LOC-4).
+Two figures stand beside a standing desk near the floor-to-ceiling
+windows. On the left: CHAR-A — short gray hair buzzed on sides,
+reading glasses now on nose, dark blue polo shirt with company
+logo — holds a tablet in both hands, angled toward the other
+person, showing a dark screen with an orange route map. On the
+right: CHAR-B — shoulder-length dark auburn hair in low ponytail,
+charcoal gray blazer over white t-shirt, silver stud earrings —
+leans slightly forward looking at the tablet, one hand raised
+with index finger pointing at the screen. Both stand in profile
+to the camera, faces turned slightly toward the tablet between
+them. Warm natural daylight from the windows behind them creates
+a soft rim light on their shoulders. The whiteboard with orange
+and blue diagrams is visible on the wall in the background, along
+with the framed TISAX certificate. Light oak flooring. Cinematic
+corporate photography, anamorphic lens, shallow depth of field,
+color graded with teal shadows and warm orange highlights (#E67E22),
+natural lighting, shot on ARRI Alexa, muted color palette with
+selective orange accents, 16:9 aspect ratio, photorealistic, high
+detail, 8K resolution
+```
+
+**Einsatz:** "Brücke Betrieb/Entwicklung", LinkedIn Post, Pitch Deck "So arbeiten wir"
+
+---
+
+### Still 3.3 — Visitenkarte / CTA
+
+> CHAR-A legt Visitenkarte auf den Schreibtisch. Der letzte Frame: Einladung zum Kontakt.
+
+```
+Extreme close-up photograph in the engineering office (LOC-4). A
+hand — short gray hair visible at the wrist edge of a dark blue
+polo shirt sleeve — places a business card on a clean light oak
+desk surface. The card shows a minimalist white design: an orange
+accent bar on the left edge, dark charcoal text, and the URL
+"neogeo.com" clearly legible. The card is crisp white against the
+warm oak wood grain. Shallow depth of field. The background is a
+soft warm blur of floor-to-ceiling windows with bright afternoon
+daylight streaming in, green potted plants barely visible on the
+sill, the faint shape of the team still standing at the whiteboard
+further back. One index finger still touches the top edge of the
+card. Minimal, premium, elegant. Cinematic corporate photography,
+anamorphic lens, shallow depth of field, color graded with teal
+shadows and warm orange highlights (#E67E22), natural lighting,
+shot on ARRI Alexa, muted color palette with selective orange
+accents, 16:9 aspect ratio, photorealistic, high detail,
+8K resolution
+```
+
+**Einsatz:** CTA-Slide, LinkedIn Carousel letzte Seite, E-Mail Signatur Banner
+
+---
+
 ## Generierungs-Reihenfolge
 
 1. **Still 1.1** (Autobahn Totale) — Outdoor-Basis
@@ -351,15 +441,18 @@ Dann:
 4. **Still 1.2** (Mitfahrend + HUDs) — Stil von 1.1
 5. **Still 1.3** (DCU-Detail) — Stil von 1.1/1.2
 6. **Still 2.2** (Datacenter) — Übergang von 2.1 zu 2.3
+7. **Still 3.1** (Whiteboard Detail) — CHAR-B aus 2.3
+8. **Still 3.2** (Disponent + Architektin) — CHAR-A + CHAR-B zusammen
+9. **Still 3.3** (Visitenkarte) — CTA, zum Schluss
 
 ---
 
 ## Konsistenz-Checkliste
 
-- [ ] **Alle 6 Stills generiert**
+- [ ] **Alle 9 Stills generiert**
 - [ ] **4 Charaktere konsistent** (CHAR-A bis D, gleiche Beschreibung in jedem Shot)
 - [ ] **4 Locations konsistent** (LOC-1 bis 4)
-- [ ] **TISAX-Zertifikat sichtbar** in Still 2.3
+- [ ] **TISAX-Zertifikat sichtbar** in Still 2.3 und 3.2
 - [ ] **Orange (#E67E22) ist einzige Akzentfarbe** in jedem Bild
 - [ ] **Keine frontalen Gesichter** — Profil, Seite, Over-Shoulder
 - [ ] **Kein lesbarer Code/Text auf Bildschirmen**

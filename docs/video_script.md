@@ -2,8 +2,8 @@
 
 ## Format & Spezifikationen
 
-- **Länge:** ~30 Sekunden (2 Szenen à max. 15s)
-- **Struktur:** 2 Szenen × 3 Shots = 6 Shots à ~5s
+- **Länge:** ~45 Sekunden (3 Szenen à max. 15s)
+- **Struktur:** 3 Szenen × 3 Shots = 9 Shots à ~5s
 - **Aspect Ratio:** 16:9 (LinkedIn / Website)
 - **Untertitel:** Immer eingeblendet (80% schauen ohne Ton)
 - **Musik:** Ambient Tech-Track, seriös, kein Beat-Drop
@@ -14,7 +14,7 @@
 
 Charakter- und Location-Beschreibungen: siehe `video_stills.md`
 
-**Story:** Trailer auf der Straße → DCU sendet Daten → Disponent empfängt und steuert → Datacenter verarbeitet → Engineering-Team hat alles gebaut (TISAX-zertifiziert)
+**Story:** Trailer auf der Straße → DCU sendet Daten → Disponent empfängt und steuert → Datacenter verarbeitet → Engineering-Team hat alles gebaut (TISAX) → Betrieb trifft Entwicklung → Einladung zum Kontakt
 
 ---
 
@@ -202,12 +202,91 @@ palette with selective orange accents, 16:9 aspect ratio
 
 ---
 
+## Szene 3 — "Der Abschluss" (30-45s)
+
+**Story:** Detail der Arbeit → Betrieb trifft Entwicklung → Einladung.
+
+### Shot 3.1 — Detail: CHAR-B zeichnet am Whiteboard (30-35s)
+
+> SeaDance Input: Still 3.1 als First Frame. Nahaufnahme Hand + Whiteboard.
+
+```
+Close-up in a bright engineering office. Architecture diagrams in
+orange and blue markers on a whiteboard — rounded boxes connected
+by arrows, cloud icons, database cylinders, no readable text. A
+right hand with short natural nails and a small silver bracelet
+holds an orange marker and draws a new connecting arrow between two
+nodes. A charcoal gray blazer sleeve visible at the wrist. Shallow
+depth of field, background is a soft warm blur of floor-to-ceiling
+windows with daylight and green plants on the sill. Camera static,
+focused on the hand and diagram. The marker tip moves slowly across
+the whiteboard surface. Cinematic corporate film, anamorphic lens,
+shallow depth of field, color graded with teal shadows and warm
+orange highlights (#E67E22), natural lighting, shot on ARRI Alexa,
+24fps film grain, muted color palette with selective orange accents,
+16:9 aspect ratio
+```
+
+### Shot 3.2 — Disponent und Lead-Architektin im Gespräch (35-40s)
+
+> SeaDance Input: Still 3.2 als First Frame. CHAR-A und CHAR-B diskutieren über Tablet.
+
+```
+Medium shot in a bright engineering office with floor-to-ceiling
+windows. Two figures stand beside a standing desk. On the left:
+CHAR-A — short gray hair buzzed on sides, reading glasses on nose,
+dark blue polo shirt — holds a tablet in both hands angled toward
+the other person, dark screen with an orange route map visible. On
+the right: CHAR-B — shoulder-length dark auburn hair in low
+ponytail, charcoal gray blazer over white t-shirt — leans forward
+looking at the tablet, one hand raised with index finger pointing
+at the screen. Both in profile to camera, faces turned toward the
+tablet between them. Warm daylight from windows behind creates soft
+rim light on their shoulders. Whiteboard with orange and blue
+diagrams and framed TISAX certificate visible in background. Camera
+static with subtle handheld sway. Cinematic corporate film,
+anamorphic lens, shallow depth of field, color graded with teal
+shadows and warm orange highlights (#E67E22), natural lighting,
+shot on ARRI Alexa, 24fps film grain, muted color palette with
+selective orange accents, 16:9 aspect ratio
+```
+
+### Shot 3.3 — Visitenkarte / CTA (40-45s)
+
+> SeaDance Input: Still 3.3 als First Frame. CHAR-A legt Visitenkarte auf Schreibtisch.
+
+```
+Extreme close-up in a bright engineering office. A hand in a dark
+blue polo shirt sleeve places a business card on a clean light oak
+desk surface. The card: minimalist white design, orange accent bar
+on left edge, dark charcoal text, URL "neogeo.com". Crisp white
+card against warm oak wood grain. Shallow depth of field. Background
+is a soft warm blur of floor-to-ceiling windows with bright daylight,
+the faint shapes of the team at the whiteboard further back. One
+index finger still touches the top edge of the card. Camera slowly
+racks focus from the card to the bright window behind. Minimal,
+premium, elegant. Cinematic corporate film, anamorphic lens, shallow
+depth of field, color graded with teal shadows and warm orange
+highlights (#E67E22), natural lighting, shot on ARRI Alexa, 24fps
+film grain, muted color palette with selective orange accents,
+16:9 aspect ratio
+```
+
+**Text-Overlays (Post):**
+> *"30+ Jahre Engineering. Deutsches Team."* (30-35s)
+>
+> *"Alleiniger Entwicklungspartner. 100% Eigenleistung."* (35-40s)
+>
+> *"Bereit für Ihre IoT-Plattform? → neogeo.com"* (40-45s)
+
+---
+
 ## Konsistenz-Checkliste
 
-- [ ] **6 Shots einzeln generiert**
+- [ ] **9 Shots einzeln generiert**
 - [ ] **4 Charaktere konsistent** (CHAR-A bis D)
 - [ ] **4 Locations konsistent** (LOC-1 bis 4)
-- [ ] **TISAX-Zertifikat sichtbar** in Shot 2.3
+- [ ] **TISAX-Zertifikat sichtbar** in Shot 2.3 und 3.2
 - [ ] **Orange (#E67E22) als einzige Akzentfarbe**
 - [ ] **Keine frontalen Gesichtsaufnahmen** — Profil, Seite, Over-Shoulder
 - [ ] **Kein lesbarer Code/Text auf Bildschirmen**

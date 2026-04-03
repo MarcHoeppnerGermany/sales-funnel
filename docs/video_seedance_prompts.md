@@ -71,6 +71,38 @@ Still-Bilder als First Frame hochladen (siehe `video_stills.md`), dann den passe
 
 ---
 
+---
+
+## Shot 3.1 — Detail: CHAR-B zeichnet am Whiteboard
+
+> First Frame: Still 3.1
+
+```json
+[{"lang":"en","prompt":"Style & Mood: Warm natural daylight, golden-hour softness. Shallow depth of field isolating hand and whiteboard. Orange (#E67E22) marker ink as dominant color accent against white board surface. Anamorphic lens bokeh in background. Intimate, precise, hands-on craftsmanship. Dynamic Description: Static close-up locked on a whiteboard surface in a bright office. Architecture diagrams fill the board — rounded rectangular boxes connected by arrows in orange and blue marker, small cloud icons, database cylinder symbols. A right hand enters frame from the lower left, holding an orange whiteboard marker. Short natural nails, a small silver bracelet at the wrist, charcoal gray blazer sleeve visible. The marker tip touches the board and draws a slow connecting arrow between two nodes — the ink line extending smoothly across the white surface. The hand pauses at the endpoint, then lifts the marker. Behind the whiteboard, the background dissolves into warm bokeh: floor-to-ceiling windows, daylight, green potted plant shapes on the sill. Static Description: Bright engineering office. Wall-mounted whiteboard with orange and blue architecture diagrams — boxes, arrows, cloud icons, database cylinders. No readable text. Floor-to-ceiling windows with daylight. Green plants on sills."},{"lang":"zh","prompt":"风格与氛围：温暖自然日光，黄金时段柔和质感。浅景深隔离手部与白板。橙色（#E67E22）标记墨水作为白板表面上主导色彩强调。变形镜头背景散景。亲密、精确、手工匠人感。动态描述：静态特写锁定明亮办公室白板表面。架构图铺满白板——圆角矩形框由橙蓝标记笔箭头连接，小型云图标，数据库圆柱符号。一只右手从画面左下方入画，持橙色白板笔。短自然指甲，腕部小型银色手链，炭灰色西装外套袖口可见。笔尖触及白板，缓慢绘制两个节点间连接箭头——墨线在白色表面平滑延伸。手在终点停顿，随后提起标记笔。白板后方背景化为温暖散景：落地窗、日光、窗台绿色盆栽轮廓。静态描述：明亮工程办公室。壁挂白板配橙蓝架构图——方框、箭头、云图标、数据库圆柱。无可读文字。落地窗配日光。窗台绿植。"}]
+```
+
+---
+
+## Shot 3.2 — Disponent und Lead-Architektin im Gespräch
+
+> First Frame: Still 3.2
+
+```json
+[{"lang":"en","prompt":"Style & Mood: Warm afternoon daylight from behind, rim-lighting two figures in profile. Teal shadow tones with selective orange (#E67E22) from the tablet screen route map. Anamorphic lens, shallow depth of field. Collaborative moment — operations meets engineering. Dynamic Description: Medium shot in a bright engineering office beside floor-to-ceiling windows. Two figures stand in profile to camera near a standing desk. On the left: a figure with short gray hair buzzed on sides, reading glasses on nose, dark blue polo shirt with company logo — holds a tablet in both hands, screen angled toward the other person. The dark tablet screen shows an orange route map with dot clusters. On the right: a figure with shoulder-length dark auburn hair in a low ponytail, charcoal gray blazer over white t-shirt, silver stud earrings — leans forward, one hand raised, index finger pointing at a spot on the tablet screen. Both faces turned toward the tablet between them, profiles lit by warm window light from behind creating soft rim glow on shoulders and hair edges. In the background: the whiteboard with orange and blue architecture diagrams, and beside it a framed TISAX certificate with dark frame and orange seal. Camera holds with subtle handheld sway. Light oak flooring. Static Description: Bright open-plan engineering office, floor-to-ceiling south-facing windows, afternoon daylight. Standing desk with dual monitors. Whiteboard with architecture diagrams. Framed TISAX certificate. Light oak hardwood floor. Green potted plants on sills."},{"lang":"zh","prompt":"风格与氛围：温暖午后日光从身后照射，轮廓光勾勒两个侧面人影。青色阴影色调搭配选择性橙色（#E67E22）来自平板屏幕路线图。变形镜头，浅景深。协作时刻——运营遇见工程。动态描述：中景，明亮工程办公室，落地窗旁。两个身影侧面朝向摄影机站在站立桌旁。左侧：短灰发两侧推剪，鼻梁上架老花镜，深蓝Polo衫配公司标志——双手持平板电脑，屏幕朝向另一人。深色平板屏幕显示橙色路线图和点群。右侧：深赤褐色及肩发束低马尾，炭灰色西装外套内搭白色T恤，银色耳钉——身体前倾，一只手抬起食指指向平板屏幕某处。两人面部转向两人间的平板，侧脸被身后窗户暖光照亮，肩部和发丝边缘形成柔和轮廓光。背景中：白板配橙蓝架构图，旁边深色画框裱装TISAX证书配橙色印章。摄影机保持轻微手持晃动。浅橡木地板。静态描述：明亮开放式工程办公室，朝南落地窗，午后日光。站立桌配双显示器。白板配架构图。裱框TISAX证书。浅橡木硬木地板。窗台绿植。"}]
+```
+
+---
+
+## Shot 3.3 — Visitenkarte / CTA
+
+> First Frame: Still 3.3
+
+```json
+[{"lang":"en","prompt":"Style & Mood: Warm daylight, extreme shallow depth of field. Orange (#E67E22) accent bar on the business card as sole color pop against neutral oak and white. Anamorphic lens, macro-like intimacy. Premium, minimal, invitation. Dynamic Description: Extreme close-up in a bright office. A hand in a dark blue polo shirt sleeve descends into frame from above and places a white business card onto a clean light oak desk surface. The card: minimalist design, orange accent bar running vertically along the left edge, dark charcoal text, the URL neogeo.com. The card is crisp white against warm oak wood grain. One index finger holds the top edge for a moment, then lifts away. The camera slowly racks focus — the card blurs as the background sharpens: floor-to-ceiling windows with bright afternoon daylight, the soft silhouettes of the engineering team still gathered at the whiteboard further back in the room. The final frame holds on the warm, bright, blurred window light. Static Description: Engineering office, light oak desk surface with visible wood grain. White business card with orange accent bar. Floor-to-ceiling windows with afternoon daylight. Faint team silhouettes at whiteboard in deep background."},{"lang":"zh","prompt":"风格与氛围：温暖日光，极浅景深。名片上橙色（#E67E22）强调条作为中性橡木和白色中唯一色彩亮点。变形镜头，微距般亲密感。高端、极简、邀请。动态描述：极特写，明亮办公室。一只穿深蓝Polo衫袖口的手从画面上方降入，将白色名片放置于浅橡木桌面。名片：极简设计，左侧边缘垂直橙色强调条，深炭灰色文字，网址neogeo.com。白色名片在温暖橡木纹理上清晰锐利。食指按住上缘片刻，随后抬起。摄影机缓慢转换焦点——名片模糊，背景锐化：落地窗明亮午后日光，工程团队仍聚集在远处白板旁的柔和剪影。最终画面停留在温暖、明亮、虚化的窗户光线上。静态描述：工程办公室，浅橡木桌面可见木纹。白色名片配橙色强调条。落地窗配午后日光。深景中白板旁团队淡影。"}]
+```
+
+---
+
 ## Text-Overlays (Post-Production)
 
 **Szene 1:**
@@ -81,4 +113,9 @@ Still-Bilder als First Frame hochladen (siehe `video_stills.md`), dann den passe
 **Szene 2:**
 - Shot 2.1: *"Zehntausende Trailer. 20+ Länder. Eine Plattform."*
 - Shot 2.2: *"TISAX Stufe 3 — höchste Sicherheitsstufe"*
-- Shot 2.3: *"NeoGeo — Alleiniger Entwicklungspartner. → neogeo.com"*
+- Shot 2.3: *"Architektur. Code. Betrieb. Alles aus einer Hand."*
+
+**Szene 3:**
+- Shot 3.1: *"30+ Jahre Engineering. Deutsches Team."*
+- Shot 3.2: *"Alleiniger Entwicklungspartner. 100% Eigenleistung."*
+- Shot 3.3: *"Bereit für Ihre IoT-Plattform? → neogeo.com"*
