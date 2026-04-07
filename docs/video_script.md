@@ -14,7 +14,15 @@
 
 Charakter- und Location-Beschreibungen: siehe `video_stills.md`
 
-**Story:** Trailer auf der Straße → DCU sendet Daten → Disponent empfängt und steuert → Datacenter verarbeitet → Engineering-Team hat alles gebaut (TISAX) → Betrieb trifft Entwicklung → Einladung zum Kontakt
+**Story:** Asset auf der Straße → DCU sendet Daten → Operations Manager empfängt und steuert → Datacenter verarbeitet → Engineering-Team hat alles gebaut (TISAX) → Betrieb trifft Entwicklung → Einladung zum Kontakt
+
+**Regisseur-Referenz (B2B Sales Director):**
+- Szene 1: Murro (Tracking, Teal-Orange) + Fincher (DCU-Detail)
+- Szene 2: Morris (Disponent, statisch, echt) + Murro (Datacenter, Team)
+- Szene 3: Morris + Fincher Hybrid ("Authoritative Precision")
+
+**Kommunikationsziel:** 60% Relevanz ("Die verstehen mein Problem") + 40% Beweis ("Die können liefern")
+**Zielgruppe:** CTO/CIO in Mittelstand und Konzern — branchenübergreifend IoT
 
 ---
 
@@ -94,11 +102,11 @@ selective orange accents, 16:9 aspect ratio
 ```
 
 **Text-Overlays (Post):**
-> *"Was passiert, wenn jeder Trailer ein IoT-Gerät wird?"* (0-5s)
+> *"Was passiert, wenn jedes Asset ein IoT-Gerät wird?"* (0-5s)
 >
-> *"GPS. Temperatur. Reifendruck. Alles in Echtzeit."* (5-10s)
+> *"Position. Zustand. Sensorik. Alles in Echtzeit."* (5-10s)
 >
-> *"Von der Straße direkt in die Cloud."* (10-15s)
+> *"Vom Asset direkt in die Cloud."* (10-15s)
 
 ---
 
@@ -194,11 +202,11 @@ palette with selective orange accents, 16:9 aspect ratio
 ```
 
 **Text-Overlays (Post):**
-> *"Zehntausende Trailer. 20+ Länder. Eine Plattform."* (15-20s)
+> *"Zehntausende Geräte. 20+ Länder. Eine Plattform."* (15-20s)
 >
 > *"TISAX Stufe 3 — höchste Sicherheitsstufe"* (20-25s)
 >
-> *"NeoGeo — Alleiniger Entwicklungspartner. → neogeo.com"* (25-30s)
+> *"Architektur. Code. Betrieb. Alles aus einer Hand."* (25-30s)
 
 ---
 
@@ -275,7 +283,7 @@ film grain, muted color palette with selective orange accents,
 **Text-Overlays (Post):**
 > *"30+ Jahre Engineering. Deutsches Team."* (30-35s)
 >
-> *"Alleiniger Entwicklungspartner. 100% Eigenleistung."* (35-40s)
+> *"Alleiniger Entwicklungspartner. Von der Sensorik bis zur Cloud."* (35-40s)
 >
 > *"Bereit für Ihre IoT-Plattform? → neogeo.com"* (40-45s)
 
