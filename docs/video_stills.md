@@ -114,7 +114,7 @@ on the far wall. Cable trays running along the ceiling. The room
 is spotless, sterile, perfectly organized. Cool air visible.
 ```
 
-### LOC-4: "Das Engineering-Büro" (Szene 2.3, 3.x)
+### LOC-4: "Das Engineering-Büro" (Szene 2.3, 3.1)
 
 ```
 A bright, modern open-plan office in a German tech company,
@@ -132,6 +132,26 @@ White walls, minimal decoration. A glass-walled meeting room
 visible in the far background. On the wall next to the whiteboard,
 a framed TISAX certificate with a dark frame and orange seal.
 The atmosphere is bright, clean, and productive.
+```
+
+### LOC-5: "Der Konferenzraum" (Szene 3.2)
+
+```
+A modern glass-walled conference room inside a German tech company,
+approximately 6 meters wide and 5 meters deep. Floor-to-ceiling
+glass walls on two sides, looking out into the open-plan engineering
+office and further to exterior windows with daylight. Inside: a
+long white rectangular conference table centered in the room, seating
+for eight. Dark gray ergonomic office chairs around the table. On
+the far wall, a large wall-mounted flat screen display (65-inch),
+currently showing an orange company logo on a dark charcoal
+background. Below the screen, a slim credenza with video
+conferencing equipment. Light oak hardwood flooring matching the
+main office. A few laptops and documents spread on the table, water
+glasses, a small plant. Overhead recessed warm lighting supplements
+the natural daylight from the glass walls. Clean, professional,
+minimal — the room where decisions are made.
+```
 ```
 
 ---
