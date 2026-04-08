@@ -6,7 +6,7 @@
 - **Standalone-Bilder** für LinkedIn-Posts, Pitch Decks, Website
 - **Thumbnail** für das fertige Video
 
-9 Shots (3 Szenen × 3). Style Anchor in jedem Prompt eingebaut — direkt kopieren.
+9 Shots (3 Szenen × 3). Style Anchor in jedem Prompt — ohne Hex-Codes, ohne fps, ohne Aspect Ratio (wird als Parameter gesetzt).
 
 **Regisseur-Referenz:**
 - Szene 1: Murro (Tracking, Teal-Orange) + Fincher (DCU-Detail)
@@ -147,20 +147,16 @@ The atmosphere is bright, clean, and productive.
 > Murro crane-descent. 35mm. Bird's-eye flattening toward highway. Kein Overlay. Hook-Frame für LinkedIn.
 
 ```
-Wide aerial drone photograph shot from high above, looking down at
-a steep 60-degree angle onto a busy German Autobahn during blue
-hour at dusk. Six-lane highway with heavy mixed traffic in both
-directions — white curtainside semi-trailers, refrigerated trailers,
-box trucks, sedans, SUVs. Wet dark asphalt reflecting hundreds of
-red tail lights and white headlights. Silver metal guardrails,
-green grass embankments. Overhead green Autobahn signs in the
-distance. Light mist. Highway curves gently right. No overlays, no
-glowing elements. The camera angle suggests descent toward the
-highway. Teal-and-orange corporate cinematic grade, anamorphic lens,
-shallow depth of field, color graded with teal shadows and warm
-orange highlights (#E67E22), natural lighting, shot on ARRI Alexa,
-24fps film grain, muted color palette with selective orange accents,
-16:9 aspect ratio, photorealistic, high detail, 8K resolution
+Wide aerial drone photograph from high above, steep 60-degree angle
+onto a busy German Autobahn during blue hour at dusk. Six-lane
+highway, heavy mixed traffic — white semi-trailers, box trucks,
+sedans. Wet dark asphalt reflecting red tail lights and white
+headlights. Silver guardrails, green embankments, light mist.
+Highway curves gently right. No overlays, no glowing elements.
+Camera angle suggests descent toward the highway. Cinematic
+corporate photograph, anamorphic lens, shallow depth of field, teal
+shadows and warm orange highlights, shot on ARRI Alexa, natural
+film grain, muted palette, photorealistic, high detail
 ```
 
 **Einsatz:** Video Thumbnail, LinkedIn Hook (rote Rücklichter = scroll-stopper)
@@ -172,23 +168,16 @@ orange highlights (#E67E22), natural lighting, shot on ARRI Alexa,
 > Murro stabilized tracking. 35mm. 45° seitlich von oben. HUD-Panels: flat AR, nicht Sci-Fi.
 
 ```
-Aerial tracking drone photograph flying alongside traffic on a busy
-German Autobahn during blue hour at dusk, shot from a 45-degree
-side angle above and slightly behind the flow of traffic. Three
-white curtainside semi-trailers at staggered distances on the right
-lanes — one close foreground, one mid-frame, one further ahead.
-Each has a small glowing orange rectangular HUD panel floating above
-its roof — flat, translucent like a head-up display reflection,
-showing a GPS pin icon with dotted route line and a thermometer
-icon next to a horizontal bar gauge. Panels drift locked to
-trailers, edges softly lit. Cars and box trucks in left lanes.
-Wet asphalt with motion blur suggesting speed. Silver guardrails,
-green embankments, light mist. Teal-and-orange corporate cinematic
-grade, anamorphic lens, shallow depth of field, color graded with
-teal shadows and warm orange highlights (#E67E22), natural lighting,
-shot on ARRI Alexa, 24fps film grain, muted color palette with
-selective orange accents, 16:9 aspect ratio, photorealistic, high
-detail, 8K resolution
+Aerial tracking drone photograph alongside traffic on a German
+Autobahn during blue hour at dusk, 45-degree side angle from above.
+Three white semi-trailers at staggered distances. Each has a small
+glowing orange HUD panel floating above its roof — flat, translucent
+like augmented reality, showing GPS pin with route line and
+thermometer gauge. Panels locked to trailers. Wet asphalt with
+motion blur. Silver guardrails, green embankments, light mist.
+Cinematic corporate photograph, anamorphic lens, shallow depth of
+field, teal shadows and warm orange highlights, shot on ARRI Alexa,
+natural film grain, muted palette, photorealistic, high detail
 ```
 
 **Einsatz:** Hero Image, Website Banner, Pitch Deck Cover
@@ -200,23 +189,17 @@ detail, 8K resolution
 > Fincher precision static. 85-135mm telephoto. Locked-off. DCU als technisches Herzstück isoliert.
 
 ```
-Side-angle photograph of a single white curtainside semi-trailer
-driving on a German Autobahn at dusk, shot from the opposite side
-(oncoming traffic side), slightly above roof height, looking across
-at the trailer's front section. Front wall (Stirnwand) clearly
-visible. A small black rectangular electronic box — the digital
-control unit (DCU) — mounted on the trailer underside directly
-behind the front wall, near the kingpin coupling area. DCU
-highlighted with subtle orange glow outline. Thin orange concentric
-radio wave arcs radiate from DCU outward and upward, pulsing
-rhythmically like a cell tower signal icon — LTE data transmission.
-Faint orange data stream line extends upward into darkening sky.
-Background traffic compressed into streaked bokeh. High contrast,
-telephoto compression isolating the trailer. Teal-and-orange grade,
-anamorphic lens, shallow depth of field, color graded with teal
-shadows and concentrated orange (#E67E22) energy from DCU, natural
-lighting, shot on ARRI Alexa, 24fps film grain, muted palette,
-16:9 aspect ratio, photorealistic, high detail, 8K resolution
+Side-angle photograph of a single white semi-trailer on a German
+Autobahn at dusk, from the opposite side at roof height. Front wall
+(Stirnwand) visible. A small black electronic box — the DCU —
+mounted near the kingpin, highlighted with subtle orange glow. Thin
+orange concentric radio wave arcs pulse from DCU outward and upward
+like a signal icon. Faint orange data stream extends into darkening
+sky. Background traffic compressed into streaked bokeh, telephoto
+compression. Cinematic corporate photograph, anamorphic telephoto
+lens, extreme shallow depth of field, teal shadows and concentrated
+warm orange from DCU, shot on ARRI Alexa, natural film grain, muted
+palette, photorealistic, high detail
 ```
 
 **Einsatz:** IoT-Technologie Slide, LinkedIn "Connected Assets"
@@ -234,26 +217,18 @@ lighting, shot on ARRI Alexa, 24fps film grain, muted palette,
 > Morris register. 50mm static. 5° low angle für Autorität. Monitor-Glow als Key Light. Echt, nicht inszeniert.
 
 ```
-Medium shot photograph from slight right angle of CHAR-A — an
-operations manager, short gray hair buzzed on sides, reading
-glasses pushed onto forehead, dark blue polo shirt with company
-logo — sitting at a large L-shaped desk in an IoT operations center
-(LOC-2). Three curved widescreen monitors in front. Center: dark
-European map dense with hundreds of small orange pulsing dots
-(tracked assets) and faint route lines. Left: status list with
-colored indicators. Right: single asset route with temperature
-graph and ETA. Right hand on mouse, clicking — dot cluster
-highlights on center map. Left hand lifts wireless headset toward
-ear, jaw setting with purpose. Desk: phone, half-empty coffee mug,
-printed route sheets. Wall behind: large printed European map with
-colored sticky notes. Glass partition on left showing open-plan
-office. Shot at eye-level with 5-degree low angle for subtle
-authority. Warm overhead fluorescent mixes with cool blue monitor
-glow on face — warm key (3200K) against cool screen light. Morris
-static register, anamorphic lens, shallow depth of field, color
-graded with teal shadows and warm orange highlights (#E67E22),
-24fps film grain, muted palette, 16:9 aspect ratio, photorealistic,
-high detail, 8K resolution
+Medium shot photograph from slight right angle of CHAR-A —
+operations manager, short gray hair, dark blue polo with logo —
+sitting at L-shaped desk in IoT operations center. Three monitors:
+center shows European map with hundreds of orange pulsing dots
+(tracked assets), left shows status list, right shows temperature
+graph. Right hand on mouse clicking, left hand lifts headset toward
+ear. Desk: phone, coffee mug, printed route sheets. Wall behind:
+European map with sticky notes. Warm fluorescent mixes with cool
+monitor glow. Cinematic corporate photograph, anamorphic lens,
+shallow depth of field, teal shadows and warm orange highlights,
+shot on ARRI Alexa, natural film grain, muted palette,
+photorealistic, high detail
 ```
 
 **Einsatz:** Key Visual — "Die Daten kommen an", Plattform-Slide, LinkedIn Hook (Gesicht)
@@ -265,21 +240,18 @@ high detail, 8K resolution
 > Murro dolly through security door. 24mm wide. Cool-white sterility. Vanishing point.
 
 ```
-Photograph from just inside a heavy glass security door, badge
-reader visible on right wall, looking into a Tier-3 data center
-server room (LOC-3) stretching 15 meters deep. Two rows of modern
-black server racks (10 per row) in hot-aisle/cold-aisle config.
-Each rack: blue and orange LED status indicators in perfect vertical
-columns. White raised flooring with perforated tiles. Cool-white
-overhead fluorescent. Wall-mounted 24-inch monitor on right wall
-displaying dark security dashboard with green checkmarks and lock
-icons. Cable trays along ceiling. Everything spotless, sterile,
-organized. Heavy glass door frame visible at edges — restricted
-access. Extreme depth vanishing point pulls eye deep into rack
-corridor. Clinical zero-tolerance atmosphere. Anamorphic lens,
-color graded with teal shadows and selective orange (#E67E22) from
-LEDs, cool-white dominant, shot on ARRI Alexa, 24fps film grain,
-16:9 aspect ratio, photorealistic, high detail, 8K resolution
+Photograph from inside a heavy glass security door, badge reader on
+right wall, looking into a Tier-3 data center stretching 15 meters
+deep. Two rows of black server racks in hot-aisle/cold-aisle
+configuration. Each rack: blue and orange LED columns. White raised
+perforated floor. Cool-white fluorescent lighting. Security
+dashboard on wall monitor with green checkmarks. Glass door frame
+at edges — restricted access. Vanishing point pulls eye deep into
+corridor. Clinical, sterile, zero-tolerance. Cinematic corporate
+photograph, anamorphic wide lens, deep depth of field, teal shadows
+and selective warm orange from LEDs, cool-white dominant, shot on
+ARRI Alexa, natural film grain, muted palette, photorealistic,
+high detail
 ```
 
 **Einsatz:** TISAX / Security Slide, LinkedIn "Vertrauen", Trust-Sektion
@@ -291,34 +263,17 @@ LEDs, cool-white dominant, shot on ARRI Alexa, 24fps film grain,
 > Murro humans-in-environment. 35mm. Subtle handheld sway. TISAX-Zertifikat physisch an der Wand.
 
 ```
-Medium shot photograph in bright open-plan office (LOC-4). Large
-floor-to-ceiling south-facing windows flood warm daylight across
-light oak flooring. Three engineers at large wall-mounted whiteboard
-(2m wide) covered with architecture diagrams in orange and blue
-markers — boxes, arrows, cloud icons, database cylinders.
-
-Left: CHAR-B — lead architect, shoulder-length dark auburn hair in
-low ponytail, charcoal blazer over white t-shirt, silver stud
-earrings, extending orange marker toward a diagram node, wrist
-turning as tip touches board.
-
-Center: CHAR-C — backend engineer, short curly dark blond hair,
-stubble, olive green henley sleeves pushed up, arms loosely crossed
-at chest height, weight on left foot.
-
-Right: CHAR-D — DevOps engineer, short straight black hair,
-clean-shaven, dark blue t-shirt, hand on chair back, chin dipping
-in slight nod.
-
-Framed TISAX certificate with dark frame and orange seal on wall
-beside whiteboard — clearly visible. Shot from slight right angle,
-team dynamic from the side, no direct frontal faces. Standing desks
-with dark dashboards in background. Green plants on sills. Warm
-golden-hour daylight. Anamorphic lens, shallow depth of field,
-color graded with teal shadows and warm orange highlights (#E67E22),
-natural lighting, shot on ARRI Alexa, 24fps film grain, muted
-palette, 16:9 aspect ratio, photorealistic, high detail,
-8K resolution
+Medium shot photograph in bright engineering office. Floor-to-ceiling
+windows flood warm golden daylight across oak flooring. Three
+engineers at wall-mounted whiteboard with architecture diagrams in
+orange and blue markers. Left: CHAR-B extends orange marker toward
+diagram. Center: CHAR-C, arms crossed, listening. Right: CHAR-D,
+hand on chair, slight nod. Framed TISAX certificate with orange
+seal beside whiteboard. Shot from slight right angle, no frontal
+faces. Warm golden-hour daylight. Cinematic corporate photograph,
+anamorphic lens, shallow depth of field, teal shadows and warm
+orange highlights, natural lighting, shot on ARRI Alexa, natural
+film grain, muted palette, photorealistic, high detail
 ```
 
 **Einsatz:** "Über uns", LinkedIn Team, Pitch Deck "Wer wir sind", TISAX
@@ -336,20 +291,17 @@ palette, 16:9 aspect ratio, photorealistic, high detail,
 > Fincher precision detail. 100mm telephoto macro. Static locked. Orange Marker-Tinte als Farbakzent.
 
 ```
-Close-up photograph locked on whiteboard surface in bright office
-(LOC-4). Architecture diagrams in orange and blue markers — rounded
-boxes connected by arrows, cloud icons, database cylinder symbols,
-no readable text. CHAR-B's right hand enters from lower left —
-short natural nails, small silver bracelet at wrist, charcoal
-blazer sleeve visible — holding orange whiteboard marker. Marker
-tip touches board, drawing connecting arrow between two nodes. Ink
-line extending across white surface. Shallow depth of field,
-background dissolves into warm bokeh: floor-to-ceiling windows,
-daylight, green plant shapes on sill. Warm natural light from left
-illuminates hand and board. Anamorphic bokeh. Color graded with
-teal shadows and warm orange highlights (#E67E22), natural lighting,
-shot on ARRI Alexa, 24fps film grain, muted palette, 16:9 aspect
-ratio, photorealistic, high detail, 8K resolution
+Close-up photograph locked on whiteboard in bright office.
+Architecture diagrams in orange and blue markers — boxes, arrows,
+cloud icons, database cylinders. CHAR-B's right hand enters from
+lower left — silver bracelet, charcoal blazer sleeve — holding
+orange marker. Marker draws connecting arrow between two nodes, ink
+extending across white surface. Shallow depth of field, background
+dissolves into warm bokeh of daylight windows and green plants.
+Warm natural light from left. Cinematic corporate photograph,
+anamorphic telephoto macro, extreme shallow depth of field, teal
+shadows and warm orange highlights, shot on ARRI Alexa, natural
+film grain, muted palette, photorealistic, high detail
 ```
 
 **Einsatz:** Technologie-Slide, LinkedIn "Behind the scenes"
@@ -361,24 +313,17 @@ ratio, photorealistic, high detail, 8K resolution
 > Morris register. 50mm. Subtle handheld. Rim-Light von Fenster. Betrieb trifft Entwicklung.
 
 ```
-Medium shot photograph in bright engineering office (LOC-4) beside
-floor-to-ceiling windows. Two figures stand in profile near standing
-desk. Left: CHAR-A — operations manager, short gray hair buzzed on
-sides, reading glasses now on nose, dark blue polo with logo —
-holds tablet in both hands, screen angled toward other person,
-dark screen showing orange route map with dot clusters. Right:
-CHAR-B — lead architect, dark auburn hair in low ponytail, charcoal
-blazer over white t-shirt, silver earrings — leans forward, index
-finger pointing at tablet screen. Both faces turned toward tablet
-between them, profiles lit by warm window light from behind creating
-soft rim glow on shoulders and hair edges. Background: whiteboard
-with orange-blue diagrams, framed TISAX certificate with dark frame
-and orange seal. Light oak floor. Warm afternoon daylight. Morris
-authenticity register, anamorphic lens, shallow depth of field,
-color graded with teal shadows and warm orange highlights (#E67E22),
-natural lighting, shot on ARRI Alexa, 24fps film grain, muted
-palette, 16:9 aspect ratio, photorealistic, high detail,
-8K resolution
+Medium shot photograph in bright office beside floor-to-ceiling
+windows. Two figures in profile. Left: CHAR-A holds tablet showing
+orange route map with fleet positions. Right: CHAR-B leans forward,
+index finger pointing at tablet screen. Both faces turned toward
+tablet between them. Warm window light from behind creates soft rim
+glow on shoulders. Background: whiteboard with diagrams and framed
+TISAX certificate with orange seal. Warm afternoon daylight.
+Cinematic corporate photograph, anamorphic lens, shallow depth of
+field, teal shadows and warm orange highlights, natural lighting,
+shot on ARRI Alexa, natural film grain, muted palette,
+photorealistic, high detail
 ```
 
 **Einsatz:** "Betrieb trifft Entwicklung", LinkedIn, Pitch Deck
@@ -390,20 +335,17 @@ palette, 16:9 aspect ratio, photorealistic, high detail,
 > Fincher product-shot precision. 100mm telephoto. Locked static → Rack-Focus. Visitenkarte als Einladung.
 
 ```
-Extreme close-up photograph in engineering office (LOC-4). CHAR-A's
-hand — dark blue polo shirt sleeve at wrist — places white business
-card on clean light oak desk surface. Card: minimalist design,
-orange accent bar vertically along left edge, dark charcoal text,
-URL "neogeo.com". Crisp white against warm oak wood grain. Shallow
-depth of field. Background: soft warm blur of floor-to-ceiling
-windows with afternoon daylight, faint silhouettes of engineering
-team at whiteboard further back. One index finger still touching
-top edge of card. Premium, minimal, elegant. The card as product
-shot. Anamorphic lens, extreme shallow depth of field, color graded
-with teal shadows and warm orange (#E67E22) accent bar as sole
-color pop, natural lighting, shot on ARRI Alexa, 24fps film grain,
-muted palette, 16:9 aspect ratio, photorealistic, high detail,
-8K resolution
+Extreme close-up photograph at desk level. CHAR-A's hand places
+white business card on light oak desk. Card: minimalist design,
+vertical orange accent bar on left edge, dark text, URL
+"neogeo.com". White card against warm wood grain. Index finger
+on card edge. Extremely shallow depth of field. Background: warm
+blur of floor-to-ceiling windows, faint team silhouettes at
+whiteboard. Premium, minimal, elegant. Cinematic corporate
+photograph, anamorphic telephoto, extreme shallow depth of field,
+teal shadows and warm orange on card accent bar, natural afternoon
+light, shot on ARRI Alexa, natural film grain, muted palette,
+photorealistic, high detail
 ```
 
 **Einsatz:** CTA-Slide, LinkedIn Carousel letzte Seite, E-Mail Signatur
