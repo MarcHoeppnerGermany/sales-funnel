@@ -283,73 +283,70 @@ film grain, muted palette, photorealistic, high detail
 
 ## Szene 3 — "Der Abschluss"
 
-**Regisseur:** Fincher (Shots 3.1 + 3.3) + Morris (Shot 3.2)
+**Regisseur:** Murro (Shot 3.1, breites Team) + Morris (Shot 3.2, Meeting) + Motion Graphics (Shot 3.3)
 **Licht:** Durchgehend warmes Tageslicht. Wärmste Szene — nach kaltem Datacenter kommt Menschlichkeit.
-**Kamera:** 100mm Macro Static (Fincher) → 50mm Handheld (Morris) → 100mm Rack-Focus (Fincher)
+**Kamera:** 24mm Wide Pan (Murro) → 50mm Handheld (Morris) → Motion Graphics (Logo)
 
-### Still 3.1 — Detail: CHAR-B zeichnet am Whiteboard
+### Still 3.1 — Engineering-Team in Aktion, großes Büro
 
-> Fincher precision detail. 100mm telephoto macro. Static locked. Orange Marker-Tinte als Farbakzent.
+> Murro wide shot. 24mm. Energie, Bewegung, echtes Büro. ~10 Leute sichtbar.
 
 ```
-Close-up photograph locked on whiteboard in bright office. Code
-architecture diagrams in orange and blue markers — microservice
-boxes, API endpoint arrows, cloud icons, database cylinders. CHAR-B's right hand enters from
-lower left — silver bracelet, charcoal blazer sleeve — holding
-orange marker. Marker draws connecting arrow between two nodes, ink
-extending across white surface. Shallow depth of field, background
-dissolves into warm bokeh of daylight windows and green plants.
-Warm natural light from left. Cinematic corporate photograph,
-anamorphic telephoto macro, extreme shallow depth of field, teal
-shadows and warm orange highlights, shot on ARRI Alexa, natural
-film grain, muted palette, photorealistic, high detail
+Wide photograph of a large bright open-plan engineering office.
+About ten people visible across the space. In the foreground,
+CHAR-B, CHAR-C and CHAR-D stand at a wall-mounted whiteboard with
+code architecture diagrams in orange and blue markers, CHAR-B
+pointing at a node. Further back, engineers sit at standing desks
+with dual monitors, typing and discussing. Two people in
+conversation near a glass meeting room wall. Floor-to-ceiling
+windows flood warm daylight across oak flooring. Green plants on
+sills. Energetic, productive atmosphere. Cinematic corporate
+photograph, anamorphic wide lens, shallow depth of field, teal
+shadows and warm orange highlights, natural window light, shot on
+ARRI Alexa, natural film grain, muted palette, photorealistic,
+high detail
 ```
 
-**Einsatz:** Technologie-Slide, LinkedIn "Behind the scenes"
+**Einsatz:** "Über uns", LinkedIn Team, Pitch Deck "Engineering Power"
 
 ---
 
-### Still 3.2 — Operations Manager und Architektin im Gespräch
+### Still 3.2 — Business-Meeting, Handshake zum Abschluss
 
-> Morris register. 50mm. Subtle handheld. Rim-Light von Fenster. Betrieb trifft Entwicklung.
+> Morris register. 50mm. Konferenzraum mit Glaswänden. neogeo-Logo auf Screen. Handshake.
 
 ```
-Medium shot photograph in bright office beside floor-to-ceiling
-windows. Two figures in profile. Left: CHAR-A holds tablet showing
-orange route map with fleet positions. Right: CHAR-B leans forward,
-index finger pointing at tablet screen. Both faces turned toward
-tablet between them. Warm window light from behind creates soft rim
-glow on shoulders. Background: whiteboard with code architecture diagrams and framed
-TISAX certificate with orange seal. Warm afternoon daylight.
-Cinematic corporate photograph, anamorphic lens, shallow depth of
-field, teal shadows and warm orange highlights, natural lighting,
-shot on ARRI Alexa, natural film grain, muted palette,
-photorealistic, high detail
+Medium shot photograph in a modern glass-walled conference room. A
+large screen on the wall shows the neogeo logo in orange on dark
+background. Left side of table: CHAR-B, CHAR-C and CHAR-D from
+engineering. Right side: three client representatives in business
+attire. Documents and laptops on table. CHAR-B and the lead client
+rise and shake hands across the table, both smiling — a deal
+closed. Others watch approvingly. Warm afternoon daylight from
+glass walls. Cinematic corporate photograph, anamorphic lens,
+shallow depth of field, teal shadows and warm orange highlights,
+natural lighting, shot on ARRI Alexa, natural film grain, muted
+palette, photorealistic, high detail
 ```
 
-**Einsatz:** "Betrieb trifft Entwicklung", LinkedIn, Pitch Deck
+**Einsatz:** "Partnerschaft", LinkedIn, Pitch Deck Closing Slide
 
 ---
 
-### Still 3.3 — Visitenkarte / CTA
+### Still 3.3 — neogeo Logo / CTA
 
-> Fincher product-shot precision. 100mm telephoto. Locked static → Rack-Focus. Visitenkarte als Einladung.
+> Motion Graphics. Logo-Animation auf dunklem Hintergrund. Kann in Post erstellt werden.
 
 ```
-Extreme close-up photograph at desk level. CHAR-A's hand places
-white business card on light oak desk. Card: minimalist design,
-vertical orange accent bar on left edge, dark text, URL
-"neogeo.com". White card against warm wood grain. Index finger
-on card edge. Extremely shallow depth of field. Background: warm
-blur of floor-to-ceiling windows, faint team silhouettes at
-whiteboard. Premium, minimal, elegant. Cinematic corporate
-photograph, anamorphic telephoto, extreme shallow depth of field,
-teal shadows and warm orange on card accent bar, natural afternoon
-light, shot on ARRI Alexa, natural film grain, muted palette,
-photorealistic, high detail
+Dark charcoal background. The neogeo company logo centered, glowing
+in warm orange. Below the logo, the URL "neogeo.com" in white clean
+sans-serif text. A faint orange light pulse radiates from the logo.
+Minimal, premium, elegant. Dark background with logo and text as
+sole elements. Clean corporate motion graphics style, warm orange
+accent on dark teal-charcoal background
 ```
 
-**Einsatz:** CTA-Slide, LinkedIn Carousel letzte Seite, E-Mail Signatur
+**Einsatz:** CTA-Slide, Video-Endframe, LinkedIn Carousel letzte Seite
 
 ---
 

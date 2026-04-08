@@ -20,7 +20,7 @@ Charakter- und Location-Beschreibungen: siehe `video_stills.md`
 **Regisseur-Referenz (B2B Sales Director):**
 - Szene 1: Murro (Tracking, Teal-Orange) + Fincher (DCU-Detail)
 - Szene 2: Morris (Disponent, statisch, echt) + Murro (Datacenter, Team)
-- Szene 3: Morris + Fincher Hybrid ("Authoritative Precision")
+- Szene 3: Murro (Team-Wide) + Morris (Meeting, Handshake) + Motion Graphics (Logo)
 
 **Kommunikationsziel:** 60% Relevanz ("Die verstehen mein Problem") + 40% Beweis ("Die können liefern")
 **Zielgruppe:** CTO/CIO in Mittelstand und Konzern — branchenübergreifend IoT
@@ -165,67 +165,71 @@ natural film grain, muted palette
 
 ## Szene 3 — "Der Abschluss" (30-45s)
 
-**Story:** Detail der Arbeit → Betrieb trifft Entwicklung → Einladung.
+**Story:** Großes Engineering-Team bei der Arbeit → Business-Meeting mit Kunde, Handshake → Logo/CTA.
 
-### Shot 3.1 — Detail: CHAR-B zeichnet am Whiteboard (30-35s)
+### Shot 3.1 — Engineering-Team in Aktion, großes Büro (30-35s)
 
-> SeaDance Input: Still 3.1 als First Frame. Nahaufnahme Hand + Whiteboard.
-
-```
-Extreme close-up locked on whiteboard in bright office. Code
-architecture diagrams in orange and blue markers — microservice
-boxes, API endpoint arrows, cloud icons, database cylinders. CHAR-B's right hand enters from lower left —
-silver bracelet, charcoal blazer sleeve — holding orange marker.
-Marker draws a new connecting arrow between two nodes, fresh orange
-ink extending across white surface. Extremely shallow depth of
-field, background dissolves into warm bokeh of daylight windows.
-Camera static, only movement is her hand and the growing ink line.
-Cinematic corporate film, anamorphic telephoto macro, extreme
-shallow depth of field, teal shadows and warm orange highlights,
-shot on ARRI Alexa, natural film grain, muted palette
-```
-
-### Shot 3.2 — Disponent und Lead-Architektin im Gespräch (35-40s)
-
-> SeaDance Input: Still 3.2 als First Frame. CHAR-A und CHAR-B diskutieren über Tablet.
+> SeaDance Input: Still 3.1 als First Frame. Großes Team im Open-Plan-Büro, verschiedene Aktivitäten.
 
 ```
-Medium shot in bright office beside floor-to-ceiling windows. Warm
-afternoon rim light on two figures in profile. Left: CHAR-A holds
-tablet showing orange route map with fleet positions. Right: CHAR-B
-leans forward, index finger pointing at tablet screen. Both faces
-turned toward tablet between them. Daylight creates soft rim glow
-on shoulders. Background: whiteboard with code architecture diagrams and framed
-TISAX certificate, slightly out of focus. Subtle handheld sway. Cinematic
-corporate film, anamorphic lens, shallow depth of field, teal
-shadows and warm orange highlights, natural afternoon light, shot on
-ARRI Alexa, natural film grain, muted palette
+Wide shot of a large bright open-plan engineering office. About ten
+people visible across the space. In the foreground, CHAR-B, CHAR-C
+and CHAR-D stand at a wall-mounted whiteboard with code architecture
+diagrams in orange and blue markers, CHAR-B pointing at a node.
+Further back, several engineers sit at standing desks with dual
+monitors showing dark dashboards, typing and discussing. Two people
+in conversation near a glass meeting room wall, one gesturing with
+hands. Floor-to-ceiling windows flood warm daylight across oak
+flooring. Green plants on sills. The atmosphere is energetic,
+productive, a real engineering floor in motion. Camera slowly pans
+right across the room. Cinematic corporate film, anamorphic wide
+lens, shallow depth of field, teal shadows and warm orange
+highlights, natural window light, shot on ARRI Alexa, natural film
+grain, muted palette
 ```
 
-### Shot 3.3 — Visitenkarte / CTA (40-45s)
+### Shot 3.2 — Business-Meeting, Handshake zum Abschluss (35-40s)
 
-> SeaDance Input: Still 3.3 als First Frame. CHAR-A legt Visitenkarte auf Schreibtisch.
+> SeaDance Input: Still 3.2 als First Frame. Konferenzraum, neogeo-Team trifft Kunden-Team, Handshake.
 
 ```
-Extreme close-up at desk level in bright office. CHAR-A's hand
-places a white business card on light oak desk surface. Card:
-minimalist design, thin vertical orange accent bar on left edge,
-dark text, URL "neogeo.com". White card against warm wood grain.
-Index finger rests on card edge — an invitation. Extremely shallow
-depth of field, background dissolves into warm bokeh of windows and
-faint team silhouettes at whiteboard. Slow rack focus pulls from
-sharp card to bright background. Cinematic corporate film,
-anamorphic telephoto, extreme shallow depth of field, teal shadows
-and warm orange on card accent bar, natural afternoon light, shot
+Medium shot in a modern glass-walled conference room. A large screen
+on the wall shows the neogeo company logo in orange on dark
+background. On the left side of the table: CHAR-B, CHAR-C and
+CHAR-D from the engineering team. On the right side: three client
+representatives in business attire. Documents and laptops on the
+table. CHAR-B and the lead client across from her rise from their
+chairs and reach across the table to shake hands, both smiling —
+a deal has been closed. The others watch approvingly. Warm afternoon
+daylight from the glass walls. Camera static with subtle handheld
+sway. Cinematic corporate film, anamorphic lens, shallow depth of
+field, teal shadows and warm orange highlights, natural light, shot
 on ARRI Alexa, natural film grain, muted palette
+```
+
+### Shot 3.3 — neogeo Logo-Animation / CTA (40-45s)
+
+> SeaDance Input: Animiertes Logo auf dunklem Hintergrund. Kann auch in Post erstellt werden.
+
+```
+Dark charcoal background. The neogeo company logo fades in at
+center frame, glowing in warm orange. The logo slowly scales up
+slightly with a smooth, confident motion. Below the logo, the URL
+"neogeo.com" appears with a subtle fade-in, white clean sans-serif
+text. A faint orange light pulse radiates outward from the logo
+once, like a signal ripple. Minimal, premium, elegant. The
+animation is slow and deliberate. Dark background, logo and text
+as sole elements. Cinematic corporate film, clean motion graphics
+style, teal-dark background with warm orange logo accent, smooth
+animation
 ```
 
 **Text-Overlays (Post):**
 > *"30+ Jahre Engineering. Deutsches Team."* (30-35s)
 >
-> *"Alleiniger Entwicklungspartner. Von der Sensorik bis zur Cloud."* (35-40s)
+> *"Von der Sensorik bis zur Cloud. Ihr Partner."* (35-40s)
 >
-> *"Bereit für Ihre IoT-Plattform? → neogeo.com"* (40-45s)
+> *"neogeo.com"* (40-45s, im Logo-Shot integriert)
 
 ---
 
@@ -236,7 +240,7 @@ on ARRI Alexa, natural film grain, muted palette
 - [ ] **4 Locations konsistent** (LOC-1 bis 4)
 - [ ] **TISAX-Zertifikat sichtbar** in Shot 2.3 und 3.2
 - [ ] **Orange (#E67E22) als einzige Akzentfarbe**
-- [ ] **Keine frontalen Gesichtsaufnahmen** — Profil, Seite, Over-Shoulder
+- [ ] **Keine frontalen Gesichtsaufnahmen** — Profil, Seite, Over-Shoulder (Ausnahme: 3.2 Handshake)
 - [ ] **Kein lesbarer Code/Text auf Bildschirmen**
 - [ ] **Text-Overlays in Post-Production**
 - [ ] **Musik durchgängig** — ein Track, kein Wechsel
