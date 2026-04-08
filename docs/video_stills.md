@@ -123,9 +123,9 @@ windows along the entire left wall, facing south, flooding the
 room with warm natural daylight. Outside: suburban German landscape
 with trees and low buildings. Inside: light oak hardwood flooring.
 A large wall-mounted whiteboard (approximately 2 meters wide,
-1.2 meters tall) on the right wall, covered with architecture
-diagrams drawn in orange and blue markers — boxes, arrows, cloud
-icons, database symbols. Three standing desks with dual monitors
+1.2 meters tall) on the right wall, covered with code architecture
+diagrams drawn in orange and blue markers — microservice boxes, API
+endpoint arrows, cloud icons, database symbols. Three standing desks with dual monitors
 in the background, screens showing abstract dark-themed dashboards
 (no readable text). A few green potted plants on window sills.
 White walls, minimal decoration. A glass-walled meeting room
@@ -237,21 +237,21 @@ photorealistic, high detail
 
 ### Still 2.2 — Datacenter / TISAX Sicherheit
 
-> Murro dolly through security door. 24mm wide. Cool-white sterility. Vanishing point.
+> Murro dolly through security door. 24mm wide. Mann geht durch Tür, Kamera folgt. Cool-white sterility. Vanishing point.
 
 ```
-Photograph from inside a heavy glass security door, badge reader on
-right wall, looking into a Tier-3 data center stretching 15 meters
-deep. Two rows of black server racks in hot-aisle/cold-aisle
-configuration. Each rack: blue and orange LED columns. White raised
-perforated floor. Cool-white fluorescent lighting. Security
-dashboard on wall monitor with green checkmarks. Glass door frame
-at edges — restricted access. Vanishing point pulls eye deep into
-corridor. Clinical, sterile, zero-tolerance. Cinematic corporate
-photograph, anamorphic wide lens, deep depth of field, teal shadows
-and selective warm orange from LEDs, cool-white dominant, shot on
-ARRI Alexa, natural film grain, muted palette, photorealistic,
-high detail
+Photograph from behind a man in dark business attire walking through
+a heavy glass security door that is swinging open into a Tier-3
+data center. Badge reader with green LED on right wall. The man
+steps through the threshold, camera following closely behind him.
+Two rows of black server racks stretching 15 meters deep. Each
+rack: blue and orange LED columns. White raised perforated floor.
+Cool-white fluorescent lighting. Security dashboard on wall monitor
+with green checkmarks. Clinical, sterile, zero-tolerance. Cinematic
+corporate photograph, anamorphic wide lens, deep depth of field,
+teal shadows and selective warm orange from LEDs, cool-white
+dominant, shot on ARRI Alexa, natural film grain, muted palette,
+photorealistic, high detail
 ```
 
 **Einsatz:** TISAX / Security Slide, LinkedIn "Vertrauen", Trust-Sektion
@@ -265,8 +265,9 @@ high detail
 ```
 Medium shot photograph in bright engineering office. Floor-to-ceiling
 windows flood warm golden daylight across oak flooring. Three
-engineers at wall-mounted whiteboard with architecture diagrams in
-orange and blue markers. Left: CHAR-B extends orange marker toward
+engineers at wall-mounted whiteboard with code architecture diagrams
+in orange and blue markers — microservice boxes, API endpoints,
+database connections. Left: CHAR-B extends orange marker toward
 diagram. Center: CHAR-C, arms crossed, listening. Right: CHAR-D,
 hand on chair, slight nod. Framed TISAX certificate with orange
 seal beside whiteboard. Shot from slight right angle, no frontal
@@ -291,9 +292,9 @@ film grain, muted palette, photorealistic, high detail
 > Fincher precision detail. 100mm telephoto macro. Static locked. Orange Marker-Tinte als Farbakzent.
 
 ```
-Close-up photograph locked on whiteboard in bright office.
-Architecture diagrams in orange and blue markers — boxes, arrows,
-cloud icons, database cylinders. CHAR-B's right hand enters from
+Close-up photograph locked on whiteboard in bright office. Code
+architecture diagrams in orange and blue markers — microservice
+boxes, API endpoint arrows, cloud icons, database cylinders. CHAR-B's right hand enters from
 lower left — silver bracelet, charcoal blazer sleeve — holding
 orange marker. Marker draws connecting arrow between two nodes, ink
 extending across white surface. Shallow depth of field, background
@@ -318,7 +319,7 @@ windows. Two figures in profile. Left: CHAR-A holds tablet showing
 orange route map with fleet positions. Right: CHAR-B leans forward,
 index finger pointing at tablet screen. Both faces turned toward
 tablet between them. Warm window light from behind creates soft rim
-glow on shoulders. Background: whiteboard with diagrams and framed
+glow on shoulders. Background: whiteboard with code architecture diagrams and framed
 TISAX certificate with orange seal. Warm afternoon daylight.
 Cinematic corporate photograph, anamorphic lens, shallow depth of
 field, teal shadows and warm orange highlights, natural lighting,

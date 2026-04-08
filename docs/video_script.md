@@ -116,16 +116,19 @@ highlights, shot on ARRI Alexa, natural film grain, muted palette
 
 ### Shot 2.2 — Datacenter / Sicherheit (20-25s)
 
-> SeaDance Input: Still 2.2 als First Frame. Kamera pushed durch Sicherheitstür in den Server Room.
+> SeaDance Input: Still 2.2 als First Frame. Mann geht durch sich öffnende Glastür, Kamera folgt ihm ins Datacenter.
 
 ```
-Slow dolly push through a heavy glass security door into a Tier-3
-data center. Glass frame passes at screen edges — access granted.
-Two rows of black server racks stretching 15 meters deep, dramatic
-vanishing point. Each rack has blue and orange LED columns blinking
-purposefully. White raised perforated floor, cool-white fluorescent
-lighting. Security dashboard on wall monitor with green checkmarks.
-Everything immaculate, clinical, sterile. Camera moves forward into
+Camera follows a man in dark business attire from behind as he
+walks through a heavy glass security door that is still swinging
+open into a Tier-3 data center. Badge reader with green LED on the
+wall beside the door. The camera tracks closely behind him as he
+steps through the threshold into the server room. Two rows of black
+server racks stretching 15 meters deep, dramatic vanishing point.
+Each rack has blue and orange LED columns blinking purposefully.
+White raised perforated floor, cool-white fluorescent lighting.
+Security dashboard on wall monitor with green checkmarks. Everything
+immaculate, clinical, sterile. Camera continues following him into
 the rack corridor. Cinematic corporate film, anamorphic wide lens,
 deep depth of field, dominant teal-blue shadows with selective warm
 orange from LEDs, shot on ARRI Alexa, natural film grain, muted
@@ -139,8 +142,9 @@ cold palette
 ```
 Medium shot in bright engineering office. Floor-to-ceiling windows
 flood warm golden daylight across oak flooring. Three engineers at
-wall-mounted whiteboard with architecture diagrams in orange and
-blue markers. Left: CHAR-B extends orange marker toward diagram
+wall-mounted whiteboard with code architecture diagrams in orange
+and blue markers — microservice boxes, API endpoints, database
+connections. Left: CHAR-B extends orange marker toward diagram
 node. Center: CHAR-C, arms crossed, listening. Right: CHAR-D, hand
 on chair, slight nod. Framed TISAX certificate with orange seal
 visible beside whiteboard. Shot from slight right angle, no frontal
@@ -168,9 +172,9 @@ natural film grain, muted palette
 > SeaDance Input: Still 3.1 als First Frame. Nahaufnahme Hand + Whiteboard.
 
 ```
-Extreme close-up locked on whiteboard in bright office. Architecture
-diagrams in orange and blue markers — boxes, arrows, cloud icons,
-database cylinders. CHAR-B's right hand enters from lower left —
+Extreme close-up locked on whiteboard in bright office. Code
+architecture diagrams in orange and blue markers — microservice
+boxes, API endpoint arrows, cloud icons, database cylinders. CHAR-B's right hand enters from lower left —
 silver bracelet, charcoal blazer sleeve — holding orange marker.
 Marker draws a new connecting arrow between two nodes, fresh orange
 ink extending across white surface. Extremely shallow depth of
@@ -191,8 +195,8 @@ afternoon rim light on two figures in profile. Left: CHAR-A holds
 tablet showing orange route map with fleet positions. Right: CHAR-B
 leans forward, index finger pointing at tablet screen. Both faces
 turned toward tablet between them. Daylight creates soft rim glow
-on shoulders. Background: whiteboard with diagrams and framed TISAX
-certificate, slightly out of focus. Subtle handheld sway. Cinematic
+on shoulders. Background: whiteboard with code architecture diagrams and framed
+TISAX certificate, slightly out of focus. Subtle handheld sway. Cinematic
 corporate film, anamorphic lens, shallow depth of field, teal
 shadows and warm orange highlights, natural afternoon light, shot on
 ARRI Alexa, natural film grain, muted palette
