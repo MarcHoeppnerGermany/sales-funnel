@@ -10,7 +10,7 @@
 - **Text-Overlays in Post-Production** (CapCut / DaVinci Resolve)
 - **Schnitt in Post** — Shots einzeln generieren, zusammensetzen
 - **Style Anchor in jedem Prompt** (ohne Hex-Codes, ohne fps, ohne Aspect Ratio)
-- **Prompts für Seedance 2.0 optimiert** (max. 2000 Zeichen, 1 Kamerabewegung pro Shot)
+- **Prompts für Seedance 2.0 optimiert** (30-100 Wörter, 1 Kamerabewegung pro Shot)
 - **Aspect Ratio 16:9 wird als Plattform-Parameter gesetzt**, nicht im Prompt
 
 Charakter- und Location-Beschreibungen: siehe `video_stills.md`
@@ -36,33 +36,16 @@ Charakter- und Location-Beschreibungen: siehe `video_stills.md`
 > SeaDance Input: Still 1.1 als First Frame. Drohne fliegt von weit oben näher an die Autobahn.
 
 ```
-Slow aerial drone descent from very high above a busy German
-Autobahn at dusk during blue hour. The camera begins at a steep
-60-degree downward angle onto the six-lane highway — three lanes
-in each direction divided by a concrete center barrier. Heavy mixed
-traffic flows in both directions: white curtainside semi-trailers,
-white refrigerated trailers with roof-mounted cooling units, box
-trucks, dark sedans, silver SUVs. Wet dark asphalt reflects
-hundreds of red tail lights streaming away and white headlights
-approaching, creating long parallel streaks of color on the
-glistening road. Silver metal guardrails line both sides, their
-surfaces catching flashes of passing headlights. Green grass
-embankments slope away into gathering darkness. Overhead green
-Autobahn direction signs with white text slightly obscured by light
-mist hanging in the cool evening air. A thin layer of ground fog
-drifts above the embankments. The highway curves gently to the
-right, traffic flowing like a river of lights around the bend. The
-camera smoothly and steadily descends from the steep bird's-eye
-angle toward a flatter perspective approximately 30 meters above
-the road — vehicles growing larger in frame, individual trailers
-becoming distinguishable, rooftops reflecting the last ambient dusk
-light. No overlays, no HUD elements, no glowing effects — purely
-realistic. The descent is slow and controlled, approaching something
-important. Color temperature shifts from cool blue at height to
-warmer tones near the highway. Cinematic corporate film, anamorphic
-lens, shallow depth of field, teal shadows and warm orange
-highlights, shot on ARRI Alexa, natural film grain, muted palette
-with selective orange accents from tail lights
+Slow aerial drone descent from high above a busy German Autobahn
+at dusk, blue hour. Six-lane highway, heavy mixed traffic — white
+semi-trailers, box trucks, sedans. Wet dark asphalt reflecting red
+tail lights and white headlights in long streaks. Silver guardrails,
+green embankments, light mist. Highway curves gently right. Camera
+descends smoothly from steep bird's-eye toward the road, vehicles
+growing larger, trailers becoming distinguishable. No overlays,
+purely realistic. Cinematic corporate film, anamorphic lens, shallow
+depth of field, teal shadows and warm orange highlights, shot on
+ARRI Alexa, natural film grain, muted palette
 ```
 
 ### Shot 1.2 — Seitlich von oben, mitfahrend, Hologramme (5-10s)
@@ -70,33 +53,17 @@ with selective orange accents from tail lights
 > SeaDance Input: Still 1.2 als First Frame. Kamera fliegt seitlich mit dem Verkehr mit.
 
 ```
-Aerial tracking drone shot flying alongside traffic on a busy
-German Autobahn at dusk, blue hour. The camera moves steadily with
-the flow of traffic, matching vehicle speed, positioned at a
-45-degree side angle from above and slightly behind the convoy.
-Three white curtainside semi-trailers visible at staggered
-distances on the right lanes — one large in the close foreground
-occupying the lower-right third of the frame, one in the mid-ground
-center, one smaller further ahead near the vanishing point. Each
-trailer has a small glowing orange rectangular HUD panel floating
-approximately one meter above its roof — flat, translucent, minimal
-like augmented reality overlays, not science fiction holograms. Each
-HUD displays a GPS pin icon with a dotted route line curving ahead
-and a thermometer icon next to a horizontal temperature bar gauge
-filled to different levels. The panels drift perfectly locked to
-their respective trailers, edges softly glowing warm orange,
-bleeding slightly into the surrounding mist. Cars, dark sedans,
-silver SUVs fill the left overtaking lanes, headlights and tail
-lights creating horizontal streaks. Wet dark asphalt shows
-significant motion blur on the road surface, emphasizing speed and
-forward momentum. Silver guardrails streak past on the right edge.
-Green embankments darken in the fading light. Light mist hangs
-between vehicles, catching headlight glow in soft halos. The
-tracking movement is perfectly stabilized — no shake, no drift.
-Fleet in motion, every asset tracked and visible. Cinematic
-corporate film, anamorphic lens, shallow depth of field, teal
-shadows and warm orange highlights, shot on ARRI Alexa, natural
-film grain, muted palette
+Aerial tracking drone shot flying alongside traffic on a German
+Autobahn at dusk, blue hour. Camera moves with the flow at
+45-degree side angle from above. Three white semi-trailers at
+staggered distances. Each has a small glowing orange HUD panel
+floating above its roof — flat, translucent, minimal like augmented
+reality. Each shows GPS pin icon with route line and thermometer
+gauge. Panels locked to trailers, softly glowing. Wet asphalt,
+motion blur, mist between vehicles. Stabilized tracking, no shake.
+Cinematic corporate film, anamorphic lens, shallow depth of field,
+teal shadows and warm orange highlights, shot on ARRI Alexa,
+natural film grain, muted palette
 ```
 
 ### Shot 1.3 — Umflug über Trailer, DCU sendet Daten (10-15s)
