@@ -8785,6 +8785,306 @@
       "topic_relevance": null,
       "financials": null,
       "overall_score": null
+    },
+    {
+      "company": {
+        "name": "BEW Berliner Energie und Wärme GmbH",
+        "website": "bew.berlin",
+        "address": "Berlin",
+        "industry": "Fernwärme / Wärmeversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Hamburger Energiewerke GmbH",
+        "website": "hamburger-energiewerke.de",
+        "address": "Hamburg",
+        "industry": "Fernwärme / Wärmeversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Stadtwerke München GmbH (SWM)",
+        "website": "swm.de",
+        "address": "München, Bayern",
+        "industry": "Fernwärme / Kommunale Energieversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "MVV Energie AG",
+        "website": "mvv.de",
+        "address": "Mannheim, Baden-Württemberg",
+        "industry": "Fernwärme / Kommunale Energieversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "enercity AG",
+        "website": "enercity.de",
+        "address": "Hannover, Niedersachsen",
+        "industry": "Fernwärme / Kommunale Energieversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Danpower GmbH",
+        "website": "danpower.de",
+        "address": "Potsdam, Brandenburg",
+        "industry": "Fernwärme / Wärme-Contracting",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "G+E GETEC Holding GmbH",
+        "website": "getec.de",
+        "address": "Magdeburg, Sachsen-Anhalt",
+        "industry": "Energie-Contracting / Fernwärme",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "ENGIE Deutschland GmbH",
+        "website": "engie-deutschland.de",
+        "address": "Köln, Nordrhein-Westfalen",
+        "industry": "Fernwärme / Energie-Contracting / KWK",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Iqony Fernwärme GmbH",
+        "website": "fernwaerme.iqony.energy",
+        "address": "Essen, Nordrhein-Westfalen",
+        "industry": "Fernwärme / Wärmeversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "EWE AG",
+        "website": "ewe.com",
+        "address": "Oldenburg, Niedersachsen",
+        "industry": "Kommunale Energieversorgung / Wärme",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Mainova AG",
+        "website": "mainova.de",
+        "address": "Frankfurt am Main, Hessen",
+        "industry": "Fernwärme / Kommunale Energieversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "N-ERGIE AG",
+        "website": "n-ergie.de",
+        "address": "Nürnberg, Bayern",
+        "industry": "Fernwärme / Kommunale Energieversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Stadtwerke Flensburg GmbH",
+        "website": "stadtwerke-flensburg.de",
+        "address": "Flensburg, Schleswig-Holstein",
+        "industry": "Fernwärme / Kommunale Energieversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Stadtwerke Kiel AG",
+        "website": "stadtwerke-kiel.de",
+        "address": "Kiel, Schleswig-Holstein",
+        "industry": "Fernwärme / Kommunale Energieversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Leipziger Stadtwerke",
+        "website": "l.de/stadtwerke",
+        "address": "Leipzig, Sachsen",
+        "industry": "Fernwärme / Kommunale Energieversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "SachsenEnergie AG",
+        "website": "sachsenenergie.de",
+        "address": "Dresden, Sachsen",
+        "industry": "Fernwärme / Kommunale Energieversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Stadtwerke Ludwigsburg-Kornwestheim GmbH (SWLB)",
+        "website": "swlb.de",
+        "address": "Ludwigsburg, Baden-Württemberg",
+        "industry": "Fernwärme / Kommunale Energieversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Fernheizwerk Neukölln AG",
+        "website": "fhw-neukoelln.de",
+        "address": "Berlin-Neukölln",
+        "industry": "Fernwärme / Wärmeversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "BTB GmbH Berlin",
+        "website": "btb-berlin.de",
+        "address": "Berlin",
+        "industry": "BHKW / Fernwärme / dezentrale Energieversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Wien Energie GmbH (Fernwärme Wien)",
+        "website": "wienenergie.at",
+        "address": "Wien, Österreich",
+        "industry": "Fernwärme / Kommunale Energieversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "RheinEnergie AG",
+        "website": "rheinenergie.com",
+        "address": "Köln, Nordrhein-Westfalen",
+        "industry": "Fernwärme / Kommunale Energieversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "Stadtwerke Duisburg AG",
+        "website": "stadtwerke-duisburg.de",
+        "address": "Duisburg, Nordrhein-Westfalen",
+        "industry": "Fernwärme / Kommunale Energieversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "EnBW Energie Baden-Württemberg AG",
+        "website": "enbw.com",
+        "address": "Karlsruhe, Baden-Württemberg",
+        "industry": "Fernwärme / Energieversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "swb AG (Stadtwerke Bremen)",
+        "website": "swb.de",
+        "address": "Bremen",
+        "industry": "Fernwärme / Kommunale Energieversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
+    },
+    {
+      "company": {
+        "name": "STEAG Iqony Group",
+        "website": "steag-iqony-group.com",
+        "address": "Essen, Nordrhein-Westfalen",
+        "industry": "Fernwärme / Stromerzeugung / Energiedienstleistung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": null
     }
   ],
   "metadata": {},
