@@ -3,6 +3,7 @@
 **Stand:** 2026-04-15
 **Topic:** IoT / Asset Management / Industrie 4.0 Plattformen
 **Quelle:** `leads.json` + `iot_kontaktliste.md`
+**Leads gesamt:** 32 (30 original + TROX + Klosterfrau)
 
 ---
 
@@ -10,83 +11,85 @@
 
 | Tier | Beschreibung | Anzahl | Next Action Zeitrahmen |
 |------|--------------|--------|-----------------------|
-| 🔥 **TIER 1 — HOT** | HIGH-Konfidenz + aktuelle Signale (neuer CIO, SAP-Projekt, offene Stelle) | **9** | Kontakt in 2 Wochen |
-| 🟡 **TIER 2 — WARM** | MEDIUM-Konfidenz oder HIGH ohne starke Signale | **8** | Verifizierung 1–3 Monate |
-| ❄️ **TIER 3 — COLD** | LOW-Konfidenz, Kontakt unbekannt, Research läuft | **13** | Telefonrecherche / WebSearch |
+| 🔥 **TIER 1 — HOT** | HIGH-Konfidenz + aktuelle Signale | **11** | Kontakt in 2 Wochen |
+| 🟡 **TIER 2 — WARM** | MEDIUM-Konfidenz oder HIGH ohne starke Signale | **15** | Verifizierung 1–3 Monate |
+| ❄️ **TIER 3 — COLD** | LOW-Konfidenz, Kontakt weiterhin unbekannt | **5** | Telefonrecherche erforderlich |
+| 🔄 **TIER 4 — Sondersituation** | M&A, Restrukturierung, Abwarten | **1** | 3–6 Monate Geduld |
+
+**Verbesserung seit 23.03.:** HOT 9→11 (+22%), COLD 13→5 (-62%). Trefferquote strukturierter Leads: 63% → 81%.
 
 ---
 
 ## 🔥 TIER 1 — HOT LEADS (sofort kontaktieren)
 
-Alle 9 mit namentlich bekanntem IT-Entscheider + starkem aktuellen Signal.
-
 | # | Firma | Score | IT-Entscheider | Sales-Signal | Next Action |
 |---|-------|-------|----------------|--------------|-------------|
-| 1 | **Rosenberger HFT** | 0.752 | Walter Hölblinger, CIO | 🆕 Frisch im Amt (Jan 2025), will IT transformieren, MBA IT Mgmt, CISSP | LinkedIn-Direktanschrift: Referenz auf IT-Transformation & IoT-Asset-Mgmt |
-| 2 | **Mekra Lang** | 0.771 | Michael Ammon, Global Head of IT | 📚 Studiert Digital Business Mgmt parallel → offen für Innovation | LinkedIn-Connect: Nutzfahrzeug-Kamera IoT-Case |
-| 3 | **ACO Severin Ahlmann** | 0.665 | Dominik Neff, CIO Group | 🔗 **Querverbindung: Neff kam von HELM AG** (auch in Pipeline!) | Warmer Einstieg: HELM-Referenz, IoT für Entwässerungsnetze |
-| 4 | **GP JOULE** | 0.642 | Kerrit Friedrichsen, CIO | 🆕 Neuer CIO Fokus Technologie+Nachhaltigkeit, aktive Suche ERP/CRM | Email an CIO: Asset Management für Wind+H₂-Portfolio |
-| 5 | **Stern-Wywiol Gruppe** | 0.626 | Kay Postwig, Head of IT/OT | 🚀 "SternConnect" Digitalisierungs-Unit aktiv, 12 Firmen × 19 Töchter | LinkedIn: IT/OT-Konvergenz für Food-Ingredients-Produktion |
-| 6 | **Sikora AG** | 0.605 | Christoph Hüniken, IT-Leiter | 🏢 Stabil seit 4+ Jahren, Mess-/Regeltechnik = IoT-Kern | Brief/Email: eigene IoT-Plattform-Entwicklung als Partner |
-| 7 | **Nordex SE** | 0.579 | Stefan Ewald, CIO | 🤝 Mindtree 5-Jahres-Deal, Nordex OS SCADA EDGE läuft, SAP-Rollout Acciona | LinkedIn: ergänzende Leistung zu Mindtree (Nischen-Beratung) |
-| 8 | **SH Netz (HanseWerk)** | 0.569 | Thorsten Frye, CIO & CDO | 📡 LoRaWAN 60+→400 Antennen, DXC Smart Metering, **Bridge zu Fernwärme-Leads!** | LinkedIn via Hebenstreit (Netztechnik-GF); IoT-Plattform |
-| 9 | **HF Group** | 0.555 | Alexander Bodi, Head of IT (71 MA) | 🚧 ECM-Projekt mit ACTIWARE/ELO läuft, Possehl Digital Conference | Email: IoT-Asset-Mgmt für HF Mixing/TireTech/FoodTech |
+| 1 | **Rosenberger HFT** | 0.752 | Walter Hölblinger, CIO | 🆕 Frisch im Amt (Jan 2025), will IT transformieren, MBA, CISSP | LinkedIn-Direktanschrift: IT-Transformation & IoT-Asset-Mgmt |
+| 2 | **Mekra Lang** | 0.771 | Michael Ammon, Global Head of IT | 📚 Studiert Digital Business Mgmt parallel | LinkedIn-Connect: Nutzfahrzeug-Kamera IoT-Case |
+| 3 | **ACO Severin Ahlmann** | 0.665 | Dominik Neff, CIO Group | 🔗 **Ex-HELM AG** (auch in Pipeline!) | Warmer Einstieg via HELM-Referenz |
+| 4 | **GP JOULE** | 0.642 | Kerrit Friedrichsen, CIO | 🆕 Neuer CIO, aktive Suche ERP/CRM | Email an CIO: Asset Mgmt Wind+H₂-Portfolio |
+| 5 | **Stern-Wywiol Gruppe** | 0.626 | Kay Postwig, Head of IT/OT | 🚀 "SternConnect" Digi-Unit aktiv | LinkedIn: IT/OT-Konvergenz Food-Ingredients |
+| 6 | **Sikora AG** | 0.605 | Christoph Hüniken, IT-Leiter | 🏢 Stabil 4+ Jahre, Mess-/Regeltechnik = IoT-Kern | Brief/Email: IoT-Plattform als Partner |
+| 7 | **Nordex SE** | 0.579 | Stefan Ewald, CIO | 🤝 Mindtree 5-J-Deal, Nordex OS SCADA, SAP-Rollout | LinkedIn: Nischen-Partner neben Mindtree |
+| 8 | **SH Netz (HanseWerk)** | 0.569 | Thorsten Frye, CIO & CDO | 📡 LoRaWAN 60→400 Antennen, **Bridge zu Fernwärme!** | LinkedIn via Hebenstreit (GF Netztechnik) |
+| 9 | **HF Group** | 0.555 | Alexander Bodi, Head of IT (71 MA) | 🚧 ECM mit ACTIWARE/ELO, Possehl Digital Conf. | Email: IoT für HF Mixing/TireTech/FoodTech |
+| 10 | **Fritz Winter** 🆕 | 0.575 | **Alexander Schwab**, Leiter IT & Digitalisierung | 📰 **CIO.de-Feature Feb 2026**, FSAS Summit Speaker, NetApp uSCALE live | LinkedIn-DM: Follow-up SAP-Konsolidierung, Cloud-Strategie |
+| 11 | **Klosterfrau Healthcare** 🆕 | 0.520 | **Frank Roth**, CIO seit 2002 | 🏛️ SAP S/4HANA live seit 01/2021, RZ-Neubau, Picavi Smart Glasses | LinkedIn Frank Roth: Asset Mgmt für Pharma-Produktion Berlin/Lüchow |
 
 ### Sofortmaßnahmen TIER 1
-- [ ] ACO: **warmer Intro via HELM AG Netzwerk** (Dominik Neff war dort 2012–2019)
-- [ ] SH Netz/HanseWerk: **strategisch wichtig** — Bridge zu Fernwärme-Cross-Sell
-- [ ] Rosenberger: CIO ist ~15 Monate im Amt — klassisches Transformations-Fenster
-- [ ] Nordex: als Nischen-Partner *neben* Mindtree positionieren, nicht als Ersatz
+- [ ] **ACO**: Warmer Intro via HELM AG Netzwerk (Neff war dort 2012–2019)
+- [ ] **SH Netz/HanseWerk**: Strategisch wichtig — Bridge zu Fernwärme Cross-Sell (HanseWerk Natur, BTB Berlin)
+- [ ] **Rosenberger**: CIO ~15 Monate im Amt → Transformations-Fenster
+- [ ] **Fritz Winter**: Schwab ist aktiv auf LinkedIn (CIO.de-Interview, Speaker) → warme Ansprache
+- [ ] **Klosterfrau**: Frank Roth hielt Vortrag "Tradition und Digitalisierung" bei mgm → thematischer Einstieg
 
 ---
 
 ## 🟡 TIER 2 — WARM LEADS (Verifizierung & Vorarbeit)
 
-MEDIUM-Konfidenz oder HIGH ohne aktuelles Signal. Kontakt muss erst validiert werden.
-
 | # | Firma | Score | Kontakt | Status | Next Action |
 |---|-------|-------|---------|--------|-------------|
-| 1 | **GoodMills Deutschland** | 0.771 | Daniel Wellenreuther (IT BD) | ⚠️ CIO-Nachfolge nach Steffen unklar, **Fusion Castellmühle Feb 2026**, SAP+EDI-Modernisierung | Telefonrecherche +49 40 75109-0: „Wer hat CIO-Rolle übernommen?" |
-| 2 | **Gentherm Präzision** | 0.764 | Ramzi Braham (USA, global) | 🎯 **EU-IT-Manager-Stelle offen** — Valentina Müller +49 8134 933-570 | Bei HR anfragen (Stand Ausschreibung) + US-Kontakt parallel |
-| 3 | **FFG Flensburg** | 0.630 | Stefan Kösterke, CISO | 🛡️ Wehrtechnik, NIS2, ISO 27001; kein CIO öffentlich | LinkedIn Kösterke: Security-Einstieg → IoT/OT-Thema |
-| 4 | **Helbako** | 0.586 | Martin Niermann (Log./IT) | ⚙️ Kombi-Rolle, Automotive Tier 1 (BMW/Daimler/VW) | LinkedIn: IT für Steuergeräte-Produktion |
-| 5 | **Brunsbüttel Ports** | 0.580 | Frank Schnabel, GF | 🚢 **UniPort 4.0** (433k€) + **Connected Cleanport** (174k€) laufen | Direktemail f.schnabel@schrammgroup.de: IoT-Plattform Port-Scale |
-| 6 | **Helm AG** | 0.577 | Thomas Roos, CIO (V?) | ❓ "HELMbild 2030", SaaS-Plattform Skyfld seit 2017 | Verifizieren: ist Roos der aktuelle CIO (LinkedIn + Pressemitteilungen) |
-| 7 | **Limtronik** | 0.557 | Gerd Ohl, GF | 🏭 SEF Smart Electronic Factory Mitgründer, I4.0-Showcase | Event-Matching (SEF-Veranstaltung) + LinkedIn persönlich |
-| 8 | **Blohm+Voss** | 0.555 | Sebastian Herke (NVL) | 🔄 **Rheinmetall-Übernahme März 2026** → Strukturwechsel | Abwarten 1–2 Quartale bis neue Org steht; dann neu bewerten |
+| 1 | **GoodMills Deutschland** | 0.771 | Daniel Wellenreuther (IT BD) | ⚠️ CIO-Nachfolge unklar, **Fusion Castellmühle Feb 2026**, SAP+EDI | Tel. +49 40 75109-0: CIO-Nachfolge? |
+| 2 | **Gentherm Präzision** | 0.764 | Ramzi Braham (USA) | 🎯 **EU-IT-Manager-Stelle offen** | Valentina Müller HR: +49 8134 933-570 |
+| 3 | **TROX SE** 🆕 | **0.732** | Thomas Mosbacher (Vorstand IT-Ressort) + Matthias Schenk (Head of IT X-Fans) | 🏢 **Umwandlung GmbH→SE Apr 2025**, Infor LN ERP, eigene IoT-Produkte (X-CUBE, X-CLOUD), 6 IT-Stellen offen! | LinkedIn-Suche "Head of IT TROX Group"; TROX HGI als alternativer Einstieg |
+| 4 | **FFG Flensburg** | 0.630 | Stefan Kösterke, CISO | 🛡️ Wehrtechnik, NIS2, ISO 27001 | LinkedIn: Security → IoT/OT |
+| 5 | **Brüggen KG** 🆕 | 0.642 | **Joachim Klamroth**, CIO seit Juli 2021 | ⚠️ Status 2026 prüfen (mögl. Wechsel), KI-Projekt mit Expand AI | LinkedIn-Check + Tel. +49 451 6102-0 |
+| 6 | **Helbako** | 0.586 | Martin Niermann (Log./IT) | ⚙️ Kombi-Rolle, Automotive Tier 1 | LinkedIn: IT für Steuergeräte-Produktion |
+| 7 | **Brunsbüttel Ports** | 0.580 | Frank Schnabel, GF | 🚢 **UniPort 4.0** (433k€) + **Connected Cleanport** (174k€) | Direktemail f.schnabel@schrammgroup.de |
+| 8 | **Helm AG** | 0.577 | Thomas Roos, CIO (?) | ❓ HELMbild 2030, SaaS-Plattform Skyfld | Verifizieren via LinkedIn + Pressemitteilungen |
+| 9 | **SHW Automotive** 🆕 | 0.583 | **Klaus Saiger** (SAP Prozessmgr) als Einstieg | 🚧 **Multinat. S/4HANA + BW/4HANA-Rollout**, 4 SAP-Stellen offen, neue CFO 2025 | LinkedIn Klaus Saiger → CIO erfragen |
+| 10 | **SAACKE** 🆕 | 0.581 | 🎯 **Vakant** (Kammer→Rheinmetall) | 🎯 IT-System-Engineer-Stelle offen, BIBA/Uni-Bremen I4.0-Kooperation | Tel. +49 421 6495-0: aktuellen IT-Leiter erfragen |
+| 11 | **Tamsen Maritim** 🆕 | 0.565 | **Gregor Uloth**, Techn. BL | 🏭 EFRE 400k€ Digitalisierungsprojekt läuft, 30J-Jubiläum Mai 2025 | LinkedIn Gregor Uloth: EFRE-Projekt-Status |
+| 12 | **Sweet Tec** 🆕 | 0.645 | **Ralf Schulzke**, kfm. GF (SAP-Entscheider) | 🚀 SAP S/4HANA Cloud mit Innovabee live, Suesswaren 4.0 | Email Schulzke via Innovabee-Referenz |
+| 13 | **PRACHT Lichttechnik** 🆕 | 0.568 | **Gerhard Hillebrand**, IoT-Engineer | 🏆 TOP 100 Innovator, PRACHT Institute of Technology (PIT), Light+Building 2026 | LinkedIn Hillebrand: IoT-Engineer-zu-IoT-Anbieter |
+| 14 | **Limtronik** | 0.557 | Gerd Ohl, GF | 🏭 SEF Smart Electronic Factory Mitgründer | Event-Matching (SEF) + LinkedIn Ohl |
+| 15 | **Heinrich Rönner** 🆕 | 0.583 | Nicht gefunden (Rönner Verwaltungs-GmbH) | 🏗️ **FSG-Werft Jan 2025 übernommen**, ams.erp-Rollout, 1700+ MA | Tel. +49 471 80960-900: FSG-Integration als Aufhänger |
 
 ---
 
-## ❄️ TIER 3 — COLD / PROSPECT (Research läuft)
+## ❄️ TIER 3 — COLD LEADS (weiterhin Recherche nötig)
 
-Ohne IT-Ansprechpartner. **2 Research-Agents laufen aktuell** für tiefere Recherche — Ergebnisse werden hier eingearbeitet.
+Nach zwei Research-Runden keine identifizierbaren IT-Entscheider.
 
-### 3a) Hoher Score, Kontakt fehlt (Priorisieren nach Research)
+| # | Firma | Score | Bekannter Ansatzpunkt | Empfohlene Aktion |
+|---|-------|-------|----------------------|-------------------|
+| 1 | **CODAN Medizintechnik** | 0.652 | 3 IT-Stellen offen (inkl. PM Digitalisierung), ~480 MA | Tel. +49 4363 5111 + personal@codan.de |
+| 2 | **Friesenkrone Feinkost** | 0.596 | Fachinformatiker-Stelle offen, 275 MA | HR Kristin Holm (kristin.holm@friesenkrone.de) |
+| 3 | **Denker & Wulf** | 0.667 | 800+ Windanlagen Fernüberwachung (DW Operations) | Tel. +49 4357 9977-0 |
+| 4 | **Blohm+Voss** | 0.555 | Herke (NVL), jetzt Rheinmetall | Abwarten 1-2 Q bis neue Org steht |
 
-| # | Firma | Score | Bekannter Ansatzpunkt | Research-Status |
-|---|-------|-------|----------------------|-----------------|
-| 1 | **MRS Electronic** | **0.807** | GF Günther Dörgeloh, IoT-Connectivity-Jobs aktiv | 🔄 Agent 2 |
-| 2 | **Denker & Wulf** | 0.667 | DW Operations Fernüberwachung 800+ Anlagen | 🔄 Agent 2 |
-| 3 | **CODAN Medizintechnik** | 0.652 | Familie Husted-Andersen | 🔄 Agent 1 |
-| 4 | **Sweet Tec** | 0.645 | SAP S/4HANA mit Innovabee live | 🔄 Agent 1 |
-| 5 | **H. & J. Brüggen** | 0.642 | CIO-Nachfolge Willebrand unklar | 🔄 Agent 1 |
-
-### 3b) Mittlerer Score, Kontakt fehlt
-
-| # | Firma | Score | Bekannter Ansatzpunkt | Research-Status |
-|---|-------|-------|----------------------|-----------------|
-| 6 | **Friesenkrone** | 0.596 | GF Hendrik Schwarz / kaufm. BL Kleinschmidt | 🔄 Agent 1 |
-| 7 | **Heinrich Rönner** | 0.583 | Rönner Verwaltungs-GmbH, ams.erp-Projekt | 🔄 Agent 1 |
-| 8 | **SHW Automotive** | 0.583 | CEO Plasser, SAP-Team wird aufgebaut | 🔄 Agent 2 |
-| 9 | **SAACKE** | 0.581 | IT-Leiter-Stelle **vakant** (Kammer weg zu Rheinmetall) | 🔄 Agent 1 |
-| 10 | **Fritz Winter** | 0.575 | Stelle Leiter IT & Digi 2022 ausgeschrieben, NetApp-Deal | 🔄 Agent 2 |
-| 11 | **Alfred PRACHT** | 0.568 | Gerhard Hillebrand ("IoT-Engineer") | 🔄 Agent 2 |
-| 12 | **Tamsen Maritim** | 0.565 | EFRE-Digitalisierungsprojekt 400k€ | 🔄 Agent 2 |
-
-### 3c) Duplikate / Sonderfälle
+### 3a) Duplikat
 | # | Firma | Hinweis |
 |---|-------|---------|
-| 13 | **Nordex SE Rostock** | Duplikat von #7 TIER 1 (Ewald steuert zentral) — aus Liste entfernen |
+| 5 | **Nordex SE Rostock** | Duplikat von #7 TIER 1 (Ewald steuert zentral aus Hamburg) — ignorieren |
+
+---
+
+## 🔄 TIER 4 — Sondersituation
+
+| # | Firma | Score | Situation | Empfehlung |
+|---|-------|-------|-----------|------------|
+| 1 | **MRS Electronic** | **0.807** | 🚨 **Übernahme durch Würth Elektronik ICS (Mär 2026)** — Kartellgenehmigung steht aus | Nach Closing via Würth-Kanal; 3-6 Monate abwarten |
 
 ---
 
@@ -97,34 +100,54 @@ Ohne IT-Ansprechpartner. **2 Research-Agents laufen aktuell** für tiefere Reche
 | 🆕 | Neuer CIO/IT-Leiter (<18 Monate im Amt) | Transformations-Budget verfügbar |
 | 🚧 | IT-/Digitalisierungsprojekt läuft aktiv | Partner-Bedarf, ergänzende Leistungen |
 | 🎯 | Offene Stelle (IT-Leiter/CIO vakant) | Externes Outsourcing als Alternative |
-| 🔄 | Ownership-Wechsel / Restrukturierung | 3–6 Monate abwarten, dann neu bewerten |
+| 🔄 | Ownership-Wechsel / Restrukturierung | 3–6 Monate abwarten |
 | 🔗 | Persönliche Querverbindung zu Bestandskunde | Warmer Intro möglich |
 | 📡 | Bestehende IoT/OT-Infrastruktur | Erweiterungs-/Plattform-Thema |
 | ⚠️ | Veränderungs-Risiko (Fusion, neue GF) | Timing prüfen |
-| 🛡️ | Security/Compliance-Druck (NIS2, TISAX) | Einstieg über Security |
+| 🛡️ | Security/Compliance-Druck (NIS2, TISAX, GMP) | Einstieg über Security |
+| 📰 | Öffentliche Positionierung (CIO.de-Interview, Speaker) | Direkte Ansprache einfacher |
+| 🏛️ | Stabiler Langzeit-CIO | Etablierte Beziehungen, längerer Sales-Zyklus |
+| 🏭 | Aktives I4.0-/Produktions-Projekt | Fertigungs-IoT als Einstieg |
+| 🚀 | SAP S/4HANA-Projekt live oder in Umsetzung | Erweiterungs-Module andocken |
+| 🏆 | Innovations-Award (TOP 100, Hidden Champion) | Innovationsbereites Mgmt |
 
 ---
 
 ## Cross-Sell-Potenziale
 
 ### HanseWerk-Bridge (Strom + Wärme)
-**SH Netz (HanseWerk)** ist der strategisch wichtigste Lead, da:
+**SH Netz (HanseWerk)** ist der strategisch wichtigste Lead:
 1. Thorsten Frye (CIO) + Lisa Hebenstreit (GF Netztechnik, Ex-Head of Digital & IT) bilden die Brücke
-2. HanseWerk-Konzern umfasst **HanseWerk Natur** (Fernwärme) — direkte Synergie zur neuen Fernwärme-Pipeline (25 Firmen)
-3. **BTB Berlin** (Fernwärme-Liste) ist **Schwesterfirma** bei E.ON — Referenz nutzbar
+2. HanseWerk-Konzern umfasst **HanseWerk Natur** (Fernwärme) — direkte Synergie zur Fernwärme-Pipeline (25 Firmen)
+3. **BTB Berlin** (Fernwärme-Liste) ist **Schwesterfirma** bei E.ON
 
 ### ACO → HELM AG
-Dominik Neff (ACO CIO, seit Sep 2022) war vorher 2012–2019 **Leiter IT Strategy & Projects bei HELM AG** (Lead #22). Zwei-Wege-Referenz möglich.
+Dominik Neff (ACO CIO) war 2012–2019 **Leiter IT Strategy & Projects bei HELM AG** (Lead #22). Zwei-Wege-Referenz möglich.
 
 ### Maschinenbau-Cluster
-HF Group, Fritz Winter, Limtronik, SAACKE, MRS Electronic — alle mit aktiven SAP/ERP/I4.0-Projekten. **Gruppenangebot/Webinar-Serie** mit Fokus Industrie 4.0 Asset Mgmt möglich.
+HF Group, Fritz Winter, Limtronik, SAACKE, MRS Electronic, **TROX SE** (neu) — alle mit aktiven I4.0-Projekten. **Gruppenangebot/Webinar-Serie** möglich.
+
+### Pharma-Einzelthema (Klosterfrau)
+Klosterfrau + **Gentherm (Biomed-Anteil)** + **CODAN Medizintechnik** — GMP-Compliance als gemeinsamer Treiber.
+
+### IoT-Hersteller als Partner (nicht nur Kunde)
+**TROX SE** hat eigene IoT-Produkte (X-CLOUD, X-CUBE X2, X-AIRCONTROL) → **Partnerschaft-Potenzial** über Kunden-Status hinaus: Integration TROX-HVAC-Assets in unsere Plattform.
 
 ---
 
-## Nächste Schritte (Reihenfolge)
+## Nächste Schritte
 
-1. ✅ TIER 1 Kontakte **sofort** auf LinkedIn ansprechen (9 Leads)
-2. ⏳ Warten auf Research-Agents für TIER 3 (~30 min)
-3. 📞 TIER 2 Telefonverifizierung starten (GoodMills, Helm AG, Gentherm)
-4. 📋 TIER 3 nach Agent-Research neu priorisieren
-5. 🤝 **HanseWerk-Strategie entwickeln** (Strom→Wärme Cross-Sell)
+### Woche 1 (15.-22.04.2026)
+1. ✅ TIER 1 (11 Leads) auf LinkedIn kontaktieren — persönliche Message mit Signal-Bezug
+2. 📞 Tel.-Verifizierung TIER 2 Verdachtskandidaten: GoodMills, Helm AG, Gentherm, SAACKE, Heinrich Rönner, TROX
+3. 🤝 **HanseWerk-Bridge-Strategie** entwickeln (Frye → HanseWerk Natur → BTB Berlin)
+
+### Woche 2–4
+4. ACO-HELM-Bridge nutzen (Neff als Referenz)
+5. Würth-Integration MRS Electronic beobachten (Kartellgenehmigung)
+6. Brunsbüttel Ports: UniPort 4.0 Whitepaper/Proposal
+
+### Monat 2–3
+7. TIER 3 Telefonrecherche (CODAN, Friesenkrone, Denker & Wulf)
+8. TROX Head of IT identifizieren (LinkedIn Sales Navigator empfohlen)
+9. Event-Besuch **Light + Building 2026** (Frankfurt, März) → PRACHT + TROX face-to-face

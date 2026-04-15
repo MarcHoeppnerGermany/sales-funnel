@@ -280,6 +280,63 @@
     },
     {
       "company": {
+        "name": "TROX SE",
+        "website": "trox.de",
+        "address": "Heinrich-Trox-Platz, 47506 Neukirchen-Vluyn",
+        "industry": "Luft- und Klimatechnik / HVAC",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.8,
+          "activity_reasoning": "Weltmarktführer HVAC, 725 Mio EUR Umsatz, stabile Familienunternehmensstruktur via Heinz Trox-Stiftung, Umwandlung in SE April 2025 zeigt Modernisierung, 33 Tochtergesellschaften in 27 Ländern",
+          "recent_news": [
+            "Umwandlung GmbH zu SE April 2025, stabile internationale Expansion"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT / Asset Management",
+          "affinity_score": 0.85,
+          "affinity_reasoning": "TROX hat eigene IoT-Produkte (X-CLOUD, X-AIRCONTROL, X-CUBE control 2.0), TROX HGI als eigene Systemintegrations-Tochter für Gebäudeautomation, Cloud Connectivity für Remote Maintenance und Predictive Maintenance, BACnet IP / Modbus TCP Integration",
+          "relevant_news": [
+            "X-CUBE X2 mit Cloud Connectivity, TROX HGI entwickelt IoT- und Digitalisierungslösungen"
+          ]
+        },
+        "combined_score": 0.83
+      },
+      "financials": {
+        "revenue_estimate": "725 Mio EUR (2024/2025)",
+        "profit_estimate": null,
+        "employee_count": 4950,
+        "hiring_activity": {
+          "general_hiring_score": 0.7,
+          "total_job_postings": 37,
+          "hiring_reasoning": "37 offene Stellen insgesamt, mehrere IT-Positionen (Softwareentwickler, ERP Inhouse Consultant, Werkstudent IT/ERP), aktive IT-Rekrutierung"
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.7,
+          "relevant_job_postings": 5,
+          "topic_hiring_reasoning": "Golang Backend-Entwickler für Microservices, ERP Inhouse Consultant Infor LN, Process Owner Digital (myTROX), Softwareentwickler Produktkonfiguration",
+          "example_positions": [
+            "Golang Backend Developer",
+            "Inhouse Consultant ERP (Infor LN)",
+            "Process Owner Digital",
+            "Werkstudent IT-Produktdatenmanagement & ERP"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.6,
+          "financial_health_score": 0.8,
+          "pressure_score": 0.7,
+          "strategic_reasoning": "Mittelstand mit 725 Mio EUR Umsatz, Weltmarktführer HVAC, 20 Produktionsstandorte global - IoT-Bedarf für Asset-Tracking in Produktion und installierter Basis, Wettbewerbsdruck durch Smart-Building-Trend"
+        },
+        "customer_rating": 0.68,
+        "rating_reasoning": "Mittelstand mit 725 Mio EUR Umsatz, Weltmarktführer HVAC, 20 Produktionsstandorte global - IoT-Bedarf für Asset-Tracking in Produktion und installierter Basis, Wettbewerbsdruck durch Smart-Building-Trend"
+      },
+      "overall_score": 0.732
+    },
+    {
+      "company": {
         "name": "Denker & Wulf AG",
         "website": "denkerwulf.de",
         "address": "Sehestedt, Schleswig-Holstein",
@@ -2971,6 +3028,61 @@
         },
         "customer_rating": 0.51,
         "rating_reasoning": "Etwas groß für klassischen Mittelstands-IT-Dienstleister (1000+ MA, börsennotiert). Finanzielle Lage angespannt. Hoher Druck: Kosteneinsparungen notwendig, E-Mobilität erfordert IT-Kompetenz."
+      },
+      "overall_score": 0.52
+    },
+    {
+      "company": {
+        "name": "Klosterfrau Healthcare Group",
+        "website": "klosterfrau.com",
+        "address": "Gereonsmühlengasse 1-11, 50670 Köln",
+        "industry": "Pharma / OTC-Arzneimittel",
+        "source": null
+      },
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.7,
+          "activity_reasoning": "Traditionsunternehmen fast 200 Jahre, ca. 574 Mio USD Umsatz, 1700 MA, strategische Neuausrichtung Consumer Healthcare 2025, Abgang GF Stephan Börner, SAP S/4HANA Go-Live 2021 zeigt Investitionsbereitschaft",
+          "recent_news": [
+            "Aufteilung Consumer Healthcare in Pharma und Retail 2025, neue VPs Markus Reker und Kirstin Buchmann"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "IoT / Asset Management",
+          "affinity_score": 0.6,
+          "affinity_reasoning": "SAP S/4HANA seit 2021 live, Picavi Smart-Glasses-Logistik in Berlin und Lüchow, Rechenzentrum-Modernisierung, aber kein expliziter IoT-Fokus in der Produktion sichtbar",
+          "relevant_news": [
+            "SAP S/4HANA mit Nagarro Fit4Life Science Template, Picavi Vision Picking seit 2016, RZ-Neubau"
+          ]
+        },
+        "combined_score": 0.64
+      },
+      "financials": {
+        "revenue_estimate": "574 Mio USD / ca. 287 Mio EUR (Deutschland, 2021)",
+        "profit_estimate": null,
+        "employee_count": 1700,
+        "hiring_activity": {
+          "general_hiring_score": 0.5,
+          "total_job_postings": 24,
+          "hiring_reasoning": "24 offene Stellen, davon IT-Systemadministrator in Berlin und Köln, moderate IT-Rekrutierung"
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.4,
+          "relevant_job_postings": 2,
+          "topic_hiring_reasoning": "IT-Systemadministratoren in Berlin und Köln, keine expliziten IoT-/Asset-Management-Stellen gefunden",
+          "example_positions": [
+            "IT-Systemadministrator Berlin",
+            "IT-Systemadministrator Köln"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.5,
+          "financial_health_score": 0.7,
+          "pressure_score": 0.5,
+          "strategic_reasoning": "Mittelstand mit ca. 574 Mio USD Umsatz, 3 Produktionsstandorte in DE, Pharma-Compliance-Anforderungen treiben Digitalisierung, aber weniger IoT-Druck als Fertigungsindustrie"
+        },
+        "customer_rating": 0.465,
+        "rating_reasoning": "Mittelstand mit ca. 574 Mio USD Umsatz, 3 Produktionsstandorte in DE, Pharma-Compliance-Anforderungen treiben Digitalisierung, aber weniger IoT-Druck als Fertigungsindustrie"
       },
       "overall_score": 0.52
     },
@@ -8074,6 +8186,810 @@
     },
     {
       "company": {
+        "name": "Huber Automotive AG",
+        "website": "huber-automotive.com",
+        "address": "Mühlhausen i.T., Baden-Württemberg",
+        "industry": "Automotive Steuergeräte / ECU / E-Mobility",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "b-plus GmbH",
+        "website": "b-plus.com",
+        "address": "Deggendorf, Bayern",
+        "industry": "Automotive Embedded / ECU / ADAS",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "Schaeffler Engineering GmbH",
+        "website": "schaeffler-engineering.com",
+        "address": "Werdohl, NRW",
+        "industry": "Automotive Steuergeräte / Mechatronik",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "ACTIA IME GmbH",
+        "website": "ime-actia.de",
+        "address": "Braunschweig, Niedersachsen",
+        "industry": "Automotive ECU / Diagnostics / Embedded",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "Sensor-Technik Wiedemann GmbH (STW)",
+        "website": "stw-mobile-machines.com",
+        "address": "Kaufbeuren, Bayern",
+        "industry": "Embedded Steuergeräte / Mobile Machines / IoT",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "RT-Systemtechnik GmbH",
+        "website": "rt-systemtechnik.de",
+        "address": "Rheine, NRW",
+        "industry": "Automotive Steuergeräte / Embedded / Off-Highway",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "HEINEN Elektronik GmbH",
+        "website": "heinen-elektronik.de",
+        "address": "Haan, NRW",
+        "industry": "Automotive Elektronik / Embedded / IT-Sicherheit",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "PHYTEC Messtechnik GmbH",
+        "website": "phytec.eu",
+        "address": "Mainz, Rheinland-Pfalz",
+        "industry": "Embedded Systems / Automotive / IoT",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "HEITEC AG",
+        "website": "heitec.de",
+        "address": "Erlangen, Bayern",
+        "industry": "Automotive Embedded / ECU / Elektronikentwicklung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "eSystems MTG GmbH",
+        "website": "esystems-mtg.de",
+        "address": "Wendlingen am Neckar, BW",
+        "industry": "Automotive ECU / E-Mobility / Ladesysteme",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "Sontheim Industrie Elektronik GmbH",
+        "website": "sontheim-industrie-elektronik.de",
+        "address": "Georg-Krug-Str. 2, 87437 Kempten",
+        "industry": "Automotive Embedded Systems / Diagnostik / ECU",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "DSA Daten- und Systemtechnik GmbH",
+        "website": "dsa.de",
+        "address": "Pascalstr. 28, 52076 Aachen",
+        "industry": "Automotive Fahrzeugdiagnose / Vehicle Connectivity",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "Softing Automotive Electronics GmbH",
+        "website": "automotive.softing.com",
+        "address": "Richard-Reitzner-Allee 6, 85540 Haar",
+        "industry": "Automotive Diagnostik / Telematik / Embedded Tools",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "Technica Engineering GmbH",
+        "website": "technica-engineering.de",
+        "address": "Schleißheimer Str. 91, 85748 Garching",
+        "industry": "Automotive Ethernet / Gateway / ECU-Entwicklung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "idem telematics GmbH",
+        "website": "idemtelematics.com",
+        "address": "Lazarettstr. 4, 80636 München",
+        "industry": "Trailer Telematik / Fleet Management / IoT",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "YellowFox GmbH",
+        "website": "yellowfox.de",
+        "address": "Am Wüsteberg 3, 01723 Wilsdruff OT Kesselsdorf",
+        "industry": "Fleet Telematik / GPS-Tracking / IoT Hardware",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "Trendfire Technologies GmbH",
+        "website": "trendfire.com",
+        "address": "Herrenberger Str. 56, 71034 Böblingen",
+        "industry": "LKW-Telematik / Fleet Management Hardware",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "CoSyst Control Systems GmbH",
+        "website": "apagcosyst.com",
+        "address": "Frankenstr. 150d, 90461 Nürnberg",
+        "industry": "Automotive ECU / Steuergeräte-Entwicklung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "m2m Germany GmbH",
+        "website": "m2mgermany.de",
+        "address": "Kappengraben 18, 61273 Wehrheim",
+        "industry": "IoT / Telematik-Gateway / M2M Hardware",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "helag-electronic GmbH",
+        "website": "helag-electronic.de",
+        "address": "Graf-Zeppelin-Str. 41, 72202 Nagold",
+        "industry": "Automotive Sensorik / Steuergeräte / Schalter",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "AREALCONTROL GmbH",
+        "website": "arealcontrol.de",
+        "address": "Strohberg 1, 70180 Stuttgart",
+        "industry": "GPS-Telematik / Fleet Management / IoT",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "dSPACE GmbH",
+        "website": "dspace.com",
+        "address": "Rathenaustr. 26, 33102 Paderborn",
+        "industry": "Automotive HIL/SIL / Embedded Validation",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "GlobalmatiX GmbH",
+        "website": "globalmatix.com",
+        "address": "Richard-Reitzner-Allee 6, 85540 Haar",
+        "industry": "Automotive Telematik / Connected Vehicle / MVNO",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "Mabanaft GmbH (MB Energy)",
+        "website": "mabanaft.com",
+        "address": "Hamburg",
+        "industry": "Energiehandel / Mineralöl / Tanklagerlagerlogistik",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "H&R GmbH & Co. KGaA",
+        "website": "hur.com",
+        "address": "Hamburg",
+        "industry": "Spezialchemie / Ölraffinerie / Mineralölprodukte",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "Westfalen AG",
+        "website": "westfalen.com",
+        "address": "Münster, NRW",
+        "industry": "Energiehandel / Industriegase / Tankstellen",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "Q1 Energie AG",
+        "website": "q1.eu",
+        "address": "Osnabrück, Niedersachsen",
+        "industry": "Mineralölhandel / Tankstellen / Energievertrieb",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "Deutsche AVIA Mineralöl GmbH",
+        "website": "avia.de",
+        "address": "München, Bayern",
+        "industry": "Mineralölhandel / Tankstellen / Energieverbund",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "Friedrich Scharr KG (SCHARR Gruppe)",
+        "website": "scharr.de",
+        "address": "Stuttgart-Vaihingen, BW",
+        "industry": "Energiehandel / Mineralöl / Brennstoffe",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "Orlen Deutschland GmbH",
+        "website": "orlen-deutschland.de",
+        "address": "Elmshorn, Schleswig-Holstein",
+        "industry": "Mineralölhandel / Tankstellen (Star/Orlen)",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "Wilhelm Hoyer KG",
+        "website": "hoyer.de",
+        "address": "Visselhövede, Niedersachsen",
+        "industry": "Mineralölhandel / Tankstellen / Energieversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "Team SE (Team Energie)",
+        "website": "team.de",
+        "address": "Flensburg, Schleswig-Holstein",
+        "industry": "Energiehandel / Agrarhandel / Tankstellen",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "Varo Energy Germany (Bayernoil)",
+        "website": "varoenergy.com",
+        "address": "Neustadt/Vohburg, Bayern",
+        "industry": "Ölraffinerie / Energiehandel / Tanklagerlagerlogistik",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "TanQuid GmbH & Co. KG",
+        "website": "tanquid.com",
+        "address": "Duisburg, NRW",
+        "industry": "Tanklagerbetreiber / Mineralöl-Lagerung / Logistik",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "Gunvor Raffinerie Ingolstadt GmbH",
+        "website": "gunvor-deutschland.de",
+        "address": "Ingolstadt, Bayern",
+        "industry": "Ölraffinerie / Kraftstoffhandel / Rohstoffhandel",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "DS-Mineralöl GmbH (Diersch & Schröder)",
+        "website": "ds-mineraloel.de",
+        "address": "Bremen",
+        "industry": "Mineralölimport / Großhandel / Holzpellets",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "Klöckner & Co SE",
+        "website": "kloeckner.com",
+        "address": "Düsseldorf, NRW",
+        "industry": "Stahlhandel / Rohstoffhandel / Metallverarbeitung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "RWE Supply & Trading GmbH",
+        "website": "rwe.com",
+        "address": "Essen, NRW",
+        "industry": "Energiehandel / Commodity Trading / Risikomanagement",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "Uniper Global Commodities SE",
+        "website": "uniper.energy",
+        "address": "Düsseldorf, NRW",
+        "industry": "Energiehandel / Commodity Trading / Gas & Strom",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "EnBW Trading GmbH",
+        "website": "enbw.com",
+        "address": "Karlsruhe, BW",
+        "industry": "Energiehandel / Commodity Trading / Erneuerbare",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "Calpam Mineralöl-Gesellschaft mbH",
+        "website": "calpam.com",
+        "address": "Aschaffenburg / Hamburg",
+        "industry": "Mineralölhandel / Bunkergeschäft / Tankstellen",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "BayWa AG Energie",
+        "website": "baywa.com",
+        "address": "München, Bayern",
+        "industry": "Energiehandel / Agrar / Baustoffe / Mineralöl",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "BEW Berliner Energie und Wärme GmbH",
+        "website": "bew.berlin",
+        "address": "Berlin",
+        "industry": "Fernwärme / Wärmeversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "Hamburger Energiewerke GmbH",
+        "website": "hamburger-energiewerke.de",
+        "address": "Hamburg",
+        "industry": "Fernwärme / Wärmeversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "Stadtwerke München GmbH (SWM)",
+        "website": "swm.de",
+        "address": "München, Bayern",
+        "industry": "Fernwärme / Kommunale Energieversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "MVV Energie AG",
+        "website": "mvv.de",
+        "address": "Mannheim, Baden-Württemberg",
+        "industry": "Fernwärme / Kommunale Energieversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "enercity AG",
+        "website": "enercity.de",
+        "address": "Hannover, Niedersachsen",
+        "industry": "Fernwärme / Kommunale Energieversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "Danpower GmbH",
+        "website": "danpower.de",
+        "address": "Potsdam, Brandenburg",
+        "industry": "Fernwärme / Wärme-Contracting",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "G+E GETEC Holding GmbH",
+        "website": "getec.de",
+        "address": "Magdeburg, Sachsen-Anhalt",
+        "industry": "Energie-Contracting / Fernwärme",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "ENGIE Deutschland GmbH",
+        "website": "engie-deutschland.de",
+        "address": "Köln, Nordrhein-Westfalen",
+        "industry": "Fernwärme / Energie-Contracting / KWK",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "Iqony Fernwärme GmbH",
+        "website": "fernwaerme.iqony.energy",
+        "address": "Essen, Nordrhein-Westfalen",
+        "industry": "Fernwärme / Wärmeversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "EWE AG",
+        "website": "ewe.com",
+        "address": "Oldenburg, Niedersachsen",
+        "industry": "Kommunale Energieversorgung / Wärme",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "Mainova AG",
+        "website": "mainova.de",
+        "address": "Frankfurt am Main, Hessen",
+        "industry": "Fernwärme / Kommunale Energieversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "N-ERGIE AG",
+        "website": "n-ergie.de",
+        "address": "Nürnberg, Bayern",
+        "industry": "Fernwärme / Kommunale Energieversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "Stadtwerke Flensburg GmbH",
+        "website": "stadtwerke-flensburg.de",
+        "address": "Flensburg, Schleswig-Holstein",
+        "industry": "Fernwärme / Kommunale Energieversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "Stadtwerke Kiel AG",
+        "website": "stadtwerke-kiel.de",
+        "address": "Kiel, Schleswig-Holstein",
+        "industry": "Fernwärme / Kommunale Energieversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "Leipziger Stadtwerke",
+        "website": "l.de/stadtwerke",
+        "address": "Leipzig, Sachsen",
+        "industry": "Fernwärme / Kommunale Energieversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "SachsenEnergie AG",
+        "website": "sachsenenergie.de",
+        "address": "Dresden, Sachsen",
+        "industry": "Fernwärme / Kommunale Energieversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "Stadtwerke Ludwigsburg-Kornwestheim GmbH (SWLB)",
+        "website": "swlb.de",
+        "address": "Ludwigsburg, Baden-Württemberg",
+        "industry": "Fernwärme / Kommunale Energieversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "Fernheizwerk Neukölln AG",
+        "website": "fhw-neukoelln.de",
+        "address": "Berlin-Neukölln",
+        "industry": "Fernwärme / Wärmeversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "BTB GmbH Berlin",
+        "website": "btb-berlin.de",
+        "address": "Berlin",
+        "industry": "BHKW / Fernwärme / dezentrale Energieversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "Wien Energie GmbH (Fernwärme Wien)",
+        "website": "wienenergie.at",
+        "address": "Wien, Österreich",
+        "industry": "Fernwärme / Kommunale Energieversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "RheinEnergie AG",
+        "website": "rheinenergie.com",
+        "address": "Köln, Nordrhein-Westfalen",
+        "industry": "Fernwärme / Kommunale Energieversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "Stadtwerke Duisburg AG",
+        "website": "stadtwerke-duisburg.de",
+        "address": "Duisburg, Nordrhein-Westfalen",
+        "industry": "Fernwärme / Kommunale Energieversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "EnBW Energie Baden-Württemberg AG",
+        "website": "enbw.com",
+        "address": "Karlsruhe, Baden-Württemberg",
+        "industry": "Fernwärme / Energieversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "swb AG (Stadtwerke Bremen)",
+        "website": "swb.de",
+        "address": "Bremen",
+        "industry": "Fernwärme / Kommunale Energieversorgung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
+        "name": "STEAG Iqony Group",
+        "website": "steag-iqony-group.com",
+        "address": "Essen, Nordrhein-Westfalen",
+        "industry": "Fernwärme / Stromerzeugung / Energiedienstleistung",
+        "source": null
+      },
+      "topic_relevance": null,
+      "financials": null,
+      "overall_score": 0.25
+    },
+    {
+      "company": {
         "name": "Hongfa Europe GmbH",
         "website": "hongfa.com",
         "address": "Maintal, Hessen",
@@ -8281,810 +9197,6 @@
         "rating_reasoning": "Klein (130 Mio, 440 MA), unter Restrukturierung bei Mutares. Kein Budget für IT-Innovation. Zu klein und instabil für strategische Partnerschaft."
       },
       "overall_score": 0.19
-    },
-    {
-      "company": {
-        "name": "Huber Automotive AG",
-        "website": "huber-automotive.com",
-        "address": "Mühlhausen i.T., Baden-Württemberg",
-        "industry": "Automotive Steuergeräte / ECU / E-Mobility",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "b-plus GmbH",
-        "website": "b-plus.com",
-        "address": "Deggendorf, Bayern",
-        "industry": "Automotive Embedded / ECU / ADAS",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Schaeffler Engineering GmbH",
-        "website": "schaeffler-engineering.com",
-        "address": "Werdohl, NRW",
-        "industry": "Automotive Steuergeräte / Mechatronik",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "ACTIA IME GmbH",
-        "website": "ime-actia.de",
-        "address": "Braunschweig, Niedersachsen",
-        "industry": "Automotive ECU / Diagnostics / Embedded",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Sensor-Technik Wiedemann GmbH (STW)",
-        "website": "stw-mobile-machines.com",
-        "address": "Kaufbeuren, Bayern",
-        "industry": "Embedded Steuergeräte / Mobile Machines / IoT",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "RT-Systemtechnik GmbH",
-        "website": "rt-systemtechnik.de",
-        "address": "Rheine, NRW",
-        "industry": "Automotive Steuergeräte / Embedded / Off-Highway",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "HEINEN Elektronik GmbH",
-        "website": "heinen-elektronik.de",
-        "address": "Haan, NRW",
-        "industry": "Automotive Elektronik / Embedded / IT-Sicherheit",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "PHYTEC Messtechnik GmbH",
-        "website": "phytec.eu",
-        "address": "Mainz, Rheinland-Pfalz",
-        "industry": "Embedded Systems / Automotive / IoT",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "HEITEC AG",
-        "website": "heitec.de",
-        "address": "Erlangen, Bayern",
-        "industry": "Automotive Embedded / ECU / Elektronikentwicklung",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "eSystems MTG GmbH",
-        "website": "esystems-mtg.de",
-        "address": "Wendlingen am Neckar, BW",
-        "industry": "Automotive ECU / E-Mobility / Ladesysteme",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Sontheim Industrie Elektronik GmbH",
-        "website": "sontheim-industrie-elektronik.de",
-        "address": "Georg-Krug-Str. 2, 87437 Kempten",
-        "industry": "Automotive Embedded Systems / Diagnostik / ECU",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "DSA Daten- und Systemtechnik GmbH",
-        "website": "dsa.de",
-        "address": "Pascalstr. 28, 52076 Aachen",
-        "industry": "Automotive Fahrzeugdiagnose / Vehicle Connectivity",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Softing Automotive Electronics GmbH",
-        "website": "automotive.softing.com",
-        "address": "Richard-Reitzner-Allee 6, 85540 Haar",
-        "industry": "Automotive Diagnostik / Telematik / Embedded Tools",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Technica Engineering GmbH",
-        "website": "technica-engineering.de",
-        "address": "Schleißheimer Str. 91, 85748 Garching",
-        "industry": "Automotive Ethernet / Gateway / ECU-Entwicklung",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "idem telematics GmbH",
-        "website": "idemtelematics.com",
-        "address": "Lazarettstr. 4, 80636 München",
-        "industry": "Trailer Telematik / Fleet Management / IoT",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "YellowFox GmbH",
-        "website": "yellowfox.de",
-        "address": "Am Wüsteberg 3, 01723 Wilsdruff OT Kesselsdorf",
-        "industry": "Fleet Telematik / GPS-Tracking / IoT Hardware",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Trendfire Technologies GmbH",
-        "website": "trendfire.com",
-        "address": "Herrenberger Str. 56, 71034 Böblingen",
-        "industry": "LKW-Telematik / Fleet Management Hardware",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "CoSyst Control Systems GmbH",
-        "website": "apagcosyst.com",
-        "address": "Frankenstr. 150d, 90461 Nürnberg",
-        "industry": "Automotive ECU / Steuergeräte-Entwicklung",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "m2m Germany GmbH",
-        "website": "m2mgermany.de",
-        "address": "Kappengraben 18, 61273 Wehrheim",
-        "industry": "IoT / Telematik-Gateway / M2M Hardware",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "helag-electronic GmbH",
-        "website": "helag-electronic.de",
-        "address": "Graf-Zeppelin-Str. 41, 72202 Nagold",
-        "industry": "Automotive Sensorik / Steuergeräte / Schalter",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "AREALCONTROL GmbH",
-        "website": "arealcontrol.de",
-        "address": "Strohberg 1, 70180 Stuttgart",
-        "industry": "GPS-Telematik / Fleet Management / IoT",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "dSPACE GmbH",
-        "website": "dspace.com",
-        "address": "Rathenaustr. 26, 33102 Paderborn",
-        "industry": "Automotive HIL/SIL / Embedded Validation",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "GlobalmatiX GmbH",
-        "website": "globalmatix.com",
-        "address": "Richard-Reitzner-Allee 6, 85540 Haar",
-        "industry": "Automotive Telematik / Connected Vehicle / MVNO",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Mabanaft GmbH (MB Energy)",
-        "website": "mabanaft.com",
-        "address": "Hamburg",
-        "industry": "Energiehandel / Mineralöl / Tanklagerlagerlogistik",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "H&R GmbH & Co. KGaA",
-        "website": "hur.com",
-        "address": "Hamburg",
-        "industry": "Spezialchemie / Ölraffinerie / Mineralölprodukte",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Westfalen AG",
-        "website": "westfalen.com",
-        "address": "Münster, NRW",
-        "industry": "Energiehandel / Industriegase / Tankstellen",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Q1 Energie AG",
-        "website": "q1.eu",
-        "address": "Osnabrück, Niedersachsen",
-        "industry": "Mineralölhandel / Tankstellen / Energievertrieb",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Deutsche AVIA Mineralöl GmbH",
-        "website": "avia.de",
-        "address": "München, Bayern",
-        "industry": "Mineralölhandel / Tankstellen / Energieverbund",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Friedrich Scharr KG (SCHARR Gruppe)",
-        "website": "scharr.de",
-        "address": "Stuttgart-Vaihingen, BW",
-        "industry": "Energiehandel / Mineralöl / Brennstoffe",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Orlen Deutschland GmbH",
-        "website": "orlen-deutschland.de",
-        "address": "Elmshorn, Schleswig-Holstein",
-        "industry": "Mineralölhandel / Tankstellen (Star/Orlen)",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Wilhelm Hoyer KG",
-        "website": "hoyer.de",
-        "address": "Visselhövede, Niedersachsen",
-        "industry": "Mineralölhandel / Tankstellen / Energieversorgung",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Team SE (Team Energie)",
-        "website": "team.de",
-        "address": "Flensburg, Schleswig-Holstein",
-        "industry": "Energiehandel / Agrarhandel / Tankstellen",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Varo Energy Germany (Bayernoil)",
-        "website": "varoenergy.com",
-        "address": "Neustadt/Vohburg, Bayern",
-        "industry": "Ölraffinerie / Energiehandel / Tanklagerlagerlogistik",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "TanQuid GmbH & Co. KG",
-        "website": "tanquid.com",
-        "address": "Duisburg, NRW",
-        "industry": "Tanklagerbetreiber / Mineralöl-Lagerung / Logistik",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Gunvor Raffinerie Ingolstadt GmbH",
-        "website": "gunvor-deutschland.de",
-        "address": "Ingolstadt, Bayern",
-        "industry": "Ölraffinerie / Kraftstoffhandel / Rohstoffhandel",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "DS-Mineralöl GmbH (Diersch & Schröder)",
-        "website": "ds-mineraloel.de",
-        "address": "Bremen",
-        "industry": "Mineralölimport / Großhandel / Holzpellets",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Klöckner & Co SE",
-        "website": "kloeckner.com",
-        "address": "Düsseldorf, NRW",
-        "industry": "Stahlhandel / Rohstoffhandel / Metallverarbeitung",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "RWE Supply & Trading GmbH",
-        "website": "rwe.com",
-        "address": "Essen, NRW",
-        "industry": "Energiehandel / Commodity Trading / Risikomanagement",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Uniper Global Commodities SE",
-        "website": "uniper.energy",
-        "address": "Düsseldorf, NRW",
-        "industry": "Energiehandel / Commodity Trading / Gas & Strom",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "EnBW Trading GmbH",
-        "website": "enbw.com",
-        "address": "Karlsruhe, BW",
-        "industry": "Energiehandel / Commodity Trading / Erneuerbare",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Calpam Mineralöl-Gesellschaft mbH",
-        "website": "calpam.com",
-        "address": "Aschaffenburg / Hamburg",
-        "industry": "Mineralölhandel / Bunkergeschäft / Tankstellen",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "BayWa AG Energie",
-        "website": "baywa.com",
-        "address": "München, Bayern",
-        "industry": "Energiehandel / Agrar / Baustoffe / Mineralöl",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "BEW Berliner Energie und Wärme GmbH",
-        "website": "bew.berlin",
-        "address": "Berlin",
-        "industry": "Fernwärme / Wärmeversorgung",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Hamburger Energiewerke GmbH",
-        "website": "hamburger-energiewerke.de",
-        "address": "Hamburg",
-        "industry": "Fernwärme / Wärmeversorgung",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Stadtwerke München GmbH (SWM)",
-        "website": "swm.de",
-        "address": "München, Bayern",
-        "industry": "Fernwärme / Kommunale Energieversorgung",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "MVV Energie AG",
-        "website": "mvv.de",
-        "address": "Mannheim, Baden-Württemberg",
-        "industry": "Fernwärme / Kommunale Energieversorgung",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "enercity AG",
-        "website": "enercity.de",
-        "address": "Hannover, Niedersachsen",
-        "industry": "Fernwärme / Kommunale Energieversorgung",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Danpower GmbH",
-        "website": "danpower.de",
-        "address": "Potsdam, Brandenburg",
-        "industry": "Fernwärme / Wärme-Contracting",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "G+E GETEC Holding GmbH",
-        "website": "getec.de",
-        "address": "Magdeburg, Sachsen-Anhalt",
-        "industry": "Energie-Contracting / Fernwärme",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "ENGIE Deutschland GmbH",
-        "website": "engie-deutschland.de",
-        "address": "Köln, Nordrhein-Westfalen",
-        "industry": "Fernwärme / Energie-Contracting / KWK",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Iqony Fernwärme GmbH",
-        "website": "fernwaerme.iqony.energy",
-        "address": "Essen, Nordrhein-Westfalen",
-        "industry": "Fernwärme / Wärmeversorgung",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "EWE AG",
-        "website": "ewe.com",
-        "address": "Oldenburg, Niedersachsen",
-        "industry": "Kommunale Energieversorgung / Wärme",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Mainova AG",
-        "website": "mainova.de",
-        "address": "Frankfurt am Main, Hessen",
-        "industry": "Fernwärme / Kommunale Energieversorgung",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "N-ERGIE AG",
-        "website": "n-ergie.de",
-        "address": "Nürnberg, Bayern",
-        "industry": "Fernwärme / Kommunale Energieversorgung",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Stadtwerke Flensburg GmbH",
-        "website": "stadtwerke-flensburg.de",
-        "address": "Flensburg, Schleswig-Holstein",
-        "industry": "Fernwärme / Kommunale Energieversorgung",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Stadtwerke Kiel AG",
-        "website": "stadtwerke-kiel.de",
-        "address": "Kiel, Schleswig-Holstein",
-        "industry": "Fernwärme / Kommunale Energieversorgung",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Leipziger Stadtwerke",
-        "website": "l.de/stadtwerke",
-        "address": "Leipzig, Sachsen",
-        "industry": "Fernwärme / Kommunale Energieversorgung",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "SachsenEnergie AG",
-        "website": "sachsenenergie.de",
-        "address": "Dresden, Sachsen",
-        "industry": "Fernwärme / Kommunale Energieversorgung",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Stadtwerke Ludwigsburg-Kornwestheim GmbH (SWLB)",
-        "website": "swlb.de",
-        "address": "Ludwigsburg, Baden-Württemberg",
-        "industry": "Fernwärme / Kommunale Energieversorgung",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Fernheizwerk Neukölln AG",
-        "website": "fhw-neukoelln.de",
-        "address": "Berlin-Neukölln",
-        "industry": "Fernwärme / Wärmeversorgung",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "BTB GmbH Berlin",
-        "website": "btb-berlin.de",
-        "address": "Berlin",
-        "industry": "BHKW / Fernwärme / dezentrale Energieversorgung",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Wien Energie GmbH (Fernwärme Wien)",
-        "website": "wienenergie.at",
-        "address": "Wien, Österreich",
-        "industry": "Fernwärme / Kommunale Energieversorgung",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "RheinEnergie AG",
-        "website": "rheinenergie.com",
-        "address": "Köln, Nordrhein-Westfalen",
-        "industry": "Fernwärme / Kommunale Energieversorgung",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "Stadtwerke Duisburg AG",
-        "website": "stadtwerke-duisburg.de",
-        "address": "Duisburg, Nordrhein-Westfalen",
-        "industry": "Fernwärme / Kommunale Energieversorgung",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "EnBW Energie Baden-Württemberg AG",
-        "website": "enbw.com",
-        "address": "Karlsruhe, Baden-Württemberg",
-        "industry": "Fernwärme / Energieversorgung",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "swb AG (Stadtwerke Bremen)",
-        "website": "swb.de",
-        "address": "Bremen",
-        "industry": "Fernwärme / Kommunale Energieversorgung",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
-    },
-    {
-      "company": {
-        "name": "STEAG Iqony Group",
-        "website": "steag-iqony-group.com",
-        "address": "Essen, Nordrhein-Westfalen",
-        "industry": "Fernwärme / Stromerzeugung / Energiedienstleistung",
-        "source": null
-      },
-      "topic_relevance": null,
-      "financials": null,
-      "overall_score": null
     }
   ],
   "metadata": {},
