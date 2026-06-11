@@ -92,12 +92,33 @@ class CompanyFinancials(BaseModel):
     rating_reasoning: str = ""
 
 
+class ContactPerson(BaseModel):
+    """Ansprechpartner bei einem Lead (recherchiert)."""
+
+    name: str
+    role: str | None = None
+    linkedin: str | None = None
+    confidence: str | None = None  # HIGH / MEDIUM / LOW
+    notes: str | None = None
+
+
+class OutreachTemplate(BaseModel):
+    """Personalisierte Anschreiben-Vorlage für einen Lead."""
+
+    subject: str | None = None
+    hook: str | None = None
+
+
 class Lead(BaseModel):
     """Akkumulator-Objekt: wird von jedem Agenten angereichert."""
 
     company: Company
+    pipeline: str | None = None  # z.B. IoT / Energiehandel / Fernwaerme / Telematik
+    tier: str | None = None  # TIER1 / TIER2 / TIER3 / SONDER
     topic_relevance: TopicRelevance | None = None
     financials: CompanyFinancials | None = None
+    contact_persons: list[ContactPerson] = []
+    outreach: OutreachTemplate | None = None
     overall_score: float | None = None
 
 

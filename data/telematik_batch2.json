@@ -1,0 +1,110 @@
+{
+  "pipeline": "Telematik",
+  "topic": "Telematik / Embedded-Software-Entwicklung",
+  "leads": [
+    {
+      "name": "PHYTEC Messtechnik GmbH",
+      "health_score": 0.75, "health_reasoning": "Stabiler Embedded-Spezialist mit ehrgeizigen Wachstumsplänen: von ca. 100 Mio EUR auf 250 Mio EUR Gruppenumsatz und 1000 Mitarbeiter bis 2030; neuer Technologie-Campus in Mainz-Hechtsheim.",
+      "recent_news": ["PHYTEC verkündet Wachstumsziel 250 Mio EUR Umsatz und 1000 Mitarbeiter bis 2030", "Technologie-Campus Mainz-Hechtsheim als neue Zentrale mit Produktion 'Made in Germany' eröffnet"],
+      "affinity_score": 0.45, "affinity_reasoning": "PHYTEC ist selbst Embedded-Entwicklungsdienstleister (SoMs, Embedded Linux/Yocto) und damit eher Wettbewerber als Käufer externer SW-Entwicklung; Bedarf allenfalls punktuell bei Wachstums-/Kapazitätsspitzen.",
+      "revenue": "ca. 100 Mio EUR Gruppe (Ziel 250 Mio bis 2030)", "employees": 370,
+      "hiring_score": 0.6, "hiring_postings": 10, "hiring_reasoning": "Aktive Karriereseite mit offenen Stellen in Entwicklung, Produktion und Vertrieb, passend zu den Wachstumsplänen (Posting-Zahl geschätzt).",
+      "topic_hiring_score": 0.6, "topic_postings": 4, "topic_hiring_reasoning": "Sucht aktiv Embedded-Linux- und Embedded-Hardware-Entwickler (Yocto, Bootloader, Kernel); Posting-Zahl geschätzt.",
+      "example_positions": ["Embedded Linux Entwickler (m/w/d)", "Hardware-Entwickler mit Fokus Embedded Systems (m/w/d)"],
+      "size_fit": 0.85, "financial_health": 0.7, "pressure": 0.55,
+      "strategic_reasoning": "Ideale Mittelstandsgröße (370 MA) und solide finanziert; Druck durch ambitionierte Wachstumsziele und Fachkräftemangel, aber als Embedded-Dienstleister begrenzte Offenheit für externe Partner.",
+      "contacts": [{"name": "Michael Mitezki", "role": "Geschäftsführer", "linkedin": null, "confidence": "MEDIUM"}, {"name": "Bodo Huber", "role": "Geschäftsführer", "linkedin": null, "confidence": "MEDIUM"}]
+    },
+    {
+      "name": "HEITEC AG",
+      "health_score": 0.65, "health_reasoning": "Stabile Unternehmensgruppe (über 1200 Mitarbeiter, geplant über 180 Mio EUR Umsatz 2026), keine Krisenanzeichen; Bonitätsänderung der Holding Ende 2025 ohne erkennbare Negativfolgen (konservativ bewertet).",
+      "recent_news": ["HEITEC-Gruppe plant über 180 Mio EUR Jahresumsatz 2026 mit über 1200 Mitarbeitern", "Bonitätsänderung bei HEITEC Holding GmbH im Dezember 2025 registriert"],
+      "affinity_score": 0.45, "affinity_reasoning": "HEITEC ist selbst Elektronik-/Embedded-Entwicklungsdienstleister und kauft Entwicklung eher selten extern zu; eigene Embedded-Teams werden aber aktiv ausgebaut, punktueller Partnerbedarf möglich.",
+      "revenue": "über 180 Mio EUR geplant (Gruppe, 2026)", "employees": 1200,
+      "hiring_score": 0.65, "hiring_postings": 30, "hiring_reasoning": "Breites, kontinuierliches Hiring über viele Standorte (Gesamtzahl geschätzt).",
+      "topic_hiring_score": 0.55, "topic_postings": 8, "topic_hiring_reasoning": "Mehrere Embedded-Software-Stellen inkl. Teamleitungen (Eckental, Chemnitz) — wachsende eigene SW-Kapazität (geschätzt).",
+      "example_positions": ["Teamleiter Embedded Software (m/w/d)", "Softwareentwickler für Hochsprachen (m/w/d)", "Informatiker - Teamleitung Embedded Software Entwicklung (m/w/d)"],
+      "size_fit": 0.65, "financial_health": 0.6, "pressure": 0.5,
+      "strategic_reasoning": "Mit 1200 MA am oberen Rand des idealen Segments, solide aber nicht stark wachsend; als Engineering-Dienstleister strukturell geringe Neigung zum Zukauf externer Entwicklung.",
+      "contacts": [{"name": "Michael Frieß", "role": "CEO / Vorstandsvorsitzender", "linkedin": "https://de.linkedin.com/in/michael-frie%C3%9F-heitec", "confidence": "HIGH"}]
+    },
+    {
+      "name": "eSystems MTG GmbH",
+      "health_score": 0.6, "health_reasoning": "Sitz Wendlingen am Neckar; als Teil von KATEK/Kontron (GreenTec-Division seit 2024) finanziell abgesichert, E-Mobility-Markt aber volatil; eigene Umsatzzahlen nicht öffentlich (geschätzt).",
+      "recent_news": ["eSystems gehört seit der Kontron-Übernahme von KATEK (März 2024) zur GreenTec-Division von Kontron", "Wallbox ghostONE mit iF Design Award in der Kategorie Automotive ausgezeichnet"],
+      "affinity_score": 0.7, "affinity_reasoning": "Zertifizierter Automotive-Zulieferer mit eigener Embedded-Entwicklung (C/C++ auf Embedded Linux/RTOS) für AC-Ladesysteme und Energiemanagement; kleines Team bei hohem OEM-Projektdruck spricht für externen Unterstützungsbedarf.",
+      "revenue": "k.A. (Teil der Kontron-Gruppe)", "employees": 83,
+      "hiring_score": 0.6, "hiring_postings": 6, "hiring_reasoning": "6 aktuelle Stellen auf Stepstone über Hardware-, Software- und Systementwicklung hinweg — für 83 MA relativ viel.",
+      "topic_hiring_score": 0.7, "topic_postings": 3, "topic_hiring_reasoning": "Sucht u.a. (Senior) SW Engineer Predevelopment mit C/C++ auf Embedded Linux/RTOS für Ladesysteme (geschätzt).",
+      "example_positions": ["(Senior) SW Engineer Predevelopment (m/w/d)", "Embedded Software Entwickler C/C++ (m/w/d)", "System Engineer Ladesysteme (m/w/d)"],
+      "size_fit": 0.7, "financial_health": 0.55, "pressure": 0.7,
+      "strategic_reasoning": "Mit 83 MA knapp unter Idealgröße, aber als OEM-Zulieferer im E-Mobility-Geschäft unter hohem Time-to-Market- und Normendruck (ISO 15118, Smart Charging); Konzernzugehörigkeit könnte Vergaben intern lenken.",
+      "contacts": [{"name": "Jochen Paukert", "role": "Geschäftsführer / Managing Director", "linkedin": "https://de.linkedin.com/in/jochen-paukert-934757b0/de", "confidence": "HIGH"}, {"name": "Alexander Bourgett", "role": "VP Strategic Development and Research", "linkedin": null, "confidence": "MEDIUM"}]
+    },
+    {
+      "name": "Sontheim Industrie Elektronik GmbH",
+      "health_score": 0.65, "health_reasoning": "Stabiles familiengeführtes Unternehmen (über 130 Mitarbeiter weltweit, Standorte Kempten, Düsseldorf, USA) mit kontinuierlicher Messepräsenz (Bauma 2025, IVT Expo 2025); keine Krisenanzeichen (geschätzt).",
+      "recent_news": ["Sontheim präsentiert Diagnose- und Connectivity-Lösungen auf IVT Expo 2025 in Köln", "Erfolgreiche Teilnahme an der Bauma 2025 mit Automation-, Diagnose- und Connectivity-Portfolio"],
+      "affinity_score": 0.7, "affinity_reasoning": "Eigene HW/SW-Produkte für CAN-Diagnose, ECUs und Connectivity (Agrar-, Bau-, Nutzfahrzeuge) mit kleinem Entwicklerteam; aktive Embedded-Suche bei begrenzter Teamgröße macht externe Entwicklungsunterstützung plausibel.",
+      "revenue": "k.A.", "employees": 130,
+      "hiring_score": 0.6, "hiring_postings": 7, "hiring_reasoning": "7 offene Stellen laut Indeed, darunter mehrere Entwicklungspositionen — für 130 MA solides Hiring-Niveau.",
+      "topic_hiring_score": 0.7, "topic_postings": 3, "topic_hiring_reasoning": "Sucht aktuell Senior Embedded Software Engineer und Embedded Software Developer C/C++ in Kempten (geschätzt).",
+      "example_positions": ["Senior Embedded Software Engineer (m/w/d)", "Embedded Software Developer C/C++ (m/w/d)"],
+      "size_fit": 0.85, "financial_health": 0.6, "pressure": 0.6,
+      "strategic_reasoning": "Ideale Mittelstandsgröße, solide ohne Konzernrückhalt; Druck durch Fachkräftemangel im Allgäu und Connectivity-/Telematik-Trend bei Off-Highway-OEM-Kunden (geschätzt).",
+      "contacts": [{"name": "Bruno Sontheim", "role": "Hauptgeschäftsführer", "linkedin": null, "confidence": "MEDIUM"}]
+    },
+    {
+      "name": "DSA Daten- und Systemtechnik GmbH",
+      "health_score": 0.8, "health_reasoning": "Klar auf Wachstumskurs: Übernahme der italienischen SIXTAU SPA (Okt. 2025), über 850 Mitarbeiter weltweit, Stiftung einer RWTH-Professur zeigt finanzielle Stärke.",
+      "recent_news": ["DSA übernimmt italienischen Technologieanbieter SIXTAU und stärkt End-of-Line-Testing (Oktober 2025)", "DSA finanziert Cyber-Physical-Systems-Professur an der RWTH Aachen ab 2025"],
+      "affinity_score": 0.55, "affinity_reasoning": "DSA ist selbst Software-/Systemhaus für Fahrzeugdiagnose und Connectivity mit großen eigenen SW-Teams; Zukauf externer Entwicklung eher selektiv (Kapazitätsspitzen, Spezialthemen wie Connected Car).",
+      "revenue": "k.A. (ältere Angabe ca. 30 Mio EUR, heute vermutlich deutlich höher)", "employees": 850,
+      "hiring_score": 0.7, "hiring_postings": 15, "hiring_reasoning": "Kontinuierliches Hiring über viele SW-Profile plus eigene MATSE-Ausbildung mit der RWTH (geschätzt).",
+      "topic_hiring_score": 0.7, "topic_postings": 5, "topic_hiring_reasoning": "Mehrere einschlägige Stellen wie Softwareentwickler Connected Car mit C/C++ im Embedded-Bereich (geschätzt).",
+      "example_positions": ["Softwareentwickler Connected Car (m/w/d)", "Softwareentwickler Backend Fahrzeugdiagnose (m/w/d)"],
+      "size_fit": 0.7, "financial_health": 0.75, "pressure": 0.6,
+      "strategic_reasoning": "Oberes Mittelstandssegment, finanziell stark und wachsend; Druck durch SDV-Transformation der OEM-Kunden, SIXTAU-Integration und Fachkräftemangel in Aachen erzeugt realen Kapazitätsbedarf.",
+      "contacts": [{"name": "Thomas Huth", "role": "Geschäftsführer", "linkedin": "https://de.linkedin.com/in/thomas-huth-20190b150", "confidence": "HIGH"}, {"name": "Volker Gehring", "role": "Geschäftsführer", "linkedin": "https://de.linkedin.com/in/volker-gehring-bb627779", "confidence": "HIGH"}]
+    },
+    {
+      "name": "Softing Automotive Electronics GmbH",
+      "health_score": 0.45, "health_reasoning": "Mutterkonzern Softing AG musste 2025 die Jahresprognose senken, Restrukturierung und Kostensenkungen laufen; für 2026 wird Erholung erwartet (Konzernumsatz 85-90 Mio EUR) — Lage angespannt, aber stabilisierend.",
+      "recent_news": ["Softing AG korrigiert Jahresprognose und setzt Restrukturierungsmaßnahmen um", "Guidance 2026: Erholung erwartet; Großauftrag aus Nordamerika für Softing Automotive"],
+      "affinity_score": 0.45, "affinity_reasoning": "Softing ist selbst Diagnose-/Telematik-Softwarehaus mit eigenen Entwicklerteams und konzerneigener Softing Services GmbH; in der Restrukturierungsphase sind Budgets für externe Partner knapp (geschätzt).",
+      "revenue": "85-90 Mio EUR Guidance 2026 (Softing AG Konzern)", "employees": 400,
+      "hiring_score": 0.5, "hiring_postings": 8, "hiring_reasoning": "Trotz Restrukturierung mehrere offene Entwicklerstellen in Haar und Kirchentellinsfurt (geschätzt).",
+      "topic_hiring_score": 0.6, "topic_postings": 4, "topic_hiring_reasoning": "Einschlägige offene Stellen wie Embedded Android/AOSP Developer und Senior C++ Entwickler Automotive (geschätzt).",
+      "example_positions": ["Embedded Android / AOSP Developer (m/w/d)", "Senior Software Entwickler C++ Automotive (m/w/d)"],
+      "size_fit": 0.6, "financial_health": 0.4, "pressure": 0.7,
+      "strategic_reasoning": "Börsennotierter Konzern unter hohem Handlungsdruck: Marktschwäche, Restrukturierung und SDV-Wandel zwingen zu Effizienz — externer Partner nur bei klarem Kosten-/Kapazitätsvorteil attraktiv.",
+      "contacts": [{"name": "René Schneider", "role": "Geschäftsführer Softing Automotive Electronics GmbH", "linkedin": null, "confidence": "HIGH"}]
+    },
+    {
+      "name": "Technica Engineering GmbH",
+      "health_score": 0.75, "health_reasoning": "Gut positionierter Automotive-Ethernet-Pionier (ca. 78 Mio USD Umsatz, knapp 400 Mitarbeiter), seit 2022 Teil von KPIT Technologies; Ausrichter des Automotive Ethernet Congress 2026.",
+      "recent_news": ["Technica Engineering richtet Automotive Ethernet Congress 2026 in München aus (TSN, SOME/IP, MACsec)", "KPIT und Technica Engineering bündeln Kräfte für die SDV-Transformation"],
+      "affinity_score": 0.3, "affinity_reasoning": "Hoher eigener Embedded-SW-Anteil, aber als Tochter des großen SW-Dienstleisters KPIT werden zusätzliche Entwicklungskapazitäten praktisch sicher konzernintern bezogen — externer Partner unwahrscheinlich.",
+      "revenue": "ca. 78 Mio USD", "employees": 398,
+      "hiring_score": 0.6, "hiring_postings": 10, "hiring_reasoning": "Aktives Recruiting über eigenes Karriereportal mit laufenden Entwicklerstellen in München (geschätzt).",
+      "topic_hiring_score": 0.65, "topic_postings": 5, "topic_hiring_reasoning": "Sucht Embedded-Softwareentwickler für eigene Produkte (Media Gateways, Steuergeräteentwicklung) (geschätzt).",
+      "example_positions": ["Embedded Softwareentwickler (gn)", "Automotive Ethernet Test Engineer (m/w/d)"],
+      "size_fit": 0.55, "financial_health": 0.75, "pressure": 0.6,
+      "strategic_reasoning": "Größe attraktiv, aber Konzerneinbindung in KPIT senkt den Fit; SDV-Druck hoch, wird jedoch durch konzerninterne KPIT-Ressourcen abgefedert.",
+      "contacts": [{"name": "Anup Sable", "role": "Managing Director / COO KPIT", "linkedin": null, "confidence": "MEDIUM"}]
+    },
+    {
+      "name": "idem telematics GmbH",
+      "health_score": 0.8, "health_reasoning": "Klarer Wachstumskurs: Verkauf der Telematikgeräte innerhalb von zwei Jahren verdreifacht, drei Erstplatzierungen beim Deutschen Telematik Preis 2025, finanzstarke Mutter BPW (1,56 Mrd EUR Konzernumsatz 2024).",
+      "recent_news": ["Deutscher Telematik Preis 2025: idem telematics gewinnt drei Kategorien", "Neues Gateway PRO integriert Funktionen, Schnittstellen und Funkstandards"],
+      "affinity_score": 0.8, "affinity_reasoning": "Exakte Themenpassung: Trailer-Telematik mit Embedded-Gateways (Gateway PRO) und cargofleet-Plattform; nur ca. 75 Mitarbeiter bei verdreifachtem Geräteabsatz — externer Embedded-/SW-Partner sehr plausibel.",
+      "revenue": "k.A. (BPW-Gruppe: 1,562 Mrd EUR, 2024)", "employees": 75,
+      "hiring_score": 0.4, "hiring_postings": 2, "hiring_reasoning": "Nur wenige öffentlich sichtbare Stellen — kleines Team mit punktuellem Bedarf (geschätzt).",
+      "topic_hiring_score": 0.5, "topic_postings": 1, "topic_hiring_reasoning": "Keine aktuell ausgeschriebene Embedded-/Firmware-Stelle gefunden, aber Produktroadmap impliziert laufenden SW-Entwicklungsbedarf (geschätzt).",
+      "example_positions": ["Softwareentwickler Telematik-Plattform (m/w/d)"],
+      "size_fit": 0.7, "financial_health": 0.75, "pressure": 0.7,
+      "strategic_reasoning": "Knapp unter Idealgröße, aber BPW-Rückhalt und starkes Wachstum; Druck durch verdreifachten Geräteabsatz und Plattform-Skalierung mit kleinem Team spricht für externe Entwicklungsunterstützung.",
+      "contacts": [{"name": "Jens Zeller", "role": "Geschäftsführer", "linkedin": "https://de.linkedin.com/in/jens-zeller-667212a7", "confidence": "HIGH"}]
+    }
+  ]
+}

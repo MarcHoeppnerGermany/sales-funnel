@@ -23,6 +23,17 @@ Die Python-CLI (`sales-funnel`) verwaltet Daten, Scoring und Export.
 - For complex problems, throw more compute at it via subagents
 - One task per subagent for focused execution
 
+**Verbindliche Agent-Regeln für Lead-Recherche (seit 2026-05):**
+- **Read-only-Vertrag**: Agenten recherchieren nur (WebSearch) und geben
+  strukturiertes JSON zurück. Sie schreiben NIEMALS selbst in `leads.json`.
+- **Max. 8 Firmen pro Agent** — größere Aufträge timeouten (Lesson: 19er-Batch
+  starb nach 30 Min). Lieber 3 kleine Agenten parallel.
+- **Persistierung nur zentral** über `scripts/apply_scores.py` — der einzige
+  Schreibpfad, Schema-validiert via Pydantic + offizielle Scoring-Formeln.
+- **Validierungs-Gate** `scripts/validate_leads.py` nach jedem Schreiben und
+  vor jedem Export (Exporte brechen bei rotem Gate automatisch ab).
+- Geschätzte Werte im reasoning als "(geschätzt)" kennzeichnen.
+
 ### 3. Self-Improvement Loop
 - After ANY correction from the user: update `tasks/lessons.md` with the pattern
 - Write rules for yourself that prevent the same mistake

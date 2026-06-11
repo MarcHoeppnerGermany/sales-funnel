@@ -1,0 +1,110 @@
+{
+  "pipeline": "Telematik",
+  "topic": "Telematik / Embedded-Software-Entwicklung",
+  "leads": [
+    {
+      "name": "E-T-A Elektrotechnische Apparate",
+      "health_score": 0.65, "health_reasoning": "Stabiles Familienunternehmen und Weltmarktführer bei Geräteschutzschaltern (~1400 MA weltweit), zuletzt solide Geschäftsentwicklung; aktuelle Umsatzzahlen 2025 nicht öffentlich (geschätzt stabil).",
+      "recent_news": ["Jahresabschluss 2024 eingereicht (Feb 2026), Geschäftsführung um Ralf Dietrich, Christian Kube, Dr. Jennifer Sell", "Fokus auf nachhaltige Schalttechnik und Digitalisierung (Smart Power Distribution)"],
+      "affinity_score": 0.6, "affinity_reasoning": "Klassischer Hardware-Hersteller mit wachsendem Software-Anteil (CAN-Bus-Systeme, intelligente Stromverteilung, Test-/Automatisierungssysteme); sucht aktiv Softwareentwickler, externer Zukauf bei begrenztem internem SW-Team plausibel.",
+      "revenue": "ca. 132 Mio EUR (2021, neuere Zahlen k.A.)", "employees": 1400,
+      "hiring_score": 0.6, "hiring_postings": 33, "hiring_reasoning": "Rund 33 offene Stellen weltweit (LinkedIn), kontinuierliche Einstellung am Standort Altdorf.",
+      "topic_hiring_score": 0.5, "topic_postings": 3, "topic_hiring_reasoning": "Einzelne Embedded-/Software-Stellen (CAN-Bus, Test-/Automatisierungssysteme), Anzahl geschätzt.",
+      "example_positions": ["Softwareentwickler CAN-Bussysteme", "Softwareentwickler Test- und Automatisierungssysteme"],
+      "size_fit": 0.8, "financial_health": 0.7, "pressure": 0.5,
+      "strategic_reasoning": "Mittelständler mit idealer Größe und solider Finanzlage; moderater Druck durch Digitalisierung der Produktpalette (smarte Schutzschalter), aber kein akuter SDV-Zwang.",
+      "contacts": [{"name": "Ralf Dietrich", "role": "Geschäftsführer", "linkedin": null, "confidence": "MEDIUM"}, {"name": "Dr. Jennifer Sell", "role": "Geschäftsführerin", "linkedin": null, "confidence": "MEDIUM"}]
+    },
+    {
+      "name": "Huber Automotive AG",
+      "health_score": 0.05, "health_reasoning": "Insolvenzantrag August 2025 (AG Göppingen), Verfahren eröffnet September 2025; Stilllegung des Geschäftsbetriebs zum 28.02.2026 — als Kunde faktisch nicht mehr existent.",
+      "recent_news": ["Huber Automotive AG stellt Insolvenzantrag und bereitet Stilllegung vor (2025/2026)", "NEURA Robotics übernimmt Entwicklungsbereich mit 30+ Mitarbeitern (Okt 2025)"],
+      "affinity_score": 0.05, "affinity_reasoning": "Ehemals ECU-/E-Mobility-Entwickler mit hohem SW-Anteil, aber Entwicklungsbereich an NEURA Robotics verkauft, Restbetrieb stillgelegt — kein Bedarf an externer Entwicklung mehr.",
+      "revenue": "k.A. (insolvent, Betrieb stillgelegt)", "employees": 133,
+      "hiring_score": 0.0, "hiring_postings": 0, "hiring_reasoning": "Keine Einstellungen, Betrieb wird abgewickelt.",
+      "topic_hiring_score": 0.0, "topic_postings": 0, "topic_hiring_reasoning": "Keine themenbezogenen Stellen, Entwicklungsteam wurde an NEURA Robotics transferiert.",
+      "example_positions": [],
+      "size_fit": 0.1, "financial_health": 0.05, "pressure": 0.2,
+      "strategic_reasoning": "Disqualifiziert: insolvente Gesellschaft in Abwicklung; keine Kaufkraft und keine Organisation mehr. Ggf. Nachfolgestrukturen (NEURA Robotics) als alternativer Anknüpfungspunkt.",
+      "contacts": [{"name": "Martin Mucha", "role": "Insolvenzverwalter (Grub Brugger)", "linkedin": null, "confidence": "HIGH"}]
+    },
+    {
+      "name": "b-plus GmbH",
+      "health_score": 0.7, "health_reasoning": "Stabile, wachsende Firmengruppe (~240 MA) mit Fokus ADAS/autonomes Fahren und mobile Maschinen; keine Krisenmeldungen, kontinuierlicher Ausbau der Gruppe.",
+      "recent_news": ["b-plus Gruppe positioniert sich als Wegbereiter neuer Mobilität (ADAS, Datenlogging, mobile Automation)", "Vom Ingenieurbüro zur Firmengruppe — Ausbau der Standorte Deggendorf und Regensburg"],
+      "affinity_score": 0.5, "affinity_reasoning": "Großer eigener Embedded-/ADAS-Software-Bereich mit laufendem Entwicklerbedarf; aber selbst Entwicklungsdienstleister/Produkthaus — eher Wettbewerber als Zukäufer, Subcontracting bei Lastspitzen denkbar.",
+      "revenue": "k.A. (geschätzt 30-45 Mio EUR)", "employees": 240,
+      "hiring_score": 0.7, "hiring_postings": 10, "hiring_reasoning": "Aktive Karriereseite mit laufend offenen Entwicklerstellen an mehreren Standorten (geschätzt ~10 Postings).",
+      "topic_hiring_score": 0.8, "topic_postings": 6, "topic_hiring_reasoning": "Mehrere offene Embedded-/ADAS-Software-Stellen, klarer Schwerpunkt auf dem Zielthema (Anzahl geschätzt).",
+      "example_positions": ["Softwareentwickler Embedded Software", "Softwarearchitekt Fahrerassistenzsensoren", "Softwareentwickler Virtual Integration Environment ADAS"],
+      "size_fit": 0.85, "financial_health": 0.7, "pressure": 0.6,
+      "strategic_reasoning": "Ideale Mittelstandsgröße und hoher SDV-/ADAS-Bezug mit Fachkräftemangel; strategisches Risiko: als Entwicklungspartner selbst im gleichen Markt tätig, daher eher Partnering- als klassisches Kundenpotenzial.",
+      "contacts": [{"name": "Michael Sieg", "role": "Geschäftsführer b-plus GmbH", "linkedin": null, "confidence": "HIGH"}, {"name": "Alexander Noack", "role": "Geschäftsführer b-plus technologies GmbH", "linkedin": null, "confidence": "MEDIUM"}]
+    },
+    {
+      "name": "Schaeffler Engineering GmbH",
+      "health_score": 0.45, "health_reasoning": "Tochter der Schaeffler-Gruppe, die im Restrukturierungsprogramm steckt (Abbau von 4700 Stellen in Europa bis 2027); Engineering-Einheit operativ aktiv, aber Konzernumfeld angespannt.",
+      "recent_news": ["Schaeffler kündigt Abbau von 4700 Stellen in Europa an (Restrukturierung bis 2027)", "Schaeffler Engineering entwickelt weiter Steuergeräte/Software für Entwicklungs- und Serienprojekte"],
+      "affinity_score": 0.5, "affinity_reasoning": "Hoher Embedded-/Steuergeräte-Software-Anteil (PROtroniC, AUTOSAR, ASpice, ISO 26262) und laufende SW-Stellen; jedoch selbst Entwicklungsdienstleister und Konzern-Kostendruck bremst externen Zukauf.",
+      "revenue": "k.A. (Tochter von Schaeffler Technologies; Konzern ~16 Mrd EUR)", "employees": 400,
+      "hiring_score": 0.5, "hiring_postings": 8, "hiring_reasoning": "Trotz Konzern-Stellenabbau offene Engineering-Stellen in Werdohl (geschätzt ~8 Postings).",
+      "topic_hiring_score": 0.7, "topic_postings": 5, "topic_hiring_reasoning": "Mehrere Embedded-Software-Stellen in Werdohl ausgeschrieben (Basissoftware, Architektur, Antriebsstrang); Anzahl geschätzt.",
+      "example_positions": ["Embedded Basissoftwareentwickler", "Software Architekt Embedded Systems Antriebsstrang", "Werkstudent Funktions- und Softwareentwicklung"],
+      "size_fit": 0.4, "financial_health": 0.5, "pressure": 0.75,
+      "strategic_reasoning": "Hoher SDV- und Restrukturierungsdruck im Konzern, aber als Konzerntochter schwieriger Einkaufszugang und interner Verrechnungszwang; Mitarbeiterzahl der GmbH geschätzt.",
+      "contacts": [{"name": "Gregor Pradela", "role": "Geschäftsführer", "linkedin": null, "confidence": "HIGH"}, {"name": "Catrin Sorge", "role": "Geschäftsführerin", "linkedin": null, "confidence": "HIGH"}]
+    },
+    {
+      "name": "ACTIA IME GmbH",
+      "health_score": 0.6, "health_reasoning": "Etablierte Tochter der internationalen ACTIA Group (seit 1986), stabile Position in Fahrzeugdiagnose, Telematik und Steuerelektronik; Sitz ist Braunschweig, nicht Dresden. Keine Krisenmeldungen (geschätzt stabil).",
+      "recent_news": ["ACTIA IME entwickelt Lösungen für Fahrzeugkommunikation, Diagnose und Steuerelektronik (Bus, Bahn, Nutzfahrzeuge)", "Aktive Mitgliedschaft in ASAM und ITS mobility (Standardisierung Fahrzeugdiagnose)"],
+      "affinity_score": 0.7, "affinity_reasoning": "Kerngeschäft ist Telematik-/Diagnose-Software und Embedded-Steuerungen — exakt das Zielthema; als mittelgroße Konzerntochter mit Entwicklungsprojekten ist externe Unterstützung branchenüblich.",
+      "revenue": "ca. 8-15 Mio EUR (Deutschland, geschätzt; Gruppe >500 Mio EUR)", "employees": 150,
+      "hiring_score": 0.4, "hiring_postings": 4, "hiring_reasoning": "Einzelne offene Stellen (Hardwareentwickler, Program Manager Railway, duale Studenten); moderates Einstellungstempo.",
+      "topic_hiring_score": 0.4, "topic_postings": 2, "topic_hiring_reasoning": "Aktuell wenige explizite Embedded-SW-Ausschreibungen, aber laufender Bedarf im Diagnose-/Telematik-Umfeld (geschätzt).",
+      "example_positions": ["Hardwareentwickler", "Program Manager Railway", "Masterarbeit Benchmarking Fahrzeug-Diagnoseinterfaces (VCI)"],
+      "size_fit": 0.8, "financial_health": 0.6, "pressure": 0.6,
+      "strategic_reasoning": "Thematisch bester Fit (Telematik/Diagnose) bei passender Größe; Druck durch SDV-Trend im Nutzfahrzeug-/Railway-Markt, Budgethoheit teils bei französischer Konzernmutter.",
+      "contacts": [{"name": "Maik Luschtinetz", "role": "CEO / Geschäftsführer", "linkedin": null, "confidence": "HIGH"}, {"name": "Markus Lunter", "role": "Head of Research & Development", "linkedin": null, "confidence": "HIGH"}]
+    },
+    {
+      "name": "Sensor-Technik Wiedemann GmbH (STW)",
+      "health_score": 0.7, "health_reasoning": "Solider Hidden Champion (318 MA, ~68 Mio EUR Umsatz), erfolgreich vollzogene Übergabe an die nächste Generation, Erweiterung der Geschäftsführung — stabil bis leicht wachsend.",
+      "recent_news": ["STW übergibt erfolgreich an die nächste Generation (Familiennachfolge)", "Michael Otto in die Geschäftsführung berufen (Vertrieb, Produktmanagement, Entwicklung)"],
+      "affinity_score": 0.8, "affinity_reasoning": "Starkes eigenes SW-Portfolio (openSYDE-Toolchain, IoT/Konnektivität, Embedded Linux, ROS2/MQTT) für mobile Maschinen; sucht aktiv Embedded-Entwickler an mehreren Standorten — Fachkräftemangel macht externe Unterstützung attraktiv.",
+      "revenue": "68 Mio EUR (2024/25, geschätzt)", "employees": 318,
+      "hiring_score": 0.7, "hiring_postings": 8, "hiring_reasoning": "8 offene Stellen auf LinkedIn, breit über Kaufbeuren, Ulm und Berlin verteilt.",
+      "topic_hiring_score": 0.85, "topic_postings": 5, "topic_hiring_reasoning": "Mehrheit der Postings sind Embedded-/Software-Stellen (C, Embedded Linux, IoT, Systemarchitektur) — direkter Themen-Treffer.",
+      "example_positions": ["Embedded Software Entwickler C", "Systemarchitekt Embedded Systems", "Software-Entwickler für mobile Maschinen (ROS2, IoT)"],
+      "size_fit": 0.85, "financial_health": 0.7, "pressure": 0.65,
+      "strategic_reasoning": "Idealer Mittelständler mit klarer Digitalisierungs-/Telematik-Roadmap (machines.cloud, autonome Maschinen) und Entwickler-Engpass am Standort Allgäu — hoher strategischer Fit als Top-Lead.",
+      "contacts": [{"name": "Sonja Wiedemann", "role": "CEO / Gesellschafterin", "linkedin": "https://de.linkedin.com/in/sonja-wiedemann-a619b976", "confidence": "HIGH"}, {"name": "Michael Otto", "role": "Geschäftsführer (Vertrieb, Produktmanagement, Entwicklung)", "linkedin": null, "confidence": "HIGH"}]
+    },
+    {
+      "name": "RT-Systemtechnik GmbH",
+      "health_score": 0.6, "health_reasoning": "Kleiner, etablierter Off-Highway-Elektronik-OEM (Sitz Rheine, nicht Bielefeld) mit >25 Jahren Erfahrung; stabil, keine Krisenmeldungen, aber sehr klein (19 MA, geschätzt stabil).",
+      "recent_news": ["Neuer RT-Katalog 2025/26 veröffentlicht (Steuerungen, Kamera-/Radarsysteme 'visio motive')", "Ausbildung 2026 ausgeschrieben — Standort Rheine wächst moderat"],
+      "affinity_score": 0.7, "affinity_reasoning": "Entwickelt Steuergeräte, Bediengeräte und Kamerasysteme für Agrar-/Baumaschinen mit nur 19 Mitarbeitern — mehrere offene SW-Stellen deuten auf Entwicklungsengpass, externe Embedded-Unterstützung gut denkbar.",
+      "revenue": "k.A. (geschätzt 3-6 Mio EUR)", "employees": 19,
+      "hiring_score": 0.6, "hiring_postings": 6, "hiring_reasoning": "6 offene Stellen — relativ zur Firmengröße (19 MA) sehr hoher Einstellungsbedarf.",
+      "topic_hiring_score": 0.7, "topic_postings": 3, "topic_hiring_reasoning": "Software Developer, Embedded Software Engineer und App-Entwickler ausgeschrieben — direkter Themenbezug.",
+      "example_positions": ["Embedded Software Engineer", "Software Entwickler (Steuerung Landmaschinen, C/C++)", "Mobile/App Developer"],
+      "size_fit": 0.35, "financial_health": 0.55, "pressure": 0.6,
+      "strategic_reasoning": "Hoher relativer Entwicklungsdruck und klarer Embedded-Bedarf, aber mit 19 MA sehr kleines Budget — eher Potenzial für kleine Projektpakete als Großauftrag.",
+      "contacts": []
+    },
+    {
+      "name": "HEINEN Elektronik GmbH",
+      "health_score": 0.55, "health_reasoning": "Familienunternehmen in 3. Generation (~50 MA, seit 1969), breit diversifiziert (Automotive, Industrie, Defense/ICS); Bonitätsänderung Feb 2026 gemeldet (Richtung unklar) — konservativ als stabil mit Unsicherheit bewertet (geschätzt).",
+      "recent_news": ["Bonitätsänderung bei HEINEN Elektronik gemeldet (Februar 2026)", "Geschäftsfeld HEINEN ICS (hardwarebasierte IT-Sicherheit für KRITIS/Defense) wird ausgebaut"],
+      "affinity_score": 0.5, "affinity_reasoning": "Auftragsentwickler/-fertiger für kundenspezifische Elektronik inkl. Mikrocontroller-Anwendungen — Embedded-SW-Bedarf vorhanden, aber Schwerpunkt liegt auf Hardware/Fertigung (EMS); Telematik-Bezug begrenzt.",
+      "revenue": "k.A. (geschätzt 5-10 Mio EUR)", "employees": 50,
+      "hiring_score": 0.4, "hiring_postings": 3, "hiring_reasoning": "Wenige offene Stellen (Hardware-Entwickler, Elektronikentwickler, Qualitätssicherung).",
+      "topic_hiring_score": 0.3, "topic_postings": 1, "topic_hiring_reasoning": "Stellen fokussieren Hardware/Mikrocontroller-nahe Entwicklung, kaum reine Embedded-Software-Ausschreibungen (geschätzt).",
+      "example_positions": ["Hardware-Entwickler / Entwicklungsingenieur Elektronik", "Ingenieur Elektronikentwicklung", "Mitarbeiter Qualitätssicherung"],
+      "size_fit": 0.5, "financial_health": 0.55, "pressure": 0.4,
+      "strategic_reasoning": "Kleiner Auftragsentwickler an der unteren Grenze der Zielgröße mit moderatem SW-Bedarf; geringer SDV-Druck, da diversifiziert über Industrie/Defense — nachrangiger Lead.",
+      "contacts": [{"name": "Peter E. Heinen", "role": "Geschäftsführer", "linkedin": null, "confidence": "HIGH"}, {"name": "Christoph P. Heinen", "role": "Geschäftsleitung (3. Generation)", "linkedin": null, "confidence": "MEDIUM"}]
+    }
+  ]
+}

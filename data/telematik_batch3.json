@@ -1,0 +1,110 @@
+{
+  "pipeline": "Telematik",
+  "topic": "Telematik / Embedded-Software-Entwicklung",
+  "leads": [
+    {
+      "name": "YellowFox GmbH",
+      "health_score": 0.8, "health_reasoning": "Inhabergeführter Telematikanbieter (seit 2003) auf stabilem Wachstumskurs: Jahresumsatz seit 2017 verdoppelt, über 100.000 ausgestattete Fahrzeuge, Wachstumsbeschleunigung mit PE-Partner ECM.",
+      "recent_news": ["Meilenstein: 75.000 aktive Fahrzeuge mit YellowFox-Telematik", "YellowFox beschleunigt Wachstumskurs mit neuem Partner ECM"],
+      "affinity_score": 0.7, "affinity_reasoning": "Entwickelt, hostet und supportet alle Telematik-Lösungen komplett selbst in Kesselsdorf und sucht aktiv Softwareentwickler — wachsendes Produktportfolio bei nur ~70 MA spricht für Bedarf an externer Entwicklungsunterstützung.",
+      "revenue": "k.A. (seit 2017 verdoppelt; geschätzt niedriger zweistelliger Mio-EUR-Bereich)", "employees": 70,
+      "hiring_score": 0.6, "hiring_postings": 4, "hiring_reasoning": "Mehrere offene Stellen, u.a. Softwareentwicklung und Vertrieb (geschätzt).",
+      "topic_hiring_score": 0.6, "topic_postings": 2, "topic_hiring_reasoning": "Sucht Softwareentwickler für Schnittstellenprogrammierung und UX in der Softwareproduktentwicklung.",
+      "example_positions": ["Softwareentwickler Schnittstellenprogrammierung (m/w/d)", "Experte User Experience Softwareproduktentwicklung"],
+      "size_fit": 0.6, "financial_health": 0.8, "pressure": 0.6,
+      "strategic_reasoning": "Knapp unter idealer Größe, aber finanzstark und wachsend; Wachstumsdruck durch PE-Beteiligung und Fachkräftemangel im Raum Dresden erhöhen Offenheit für externe Entwicklungspartner.",
+      "contacts": [{"name": "Hendrik Scherf", "role": "Geschäftsführer (CEO)", "linkedin": null, "confidence": "MEDIUM"}]
+    },
+    {
+      "name": "Trendfire Technologies GmbH",
+      "health_score": 0.65, "health_reasoning": "Etablierter LKW-Telematikanbieter (Sitz Böblingen) mit fast 20 Jahren am Markt und US-Tochter seit 2015; stabil, aber keine Anzeichen für starkes Wachstum.",
+      "recent_news": ["Trendfire zeigt Telematik-Automatisierung auf der transport logistic", "US-Tochter Trendfire Technologies Inc. bedient nordamerikanischen Markt"],
+      "affinity_score": 0.75, "affinity_reasoning": "Entwickelt sämtliche Hard- und Software (Embedded, Sensorik, Android/iOS-Apps, Webportale) mit eigenen Ingenieuren und sucht kontinuierlich Entwickler — breiter Tech-Stack bei nur ~35 MA macht externe Unterstützung sehr plausibel.",
+      "revenue": "k.A. (geschätzt einstelliger Mio-EUR-Bereich)", "employees": 35,
+      "hiring_score": 0.6, "hiring_postings": 3, "hiring_reasoning": "Sucht laut eigener Karriereseite laufend Entwickler für den wachsenden Markt (geschätzt).",
+      "topic_hiring_score": 0.7, "topic_postings": 2, "topic_hiring_reasoning": "Stellenprofil deckt explizit Embedded Systems, Hardware/Sensorik, Mobile Apps und Webtechnologien ab — exakt das Zielthema.",
+      "example_positions": ["Softwareentwickler Embedded Systems", "App-Entwickler Android/iOS", "Webentwickler Online-Portal"],
+      "size_fit": 0.4, "financial_health": 0.6, "pressure": 0.6,
+      "strategic_reasoning": "Unter Idealgröße mit begrenztem Budget, aber hoher fachlicher Fit: kleines Team muss komplette Telematik-Produktpalette (HW+SW) stemmen — Kapazitätsdruck spricht für externe Partner. GF nimmt Bewerbungen direkt entgegen — kurzer Entscheidungsweg.",
+      "contacts": [{"name": "Friedemann Ulmer", "role": "Geschäftsführer", "linkedin": null, "confidence": "HIGH"}]
+    },
+    {
+      "name": "CoSyst Control Systems GmbH",
+      "health_score": 0.6, "health_reasoning": "Sitz in Nürnberg; ECU-Entwicklungsdienstleister, heute Teil der schweizerisch-internationalen APAGCoSyst-Gruppe (Novares mit 20% beteiligt) — stabil eingebettet, wenig eigene Wachstumsnachrichten (geschätzt).",
+      "recent_news": ["Novares erwirbt 20% an der Schweizer Elektronik-Gruppe APAG-CoSyst", "APAGCoSyst bündelt ECU-, Lighting- und EMS-Lösungen unter einer Gruppe"],
+      "affinity_score": 0.4, "affinity_reasoning": "Ist selbst Entwicklungsdienstleister für kundenspezifische Steuergeräte (ISO 26262, ASPICE) — eher Wettbewerber als Kunde; Potenzial allenfalls als Kapazitäts-/Kooperationspartner bei Projektspitzen.",
+      "revenue": "k.A.", "employees": 40,
+      "hiring_score": 0.3, "hiring_postings": 1, "hiring_reasoning": "Keine prominenten aktuellen Stellenausschreibungen auffindbar (geschätzt).",
+      "topic_hiring_score": 0.4, "topic_postings": 1, "topic_hiring_reasoning": "Sucht als Embedded-Dienstleister grundsätzlich Embedded-Ingenieure, aber kein konkretes aktuelles Gesuch belegbar (geschätzt).",
+      "example_positions": ["Embedded Software Entwickler ECU"],
+      "size_fit": 0.4, "financial_health": 0.6, "pressure": 0.6,
+      "strategic_reasoning": "Mitarbeiterzahl geschätzt ~40 (Gruppe größer); als direkter Wettbewerber strategisch nur bedingt als Kunde geeignet.",
+      "contacts": [{"name": "Anand Kanoria", "role": "Managing Director APAG-CoSyst", "linkedin": null, "confidence": "MEDIUM"}]
+    },
+    {
+      "name": "m2m Germany GmbH",
+      "health_score": 0.65, "health_reasoning": "Familiengeführter IoT-/M2M-Spezialist in zweiter Generation (seit 2007), Bilanzsumme 2022 +44% auf 2 Mio EUR, aktive Projekte (LoRaWAN-Gateway Wehrheim 2025, neue Owasys-Gateways 2026) — klein, aber stabil.",
+      "recent_news": ["Owasys stellt neues Industrial-IoT-Gateway owa347A vor, vertrieben durch m2m Germany (März 2026)", "LoRaWAN-Gateway digitalisiert Gemeinde Wehrheim"],
+      "affinity_score": 0.5, "affinity_reasoning": "Schwerpunkt Distribution und Integration von Funkmodulen/Gateways (LTE, LoRa, BLE, NB-IoT) mit kleiner eigener Entwicklung — punktueller Bedarf an externer Firmware-/Integrationsentwicklung denkbar, aber kleines Budget.",
+      "revenue": "k.A. (Bilanzsumme 2 Mio EUR 2022)", "employees": 20,
+      "hiring_score": 0.2, "hiring_postings": 0, "hiring_reasoning": "Karriereseite weist aktuell keine offenen Stellen aus, nur Initiativbewerbungen.",
+      "topic_hiring_score": 0.2, "topic_postings": 0, "topic_hiring_reasoning": "Keine Embedded-/Software-Stellen ausgeschrieben.",
+      "example_positions": [],
+      "size_fit": 0.25, "financial_health": 0.6, "pressure": 0.4,
+      "strategic_reasoning": "Deutlich unter der Idealgröße ohne erkennbaren Hiring-Druck; eher Partner-/Reseller-Potenzial als klassischer Kunde für Entwicklungsdienstleistungen.",
+      "contacts": [{"name": "Marius Nickolai", "role": "Geschäftsführer", "linkedin": null, "confidence": "HIGH"}, {"name": "Ralf Schoula", "role": "Geschäftsführer", "linkedin": null, "confidence": "HIGH"}]
+    },
+    {
+      "name": "helag-electronic GmbH",
+      "health_score": 0.7, "health_reasoning": "Mittelständischer Automotive-Zulieferer (Steuergeräte, Sensorik, Bedienelemente) als Teil der Boysen-Gruppe; Bilanzsumme 2023 +29% auf 30 Mio EUR und kontinuierliches Umsatzwachstum im schwierigen Automotive-Umfeld.",
+      "recent_news": ["Helag steigert Umsatz kontinuierlich (Schwarzwälder Bote)", "helag electronic präsentiert kundenspezifische Automotive-Elektronik & Sensorik 2026"],
+      "affinity_score": 0.75, "affinity_reasoning": "Entwickelt Steuergeräte und Sensorik mit hoher Entwicklungstiefe selbst und sucht aktiv Softwareentwickler (60-100k EUR Gehaltsspanne deutet auf Fachkräftemangel) — klassischer Kandidat für externe Embedded-Entwicklungsunterstützung.",
+      "revenue": "k.A. (Bilanzsumme 30 Mio EUR 2023; Umsatz geschätzt 40-60 Mio EUR)", "employees": 360,
+      "hiring_score": 0.5, "hiring_postings": 3, "hiring_reasoning": "Aktuell 3 offene Stellen, darunter Softwareentwicklung, Logistik und duale Studienplätze.",
+      "topic_hiring_score": 0.7, "topic_postings": 2, "topic_hiring_reasoning": "Sucht Softwareentwickler Prüftechnik und Softwareentwickler am Standort Nagold — direkter Bezug zu Embedded-/Testsoftware.",
+      "example_positions": ["Softwareentwickler Prüftechnik (m/w/d)", "Softwareentwickler (m/w/d)"],
+      "size_fit": 0.85, "financial_health": 0.7, "pressure": 0.7,
+      "strategic_reasoning": "Ideale Größe (~360 MA); als Tier-Zulieferer unter SDV-/Elektronik-Transformationsdruck und Fachkräftemangel im ländlichen Nordschwarzwald — starke strategische Passung als Kunde.",
+      "contacts": [{"name": "Jörg Lawrenz", "role": "Geschäftsführer (seit 2021)", "linkedin": null, "confidence": "MEDIUM"}, {"name": "Dr. Philipp Egeler", "role": "Ansprechpartner Karriere/Recruiting", "linkedin": null, "confidence": "MEDIUM"}]
+    },
+    {
+      "name": "AREALCONTROL GmbH",
+      "health_score": 0.7, "health_reasoning": "Seit über 20 Jahren etablierter Stuttgarter Telematik-/IoT-Anbieter mit hoher Innovationsfrequenz 2025 (NUFAM-Auftritt, KI-Tourenplanung, Plattform-Ausbau) — stabil mit moderatem Wachstum.",
+      "recent_news": ["AREALCONTROL zeigt digitale Innovationen auf der NUFAM 2025", "Plattform-Ausbau: Automatisierte Tachographen-Auswertung und digitale Spesenabrechnung (Nov 2025)"],
+      "affinity_score": 0.6, "affinity_reasoning": "Eigenes Software-/IoT-Haus mit nur ~20-köpfigem Team, das eine breite Produktpalette inkl. KI-Features stemmt — Kapazitätsengpässe machen externe Entwicklungsunterstützung plausibel.",
+      "revenue": "k.A. (geschätzt einstelliger Mio-EUR-Bereich)", "employees": 20,
+      "hiring_score": 0.4, "hiring_postings": 2, "hiring_reasoning": "Eigene Jobs-Seite mit Positionen in Telematik/IoT/IT inkl. Ausbildung (geschätzt).",
+      "topic_hiring_score": 0.5, "topic_postings": 1, "topic_hiring_reasoning": "Sucht IT-/Software-Personal für Telematik- und IoT-Lösungen, kein explizites Embedded-Gesuch belegbar (geschätzt).",
+      "example_positions": ["Softwareentwickler Telematik/IoT"],
+      "size_fit": 0.3, "financial_health": 0.65, "pressure": 0.6,
+      "strategic_reasoning": "Kleines Team unter der Idealgröße, aber hoher Time-to-Market-Druck durch breites Produktportfolio mit KI-Roadmap; inhabergeführt mit kurzen Entscheidungswegen.",
+      "contacts": [{"name": "Ulric E.J. Rechtsteiner", "role": "Geschäftsführer", "linkedin": null, "confidence": "HIGH"}]
+    },
+    {
+      "name": "dSPACE GmbH",
+      "health_score": 0.9, "health_reasoning": "Marktführer für Entwicklungs- und Validierungswerkzeuge (HIL/SIL): Umsatz 2024 +14% auf ca. 460 Mio EUR, über 2.800 Mitarbeiter weltweit, neuer Fertigungs-Campus in Paderborn im Bau — stark wachsend.",
+      "recent_news": ["dSPACE steigert Umsatz 2024 um 14% auf rund 460 Mio EUR", "Generationswechsel geregelt: neue Holding-Struktur (dSPACE Group SE & Co. KG, 2025)"],
+      "affinity_score": 0.7, "affinity_reasoning": "Sehr große eigene Softwareorganisation mit massivem Entwicklungsbedarf (HIL/SIL, SDV-Validierung, autonomes Fahren); Zukauf externer Entwicklungsleistung ist bei diesem Wachstumstempo und Fachkräftemangel in Paderborn üblich.",
+      "revenue": "460 Mio EUR (2024)", "employees": 2800,
+      "hiring_score": 0.8, "hiring_postings": 50, "hiring_reasoning": "Sehr aktive Personalsuche: ca. 50 offene Stellen auf Indeed, 14+ auf StepStone, eigener Jobfinder.",
+      "topic_hiring_score": 0.8, "topic_postings": 20, "topic_hiring_reasoning": "Zahlreiche Embedded-Software-/FPGA-Stellen u.a. für autonomes Fahren in Paderborn (geschätzt).",
+      "example_positions": ["Embedded Softwareentwickler (m/w/d)", "Entwickler Embedded Software/FPGA Autonomes Fahren", "Softwareentwickler C++ HIL-Systeme"],
+      "size_fit": 0.35, "financial_health": 0.9, "pressure": 0.7,
+      "strategic_reasoning": "Als Konzern über der Idealgröße mit etablierten Lieferantenprozessen, aber enormer Entwicklungsbedarf durch SDV-Boom und Fachkräftemangel am Standort Paderborn macht externe Partner attraktiv.",
+      "contacts": [{"name": "Dr. Carsten Hoff", "role": "CEO dSPACE", "linkedin": null, "confidence": "MEDIUM"}]
+    },
+    {
+      "name": "GlobalmatiX GmbH",
+      "health_score": 0.6, "health_reasoning": "Firmiert als GlobalmatiX AG mit Sitz in Vaduz (FL), seit 2018 Tochter der börsennotierten Softing AG; Softing Automotive wuchs Q1/2025 um ~50% gegen den Branchentrend, der Gesamtkonzern schrieb jedoch Verlust.",
+      "recent_news": ["Softing Automotive wächst Q1/2025 um knapp 50% gegen den Branchentrend", "Globalmatix gewinnt weiteren Großkunden (3.000+ Telematikboxen mit mehrjährigen SLAs)"],
+      "affinity_score": 0.65, "affinity_reasoning": "Entwickelt xTCU-Telematik-Hardware, Firmware und Car2Cloud-Plattform inkl. eigener MVNO-Infrastruktur; wachsende Key Accounts bei kleinem Team sprechen für Bedarf an externer Embedded-/Backend-Entwicklung, Budget aber durch Konzernverlust limitiert.",
+      "revenue": "k.A. (Teil der Softing AG; Segment Automotive Q1/2025: 9,5 Mio EUR)", "employees": 25,
+      "hiring_score": 0.3, "hiring_postings": 1, "hiring_reasoning": "Keine prominenten eigenen Stellenausschreibungen, Recruiting läuft über die Softing-Gruppe (geschätzt).",
+      "topic_hiring_score": 0.4, "topic_postings": 1, "topic_hiring_reasoning": "Bedarf an Embedded-/Telematik-Entwicklern aufgrund xTCU-Produktlinie wahrscheinlich, aber nicht belegt (geschätzt).",
+      "example_positions": ["Embedded Software Engineer Telematik (xTCU)"],
+      "size_fit": 0.3, "financial_health": 0.55, "pressure": 0.7,
+      "strategic_reasoning": "Kleine Einheit in einem verlustschreibenden Konzern, aber starkes Auftragswachstum im Connected-Vehicle-Geschäft erzeugt Liefer- und Time-to-Market-Druck — Entscheidungswege laufen über die Softing-Gruppe.",
+      "contacts": [{"name": "Wolfgang Trier", "role": "CEO Softing AG (Muttergesellschaft)", "linkedin": null, "confidence": "MEDIUM"}]
+    }
+  ]
+}
