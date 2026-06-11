@@ -124,8 +124,11 @@ def apply_entry(raw_lead: dict, entry: dict, pipeline: str, topic: str) -> Lead:
         rating_reasoning=entry["strategic_reasoning"],
     )
 
+    # Kontakte ohne Namen verwerfen (Agenten liefern teils name:null)
     lead.contact_persons = [
-        ContactPerson.model_validate(c) for c in entry.get("contacts", [])
+        ContactPerson.model_validate(c)
+        for c in entry.get("contacts", [])
+        if isinstance(c, dict) and c.get("name")
     ]
     lead.overall_score = score_overall(lead)
     return lead
