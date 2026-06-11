@@ -1,23 +1,26 @@
-# Todo
+# Todo — Pipeline-Ausbau (2026-05-28)
 
-## Datenqualitäts-Offensive (2026-05-28) — ABGESCHLOSSEN
-- [x] 1. Schema erweitert: contact_persons, pipeline, tier, outreach im Lead-Modell
-- [x] 2. Scoring 19 Energiehändler (Topic: Risikomanagement/ETRM)
-- [x] 3. Scoring 25 Fernwärme (Topic: Betriebs- u. Anlagenverwaltung)
-- [x] 4. Research-Agenten 24 Telematik (3 Batches à 8, read-only, JSON-Rückgabe)
-- [x] 5. Scoring 24 Telematik via zentralen Applier
-- [x] 6. Validierungs-Gate scripts/validate_leads.py (blockiert Exporte)
-- [x] 7. Duplikate entfernt (Nordex SE Rostock, E-T-A ohne GmbH)
-- [x] 8. Kontakte/Tiers/Outreach aus Markdown in leads.json migriert
-- [x] 9. Generatoren (Excel/PDF) auf leads.json als Single Source umgestellt
-- [x] 10. CLAUDE.md Agent-Regeln + lessons.md aktualisiert
-- [x] 11. Exporte neu generiert, Gate grün (220 Leads, 100% gescort)
+## Ziel
+- Energie (= Fernwärme + Energieversorger + Energiehandel zusammengelegt): 100 Leads
+  → eigene Rubrik "Energiehandel" entfällt, geht in "Energie" auf
+- IoT: aktualisieren + auf 150 Leads
+- Telematik: auf 100 Leads
+- TISAX: auf 100 Leads
+- Alle Outreach-Texte/Unterlagen für Direktansprache fertig
 
-## Review
-- 220 Leads, 0 Platzhalter, 84 mit Ansprechpartnern, 5 Pipelines
-  (IoT 126, TISAX 24, Fernwärme 25, Energiehandel 19, Telematik 24)
-- Wichtige Funde: Huber Automotive insolvent (Telematik), BEW Berlin mit
-  gescheitertem 102-Mio-Leitwarten-Projekt (Top-Druck Fernwärme),
-  Danpower/GETEC/BTB als HanseWerk-Natur-Zwillinge
-- Offen (nächste Session): Telematik/Fernwärme/Energiehandel-Tiers vergeben,
-  Outreach-Templates für deren Top-Leads, generate_word.py datengetrieben machen
+## Schritte
+- [ ] 1. apply_scores.py: NEUE Leads anlegen können (Company-Block + idempotent)
+- [ ] 2. Pipelines umbenennen: Energiehandel+Fernwaerme -> "Energie"
+- [ ] 3. Research-Agenten Energie (Ziel +56) — Segmente, je <=8, eigene Batchdatei
+- [ ] 4. Research-Agenten Telematik (Ziel +76)
+- [ ] 5. Research-Agenten TISAX (Ziel +76)
+- [ ] 6. Research-Agenten IoT (Ziel +24)
+- [ ] 7. Alle Batches via apply_scores.py einspielen, dedupen
+- [ ] 8. Validierungs-Gate grün
+- [ ] 9. Tiers über alle Pipelines vergeben (scoreschwellen-basiert)
+- [ ] 10. Outreach (subject+hook) für alle TIER1/TIER2 generieren
+- [ ] 11. generate_word.py datengetrieben; Excel/PDF/Word neu bauen
+- [ ] 12. Commit + Push
+
+## Bestand vor Ausbau
+- IoT 126, TISAX 24, Fernwaerme 25, Telematik 24, Energiehandel 19 = 218 (+2 = 220)

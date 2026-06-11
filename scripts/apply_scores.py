@@ -54,10 +54,30 @@ def find_lead(leads: list[dict], name: str) -> dict | None:
     return matches[0] if matches else None
 
 
+def build_company(entry: dict) -> dict:
+    """Stammdaten für einen NEUEN Lead aus dem Batch-Entry."""
+    return {
+        "company": {
+            "name": entry["name"],
+            "website": entry.get("website"),
+            "address": entry.get("address"),
+            "industry": entry.get("industry"),
+            "source": entry.get("source"),
+        }
+    }
+
+
 def apply_entry(raw_lead: dict, entry: dict, pipeline: str, topic: str) -> Lead:
     """Baut ein vollständig gescortes Lead-Objekt aus Batch-Daten."""
     lead = Lead.model_validate(raw_lead)
     lead.pipeline = pipeline
+    # Stammdaten ergänzen, falls im Batch mitgeliefert (neue Leads / Updates)
+    if entry.get("website"):
+        lead.company.website = entry["website"]
+    if entry.get("address"):
+        lead.company.address = entry["address"]
+    if entry.get("industry"):
+        lead.company.industry = entry["industry"]
 
     health = CompanyHealth(
         activity_score=entry["health_score"],
@@ -118,30 +138,32 @@ def main() -> None:
     batch = json.loads(Path(sys.argv[1]).read_text())
     pipeline, topic = batch["pipeline"], batch["topic"]
 
+    allow_new = "--new" in sys.argv or batch.get("allow_new", False)
     data = json.loads(LEADS_FILE.read_text())
-    applied, missing = [], []
+    updated, created = [], []
 
     for entry in batch["leads"]:
         raw = find_lead(data["leads"], entry["name"])
         if raw is None:
-            missing.append(entry["name"])
-            continue
-        scored = apply_entry(raw, entry, pipeline, topic)
-        idx = data["leads"].index(raw)
-        data["leads"][idx] = scored.model_dump(mode="json")
-        applied.append((entry["name"], scored.overall_score))
+            if not allow_new:
+                sys.exit(f"NICHT GEFUNDEN (kein --new): {entry['name']}")
+            raw = build_company(entry)
+            scored = apply_entry(raw, entry, pipeline, topic)
+            data["leads"].append(scored.model_dump(mode="json"))
+            created.append((entry["name"], scored.overall_score))
+        else:
+            scored = apply_entry(raw, entry, pipeline, topic)
+            data["leads"][data["leads"].index(raw)] = scored.model_dump(mode="json")
+            updated.append((entry["name"], scored.overall_score))
 
     LEADS_FILE.write_text(
         json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8"
     )
 
     print(f"Pipeline: {pipeline} | Topic: {topic}")
-    print(f"Angewendet: {len(applied)}")
-    for name, score in sorted(applied, key=lambda x: -x[1]):
+    print(f"Neu: {len(created)} | Aktualisiert: {len(updated)}")
+    for name, score in sorted(created + updated, key=lambda x: -x[1]):
         print(f"  {score:.3f}  {name}")
-    if missing:
-        print(f"NICHT GEFUNDEN ({len(missing)}): {missing}")
-        sys.exit(1)
 
 
 if __name__ == "__main__":

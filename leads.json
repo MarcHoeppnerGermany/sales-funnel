@@ -10211,7 +10211,7 @@
         "industry": "Energiehandel / Mineralöl / Tanklagerlagerlogistik",
         "source": null
       },
-      "pipeline": "Energiehandel",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -10276,7 +10276,7 @@
         "industry": "Spezialchemie / Ölraffinerie / Mineralölprodukte",
         "source": null
       },
-      "pipeline": "Energiehandel",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -10338,7 +10338,7 @@
         "industry": "Energiehandel / Industriegase / Tankstellen",
         "source": null
       },
-      "pipeline": "Energiehandel",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -10392,7 +10392,7 @@
         "industry": "Mineralölhandel / Tankstellen / Energievertrieb",
         "source": null
       },
-      "pipeline": "Energiehandel",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -10461,7 +10461,7 @@
         "industry": "Mineralölhandel / Tankstellen / Energieverbund",
         "source": null
       },
-      "pipeline": "Energiehandel",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -10521,7 +10521,7 @@
         "industry": "Energiehandel / Mineralöl / Brennstoffe",
         "source": null
       },
-      "pipeline": "Energiehandel",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -10581,7 +10581,7 @@
         "industry": "Mineralölhandel / Tankstellen (Star/Orlen)",
         "source": null
       },
-      "pipeline": "Energiehandel",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -10635,7 +10635,7 @@
         "industry": "Mineralölhandel / Tankstellen / Energieversorgung",
         "source": null
       },
-      "pipeline": "Energiehandel",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -10687,7 +10687,7 @@
         "industry": "Energiehandel / Agrarhandel / Tankstellen",
         "source": null
       },
-      "pipeline": "Energiehandel",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -10739,7 +10739,7 @@
         "industry": "Ölraffinerie / Energiehandel / Tanklagerlagerlogistik",
         "source": null
       },
-      "pipeline": "Energiehandel",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -10793,7 +10793,7 @@
         "industry": "Tanklagerbetreiber / Mineralöl-Lagerung / Logistik",
         "source": null
       },
-      "pipeline": "Energiehandel",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -10847,7 +10847,7 @@
         "industry": "Ölraffinerie / Kraftstoffhandel / Rohstoffhandel",
         "source": null
       },
-      "pipeline": "Energiehandel",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -10899,7 +10899,7 @@
         "industry": "Mineralölimport / Großhandel / Holzpellets",
         "source": null
       },
-      "pipeline": "Energiehandel",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -10951,7 +10951,7 @@
         "industry": "Stahlhandel / Rohstoffhandel / Metallverarbeitung",
         "source": null
       },
-      "pipeline": "Energiehandel",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -11005,7 +11005,7 @@
         "industry": "Energiehandel / Commodity Trading / Risikomanagement",
         "source": null
       },
-      "pipeline": "Energiehandel",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -11067,7 +11067,7 @@
         "industry": "Energiehandel / Commodity Trading / Gas & Strom",
         "source": null
       },
-      "pipeline": "Energiehandel",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -11129,7 +11129,7 @@
         "industry": "Energiehandel / Commodity Trading / Erneuerbare",
         "source": null
       },
-      "pipeline": "Energiehandel",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -11181,7 +11181,7 @@
         "industry": "Mineralölhandel / Bunkergeschäft / Tankstellen",
         "source": null
       },
-      "pipeline": "Energiehandel",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -11248,7 +11248,7 @@
         "industry": "Energiehandel / Agrar / Baustoffe / Mineralöl",
         "source": null
       },
-      "pipeline": "Energiehandel",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -11302,7 +11302,7 @@
         "industry": "Fernwärme / Wärmeversorgung",
         "source": null
       },
-      "pipeline": "Fernwaerme",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -11372,7 +11372,7 @@
         "industry": "Fernwärme / Wärmeversorgung",
         "source": null
       },
-      "pipeline": "Fernwaerme",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -11442,7 +11442,7 @@
         "industry": "Fernwärme / Kommunale Energieversorgung",
         "source": null
       },
-      "pipeline": "Fernwaerme",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -11505,7 +11505,7 @@
         "industry": "Fernwärme / Kommunale Energieversorgung",
         "source": null
       },
-      "pipeline": "Fernwaerme",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -11568,7 +11568,7 @@
         "industry": "Fernwärme / Kommunale Energieversorgung",
         "source": null
       },
-      "pipeline": "Fernwaerme",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -11638,7 +11638,7 @@
         "industry": "Fernwärme / Wärme-Contracting",
         "source": null
       },
-      "pipeline": "Fernwaerme",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -11708,7 +11708,7 @@
         "industry": "Energie-Contracting / Fernwärme",
         "source": null
       },
-      "pipeline": "Fernwaerme",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -11778,7 +11778,7 @@
         "industry": "Fernwärme / Energie-Contracting / KWK",
         "source": null
       },
-      "pipeline": "Fernwaerme",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -11841,7 +11841,7 @@
         "industry": "Fernwärme / Wärmeversorgung",
         "source": null
       },
-      "pipeline": "Fernwaerme",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -11911,7 +11911,7 @@
         "industry": "Kommunale Energieversorgung / Wärme",
         "source": null
       },
-      "pipeline": "Fernwaerme",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -11973,7 +11973,7 @@
         "industry": "Fernwärme / Kommunale Energieversorgung",
         "source": null
       },
-      "pipeline": "Fernwaerme",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -12043,7 +12043,7 @@
         "industry": "Fernwärme / Kommunale Energieversorgung",
         "source": null
       },
-      "pipeline": "Fernwaerme",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -12106,7 +12106,7 @@
         "industry": "Fernwärme / Kommunale Energieversorgung",
         "source": null
       },
-      "pipeline": "Fernwaerme",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -12176,7 +12176,7 @@
         "industry": "Fernwärme / Kommunale Energieversorgung",
         "source": null
       },
-      "pipeline": "Fernwaerme",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -12246,7 +12246,7 @@
         "industry": "Fernwärme / Kommunale Energieversorgung",
         "source": null
       },
-      "pipeline": "Fernwaerme",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -12308,7 +12308,7 @@
         "industry": "Fernwärme / Kommunale Energieversorgung",
         "source": null
       },
-      "pipeline": "Fernwaerme",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -12370,7 +12370,7 @@
         "industry": "Fernwärme / Kommunale Energieversorgung",
         "source": null
       },
-      "pipeline": "Fernwaerme",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -12440,7 +12440,7 @@
         "industry": "Fernwärme / Wärmeversorgung",
         "source": null
       },
-      "pipeline": "Fernwaerme",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -12510,7 +12510,7 @@
         "industry": "BHKW / Fernwärme / dezentrale Energieversorgung",
         "source": null
       },
-      "pipeline": "Fernwaerme",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -12580,7 +12580,7 @@
         "industry": "Fernwärme / Kommunale Energieversorgung",
         "source": null
       },
-      "pipeline": "Fernwaerme",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -12643,7 +12643,7 @@
         "industry": "Fernwärme / Kommunale Energieversorgung",
         "source": null
       },
-      "pipeline": "Fernwaerme",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -12713,7 +12713,7 @@
         "industry": "Fernwärme / Kommunale Energieversorgung",
         "source": null
       },
-      "pipeline": "Fernwaerme",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -12783,7 +12783,7 @@
         "industry": "Fernwärme / Energieversorgung",
         "source": null
       },
-      "pipeline": "Fernwaerme",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -12845,7 +12845,7 @@
         "industry": "Fernwärme / Kommunale Energieversorgung",
         "source": null
       },
-      "pipeline": "Fernwaerme",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
@@ -12907,7 +12907,7 @@
         "industry": "Fernwärme / Stromerzeugung / Energiedienstleistung",
         "source": null
       },
-      "pipeline": "Fernwaerme",
+      "pipeline": "Energie",
       "tier": null,
       "topic_relevance": {
         "company_health": {
