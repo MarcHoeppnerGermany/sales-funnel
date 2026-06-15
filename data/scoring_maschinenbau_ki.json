@@ -1,0 +1,149 @@
+{
+  "pipeline": "Maschinenbau",
+  "topic": "KI in Produktion",
+  "allow_new": true,
+  "leads": [
+    {
+      "name": "ARBURG GmbH + Co KG",
+      "website": "arburg.com",
+      "address": "Loßburg, Baden-Württemberg",
+      "industry": "Maschinen- und Anlagenbau",
+      "revenue": "575 Mio EUR (geschätzt, 2025 — Rückgang von 600 Mio EUR 2024)",
+      "employees": 3400,
+      "health_score": 0.4,
+      "health_reasoning": "Arburg verzeichnet seit 2022 rückläufige Umsätze; 2024 brach der Umsatz um 23% auf ca. 600 Mio EUR ein, 2025 nochmals ca. -4% auf ~575 Mio EUR. Kurzarbeit seit Jan 2024, Mitarbeiterabbau über Abfindungsprogramme (von 3.700 auf 3.400). Neuer CEO Dr. Volker Nilles seit Jan 2026 soll Transformation vorantreiben. Quelle: K-Zeitung, plasticker.de",
+      "recent_news": [
+        "K 2025: Arburg präsentiert KI-gestützte 'Ask ARBURG' App, Virtual Twin und MoldlifeAssist für Predictive Maintenance (Quelle: arburg.com, plastech.biz)",
+        "Neuer CEO Dr. Volker Nilles seit Januar 2026 mit Transformationsfokus; Umsatzminus setzt sich fort (Quelle: K-Zeitung, arburg.com)"
+      ],
+      "affinity_score": 0.62,
+      "affinity_reasoning": "SIGNALE: [+18|Tech/Project] AI-Pilot 'Ask ARBURG' App + MoldlifeAssist Predictive Maintenance aktiv skaliert (K 2025), Quelle: arburg.com | [+12|Tech/Project] SAP/ERP/IoT-Landschaft: arburgXworld Kundenportal, ALS Host-Computersystem, GESTICA-Steuerung mit Virtual Twin, Quelle: arburg.com | [+15|Tech/Project] Data Sovereignty: eigenes Kundenportal arburgXworld, Quelle: arburg.com | [+10|Trigger] Neuer CEO Dr. Volker Nilles Jan 2026 mit Transformationsfokus, Quelle: arburg.com | [+10|Hiring] Mehrere IT-Stellen (DevOps Engineer, Software-Entwickler), Quelle: LinkedIn, StepStone | [-10|Negativ] Wirtschaftliche Krise: Kurzarbeit, Umsatzrückgang, Stellenabbau seit 2024, Quelle: K-Zeitung | [-20|Negativ] Starke interne Digitalisierungskompetenz: eigene AI-Apps, Virtual Twin eigenentwickelt (geschätzt) = 35/100 Punkte netto → 0.62",
+      "hiring_score": 0.45,
+      "hiring_postings": 34,
+      "hiring_reasoning": "Ca. 24-34 offene Stellen (Glassdoor/Jobijoba, Juni 2026). Für 3.400 MA moderat — im Kontext von Kurzarbeit und Stellenabbau seit 2024 eher selektive Nachbesetzung als Wachstum. Quelle: Glassdoor, jobijoba.de",
+      "topic_hiring_score": 0.25,
+      "topic_postings": 2,
+      "topic_hiring_reasoning": "Keine dedizierten KI/ML/Data-Science-Stellen gefunden. DevOps Engineer und allgemeine Software-Entwickler-Positionen, aber nicht explizit KI/ML-fokussiert. KI-Entwicklung (Ask ARBURG, MoldlifeAssist) scheint intern mit bestehendem Team zu erfolgen (geschätzt). Quelle: LinkedIn, StepStone, jobs.arburg.com",
+      "example_positions": [
+        "DevOps Engineer (m/w/d) — Loßburg",
+        "Software-Entwickler Engineering & IT — Loßburg (geschätzt)",
+        "Digital Marketing Manager (m/w/d) — Loßburg"
+      ],
+      "size_fit": 0.75,
+      "financial_health": 0.4,
+      "pressure": 0.55,
+      "strategic_reasoning": "Arburg ist ein mittelständischer Maschinenbauer (3.400 MA, ~575 Mio EUR) im NeoGeo-Zielkorridor mit aktiven KI-Piloten (Ask ARBURG, MoldlifeAssist, Virtual Twin). Die wirtschaftlich angespannte Lage (Kurzarbeit, 4 Jahre Umsatzrückgang) limitiert Investitionsbereitschaft, aber neuer CEO und Transformationsdruck erzeugen Handlungsbedarf. Eigene Digitalisierungskompetenz ist hoch — NeoGeo müsste sich als Ergänzung positionieren (z.B. Computer Vision Qualitätssicherung, KI-Produktionsoptimierung).",
+      "contacts": [
+        {"name": "Steffen Kroner", "role": "Geschäftsführer Finanzen, Controlling, IT & Global HR", "linkedin": "https://de.linkedin.com/in/steffenkroner", "confidence": "HIGH"},
+        {"name": "Guido Frohnhaus", "role": "Geschäftsführer Technik & Engineering", "linkedin": null, "confidence": "HIGH"},
+        {"name": "Dr. Volker Nilles", "role": "CEO / Vorsitzender der Geschäftsführung (seit Jan 2026, Transformationsfokus)", "linkedin": null, "confidence": "HIGH"}
+      ]
+    },
+    {
+      "name": "Windmöller & Hölscher SE & Co. KG",
+      "website": "wh.group",
+      "address": "Lengerich, Nordrhein-Westfalen",
+      "industry": "Maschinen- und Anlagenbau",
+      "revenue": "ca. 1 Mrd EUR (2023, geschätzt stabil 2024/25)",
+      "employees": 3400,
+      "health_score": 0.75,
+      "health_reasoning": "Weltmarktführer im Bereich Verpackungsmaschinen mit >1 Mrd EUR Umsatz und stabiler Eigentümerstruktur (Familienunternehmen). CEO-Wechsel 2024: Dr. Falco Paepenmüller (ehem. CTO) übernimmt, Peter Steinbeck wechselt in Aufsichtsrat — deutet auf strategische Neuausrichtung. Quelle: euwid-papier.de, die-deutsche-wirtschaft.de",
+      "recent_news": [
+        "Dr. Falco Paepenmüller wird neuer CEO ab 2024, Peter Steinbeck wechselt in den Aufsichtsrat (Quelle: print.de, pressebox.de)",
+        "RUBY IoT-Plattform wird mit theurer.com ERP/MIS-System vernetzt für digitalisierte Auftragsabwicklung (Quelle: flexotiefdruck.de, k-aktuell.de)"
+      ],
+      "affinity_score": 0.62,
+      "affinity_reasoning": "SIGNALE: [+12|Tech/Project] IoT-Plattform RUBY für Maschinenüberwachung und Predictive Maintenance aktiv im Einsatz, Quelle: flexotiefdruck.de, slashwhy.de | [+12|Tech/Project] SAP/ERP-Landschaft (theurer.com C3 ERP/MIS Integration mit RUBY), Quelle: extrusion-world.com | [+10|Tech/Project] Legacy-Integration (Vernetzung bestehender Extrusions-, Druck- und Convertingmaschinen via RUBY Connect 4 Flow), Quelle: k-aktuell.de | [+15|Trigger] Neuer CEO Dr. Paepenmüller (ehem. CTO) ab 2024 — technologieaffiner Führungswechsel, Quelle: print.de | [+10|Hiring] Duales Studium Digitale Technologien 2026 + IT Servicemanager-Stellen, Quelle: wir-lieben-jobs.de | [+8|Tech/Project] Microsoft-Stack (geschätzt) | [-0|Negativ] Keine negativen Signale = 67/100 Punkte → 0.62 (konservativ wegen fehlender direkter KI-Signale)",
+      "hiring_score": 0.45,
+      "hiring_postings": 62,
+      "hiring_reasoning": "62 offene Stellen (Glassdoor, geschätzt). IT Servicemanager-Positionen und Duales Studium Digitale Technologien. Moderate Hiring-Aktivität für 3.400 MA. Quelle: glassdoor.com, wir-lieben-jobs.de",
+      "topic_hiring_score": 0.15,
+      "topic_postings": 1,
+      "topic_hiring_reasoning": "Keine expliziten KI/ML/Data-Science-Stellen gefunden. Einziger digitaler Bezug: Duales Studium Digitale Technologien (Start 2026). IT-Stellen fokussieren auf Servicemanagement, nicht KI-Entwicklung — paradoxerweise verstärkt dies den Case für externen KI-Bedarf. Quelle: wir-lieben-jobs.de, stellenmarkt.de",
+      "example_positions": [
+        "Duales Studium Digitale Technologien (m/w/d) — Start 2026",
+        "IT Servicemanager Collaboration (m/w/d)",
+        "IT-Servicemanager Workspace Services (m/w/d)"
+      ],
+      "size_fit": 0.7,
+      "financial_health": 0.8,
+      "pressure": 0.55,
+      "strategic_reasoning": "W&H ist Weltmarktführer Verpackungsmaschinen (3.400 MA, ~1 Mrd EUR) mit aktiver IoT/Digitalisierungsstrategie (RUBY-Plattform), aber OHNE erkennbares internes KI-Team — ideale Konstellation für 'KI in Produktion'. Technologieaffiner neuer CEO (ehem. CTO), bestehende IoT-Infrastruktur und Bedarf an Predictive Maintenance / Computer Vision in Folienextrusion und Druckqualitätskontrolle bieten konkrete Anknüpfungspunkte. CIO Peter Hardebeck als Primärkontakt.",
+      "contacts": [
+        {"name": "Peter Hardebeck", "role": "CIO / Geschäftsführer IT", "linkedin": "https://www.linkedin.com/in/peter-hardebeck/ (geschätzt)", "confidence": "HIGH"},
+        {"name": "Dr. Falco Paepenmüller", "role": "CEO (ehem. CTO — technologieaffin)", "linkedin": "https://www.linkedin.com/in/falco-paepenmueller/ (geschätzt)", "confidence": "HIGH"},
+        {"name": "Martin Schulteis", "role": "CFO / Geschäftsführer Finanzen", "linkedin": null, "confidence": "MEDIUM"}
+      ]
+    },
+    {
+      "name": "SEW-EURODRIVE GmbH & Co KG",
+      "website": "sew-eurodrive.de",
+      "address": "Bruchsal, Baden-Württemberg",
+      "industry": "Maschinen- und Anlagenbau",
+      "revenue": "ca. 4,2 Mrd EUR (2024, geschätzt leicht steigend 2025)",
+      "employees": 22700,
+      "health_score": 0.9,
+      "health_reasoning": "Globaler Marktführer Antriebstechnik (Fam. Blickle), ca. 22.700 MA, ~4,2 Mrd EUR Umsatz. Stetiges Wachstum, massive Investitionen in Digitalisierung (DriveRadar, Software Defined Factory). ACHTUNG: Überschreitet 5.000 MA-Grenze um Faktor 4,5. Quelle: die-deutsche-wirtschaft.de, sew-eurodrive.de",
+      "recent_news": [
+        "SPS Italia 2026: SEW-EURODRIVE präsentiert 'Software Defined Factory' mit AI-Integration und offenen Architekturen (Mai 2026, Quelle: industriaitaliana.it)",
+        "Next-gen Predictive Maintenance mit DriveRadar IoT Suite inkl. AI-basiertem Digital Twin und APPredict/APPmapp (Jan 2026, Quelle: africanmining.co.za, b-und-i.de)"
+      ],
+      "affinity_score": 0.72,
+      "affinity_reasoning": "SIGNALE: [+20|Hiring] KI-Praktikum 'Automatisierte Datensatzerstellung und KI-Personendetektion für mobile Roboter', Quelle: studyflix.de | [+12|Tech/Project] DriveRadar IoT Suite mit AI-basiertem Digital Twin produktiv, Quelle: africanmining.co.za | [+18|Tech/Project] Software Defined Factory mit AI-Integration (SPS Italia 2026), Quelle: industriaitaliana.it | [+12|Tech/Project] SAP/ERP/IoT: 'Aus Datensilos wird Datenklarheit' Projekt, Quelle: mm-software.com | [+15|Trigger] Neuer Bereichsleiter Digitalisierung Christian Keßler (2025), Quelle: digital-manufacturing-magazin.de | [-20|Negativ] Starkes internes AI-Team (eigene DriveRadar-AI-Entwicklung, KI-Forschung mobile Roboter) | [+8|Tech/Project] Microsoft-Stack (geschätzt) = 65/100 Punkte netto → 0.72",
+      "hiring_score": 0.7,
+      "hiring_postings": 45,
+      "hiring_reasoning": "Ca. 45 offene Stellen auf jobrobot.de (geschätzt), Standorte Bruchsal, Graben-Neudorf, Hamburg, Langenfeld, Zwickau. Aktive Karrieremessen-Präsenz (KIT 05/2025). Für 22.700 MA moderate Hiring-Aktivität. Quelle: jobrobot.de, careerserviceportal.kit.edu",
+      "topic_hiring_score": 0.35,
+      "topic_postings": 2,
+      "topic_hiring_reasoning": "Vereinzelte explizite KI/ML-Stellen: 1 KI-Praktikum (Personendetektion mobile Roboter). Keine dedizierten 'ML Engineer', 'Data Scientist' Vollzeitstellen in Suchergebnissen sichtbar. Deutet auf interne Entwicklung, nicht großen externen Rekrutierungsbedarf. Quelle: studyflix.de, sew-eurodrive.de/karriere",
+      "example_positions": [
+        "Praktikum: Automatisierte Datensatzerstellung und KI-Personendetektion für mobile Roboter (Bruchsal)",
+        "Softwareentwickler Automatisierung/Digitalisierung (geschätzt)",
+        "IT-Positionen an diversen Standorten (geschätzt)"
+      ],
+      "size_fit": 0.15,
+      "financial_health": 0.9,
+      "pressure": 0.55,
+      "strategic_reasoning": "WARNUNG: 22.700 MA und 4,2 Mrd EUR Umsatz überschreiten NeoGeo-Zielsegment (150-5.000 MA, 50M-2Mrd EUR) um Faktor 4,5. Keine klar abgrenzbare Tochtergesellschaft im DACH-Raum identifiziert — MAXOLUTION (AGV/Intralogistik) ist Marke/Division, keine eigenständige GmbH. Starkes internes KI-Team reduziert externen Beratungsbedarf zusätzlich. Empfehlung: Nur verfolgen bei explizitem Enterprise-Kundenwunsch oder Divisionszugang.",
+      "contacts": [
+        {"name": "Alexander Stamm", "role": "CIO (seit Juli 2017, ex-Benteler)", "linkedin": "https://www.linkedin.com/in/alexander-stamm/ (geschätzt)", "confidence": "MEDIUM"},
+        {"name": "Christian Keßler", "role": "Bereichsleiter Digitalisierung und Automatisierung", "linkedin": "https://www.linkedin.com/in/christian-kessler-sew/ (geschätzt)", "confidence": "MEDIUM"}
+      ]
+    },
+    {
+      "name": "Festo SE & Co. KG",
+      "website": "festo.com",
+      "address": "Esslingen am Neckar, Baden-Württemberg",
+      "industry": "Maschinen- und Anlagenbau",
+      "revenue": "3,8 Mrd EUR (geschätzt)",
+      "employees": 20000,
+      "health_score": 0.85,
+      "health_reasoning": "Finanzstarkes Familienunternehmen, Weltmarktführer Pneumatik und Automatisierung. Ca. 20.000 MA, ~3,8 Mrd EUR Umsatz. Starke Innovationskultur (Bionik-Projekte, Festo AX Industrial AI). ACHTUNG: Überschreitet 5.000 MA-Grenze um Faktor 4. Quelle: festo.com",
+      "recent_news": [
+        "Festo baut Festo AX (Industrial AI) Plattform für Predictive Maintenance und Qualitätsanalyse weiter aus (2025/2026, Quelle: festo.com)",
+        "Festo Didactic integriert KI-Lerninhalte für Industrie-4.0-Trainings (Quelle: festo.com)"
+      ],
+      "affinity_score": 0.45,
+      "affinity_reasoning": "SIGNALE: [+18|Tech/Project] Festo AX = eigene Industrial-AI-Plattform (Predictive Quality, Energy Monitoring), Quelle: festo.com | [+20|Hiring] Aktive ML/AI-Engineer-Stellen | [+12|Tech/Project] IoT-Sensorik an pneumatischen Systemen | [+8|Trigger] KI-Strategie mit Festo AX als Kernprodukt | [-25|Negativ] Festo IST SELBST KI-Vendor (Festo AX als Produkt!) | [-20|Negativ] Starkes internes KI-Team = 13/100 Punkte netto → 0.45 (KI-Vendor-Status und internes Team als Hauptrisiken)",
+      "hiring_score": 0.8,
+      "hiring_postings": 350,
+      "hiring_reasoning": "Sehr aktive Einstellungsphase weltweit, ca. 350 offene Stellen (geschätzt). Schwerpunkte in Automatisierung, IT, KI/ML und Didaktik. Quelle: festo.com/karriere",
+      "topic_hiring_score": 0.75,
+      "topic_postings": 20,
+      "topic_hiring_reasoning": "Explizite KI/ML-Stellen für Festo AX, Computer Vision, Robotik. Starkes internes KI-Team bereits vorhanden — Stellen sind für eigene Produktentwicklung, nicht für interne Digitalisierung. Quelle: festo.com/karriere (geschätzt)",
+      "example_positions": [
+        "AI/ML Engineer Festo AX (geschätzt)",
+        "Data Scientist Industrial Analytics (geschätzt)",
+        "Computer Vision Engineer Robotik (geschätzt)"
+      ],
+      "size_fit": 0.25,
+      "financial_health": 0.85,
+      "pressure": 0.5,
+      "strategic_reasoning": "WARNUNG: 20.000 MA überschreiten 5.000-MA-Grenze um Faktor 4. KRITISCH: Festo ist mit Festo AX selbst KI-Produkt-Anbieter — damit eher Wettbewerber als Kunde für 'KI in Produktion'. Festo Didactic (~1.000 MA geschätzt) als Sub-Target: fokussiert auf Ausbildung, nicht Produktion — kein überzeugender Ansatz. Empfehlung: Aus Pipeline entfernen oder nur als Technologiepartner betrachten.",
+      "contacts": [
+        {"name": "Frank Melzer", "role": "Vorstand Product and Technology Management", "linkedin": null, "confidence": "MEDIUM"},
+        {"name": "Dr. Oliver Jung", "role": "Vorstandsvorsitzender (bis 2024)", "linkedin": null, "confidence": "LOW"}
+      ]
+    }
+  ]
+}

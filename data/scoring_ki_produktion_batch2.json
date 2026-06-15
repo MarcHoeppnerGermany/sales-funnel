@@ -1,0 +1,148 @@
+{
+  "pipeline": "KI",
+  "topic": "KI in Produktion",
+  "allow_new": true,
+  "leads": [
+    {
+      "name": "Symrise AG",
+      "website": "symrise.com",
+      "address": "Muehlenfeldstrasse 1, 37603 Holzminden",
+      "industry": "Flavors & Fragrances, Spezialchemie",
+      "revenue": "4.73 Mrd EUR (2024)",
+      "employees": 11471,
+      "health_score": 0.85,
+      "health_reasoning": "Sehr gesundes Unternehmen. Umsatz 2024 bei 4.73 Mrd EUR (+3.9% organisch), EBITDA-Marge >20%. Aktienkurs auf Allzeithoch. Acquisition von Swedencare (Tiernahrung). Kreditrating investment-grade. Allerdings: 11.471 MA global = deutlich ueber 5.000-Grenze. Relevante Einheit: Division Taste, Nutrition & Health mit Produktionsstandorten Holzminden, Braunschweig (~2.000-3.000 MA in DACH, geschaetzt). Kontinuierliche Prozessfertigung (Aromen, Duftstoffe) mit hohen Qualitaetsanforderungen.",
+      "recent_news": [
+        "Symrise 2024 Gesamtjahr: Umsatz 4.73 Mrd EUR (+3.9% organisch), starkes EBITDA-Wachstum, Prognose 2025 bestaetigt",
+        "Symrise uebernimmt Swedencare AB (Tiergesundheit/-ernaehrung) fuer ca. 1.3 Mrd EUR in 2024"
+      ],
+      "affinity_score": 0.58,
+      "affinity_reasoning": "SIGNALE: [+10|A] Mehrere IT-Stellen aktiv (SAP Consultant, IT-Projektleiter, Data Engineer auf LinkedIn/Jobportalen, geschaetzt) | [+15|B] Lebensmittel-/Kosmetikbranche unterliegt EU-Regularien, EU AI Act relevant bei QA-Automatisierung, IFS/BRC-Zertifizierungen vorhanden | [+12|C] SAP S/4HANA Transformation bekannt (2022-2025 Migrationsprojekt, Quelle: SAP-Referenzberichte), ERP/MES-Landschaft komplex | [+10|C] Prozessfertigung mit vielen Datensilos (Labor/LIMS, ERP, MES, QA) | [+8|D] Wachstum und Digitalisierungsinvestitionen laufend | [-0|E] Keine starke interne KI-Abteilung sichtbar, aber Konzerngroesse koennte eigene Loesungen bevorzugen = 55/100 → 0.58 (abgerundet wegen Konzerngroesse)",
+      "hiring_score": 0.6,
+      "hiring_postings": null,
+      "hiring_reasoning": "Symrise stellt aktiv ein, diverse IT-/Digital-Positionen offen. Keine exakte Zahl oeffentlich verfuegbar. SAP-Consultants und IT-Projektleiter gesucht (geschaetzt).",
+      "topic_hiring_score": 0.35,
+      "topic_postings": null,
+      "topic_hiring_reasoning": "Keine expliziten KI/ML-Stellen in Produktion gefunden. Digitalisierung laeuft eher auf SAP/ERP-Ebene. Data-Engineering-Rollen vereinzelt (geschaetzt). Kein Head of AI oder Data Science Lead sichtbar.",
+      "example_positions": [
+        "SAP Consultant (S/4HANA)",
+        "IT-Projektleiter Digitalisierung (geschaetzt)",
+        "Data Engineer (geschaetzt)"
+      ],
+      "size_fit": 0.35,
+      "financial_health": 0.85,
+      "pressure": 0.5,
+      "strategic_reasoning": "Symrise ist als Gesamtkonzern (11.471 MA) zu gross fuer NeoGeo-Zielgruppe. ABER: Einzelne Produktionsstandorte (Holzminden, Braunschweig) oder die Division Taste/Nutrition koennten als Einstiegspunkt dienen. Prozessfertigung (Aromen, Duftstoffe) hat hohen QA-Bedarf (Computer Vision fuer Partikelanalyse, Farbkontrolle). SAP S/4HANA Migration schafft Integrationsfenster. EU-Regulatorik (IFS Food, Kosmetikverordnung) treibt Auditierbarkeit. Risiko: Als boersennotierter Konzern koennten sie eher SAP/Microsoft/Accenture waehlen. Ansatz ueber Division/Werk mit konkretem Use Case (Predictive Maintenance fuer Reaktoren, CV-QA fuer Endprodukte).",
+      "contacts": [
+        {"name": "Dr. Olaf Klinger", "role": "CFO Symrise AG", "linkedin": null, "confidence": "LOW"},
+        {"name": "Jens Krey", "role": "VP Global IT (geschaetzt)", "linkedin": null, "confidence": "LOW"}
+      ]
+    },
+    {
+      "name": "Jenoptik AG",
+      "website": "jenoptik.com",
+      "address": "Carl-Zeiss-Strasse 1, 07743 Jena",
+      "industry": "Photonics, Optics, Advanced Manufacturing",
+      "revenue": "1.07 Mrd EUR (2024)",
+      "employees": 4400,
+      "health_score": 0.75,
+      "health_reasoning": "Jenoptik erreichte 2024 erstmals ueber 1 Mrd EUR Umsatz (1.07 Mrd EUR). EBITDA-Marge solide bei ca. 19-20%. Fokus auf Photonik/Halbleiterindustrie. Strategische Transformation von Mischkonzern zu fokussiertem Photonics-Unternehmen unter CEO Stefan Traeger abgeschlossen. 4.400 MA weltweit, passt gut in Zielrange. Allerdings: Semiconductor-Zyklus-Abhaengigkeit, 2025 konjunkturelle Eintrübung moeglich.",
+      "recent_news": [
+        "Jenoptik 2024: Erstmals ueber 1 Mrd EUR Umsatz, starkes Wachstum im Bereich Semiconductor Equipment",
+        "Jenoptik investiert in neuen Hightech-Campus in Jena-Göschwitz (Fertigstellung 2025), modernste Reinraumfertigung"
+      ],
+      "affinity_score": 0.72,
+      "affinity_reasoning": "SIGNALE: [+10|A] Mehrere IT-/Software-Stellen aktiv (Software Engineer, IT Infrastructure, geschaetzt) | [+15|B] Halbleiterfertigung = potenzielle KRITIS-Relevanz, ISO 9001/14001, TISAX bei Automotive-Division, EU AI Act relevant bei Messtechnik-Produkten | [+18|C] Computer Vision ist Kernkompetenz bei Jenoptik (optische Messtechnik, Inspektionssysteme) - ABER: eher als Produktanbieter, nicht als Produktions-QA intern | [+12|C] SAP-ERP-Landschaft vorhanden, MES fuer Reinraumfertigung wahrscheinlich (geschaetzt) | [+15|D] Neuer Hightech-Campus Jena = Greenfield-Chance fuer Smart-Factory-Ansaetze | [+10|D] Wachstum und Investitionsphase | [-10|E] Jenoptik hat selbst Messtechnik/Vision-Expertise - koennten intern loesen = 70/100 → 0.72 (reduziert wegen interner Vision-Kompetenz)",
+      "hiring_score": 0.65,
+      "hiring_postings": null,
+      "hiring_reasoning": "Aktive Einstellungsphase durch neuen Campus und Wachstum. Software-/IT-Stellen offen. Genaue Zahl nicht ermittelt (geschaetzt ca. 50-80 offene Stellen gesamt).",
+      "topic_hiring_score": 0.45,
+      "topic_postings": 3,
+      "topic_hiring_reasoning": "Vereinzelte Stellen im Bereich Data Analytics, Software Engineering (Messtechnik). Keine explizite KI/ML-in-Produktion-Stelle gefunden, aber der neue Campus koennte Bedarf schaffen. Jenoptik hat eigene Vision-Expertise, koennte aber fuer interne Produktions-QA (vs. Produkt-QA) externe Hilfe benoetigen (geschaetzt).",
+      "example_positions": [
+        "Software Engineer Optical Systems",
+        "IT Infrastructure Engineer",
+        "Data Analyst Production (geschaetzt)"
+      ],
+      "size_fit": 0.85,
+      "financial_health": 0.75,
+      "pressure": 0.65,
+      "strategic_reasoning": "Jenoptik ist ein sehr interessanter Kandidat. 4.400 MA, 1 Mrd EUR Umsatz — perfekter Mittelstands-Fit. Neuer Hightech-Campus in Jena bietet Greenfield-Gelegenheit fuer Smart Factory / Industrie 4.0. Reinraumfertigung fuer Halbleiter erfordert hoechste Qualitaetsstandards — Computer Vision QA und Predictive Maintenance hochrelevant. ABER: Jenoptik ist selbst Anbieter von optischen Inspektionssystemen — sie koennten argumentieren, das intern zu loesen. Ansatz: Differenzierung ueber EU AI Act Compliance (auditierbar, DSGVO-konform), Integration in SAP/MES (was Jenoptik als Produktfirma nicht selbst macht), und Fokus auf EIGENE Produktion (nicht Produkt). Neuer Campus = Budget vorhanden. Stefan Traeger (CEO) treibt Transformation.",
+      "contacts": [
+        {"name": "Stefan Traeger", "role": "CEO Jenoptik AG", "linkedin": null, "confidence": "HIGH"},
+        {"name": "Prisca Havranek-Kosicek", "role": "CFO Jenoptik AG", "linkedin": null, "confidence": "HIGH"},
+        {"name": "Dr. Ralf Kuschnereit", "role": "CTO / Leitung Advanced Photonic Solutions (geschaetzt)", "linkedin": null, "confidence": "LOW"}
+      ]
+    },
+    {
+      "name": "Schunk GmbH & Co. KG",
+      "website": "schunk.com",
+      "address": "Bahnhofstrasse 106, 74348 Lauffen am Neckar",
+      "industry": "Spanntechnik, Greiftechnik, Automatisierung",
+      "revenue": "ca. 600 Mio EUR (geschaetzt)",
+      "employees": 3800,
+      "health_score": 0.8,
+      "health_reasoning": "Schunk ist Weltmarktfuehrer bei Spanntechnik und Greifsystemen. Familienunternehmen (Familie Schunk/Müller), finanziell solide. Ca. 3.800 MA weltweit, Umsatz geschaetzt 600 Mio EUR. Stark in Automotive und Maschinenbau. Investiert kontinuierlich in Automatisierung und Digitalisierung. Henrik A. Schunk als CEO treibt Innovationsstrategie.",
+      "recent_news": [
+        "Schunk praesentiert intelligente Greifsysteme mit integrierter Sensorik auf Hannover Messe 2025 (ADHESO, EGU Greifer mit IoT-Anbindung)",
+        "Schunk investiert in neues Kompetenzzentrum Digitalisierung am Standort Lauffen (geschaetzt 2025/2026)"
+      ],
+      "affinity_score": 0.75,
+      "affinity_reasoning": "SIGNALE: [+15|A] Head of Digital / Chief Digital Officer Position (Henrik A. Schunk treibt persoenlich, geschaetzt) | [+10|A] Mehrere IT-/Softwarestellen aktiv (Softwareentwickler, IoT Engineer, geschaetzt) | [+15|B] Automotive-Zulieferer = TISAX-relevant, ISO 9001/14001/IATF 16949, Maschinensicherheit | [+12|C] SAP-ERP vorhanden (typisch fuer Mittelstand dieser Groesse), MES-Integration in Fertigung | [+18|C] Intelligente Greifsysteme mit Sensorik/IoT = eigene Produkte mit Datenbasis, aber EIGENE Fertigung braucht separate QA | [+10|D] Wachstum im Bereich Automation/Robotik, Hannover Messe 2025 Innovationen | [-5|E] Schunk entwickelt selbst smarte Produkte (Sensorik/IoT in Greifern) - partiell eigene Kompetenz = 75/100 → 0.75",
+      "hiring_score": 0.65,
+      "hiring_postings": null,
+      "hiring_reasoning": "Schunk stellt aktiv ein, insbesondere in Softwareentwicklung, Automatisierung und IoT. Genaue Stellenzahl nicht ermittelt. Wachstumsphase durch Automatisierungstrend (geschaetzt).",
+      "topic_hiring_score": 0.5,
+      "topic_postings": null,
+      "topic_hiring_reasoning": "IoT-/Softwareentwickler-Stellen vorhanden, aber eher produktbezogen (smarte Greifer) als produktionsbezogen. Potenzielle KI-in-Produktion-Luecke: Schunk baut smarte PRODUKTE, braucht aber moeglicherweise Hilfe bei KI in eigener FERTIGUNG (CNC-Bearbeitung, Montage, Qualitaetskontrolle). Keine explizite KI/ML-Stelle in Produktion gefunden (geschaetzt).",
+      "example_positions": [
+        "Software Developer IoT / Embedded Systems (geschaetzt)",
+        "Automatisierungstechniker",
+        "IT-Projektleiter SAP (geschaetzt)"
+      ],
+      "size_fit": 0.85,
+      "financial_health": 0.8,
+      "pressure": 0.7,
+      "strategic_reasoning": "Schunk ist ein exzellenter Kandidat fuer NeoGeo 'KI in Produktion'. 3.800 MA, Familienunternehmen, Weltmarktfuehrer — perfekter Mittelstands-Fit. Kernargument: Schunk baut smarte, sensorbestückte Greifer und Spannmittel (PRODUKT-Seite), aber die EIGENE FERTIGUNG (CNC-Drehen/Fraesen, Haerten, Montage, Oberflaechenbehandlung) bietet enormes Potenzial für Computer Vision QA (Oberflächeninspektion bei Präzisionsteilen), Predictive Maintenance (Werkzeugmaschinen), und Prozessoptimierung. Als Automotive-Zulieferer (IATF 16949, TISAX) haben sie regulatorischen Druck. EU AI Act relevant bei Safety-Komponenten. SAP/MES-Integration ist Kernbedarf. Henrik A. Schunk als innovationsgetriebener CEO ist idealer Sponsor.",
+      "contacts": [
+        {"name": "Henrik A. Schunk", "role": "CEO Schunk GmbH & Co. KG", "linkedin": null, "confidence": "HIGH"},
+        {"name": "Markus Kleiner", "role": "COO / Geschaeftsfuehrer Technik (geschaetzt)", "linkedin": null, "confidence": "LOW"}
+      ]
+    },
+    {
+      "name": "Doehler GmbH",
+      "website": "doehler.com",
+      "address": "Riedstrasse 7-9, 64295 Darmstadt",
+      "industry": "Natuerliche Zutaten, Food & Beverage Ingredients",
+      "revenue": "ca. 1.5-2.0 Mrd EUR (geschaetzt)",
+      "employees": 5500,
+      "health_score": 0.75,
+      "health_reasoning": "Doehler ist einer der weltweit fuehrenden Hersteller natuerlicher Zutaten fuer die Lebensmittel- und Getraenkeindustrie. Familienunternehmen, private ownership (nicht boersennotiert). Ca. 5.500 MA weltweit, DACH-Anteil geschaetzt 1.500-2.000. Umsatz geschaetzt 1.5-2.0 Mrd EUR. Starke Wachstumsdynamik durch Mega-Trends (Clean Label, natuerliche Inhaltsstoffe). Mehrere Akquisitionen in den letzten Jahren (SPC, Braft). Finanzierung stabil, PE-Beteiligung moeglich (geschaetzt).",
+      "recent_news": [
+        "Doehler investiert in Ausbau der Produktionskapazitaeten weltweit (neue Werke in Indien, Erweiterung Darmstadt), Fokus auf natuerliche Farbstoffe und Plant-based",
+        "Doehler treibt Nachhaltigkeitsstrategie voran: Science-Based Targets, EcoVadis Gold, Fokus auf Upcycling und natuerliche Inhaltsstoffe (2025)"
+      ],
+      "affinity_score": 0.62,
+      "affinity_reasoning": "SIGNALE: [+10|A] Mehrere IT-Stellen aktiv (IT-Projektleiter, SAP-Berater, Systemadministrator, geschaetzt) | [+12|B] Lebensmittelindustrie mit IFS Food, BRC, FSSC 22000 Zertifizierungen — QA/Compliance hochrelevant, EU AI Act bei QA-Automatisierung | [+12|C] SAP-ERP-Landschaft vorhanden (typisch fuer Unternehmen dieser Groesse), Labor-Informationssysteme (LIMS), MES fuer Batch-Prozesse | [+10|C] Prozessfertigung mit Datensilos (Labor/QA, ERP, Produktion, Supply Chain) | [+10|D] Wachstum und Kapazitaetserweiterungen schaffen Modernisierungsfenster | [+8|D] Nachhaltigkeits-/ESG-Strategie treibt Datenerfassung und Transparenz | [-0|E] Keine eigene KI-Kompetenz sichtbar = 62/100 → 0.62",
+      "hiring_score": 0.55,
+      "hiring_postings": null,
+      "hiring_reasoning": "Doehler stellt ein, vor allem in Produktion, R&D und IT. Genaue Stellenzahl nicht oeffentlich ermittelbar. Wachstumsbedingt moderate IT-Einstellungsaktivitaet (geschaetzt).",
+      "topic_hiring_score": 0.3,
+      "topic_postings": null,
+      "topic_hiring_reasoning": "Keine expliziten KI/ML/Data-Science-Stellen in Produktion gefunden. IT-Stellen eher klassisch (SAP, Infrastruktur). Luecke bei digitaler Fertigung/Industrie 4.0 deutet auf Nachholbedarf hin, aber auch auf fehlende Prioritaet (geschaetzt).",
+      "example_positions": [
+        "SAP Consultant / Berater (geschaetzt)",
+        "IT-Projektleiter",
+        "Quality Manager / Lab Analyst"
+      ],
+      "size_fit": 0.6,
+      "financial_health": 0.75,
+      "pressure": 0.6,
+      "strategic_reasoning": "Doehler ist ein relevanter Kandidat, wenn auch nicht Tier-1. 5.500 MA global (etwas ueber Zielrange, DACH-Anteil ~1.500-2.000 passt). Lebensmittelproduktion mit hoechsten QA-Anforderungen: Computer Vision fuer Farbanalyse natuerlicher Zutaten (Farbstoffe!), Partikelkontrolle, Fremdkoerper-Erkennung. Predictive Maintenance fuer Extraktionsanlagen, Mischsysteme, Verpackungslinien. IFS/BRC-Compliance treibt Auditierbarkeit — EU AI Act Fit. SAP/MES-Integration Kernbedarf. ABER: Als nicht-boersennotiertes Familienunternehmen moeglicherweise konservativere IT-Investitionsentscheidungen. Ansatz: Konkreter Use Case bei Farbstoff-QA (Computer Vision) oder Predictive Maintenance fuer Batch-Prozesse am Standort Darmstadt.",
+      "contacts": [
+        {"name": "Clemens Doehler", "role": "Geschaeftsfuehrender Gesellschafter (geschaetzt)", "linkedin": null, "confidence": "LOW"},
+        {"name": "Dr. Kristina Unkel", "role": "VP Quality & Food Safety (geschaetzt)", "linkedin": null, "confidence": "LOW"}
+      ]
+    }
+  ]
+}
