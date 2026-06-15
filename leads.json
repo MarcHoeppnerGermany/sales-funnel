@@ -29526,7 +29526,7 @@
         "topic_affinity": {
           "topic": "KI in Produktion / EU AI Act",
           "affinity_score": 0.72,
-          "affinity_reasoning": "SIGNALE: [+20|A] Mitgruender der Stiftungsprofessur 'KI in der Produktion' an der TH Ulm (1,2 Mio EUR, zusammen mit IHK Ulm und weiteren Unternehmen), Quelle: idw-online.de / thu.de | [+15|B] TISAX-Kontext als Tier-1-Automobilzulieferer mit OEM-Anbindung BMW/Daimler/VW (geschaetzt) | [+12|C] Megacasting-Produktion erfordert KI-gestuetzte Qualitaetskontrolle (Roentgen, Computer Vision fuer Gussteile), Quelle: deutscherpresseindex.de (geschaetzt fuer KI-Einsatz) | [+10|C] ERP/MES-Landschaft fuer Giesserei-Prozesse (Integrationsbedarf), (geschaetzt) | [+8|D] Generationswechsel 2024 als Ausloeser fuer Modernisierung (geschaetzt) = 65/100 -> 0.72 wegen solidem A+B+C-Mix ueber 2 Kategorien",
+          "affinity_reasoning": "SIGNALE: [+20|A] Mitgruender der Stiftungsprofessur 'KI in der Produktion' an der TH Ulm (1,2 Mio EUR), Quelle: idw-online.de / thu.de | [+15|B] TISAX-Kontext als Tier-1-Automobilzulieferer mit OEM-Anbindung BMW/Daimler/VW (geschaetzt) | [+12|C] Megacasting-Produktion erfordert KI-gestuetzte Qualitaetskontrolle (Roentgen, Computer Vision fuer Gussteile), Quelle: deutscherpresseindex.de (geschaetzt fuer KI-Einsatz) | [+10|C] ERP/MES-Landschaft fuer Giesserei-Prozesse (Integrationsbedarf), (geschaetzt) | [+8|D] Generationswechsel 2024 als Ausloeser fuer Modernisierung (geschaetzt) = 65/100 -> 0.72 wegen solidem A+B+C-Mix",
           "relevant_news": []
         },
         "combined_score": 0.752
@@ -29978,134 +29978,134 @@
         "name": "BIOTRONIK SE & Co. KG",
         "website": "biotronik.com",
         "address": "Berlin, Berlin",
-        "industry": "Medizintechnik – Kardiovaskuläre Implantate & Devices",
+        "industry": "Medizintechnik - Kardiovaskulaere Implantate & Diagnostik",
         "source": null
       },
       "pipeline": "KI",
       "tier": "TIER1",
       "topic_relevance": {
         "company_health": {
-          "activity_score": 0.82,
-          "activity_reasoning": "Familiengeführter Weltmarktführer bei Herzschrittmachern/Defibrillatoren mit ca. 9.200 MA und geschätztem Umsatz von 2+ Mrd EUR. Langfristig stabile Marktposition, starke Investitionen in F&E.",
+          "activity_score": 0.75,
+          "activity_reasoning": "Ca. 851 Mio EUR Umsatz (2023), ca. 6.000 MA weltweit. Weltweit fuehrender Hersteller fuer Herzschrittmacher, Defibrillatoren und vaskulaere Interventionssysteme. Hauptsitz Berlin.",
           "recent_news": [
-            "BIOTRONIK erweitert Berliner Hauptsitz mit neuem Innovationszentrum (2025)",
-            "Neue MRT-kompatible Herzschrittmacher-Generation EU-weit zugelassen (2025)"
+            "BIOTRONIK Forschungspartnerschaft mit Charite und Deutschem Herzzentrum fuer digitale Kardiologie und KI",
+            "KI und Connected Health als strategische Saeulen"
           ]
         },
         "topic_affinity": {
           "topic": "KI in Produktion / EU AI Act",
-          "affinity_score": 0.78,
-          "affinity_reasoning": "SIGNALE: [+12|B] Hochrisiko-KI: Kardiale Implantate = Klasse III MDR + EU AI Act Annex III Hochrisiko (medizinische Entscheidungssysteme) | [+20|B] EU-AI-Act-Vorbereitung: Medizinprodukte-Software mit KI-Komponenten unterliegt ab 2027 verschärfter Konformitätsbewertung, Quelle: MDR/IVDR-KI-Guidance (geschätzt) | [+15|C] Datensouveränität: Patientendaten (Herzrhythmus-Telemetrie) erfordern zwingend EU-hosted/self-hosted KI-Inferenz | [+12|C] Bestehende IoT/SCADA-Landschaft: Telemonitoring-Plattform für Implantate (CardioMessenger) | [+10|A] Mehrere IT-/Daten-Stellen gleichzeitig: Embedded-SW, Firmware, Data-Engineering Stellen offen (geschätzt) | [+8|D] KI-Strategie 2026: BIOTRONIK investiert in algorithmische Arrhythmie-Erkennung = 77/100 → 0.78",
+          "affinity_score": 0.8,
+          "affinity_reasoning": "SIGNALE: [+25|A] Forschungspartnerschaft Charite + Deutsches Herzzentrum fuer KI in digitaler und translationaler Kardiologie, Quelle: biotronik.com Pressemitteilung | [+20|B] Herzschrittmacher und Defibrillatoren sind Hochrisiko-Medizinprodukte (Klasse III MDR) — EU AI Act Hochrisiko-KI bei KI-gestuetzter Diagnostik/Therapie, Quelle: biotronik.com | [+18|C] Active cardiac devices + AI + Connected Health als strategische Saeulen genannt, Quelle: biotronik.com | [+12|C] Bestehende Telemonitoring-Plattform (Home Monitoring) erzeugt Patientendaten fuer KI-Analyse (geschaetzt) = 75/100 -> 0.80 wegen sehr starkem A+B+C-Mix ueber 3 Kategorien (Forschungspartnerschaft + Hochrisiko-Regulierung + KI-Strategie)",
           "relevant_news": []
         },
-        "combined_score": 0.796
+        "combined_score": 0.78
       },
       "financials": {
-        "revenue_estimate": "2+ Mrd EUR (geschätzt, 2024)",
+        "revenue_estimate": "851 Mio EUR (2023)",
         "profit_estimate": null,
-        "employee_count": 9200,
+        "employee_count": 6000,
         "hiring_activity": {
-          "general_hiring_score": 0.65,
+          "general_hiring_score": 0.6,
           "total_job_postings": null,
-          "hiring_reasoning": "Kontinuierliche Einstellungen in Berlin und Bülach (CH), insb. Embedded Software, Firmware, Regulatory Affairs. Selektiv KI/Data-Rollen (geschätzt)."
+          "hiring_reasoning": "Ueber 50 offene Stellen in Berlin; aktive Recruiting-Aktivitaet in Entwicklung, IT und Regulatory (geschaetzt)."
         },
         "topic_hiring": {
-          "topic_hiring_score": 0.55,
+          "topic_hiring_score": 0.65,
           "relevant_job_postings": null,
-          "topic_hiring_reasoning": "KI/ML/Data-Stellen: vereinzelt Data Engineer, Algorithm Developer, Software-Ingenieur Signal Processing gefunden (geschätzt). Kein dediziertes AI-Team erkennbar.",
+          "topic_hiring_reasoning": "KI-Forschungspartnerschaft erfordert ML-/Data-Science-Kompetenz; Connected Health und Home Monitoring brauchen KI-Expertise (geschaetzt).",
           "example_positions": [
-            "Algorithm Developer Cardiac Rhythm Management",
-            "Data Engineer Telemonitoring",
-            "Software Engineer Signal Processing"
+            "Data Scientist Connected Health (geschaetzt)",
+            "ML Engineer Cardiac Diagnostics (geschaetzt)",
+            "Regulatory Affairs Specialist AI/ML Medical Devices"
           ]
         },
         "strategic_fit": {
-          "size_fit_score": 0.5,
-          "financial_health_score": 0.85,
-          "pressure_score": 0.85,
-          "strategic_reasoning": "Angebots-Fit: Kardiale Implantate mit KI-basierter Arrhythmie-Erkennung = höchste EU AI Act Hochrisiko-Klasse. Self-hosted KI zwingend wg. Patientendaten (Telemonitoring). NeoGeo-Fit: auditierbare, DSGVO-konforme KI-Integration in bestehende Medizinprodukt-Software mit MDR-Konformität."
+          "size_fit_score": 0.65,
+          "financial_health_score": 0.8,
+          "pressure_score": 0.9,
+          "strategic_reasoning": "Angebots-Fit: BIOTRONIK entwickelt aktiv KI fuer Kardiologie (Charite-Partnerschaft) mit Hochrisiko-Medizinprodukten — EU AI Act trifft hier maximal. NeoGeos 'auditierbare KI, EU-hosted, DSGVO-konform' ist genau was fuer Patientendaten-basierte KI in Cardiac Devices gebraucht wird. Leicht ueber Zielgroesse (6.000 MA), aber als Berliner Familienunternehmen kulturell mittelstaendisch."
         },
-        "customer_rating": 0.645,
-        "rating_reasoning": "Angebots-Fit: Kardiale Implantate mit KI-basierter Arrhythmie-Erkennung = höchste EU AI Act Hochrisiko-Klasse. Self-hosted KI zwingend wg. Patientendaten (Telemonitoring). NeoGeo-Fit: auditierbare, DSGVO-konforme KI-Integration in bestehende Medizinprodukt-Software mit MDR-Konformität."
+        "customer_rating": 0.718,
+        "rating_reasoning": "Angebots-Fit: BIOTRONIK entwickelt aktiv KI fuer Kardiologie (Charite-Partnerschaft) mit Hochrisiko-Medizinprodukten — EU AI Act trifft hier maximal. NeoGeos 'auditierbare KI, EU-hosted, DSGVO-konform' ist genau was fuer Patientendaten-basierte KI in Cardiac Devices gebraucht wird. Leicht ueber Zielgroesse (6.000 MA), aber als Berliner Familienunternehmen kulturell mittelstaendisch."
       },
       "contact_persons": [
         {
-          "name": "Dr. Christoph Böhmer",
-          "role": "VP Digital Health & Innovation (geschätzt)",
+          "name": "n/a",
+          "role": "VP Digital Health / CTO",
           "linkedin": null,
           "confidence": "LOW",
           "notes": null
         }
       ],
       "outreach": null,
-      "overall_score": 0.69
+      "overall_score": 0.724
     },
     {
       "company": {
         "name": "Ottobock SE & Co. KGaA",
         "website": "ottobock.com",
         "address": "Duderstadt, Niedersachsen",
-        "industry": "Medizintechnik – Prothetik, Orthetik & Exoskelette",
+        "industry": "Medizintechnik - Prothetik, Orthetik & Human Mobility",
         "source": null
       },
       "pipeline": "KI",
-      "tier": "TIER2",
+      "tier": "TIER1",
       "topic_relevance": {
         "company_health": {
           "activity_score": 0.8,
-          "activity_reasoning": "Weltweit führend bei Prothesen und Orthesen, ca. 9.000 MA, Umsatz ca. 1,8 Mrd EUR. IPO-Pläne wiederholt verschoben, aber operativ stabil. Starke Marke und Innovationskraft.",
+          "activity_reasoning": "1,6 Mrd EUR Umsatz (2024). 9.100 MA in 45 Laendern. Weltmarktfuehrer fuer Prothesen und Orthesen. Gehaltserhohung 4,5% ab Juli 2025 signalisiert positive Geschaeftsentwicklung.",
           "recent_news": [
-            "Ottobock investiert in KI-gestützte Genium X4 Beinprothese mit adaptiver Steuerung (2025)",
-            "Ottobock treibt Exoskelett-Sparte Paexo für Industrie voran (2025)"
+            "Ottobock investiert in Digitalisierung und KI in der technischen Orthopaedie",
+            "iFab — individuelle digitale Fertigung von Prothesen und Orthesen mittels KI in Duderstadt"
           ]
         },
         "topic_affinity": {
           "topic": "KI in Produktion / EU AI Act",
-          "affinity_score": 0.75,
-          "affinity_reasoning": "SIGNALE: [+12|B] Hochrisiko-KI: Prothesen mit KI-Steuerung = EU AI Act Annex III (medizinische Entscheidungssysteme für Bewegungssteuerung) | [+18|C] KI-Pilot → Produktion: Genium/Kenevo Prothesen mit ML-basierter Gangadaption, skaliert in Serie | [+15|C] Datensouveränität: Patientenbewegungsdaten aus Prothesen-Sensorik erfordern DSGVO-konforme Verarbeitung | [+10|A] Mehrere IT-/Data-Stellen: regelmäßig Software-/Embedded-Stellen, vereinzelt Data Science (geschätzt) | [+12|C] Bestehende IoT-Landschaft: Sensorik in Prothesen, Cloud-Anbindung für Feinabstimmung | [+8|D] KI-Strategie: Digitale Prothetik als strategischer Wachstumspfad 2026+ = 75/100 → 0.75",
+          "affinity_score": 0.82,
+          "affinity_reasoning": "SIGNALE: [+25|C] iFab — neue Fabrik in Duderstadt fuer individuelle digitale Fertigung von Prothesen und Orthesen mittels KI, Quelle: medizin-und-technik.industrie.de | [+20|B] Prothesen und Orthesen sind Hochrisiko-Medizinprodukte (MDR Klasse IIb/III) — KI-gestuetzte individuelle Fertigung unterliegt EU AI Act Hochrisiko-Kategorie, Quelle: ottobock.com | [+18|C] 'Ambitionierter globaler Zukunftsplan' mit Investitionen in Digitalisierung und KI an allen Standorten, Quelle: medizin-und-technik.industrie.de | [+12|D] Neubau Logistikzentrum und iFab in Duderstadt als Grossprojekt (geschaetzt) = 75/100 -> 0.82 wegen sehr starkem C+B-Signal (KI-Fabrik + Hochrisiko-Medizinprodukt)",
           "relevant_news": []
         },
-        "combined_score": 0.77
+        "combined_score": 0.812
       },
       "financials": {
-        "revenue_estimate": "1,8 Mrd EUR (geschätzt, 2024)",
+        "revenue_estimate": "1,6 Mrd EUR (2024)",
         "profit_estimate": null,
-        "employee_count": 9000,
+        "employee_count": 9100,
         "hiring_activity": {
-          "general_hiring_score": 0.6,
+          "general_hiring_score": 0.65,
           "total_job_postings": null,
-          "hiring_reasoning": "Stabile Hiring-Aktivität, v.a. in Duderstadt und Berlin. Fokus auf Embedded SW, Mechanik, Regulatory Affairs (geschätzt)."
+          "hiring_reasoning": "Aktive Stellenausschreibungen in Entwicklung, Produktion und IT; iFab-Aufbau erfordert Personalaufbau (geschaetzt)."
         },
         "topic_hiring": {
-          "topic_hiring_score": 0.5,
+          "topic_hiring_score": 0.7,
           "relevant_job_postings": null,
-          "topic_hiring_reasoning": "KI/ML/Data-Stellen: vereinzelt Data Scientist, ML Engineer für Ganganalyse-Algorithmen. Kein großes dediziertes AI-Team (geschätzt).",
+          "topic_hiring_reasoning": "iFab erfordert KI-/ML-Kompetenz fuer individuelle digitale Fertigung; Stellen in Duderstadt fuer Datenwissenschaft und Fertigungsautomation wahrscheinlich (geschaetzt).",
           "example_positions": [
-            "Data Scientist Gait Analysis",
-            "Embedded Software Engineer Prosthetics",
-            "Algorithm Developer Motion Control"
+            "ML Engineer iFab Digital Manufacturing (geschaetzt)",
+            "Data Scientist Prothetik-Konfiguration (geschaetzt)",
+            "Regulatory Affairs Specialist AI/ML Medical Devices"
           ]
         },
         "strategic_fit": {
-          "size_fit_score": 0.5,
-          "financial_health_score": 0.75,
-          "pressure_score": 0.8,
-          "strategic_reasoning": "Angebots-Fit: KI-gesteuerte Prothesen (Genium, Kenevo) fallen unter EU AI Act Hochrisiko. NeoGeo-Fit: auditierbare ML-Modelle für Gangadaption, DSGVO-konform, self-hosted wg. Patientensensorik. Regulatorischer Druck durch MDR + EU AI Act ab 2027 hoch."
+          "size_fit_score": 0.55,
+          "financial_health_score": 0.85,
+          "pressure_score": 0.85,
+          "strategic_reasoning": "Angebots-Fit: Ottobock baut mit iFab eine KI-Fabrik fuer individuelle Prothetik — Hochrisiko-Medizinprodukte unter EU AI Act und MDR. NeoGeos 'auditierbare KI, EU-konform, DSGVO-konform' ist idealer Fit fuer Patientendaten-basierte individuelle Fertigung. Ueber Zielgroesse (9.100 MA), aber iFab in Duderstadt als eigenstaendiges Projekt ist kernrelevant."
         },
-        "customer_rating": 0.605,
-        "rating_reasoning": "Angebots-Fit: KI-gesteuerte Prothesen (Genium, Kenevo) fallen unter EU AI Act Hochrisiko. NeoGeo-Fit: auditierbare ML-Modelle für Gangadaption, DSGVO-konform, self-hosted wg. Patientensensorik. Regulatorischer Druck durch MDR + EU AI Act ab 2027 hoch."
+        "customer_rating": 0.707,
+        "rating_reasoning": "Angebots-Fit: Ottobock baut mit iFab eine KI-Fabrik fuer individuelle Prothetik — Hochrisiko-Medizinprodukte unter EU AI Act und MDR. NeoGeos 'auditierbare KI, EU-konform, DSGVO-konform' ist idealer Fit fuer Patientendaten-basierte individuelle Fertigung. Ueber Zielgroesse (9.100 MA), aber iFab in Duderstadt als eigenstaendiges Projekt ist kernrelevant."
       },
       "contact_persons": [
         {
-          "name": "Andreas Goppelt",
-          "role": "VP R&D / Digital (geschätzt)",
+          "name": "n/a",
+          "role": "Leiter iFab / VP Digital Manufacturing",
           "linkedin": null,
           "confidence": "LOW",
           "notes": null
         }
       ],
       "outreach": null,
-      "overall_score": 0.646
+      "overall_score": 0.743
     },
     {
       "company": {
@@ -30311,68 +30311,68 @@
       "company": {
         "name": "Hamilton Medical AG",
         "website": "hamilton-medical.com",
-        "address": "Bonaduz, Graubünden (Schweiz)",
-        "industry": "Medizintechnik – Intensivbeatmung & Laborautomation",
+        "address": "Bonaduz, Graubuenden (Schweiz)",
+        "industry": "Medizintechnik - Beatmungsgeraete & Intensivmedizin",
         "source": null
       },
       "pipeline": "KI",
-      "tier": "TIER1",
+      "tier": "TIER2",
       "topic_relevance": {
         "company_health": {
-          "activity_score": 0.82,
-          "activity_reasoning": "Schweizer Familienunternehmen, ca. 3.000 MA (DACH-Schwerpunkt). Umsatz geschätzt 800 Mio-1 Mrd CHF. Starkes Wachstum seit COVID, Marktführer bei intelligenten Intensivbeatmungsgeräten. Finanziell sehr robust.",
+          "activity_score": 0.8,
+          "activity_reasoning": "Ueber 800 MA in Bonaduz. Internationales Medizintechnik-Unternehmen mit Fokus auf Beatmungstechnologie. Ueber 605 Schutzrechte in 30+ Laendern zeigen starke Innovationskraft.",
           "recent_news": [
-            "Hamilton Medical erweitert Produktion in Bonaduz für wachsende Nachfrage (2025)",
-            "Hamilton INTELLiVENT-ASV Algorithmus als KI-basierte Beatmungssteuerung weiterentwickelt (2025)"
+            "Hamilton Medical mit ueber 605 Schutzrechten in 30+ Laendern",
+            "Rekordeinstellungen und Wachstum am Standort Bonaduz"
           ]
         },
         "topic_affinity": {
           "topic": "KI in Produktion / EU AI Act",
-          "affinity_score": 0.8,
-          "affinity_reasoning": "SIGNALE: [+18|C] KI-Pilot → Produktion: INTELLiVENT-ASV = algorithmische automatische Beatmungssteuerung, BEREITS in Serie auf Intensivstationen weltweit | [+12|B] Hochrisiko-KI: Automatisierte Beatmungsentscheidungen = EU AI Act Annex III höchstes Risiko (lebenserhaltende Medizin) | [+20|B] EU-AI-Act-Vorbereitung: Als Hersteller von KI-Software-in-Medizinprodukt direkt reguliert | [+15|C] Datensouveränität: Intensivpatienten-Daten hochsensibel, self-hosted zwingend | [+10|D] Wachstum: Post-COVID weiter steigende Nachfrage | [+8|C] Microsoft/.NET-Stack (geschätzt) = 83/100 → capped 0.80",
+          "affinity_score": 0.72,
+          "affinity_reasoning": "SIGNALE: [+20|B] Beatmungsgeraete sind Hochrisiko-Medizinprodukte (Klasse IIb/III MDR) — EU AI Act Hochrisiko-Kategorie fuer KI-gestuetzte Beatmungssteuerung, Quelle: hamilton-medical.com (geschaetzt) | [+18|C] Intelligente Beatmungstechnologie mit adaptiven Algorithmen — Grundlage fuer KI-gestuetzte Patientenunterstuetzung bereits vorhanden, Quelle: hamilton-medical.com | [+15|C] 605+ Schutzrechte mit starkem Fokus auf Sensorik und Signalverarbeitung — Datengrundlage fuer ML vorhanden, Quelle: hamilton-medical.com | [+10|D] Post-COVID Markt fuer Intensivbeatmung weiter wachsend (geschaetzt) = 63/100 -> 0.72 wegen sehr starkem B-Signal (Hochrisiko-Medizinprodukt + AI Act)",
           "relevant_news": []
         },
-        "combined_score": 0.808
+        "combined_score": 0.752
       },
       "financials": {
-        "revenue_estimate": "800 Mio - 1 Mrd CHF (geschätzt)",
+        "revenue_estimate": "350 Mio CHF (geschaetzt)",
         "profit_estimate": null,
-        "employee_count": 3000,
+        "employee_count": 800,
         "hiring_activity": {
-          "general_hiring_score": 0.6,
+          "general_hiring_score": 0.55,
           "total_job_postings": null,
-          "hiring_reasoning": "Kontinuierliche Einstellungen am Standort Bonaduz. Wachstumsphase erfordert mehr SW-Entwickler und Regulatory (geschätzt)."
+          "hiring_reasoning": "Wachstum und Rekordeinstellungen in Bonaduz; aktive Stellenausschreibungen (geschaetzt)."
         },
         "topic_hiring": {
-          "topic_hiring_score": 0.55,
+          "topic_hiring_score": 0.5,
           "relevant_job_postings": null,
-          "topic_hiring_reasoning": "KI/ML/Data-Stellen: Algorithm Engineers für INTELLiVENT, Data Scientists für klinische Beatmungsdaten, Regulatory SW-Spezialisten (geschätzt). Kompaktes, spezialisiertes Team.",
+          "topic_hiring_reasoning": "Adaptive Beatmungsalgorithmen erfordern ML-/Signalverarbeitungs-Kompetenz; Stellen in F&E wahrscheinlich (geschaetzt).",
           "example_positions": [
-            "Algorithm Engineer Ventilation",
-            "Data Scientist Clinical Analytics",
-            "Software Engineer Medical Device (C++/Python)"
+            "Embedded Software Engineer Beatmungstechnik",
+            "Algorithm Developer Signal Processing (geschaetzt)",
+            "Regulatory Affairs Specialist AI/ML (geschaetzt)"
           ]
         },
         "strategic_fit": {
-          "size_fit_score": 0.8,
-          "financial_health_score": 0.85,
-          "pressure_score": 0.85,
-          "strategic_reasoning": "Angebots-Fit: INTELLiVENT-ASV ist eine der am weitesten fortgeschrittenen KI-in-Medizinprodukt-Anwendungen weltweit. EU AI Act + MDR erzeugen enormen Compliance-Druck für bestehende Algorithmen. NeoGeo-Fit: auditierbare, DSGVO-/nDSG-konforme KI, self-hosted für Intensivdaten, GMP-Compliance. Idealer Kandidat."
+          "size_fit_score": 0.7,
+          "financial_health_score": 0.8,
+          "pressure_score": 0.9,
+          "strategic_reasoning": "Angebots-Fit: Hamilton Medical entwickelt intelligente Beatmungsgeraete mit adaptiven Algorithmen — Hochrisiko-KI unter EU AI Act. NeoGeos Kernkompetenz (auditierbare KI, EU-konform, Medizinprodukt-Kontext) ist hier maximaler Fit fuer MDR- und AI-Act-Compliance."
         },
-        "customer_rating": 0.698,
-        "rating_reasoning": "Angebots-Fit: INTELLiVENT-ASV ist eine der am weitesten fortgeschrittenen KI-in-Medizinprodukt-Anwendungen weltweit. EU AI Act + MDR erzeugen enormen Compliance-Druck für bestehende Algorithmen. NeoGeo-Fit: auditierbare, DSGVO-/nDSG-konforme KI, self-hosted für Intensivdaten, GMP-Compliance. Idealer Kandidat."
+        "customer_rating": 0.668,
+        "rating_reasoning": "Angebots-Fit: Hamilton Medical entwickelt intelligente Beatmungsgeraete mit adaptiven Algorithmen — Hochrisiko-KI unter EU AI Act. NeoGeos Kernkompetenz (auditierbare KI, EU-konform, Medizinprodukt-Kontext) ist hier maximaler Fit fuer MDR- und AI-Act-Compliance."
       },
       "contact_persons": [
         {
-          "name": "Dr. Jens Hallek",
-          "role": "VP R&D / Digital Health (geschätzt)",
+          "name": "n/a",
+          "role": "CTO / VP R&D",
           "linkedin": null,
           "confidence": "LOW",
           "notes": null
         }
       ],
       "outreach": null,
-      "overall_score": 0.708
+      "overall_score": 0.668
     },
     {
       "company": {
@@ -32579,73 +32579,6 @@
     },
     {
       "company": {
-        "name": "Ypsomed AG",
-        "website": "ypsomed.com",
-        "address": "Burgdorf, Bern (Schweiz)",
-        "industry": "Medizintechnik – Injektions- & Infusionssysteme / Digital Health",
-        "source": null
-      },
-      "pipeline": "KI",
-      "tier": null,
-      "topic_relevance": {
-        "company_health": {
-          "activity_score": 0.78,
-          "activity_reasoning": "Börsennotiertes Schweizer Unternehmen, ca. 2.200 MA, Umsatz ca. 550 Mio CHF. Starkes Wachstum durch Diabetesmanagement (mylife Loop) und Autoinjektoren. Profitabel und investitionsfreudig.",
-          "recent_news": [
-            "Ypsomed mylife Loop Insulinpumpe mit integrierter Algorithmus-Steuerung EU-weit zugelassen (2025)",
-            "Ypsomed steigert Umsatz um 15% dank Digital-Health-Strategie (2025)"
-          ]
-        },
-        "topic_affinity": {
-          "topic": "KI in Produktion / EU AI Act",
-          "affinity_score": 0.72,
-          "affinity_reasoning": "SIGNALE: [+12|B] Hochrisiko-KI: Automatisierte Insulindosierung (Closed-Loop) = EU AI Act Annex III Hochrisiko (medizinisches Entscheidungssystem) | [+18|C] KI-Pilot → Produktion: mylife Loop Algorithmus berechnet Insulindosen automatisch, ist in Produktion | [+15|C] Datensouveränität: Patientendaten (Blutzucker, Dosierung) erfordern DSGVO-/nDSG-konforme Verarbeitung, EU-hosted | [+10|A] Mehrere IT-/Data-Stellen: Aufbau Digital Health Team in Burgdorf und Solothurn (geschätzt) | [+10|D] Starkes Wachstum > 15% = 65/100 → 0.72 (Aufwertung wg. klarem Produktions-KI-Bezug)",
-          "relevant_news": []
-        },
-        "combined_score": 0.744
-      },
-      "financials": {
-        "revenue_estimate": "550 Mio CHF (2024/25)",
-        "profit_estimate": null,
-        "employee_count": 2200,
-        "hiring_activity": {
-          "general_hiring_score": 0.65,
-          "total_job_postings": null,
-          "hiring_reasoning": "Aktiv einstellend, Wachstumsphase. Fokus: Software Engineering, Embedded, Regulatory, Quality (geschätzt)."
-        },
-        "topic_hiring": {
-          "topic_hiring_score": 0.55,
-          "relevant_job_postings": null,
-          "topic_hiring_reasoning": "KI/ML/Data-Stellen: Software Engineers für Algorithmus-Entwicklung (Insulindosierung), Data Engineers für Cloud-Plattform. Kleines aber wachsendes Team (geschätzt).",
-          "example_positions": [
-            "Software Engineer Closed-Loop Algorithm",
-            "Data Engineer Digital Health Platform",
-            "Regulatory Affairs Specialist Software/AI"
-          ]
-        },
-        "strategic_fit": {
-          "size_fit_score": 0.85,
-          "financial_health_score": 0.8,
-          "pressure_score": 0.8,
-          "strategic_reasoning": "Angebots-Fit: Automatisierte Insulindosierung = KI-basiertes Hochrisiko-Medizinprodukt. EU AI Act + MDR erzeugen starken Compliance-Druck. NeoGeo-Fit: auditierbare Algorithmen für Closed-Loop-Systeme, self-hosted wg. Patientendaten, Schweizer Datenschutz (nDSG) + EU-Markt (DSGVO)."
-        },
-        "customer_rating": 0.7,
-        "rating_reasoning": "Angebots-Fit: Automatisierte Insulindosierung = KI-basiertes Hochrisiko-Medizinprodukt. EU AI Act + MDR erzeugen starken Compliance-Druck. NeoGeo-Fit: auditierbare Algorithmen für Closed-Loop-Systeme, self-hosted wg. Patientendaten, Schweizer Datenschutz (nDSG) + EU-Markt (DSGVO)."
-      },
-      "contact_persons": [
-        {
-          "name": "Dr. André Moser",
-          "role": "CTO / Head of Digital (geschätzt)",
-          "linkedin": null,
-          "confidence": "LOW",
-          "notes": null
-        }
-      ],
-      "outreach": null,
-      "overall_score": 0.692
-    },
-    {
-      "company": {
         "name": "VHV Gruppe",
         "website": "vhv-gruppe.de",
         "address": "Hannover, Niedersachsen",
@@ -32653,7 +32586,7 @@
         "source": null
       },
       "pipeline": "KI",
-      "tier": null,
+      "tier": "TIER2",
       "topic_relevance": {
         "company_health": {
           "activity_score": 0.85,
@@ -32725,7 +32658,7 @@
         "source": null
       },
       "pipeline": "KI",
-      "tier": null,
+      "tier": "TIER2",
       "topic_relevance": {
         "company_health": {
           "activity_score": 0.9,
@@ -32788,7 +32721,7 @@
         "source": null
       },
       "pipeline": "KI",
-      "tier": null,
+      "tier": "TIER2",
       "topic_relevance": {
         "company_health": {
           "activity_score": 0.8,
@@ -32867,7 +32800,7 @@
         "source": null
       },
       "pipeline": "KI",
-      "tier": null,
+      "tier": "TIER2",
       "topic_relevance": {
         "company_health": {
           "activity_score": 0.75,
@@ -32932,7 +32865,7 @@
         "source": null
       },
       "pipeline": "KI",
-      "tier": null,
+      "tier": "TIER2",
       "topic_relevance": {
         "company_health": {
           "activity_score": 0.85,
@@ -33005,7 +32938,7 @@
         "source": null
       },
       "pipeline": "KI",
-      "tier": null,
+      "tier": "TIER2",
       "topic_relevance": {
         "company_health": {
           "activity_score": 0.75,
@@ -33077,7 +33010,7 @@
         "source": null
       },
       "pipeline": "KI",
-      "tier": null,
+      "tier": "TIER3",
       "topic_relevance": {
         "company_health": {
           "activity_score": 0.85,
@@ -33140,7 +33073,7 @@
         "source": null
       },
       "pipeline": "KI",
-      "tier": null,
+      "tier": "TIER3",
       "topic_relevance": {
         "company_health": {
           "activity_score": 0.7,
@@ -33194,7 +33127,7 @@
         "source": null
       },
       "pipeline": "KI",
-      "tier": null,
+      "tier": "TIER3",
       "topic_relevance": {
         "company_health": {
           "activity_score": 0.3,
@@ -33245,70 +33178,2755 @@
     },
     {
       "company": {
-        "name": "COUPLINK Group AG",
-        "website": "couplink.de",
-        "address": "Aldenhoven, Nordrhein-Westfalen",
-        "industry": "Telematik- & Flottenmanagement-Software",
+        "name": "RATIONAL AG",
+        "website": "rational-online.com",
+        "address": "Landsberg am Lech, Bayern",
+        "industry": "Maschinenbau - Profikuechengeraete",
         "source": null
       },
-      "pipeline": "Telematik",
-      "tier": null,
+      "pipeline": "KI",
+      "tier": "TIER2",
       "topic_relevance": {
         "company_health": {
-          "activity_score": 0.7,
-          "activity_reasoning": "Wachsendes Software-/Beratungshaus mit Ausbau weiterer Bürogebäude; breites Branchen-Kundenportfolio in Logistik und Entsorgung (geschätzt).",
+          "activity_score": 0.9,
+          "activity_reasoning": "Weltmarktfuehrer fuer Profikuechengeraete. GJ 2025 Umsatz 1,26 Mrd EUR (+6%), umsatzstaerkster Dezember der Unternehmensgeschichte. Hochprofitabel, boersennotiert, solide Bilanz.",
           "recent_news": [
-            "COUPLINK baut Standort Aldenhoven mit weiteren Bürogebäuden aus",
-            "smart!matics-Telematiklösungen für Spedition und Spezialtransport erweitert"
+            "RATIONAL meldet umsatzstaerksten Dezember der Unternehmensgeschichte (Jan 2025)",
+            "Umsatzwachstum +6% waehrungsbereinigt auf 1,26 Mrd EUR im GJ 2025"
           ]
         },
         "topic_affinity": {
-          "topic": "Telematik / Embedded-Software-Entwicklung",
-          "affinity_score": 0.9,
-          "affinity_reasoning": "Kerngeschäft ist app- und softwarebasierte Telematik mit Echtzeit-Ortung und Dispo-Cockpit - direkter Bedarf an Telematik-/Embedded-Softwareentwicklung.",
+          "topic": "KI in Produktion / EU AI Act",
+          "affinity_score": 0.62,
+          "affinity_reasoning": "SIGNALE: [+15|C] KI-gestuetzte Loesungen im Beschaffungsumfeld werden aktiv implementiert, Quelle: rational-online.com Karriereseite | [+12|C] SAP-/ERP-Landschaft in globaler Beschaffung (Integrationsbedarf), Quelle: stepstone.de Stellenbeschreibung (geschaetzt) | [+10|C] Digitalisierung der Prozesskette 'Processes, Digitalization & Sustainability'-Team, Quelle: rational-online.com | [+15|B] ISO-zertifizierte Fertigung, EU-regulierter Markt fuer gewerbliche Kuechengeraete, HACCP-Kontext (geschaetzt) | [+10|D] Starkes Wachstum erzeugt Skalierungsdruck in Produktion und Supply Chain = 62/100 Punkte",
           "relevant_news": []
         },
-        "combined_score": 0.82
+        "combined_score": 0.732
       },
       "financials": {
-        "revenue_estimate": "k.A. (geschätzt < 20 Mio EUR)",
+        "revenue_estimate": "1,26 Mrd EUR (2025)",
         "profit_estimate": null,
-        "employee_count": null,
+        "employee_count": 2800,
         "hiring_activity": {
-          "general_hiring_score": 0.5,
+          "general_hiring_score": 0.6,
           "total_job_postings": null,
-          "hiring_reasoning": "Expandierendes Softwarehaus mit laufendem Personalaufbau am ausgebauten Standort (geschätzt)."
+          "hiring_reasoning": "Aktive Stellenausschreibungen in IT, Produktion, Beschaffung am Standort Landsberg. Moderates Wachstum."
         },
         "topic_hiring": {
-          "topic_hiring_score": 0.65,
+          "topic_hiring_score": 0.5,
           "relevant_job_postings": null,
-          "topic_hiring_reasoning": "Plattform- und App-Entwicklung sowie Customizing erfordern Telematik-Softwareentwickler (geschätzt).",
+          "topic_hiring_reasoning": "KI-Implementierung im Beschaffungsumfeld laeuft; keine dezidierten ML-Engineer-Stellen sichtbar, aber Bedarf durch Digitalisierungsteam erkennbar (geschaetzt).",
           "example_positions": [
-            "Softwareentwickler Telematik",
-            "Mobile App Entwickler",
-            "Fullstack-Entwickler"
+            "AI Implementation Specialist Procurement (geschaetzt)",
+            "IT Solution Architect Digitalisierung",
+            "Process Engineer Digitalization"
           ]
         },
         "strategic_fit": {
-          "size_fit_score": 0.65,
-          "financial_health_score": 0.65,
+          "size_fit_score": 0.85,
+          "financial_health_score": 0.95,
           "pressure_score": 0.55,
-          "strategic_reasoning": "Mittelständischer Telematik-Softwarespezialist mit klarem Wachstumskurs; moderater Wettbewerbsdruck (geschätzt)."
+          "strategic_reasoning": "Angebots-Fit: RATIONAL baut KI im Beschaffungsumfeld auf und digitalisiert Produktionsprozesse — braucht Integration in bestehende SAP-Landschaft. NeoGeos KI-in-Produktion (auditierbar, EU-hosted) passt fuer skalierenden Weltmarktfuehrer."
         },
-        "customer_rating": 0.598,
-        "rating_reasoning": "Mittelständischer Telematik-Softwarespezialist mit klarem Wachstumskurs; moderater Wettbewerbsdruck (geschätzt)."
+        "customer_rating": 0.6,
+        "rating_reasoning": "Angebots-Fit: RATIONAL baut KI im Beschaffungsumfeld auf und digitalisiert Produktionsprozesse — braucht Integration in bestehende SAP-Landschaft. NeoGeos KI-in-Produktion (auditierbar, EU-hosted) passt fuer skalierenden Weltmarktfuehrer."
       },
       "contact_persons": [
         {
-          "name": "k.A.",
-          "role": "Vorstand / Entwicklungsleitung",
+          "name": "n/a",
+          "role": "Leiter Processes, Digitalization & Sustainability",
           "linkedin": null,
           "confidence": "LOW",
           "notes": null
         }
       ],
       "outreach": null,
-      "overall_score": 0.655
+      "overall_score": 0.64
+    },
+    {
+      "company": {
+        "name": "ARBURG GmbH + Co KG",
+        "website": "arburg.com",
+        "address": "Lossburg, Baden-Wuerttemberg",
+        "industry": "Maschinenbau - Spritzgiessmaschinen",
+        "source": null
+      },
+      "pipeline": "KI",
+      "tier": "TIER3",
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.65,
+          "activity_reasoning": "Konsolidierter Umsatz ca. 575 Mio EUR (2025, -4% ggue. Vorjahr). Personalabbau von 3.700 auf 3.400 MA. Schwierige Marktlage in der Kunststoffindustrie, aber Pionier fuer Digitalisierung und Smart Factory.",
+          "recent_news": [
+            "Arburg erneut mit Umsatzminus: 575 Mio EUR in 2025 (-4%)",
+            "Smart Factory Informationstag und ALS User Meeting (Nov 2025)"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "KI in Produktion / EU AI Act",
+          "affinity_score": 0.6,
+          "affinity_reasoning": "SIGNALE: [+18|C] Smart Factory-Konzept aktiv: Arburg ist Pionier fuer Digitalisierung in der Kunststoffindustrie, Quelle: arburg.com Presse | [+12|C] ALS (Arburg Leitrechnersystem) als zentrale MES-Plattform mit Datenintegrationsbedarf, Quelle: arburg.com | [+10|B] ISO-9001-/14001-zertifiziert, DSGVO-relevante Produktionsdaten (geschaetzt) | [+10|D] Konsolidierungsdruck durch Umsatzrueckgang erzwingt Effizienzsteigerung via Automatisierung/KI (geschaetzt) = 50/100 -> 0.60 aufgerundet wegen Smart-Factory-Vorreiterrolle",
+          "relevant_news": []
+        },
+        "combined_score": 0.62
+      },
+      "financials": {
+        "revenue_estimate": "575 Mio EUR (2025)",
+        "profit_estimate": null,
+        "employee_count": 3400,
+        "hiring_activity": {
+          "general_hiring_score": 0.4,
+          "total_job_postings": null,
+          "hiring_reasoning": "Personalabbau im laufenden Jahr; Recruiting-Aktivitaet gedaempft. Fokus auf Effizienz statt Wachstum."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.35,
+          "relevant_job_postings": null,
+          "topic_hiring_reasoning": "Keine konkreten KI/ML-Stellen sichtbar; Smart-Factory-Kompetenz wird intern aufgebaut. Externer Bedarf fuer KI-Integration in ALS-System wahrscheinlich (geschaetzt).",
+          "example_positions": [
+            "Software Developer ALS Leitrechnersystem (geschaetzt)",
+            "Digitalisierungsmanager Produktion (geschaetzt)",
+            "IoT Engineer Smart Factory"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.85,
+          "financial_health_score": 0.6,
+          "pressure_score": 0.65,
+          "strategic_reasoning": "Angebots-Fit: Arburg hat mit ALS ein eigenes MES-System und Smart-Factory-Ambitionen — braucht KI-Integration in bestehende Produktionssteuerung (Predictive Maintenance, Qualitaetskontrolle). Effizienzprojekte durch Kostendruck wahrscheinlich priorisiert."
+        },
+        "customer_rating": 0.547,
+        "rating_reasoning": "Angebots-Fit: Arburg hat mit ALS ein eigenes MES-System und Smart-Factory-Ambitionen — braucht KI-Integration in bestehende Produktionssteuerung (Predictive Maintenance, Qualitaetskontrolle). Effizienzprojekte durch Kostendruck wahrscheinlich priorisiert."
+      },
+      "contact_persons": [
+        {
+          "name": "n/a",
+          "role": "Leiter Digitalisierung / Smart Factory",
+          "linkedin": null,
+          "confidence": "LOW",
+          "notes": null
+        }
+      ],
+      "outreach": null,
+      "overall_score": 0.526
+    },
+    {
+      "company": {
+        "name": "Klingelnberg GmbH",
+        "website": "klingelnberg.com",
+        "address": "Hueckeswagen, Nordrhein-Westfalen",
+        "industry": "Maschinenbau - Verzahnungstechnik & Praezisionsmesstechnik",
+        "source": null
+      },
+      "pipeline": "KI",
+      "tier": "TIER2",
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.7,
+          "activity_reasoning": "Weltmarktfuehrer fuer Kegelrad-Verzahnmaschinen. 1.328 VZ-MA (Ende 2025), boersennotiert an SIX Zuerich. Solide Nischenposition mit hoher Innovationsrate.",
+          "recent_news": [
+            "AIKTEC Digital Solutions-Plattform fuer Industry 4.0 gestartet",
+            "Klingelnberg AG mit 1.328 Vollzeitmitarbeitern zum 31.12.2025"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "KI in Produktion / EU AI Act",
+          "affinity_score": 0.72,
+          "affinity_reasoning": "SIGNALE: [+18|C] AIKTEC — Digital Solutions Plattform: Klingelnberg buendelt industriereife digitale Anwendungen unter eigenem Dach, Quelle: klingelnberg.com | [+15|C] Praezisionsmesstechnik erzeugt grosse Datenmengen fuer KI-basierte Qualitaetskontrolle (geschaetzt) | [+15|B] ISO/TISAX-Kontext als Zulieferer fuer Automotive-/Aerospace-Getriebe (geschaetzt) | [+12|D] Industry-4.0-Strategie mit Zeithorizont 2025/26, Quelle: klingelnberg.com = 60/100 -> 0.72 wegen starkem C-Signal (AIKTEC) und B+D-Kombi",
+          "relevant_news": []
+        },
+        "combined_score": 0.712
+      },
+      "financials": {
+        "revenue_estimate": "250 Mio EUR (geschaetzt)",
+        "profit_estimate": null,
+        "employee_count": 1328,
+        "hiring_activity": {
+          "general_hiring_score": 0.5,
+          "total_job_postings": null,
+          "hiring_reasoning": "Moderate Stellenausschreibungen; Fokus auf Entwicklung und digitale Loesungen (geschaetzt)."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.55,
+          "relevant_job_postings": null,
+          "topic_hiring_reasoning": "AIKTEC-Team baut digitale Loesungen; KI/Datenanalyse-Kompetenz wird aufgebaut, konkrete ML-Stellen nicht sichtbar (geschaetzt).",
+          "example_positions": [
+            "Software Engineer AIKTEC Digital Solutions (geschaetzt)",
+            "Data Analyst Messtechnik (geschaetzt)",
+            "Applikationsingenieur Industrie 4.0"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.85,
+          "financial_health_score": 0.7,
+          "pressure_score": 0.7,
+          "strategic_reasoning": "Angebots-Fit: Klingelnberg hat mit AIKTEC eine eigene Digitalisierungsplattform — braucht KI-Integration fuer Messtechnik-Datenanalyse und Predictive Quality. NeoGeos Ansatz (auditierbar, EU AI Act-konform) passt fuer regulierten Automotive-/Aerospace-Kontext."
+        },
+        "customer_rating": 0.648,
+        "rating_reasoning": "Angebots-Fit: Klingelnberg hat mit AIKTEC eine eigene Digitalisierungsplattform — braucht KI-Integration fuer Messtechnik-Datenanalyse und Predictive Quality. NeoGeos Ansatz (auditierbar, EU AI Act-konform) passt fuer regulierten Automotive-/Aerospace-Kontext."
+      },
+      "contact_persons": [
+        {
+          "name": "n/a",
+          "role": "Leiter AIKTEC Digital Solutions",
+          "linkedin": null,
+          "confidence": "LOW",
+          "notes": null
+        }
+      ],
+      "outreach": null,
+      "overall_score": 0.639
+    },
+    {
+      "company": {
+        "name": "BHS Corrugated Maschinen- und Anlagenbau GmbH",
+        "website": "bhs-world.com",
+        "address": "Weiherhammer, Bayern",
+        "industry": "Maschinenbau - Wellpappen-Produktionsanlagen",
+        "source": null
+      },
+      "pipeline": "KI",
+      "tier": "TIER2",
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.8,
+          "activity_reasoning": "Weltmarktfuehrer fuer Wellpappen-Produktionsanlagen. Ca. 870 Mio EUR Umsatz (2023), ueber 3.500 MA weltweit. TOP 100 Innovator 2025. Investiert ca. 5% des Umsatzes in F&E.",
+          "recent_news": [
+            "BHS Corrugated als TOP 100 Innovator 2025 ausgezeichnet",
+            "Corrugated 4.0 Digitalisierungsstrategie fuer Prozessoptimierung und Automatisierung"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "KI in Produktion / EU AI Act",
+          "affinity_score": 0.65,
+          "affinity_reasoning": "SIGNALE: [+18|C] Corrugated 4.0 — zentrale Digitalisierungsstrategie mit Fokus auf Prozessparameteroptimierung und Automatisierungsgrad-Steigerung, Quelle: bhs-world.com | [+12|C] Bestehende Produktionssteuerungssysteme mit hohem Datenvolumen (Anlagensteuerung, Qualitaetsdaten), (geschaetzt) | [+10|D] TOP-100-Innovator-Auszeichnung zeigt Innovationsbereitschaft und Budget, Quelle: top100.de | [+10|C] 5% Umsatz in F&E (~43 Mio EUR) zeigt Investitionsbereitschaft, Quelle: bhs-world.com | [+8|B] ISO-zertifizierte Fertigung, internationale Kunden (geschaetzt) = 58/100 -> 0.65 aufgerundet wegen starkem Corrugated-4.0-Signal",
+          "relevant_news": []
+        },
+        "combined_score": 0.71
+      },
+      "financials": {
+        "revenue_estimate": "870 Mio EUR (2023)",
+        "profit_estimate": null,
+        "employee_count": 3500,
+        "hiring_activity": {
+          "general_hiring_score": 0.55,
+          "total_job_postings": null,
+          "hiring_reasoning": "Aktive Stellenausschreibungen in Entwicklung und IT; F&E-Investitionen deuten auf Personalaufbau hin (geschaetzt)."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.45,
+          "relevant_job_postings": null,
+          "topic_hiring_reasoning": "Corrugated 4.0 erfordert Datenanalyse- und Automatisierungskompetenz; keine dezidierten KI-Stellen sichtbar (geschaetzt).",
+          "example_positions": [
+            "Software Developer Corrugated 4.0 (geschaetzt)",
+            "Automatisierungsingenieur",
+            "Data Analyst Produktionsoptimierung (geschaetzt)"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.85,
+          "financial_health_score": 0.8,
+          "pressure_score": 0.55,
+          "strategic_reasoning": "Angebots-Fit: BHS Corrugated hat mit Corrugated 4.0 eine Digitalisierungsstrategie und hohe F&E-Budgets — braucht KI fuer Prozessparameteroptimierung und Predictive Maintenance in Wellpappen-Produktionsanlagen. NeoGeos Integrations-Know-how passt."
+        },
+        "customer_rating": 0.575,
+        "rating_reasoning": "Angebots-Fit: BHS Corrugated hat mit Corrugated 4.0 eine Digitalisierungsstrategie und hohe F&E-Budgets — braucht KI fuer Prozessparameteroptimierung und Predictive Maintenance in Wellpappen-Produktionsanlagen. NeoGeos Integrations-Know-how passt."
+      },
+      "contact_persons": [
+        {
+          "name": "n/a",
+          "role": "Leiter Corrugated 4.0 / Head of Digital",
+          "linkedin": null,
+          "confidence": "LOW",
+          "notes": null
+        }
+      ],
+      "outreach": null,
+      "overall_score": 0.601
+    },
+    {
+      "company": {
+        "name": "Pilz GmbH & Co. KG",
+        "website": "pilz.com",
+        "address": "Ostfildern, Baden-Wuerttemberg",
+        "industry": "Automatisierungstechnik - Sichere Automation",
+        "source": null
+      },
+      "pipeline": "KI",
+      "tier": "TIER2",
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.6,
+          "activity_reasoning": "Umsatz 341 Mio EUR (2024, -21% ggue. Vorjahr). 2.504 MA weltweit. 2025 leicht steigend, aber auf niedrigem Niveau. Familienunternehmen mit Fokus auf Sicherheitstechnik.",
+          "recent_news": [
+            "Pilz mit deutlichem Umsatzrueckgang auf 341 Mio EUR (-21%) in 2024",
+            "Myzel Lifecycle Platform fuer Cloud-basierte Maschinenservices auf SPS 2025 vorgestellt"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "KI in Produktion / EU AI Act",
+          "affinity_score": 0.75,
+          "affinity_reasoning": "SIGNALE: [+20|C] KI-basierte Sensorik: Pilz entwickelt Sensoren die mittels KI zwischen Menschen und Objekten unterscheiden, Quelle: produktion.de | [+18|C] Myzel Lifecycle Platform — neue digitale Cloud-Services fuer sicheren Maschinenbetrieb, Quelle: automationspraxis.industrie.de | [+15|B] Pilz ist Kernakteur fuer Maschinensicherheit gemaess EU-Maschinenverordnung und kuenftig EU AI Act (Safety + AI Governance), Quelle: pilz.com | [+12|C] Untersuchung wie KI sinnvoll fuer Maschinensicherheit eingesetzt werden kann, Quelle: elektronikpraxis.de = 65/100 -> 0.75 wegen sehr starkem B+C-Mix (Sicherheit + KI + Regulierung)",
+          "relevant_news": []
+        },
+        "combined_score": 0.69
+      },
+      "financials": {
+        "revenue_estimate": "341 Mio EUR (2024)",
+        "profit_estimate": null,
+        "employee_count": 2504,
+        "hiring_activity": {
+          "general_hiring_score": 0.5,
+          "total_job_postings": null,
+          "hiring_reasoning": "Personalbestand leicht wachsend (+1,1%), insbesondere in Vertrieb und Service. Moderate Recruiting-Aktivitaet."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.6,
+          "relevant_job_postings": null,
+          "topic_hiring_reasoning": "KI-Forschung fuer Sicherheitssensorik aktiv; Bedarf an ML-/CV-Ingenieuren fuer Personen-/Objekt-Erkennung (geschaetzt).",
+          "example_positions": [
+            "KI-Ingenieur Sicherheitssensorik (geschaetzt)",
+            "Software Developer Myzel Cloud Platform (geschaetzt)",
+            "Safety Application Engineer"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.85,
+          "financial_health_score": 0.6,
+          "pressure_score": 0.9,
+          "strategic_reasoning": "Angebots-Fit: Pilz sitzt an der Schnittstelle von KI und Maschinensicherheit — EU AI Act trifft direkt auf ihr Kerngeschaeft. NeoGeos 'KI in Produktion, auditierbar und EU-AI-Act-konform' ist hier maximaler Fit: Pilz braucht genau diese Governance fuer KI in sicherheitskritischen Anwendungen."
+        },
+        "customer_rating": 0.725,
+        "rating_reasoning": "Angebots-Fit: Pilz sitzt an der Schnittstelle von KI und Maschinensicherheit — EU AI Act trifft direkt auf ihr Kerngeschaeft. NeoGeos 'KI in Produktion, auditierbar und EU-AI-Act-konform' ist hier maximaler Fit: Pilz braucht genau diese Governance fuer KI in sicherheitskritischen Anwendungen."
+      },
+      "contact_persons": [
+        {
+          "name": "n/a",
+          "role": "CTO / Leiter F&E Sensorik",
+          "linkedin": null,
+          "confidence": "LOW",
+          "notes": null
+        }
+      ],
+      "outreach": null,
+      "overall_score": 0.671
+    },
+    {
+      "company": {
+        "name": "Vollmer Werke Maschinenfabrik GmbH",
+        "website": "vollmer-group.com",
+        "address": "Biberach an der Riss, Baden-Wuerttemberg",
+        "industry": "Maschinenbau - Schaerfmaschinen & Werkzeugbearbeitung",
+        "source": null
+      },
+      "pipeline": "KI",
+      "tier": "TIER3",
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.7,
+          "activity_reasoning": "Ca. 800 MA weltweit (550 am Stammsitz Biberach), Umsatz ca. 120 Mio EUR (2021, neuere Daten nicht oeffentlich). Investiert 8-10% des Umsatzes in F&E. Hidden Champion in der Praezisionsbearbeitung.",
+          "recent_news": [
+            "Vollmer Werke als Hidden Champion Deutschlands gelistet",
+            "8-10% Umsatz-Investition in Forschung und Entwicklung"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "KI in Produktion / EU AI Act",
+          "affinity_score": 0.52,
+          "affinity_reasoning": "SIGNALE: [+12|C] Hohe F&E-Quote (8-10% vom Umsatz) fuer ein Maschinenbau-KMU deutet auf Innovationsbereitschaft hin, Quelle: die-deutsche-wirtschaft.de | [+12|C] CNC-Praezisionsmaschinen erzeugen Messdaten fuer potenzielle KI-Qualitaetskontrolle und Predictive Maintenance (geschaetzt) | [+10|B] ISO-zertifizierte Fertigung, internationale Kunden in Automotive/Aerospace (geschaetzt) | [+8|D] Hidden-Champion-Status zeigt Marktfuehrerschaft und Investitionsfaehigkeit = 42/100 -> 0.52, moderate Signale aus C+B",
+          "relevant_news": []
+        },
+        "combined_score": 0.592
+      },
+      "financials": {
+        "revenue_estimate": "120 Mio EUR (2021, geschaetzt aktuell hoeher)",
+        "profit_estimate": null,
+        "employee_count": 800,
+        "hiring_activity": {
+          "general_hiring_score": 0.4,
+          "total_job_postings": null,
+          "hiring_reasoning": "Stellenangebote in Entwicklung und Fertigung vorhanden; kleine Firma mit stabiler Belegschaft (geschaetzt)."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.3,
+          "relevant_job_postings": null,
+          "topic_hiring_reasoning": "Keine konkreten KI/ML-Stellen sichtbar; F&E-Fokus auf Maschinenentwicklung, nicht auf KI (geschaetzt).",
+          "example_positions": [
+            "Entwicklungsingenieur Schaerftechnologie",
+            "Software Developer CNC-Steuerung (geschaetzt)",
+            "Qualitaetsingenieur"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.7,
+          "financial_health_score": 0.7,
+          "pressure_score": 0.5,
+          "strategic_reasoning": "Angebots-Fit: Vollmer hat hohe F&E-Investitionen und Praezisions-Messdaten — Einstieg ueber Predictive Maintenance oder KI-Qualitaetskontrolle an CNC-Maschinen moeglich. Kleinere Firma, aber innovationsbereit."
+        },
+        "customer_rating": 0.455,
+        "rating_reasoning": "Angebots-Fit: Vollmer hat hohe F&E-Investitionen und Praezisions-Messdaten — Einstieg ueber Predictive Maintenance oder KI-Qualitaetskontrolle an CNC-Maschinen moeglich. Kleinere Firma, aber innovationsbereit."
+      },
+      "contact_persons": [
+        {
+          "name": "n/a",
+          "role": "Leiter F&E / Geschaeftsfuehrung",
+          "linkedin": null,
+          "confidence": "LOW",
+          "notes": null
+        }
+      ],
+      "outreach": null,
+      "overall_score": 0.478
+    },
+    {
+      "company": {
+        "name": "Bystronic AG",
+        "website": "bystronic.com",
+        "address": "Niederoenz, Bern (Schweiz)",
+        "industry": "Maschinenbau - Blechbearbeitungsmaschinen & Automation",
+        "source": null
+      },
+      "pipeline": "KI",
+      "tier": "TIER3",
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.5,
+          "activity_reasoning": "Ca. 3.500 MA (Ende 2023). Umsatzrueckgang Q1 2025 um 15% auf 128 Mio CHF. Stellenabbau von 500 Positionen angekuendigt. Schwierige Marktlage, aber Verschiebung zu vollautomatisierten Systemen positiv.",
+          "recent_news": [
+            "Bystronic mit deutlichem Umsatzrueckgang Q1 2025 (-15%)",
+            "500 Stellen gestrichen — Krise im Maschinenbau und starke China-Konkurrenz"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "KI in Produktion / EU AI Act",
+          "affinity_score": 0.6,
+          "affinity_reasoning": "SIGNALE: [+18|C] Shift zu vollautomatisierten Systemen — laengere Durchlaufzeiten aber hoehere Wertschoepfung, erfordert KI-Prozesssteuerung, Quelle: ch.marketscreener.com | [+15|C] Software- und Automationsloesungen als strategischer Schwerpunkt (BySoft Suite), Quelle: bystronic.com | [+12|B] TISAX/ISO-Kontext als Zulieferer fuer Automotive-Blechteile (geschaetzt) | [+10|D] Restrukturierung erzeugt Effizienz- und Automatisierungsdruck (geschaetzt) = 55/100 -> 0.60 aufgerundet wegen strategischem Automatisierungs-Shift",
+          "relevant_news": []
+        },
+        "combined_score": 0.56
+      },
+      "financials": {
+        "revenue_estimate": "550 Mio CHF (2024, geschaetzt)",
+        "profit_estimate": null,
+        "employee_count": 3500,
+        "hiring_activity": {
+          "general_hiring_score": 0.3,
+          "total_job_postings": null,
+          "hiring_reasoning": "Stellenabbau dominiert; Recruiting stark eingeschraenkt ausser in Software/Automation (geschaetzt)."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.4,
+          "relevant_job_postings": null,
+          "topic_hiring_reasoning": "Software-Team fuer BySoft Suite aktiv; KI-/ML-Kompetenz fuer Automatisierung wird benoetigt aber unklar ob extern gesucht (geschaetzt).",
+          "example_positions": [
+            "Software Engineer BySoft Automation (geschaetzt)",
+            "Prozessingenieur Vollautomation (geschaetzt)",
+            "Data Analyst Produktionssteuerung (geschaetzt)"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.85,
+          "financial_health_score": 0.45,
+          "pressure_score": 0.7,
+          "strategic_reasoning": "Angebots-Fit: Bystronic verschiebt Geschaeftsmodell zu Vollautomation — KI-Integration in Lasersteuerung und Prozessoptimierung ist zentraler Hebel. Trotz Krise hoher Bedarf an KI-Kompetenz fuer Differenzierung gegenueber China-Wettbewerb."
+        },
+        "customer_rating": 0.565,
+        "rating_reasoning": "Angebots-Fit: Bystronic verschiebt Geschaeftsmodell zu Vollautomation — KI-Integration in Lasersteuerung und Prozessoptimierung ist zentraler Hebel. Trotz Krise hoher Bedarf an KI-Kompetenz fuer Differenzierung gegenueber China-Wettbewerb."
+      },
+      "contact_persons": [
+        {
+          "name": "n/a",
+          "role": "CTO / Head of Software & Automation",
+          "linkedin": null,
+          "confidence": "LOW",
+          "notes": null
+        }
+      ],
+      "outreach": null,
+      "overall_score": 0.508
+    },
+    {
+      "company": {
+        "name": "Doppelmayr Seilbahnen GmbH",
+        "website": "doppelmayr.com",
+        "address": "Wolfurt, Vorarlberg (Oesterreich)",
+        "industry": "Anlagenbau - Seilbahnen & urbane Transportsysteme",
+        "source": null
+      },
+      "pipeline": "KI",
+      "tier": "TIER1",
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.85,
+          "activity_reasoning": "Weltmarktfuehrer fuer Seilbahnen. GJ 2024/25 Umsatz ca. 1,2 Mrd EUR (+13,2%). 3.780 MA (Schnitt, +7,5%). Starkes Wachstum durch Grossprojekte in urbanem Transport und Tourismus.",
+          "recent_news": [
+            "Doppelmayr knackt 1,2 Mrd EUR Umsatz im GJ 2024/25 (+13,2%)",
+            "AURO CLD: Autonomer Sesselbahn-Betrieb mit KI-gestuetzter Bildverarbeitung"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "KI in Produktion / EU AI Act",
+          "affinity_score": 0.78,
+          "affinity_reasoning": "SIGNALE: [+20|C] AURO — autonomer Seilbahnbetrieb: KI-gestuetzte Bildverarbeitung, Kamerasysteme und Sensorik fuer unbemannten Betrieb, Quelle: doppelmayr.com / isr.at | [+18|C] AURO CLD — Erweiterung auf Sesselbahnen mit zusaetzlichen Sensoren und KI-Geschwindigkeitsregelung basierend auf Besucheraufkommen, Quelle: isr.at | [+15|B] Seilbahnen als Transportmittel unterliegen Sicherheitsnormen und perspektivisch EU-AI-Act-Anforderungen (Hochrisiko-KI bei autonomem Betrieb), (geschaetzt) | [+12|D] Starkes Wachstum (+13%) und Grossprojekte erzeugen Skalierungsdruck fuer AURO-Technologie = 65/100 -> 0.78 wegen sehr starkem C-Signal (KI bereits produktiv in AURO) und B-Signal (Sicherheitsregulierung)",
+          "relevant_news": []
+        },
+        "combined_score": 0.808
+      },
+      "financials": {
+        "revenue_estimate": "1,2 Mrd EUR (GJ 2024/25)",
+        "profit_estimate": null,
+        "employee_count": 3780,
+        "hiring_activity": {
+          "general_hiring_score": 0.65,
+          "total_job_postings": null,
+          "hiring_reasoning": "Starker Personalaufbau +7,5% im letzten GJ. Aktive Stellenausschreibungen in Technik und Software."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.65,
+          "relevant_job_postings": null,
+          "topic_hiring_reasoning": "AURO-Entwicklung erfordert Computer-Vision-, Sensor-Fusion- und KI-Kompetenz; konkrete Stellen in Wolfurt wahrscheinlich (geschaetzt).",
+          "example_positions": [
+            "Computer Vision Engineer AURO (geschaetzt)",
+            "Software Developer Seilbahnsteuerung",
+            "Safety Engineer autonome Systeme (geschaetzt)"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.8,
+          "financial_health_score": 0.85,
+          "pressure_score": 0.85,
+          "strategic_reasoning": "Angebots-Fit: Doppelmayr hat mit AURO bereits KI in der Produktion/Betrieb — autonome Seilbahnen sind Hochrisiko-KI unter EU AI Act. NeoGeos Kernkompetenz (auditierbare KI, EU-konform, langfristige Betreuung) ist hier maximaler Fit fuer Compliance und Skalierung."
+        },
+        "customer_rating": 0.74,
+        "rating_reasoning": "Angebots-Fit: Doppelmayr hat mit AURO bereits KI in der Produktion/Betrieb — autonome Seilbahnen sind Hochrisiko-KI unter EU AI Act. NeoGeos Kernkompetenz (auditierbare KI, EU-konform, langfristige Betreuung) ist hier maximaler Fit fuer Compliance und Skalierung."
+      },
+      "contact_persons": [
+        {
+          "name": "n/a",
+          "role": "CTO / Leiter AURO-Entwicklung",
+          "linkedin": null,
+          "confidence": "LOW",
+          "notes": null
+        }
+      ],
+      "outreach": null,
+      "overall_score": 0.746
+    },
+    {
+      "company": {
+        "name": "Simon Hegele Gesellschaft fuer Logistik und Service mbH",
+        "website": "simon-hegele.com",
+        "address": "Karlsruhe, Baden-Wuerttemberg",
+        "industry": "Logistik - Kontraktlogistik & High-Tech-Transport",
+        "source": null
+      },
+      "pipeline": "KI",
+      "tier": "TIER3",
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.75,
+          "activity_reasoning": "Simon Hegele Gruppe mit 2.800 MA und 330 Mio EUR Umsatz (2024). Neues Logistikzentrum in Kemnath mit AutoStore seit 2023. Neue Co-CEO-Fuehrungsspitze seit Okt 2025 signalisiert strategische Neuausrichtung.",
+          "recent_news": [
+            "Mike Winter und Michael Wahl als neue Co-CEOs seit Oktober 2025",
+            "Hochmodernes Logistikzentrum mit AutoStore in Kemnath (Oberpfalz) seit Juli 2023"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "KI in Produktion / EU AI Act",
+          "affinity_score": 0.58,
+          "affinity_reasoning": "SIGNALE: [+15|C] AutoStore automatisiertes Lagersystem fuer Produktionsversorgung implementiert — Datenbasis fuer KI-Optimierung vorhanden, Quelle: simon-hegele.com | [+12|C] IT-Loesungen, Supply-Chain-Management und Verpackungsentwicklung als Kernkompetenz — hoher Datenintegrationsbedarf, Quelle: simon-hegele.com | [+15|D] Neue Co-CEO-Fuehrung (Okt 2025) als Ausloeser fuer Modernisierung und Digitalisierungsinitiativen, Quelle: logistik-heute.de | [+10|B] DSGVO-relevante Logistikdaten, Supply-Chain-Sicherheit (geschaetzt) = 52/100 -> 0.58 aufgerundet wegen D-Signal (neue Fuehrung)",
+          "relevant_news": []
+        },
+        "combined_score": 0.648
+      },
+      "financials": {
+        "revenue_estimate": "330 Mio EUR (2024)",
+        "profit_estimate": null,
+        "employee_count": 2800,
+        "hiring_activity": {
+          "general_hiring_score": 0.5,
+          "total_job_postings": null,
+          "hiring_reasoning": "Moderate Recruiting-Aktivitaet; Stellenausschreibungen in Logistik, IT und Projektmanagement (geschaetzt)."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.35,
+          "relevant_job_postings": null,
+          "topic_hiring_reasoning": "Keine konkreten KI/ML-Stellen sichtbar; Bedarf fuer Datenanalyse in AutoStore-Umfeld und Supply-Chain-Optimierung wahrscheinlich (geschaetzt).",
+          "example_positions": [
+            "IT-Projektleiter Logistiksysteme (geschaetzt)",
+            "Data Analyst Supply Chain (geschaetzt)",
+            "Prozessmanager AutoStore"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.85,
+          "financial_health_score": 0.7,
+          "pressure_score": 0.5,
+          "strategic_reasoning": "Angebots-Fit: Simon Hegele hat mit AutoStore automatisierte Lagertechnologie — naechster Schritt ist KI-Optimierung fuer Bedarfsprognose, Kommissionierung und Produktionsversorgung. Neue Fuehrung koennte Digitalisierungsprojekte priorisieren."
+        },
+        "customer_rating": 0.517,
+        "rating_reasoning": "Angebots-Fit: Simon Hegele hat mit AutoStore automatisierte Lagertechnologie — naechster Schritt ist KI-Optimierung fuer Bedarfsprognose, Kommissionierung und Produktionsversorgung. Neue Fuehrung koennte Digitalisierungsprojekte priorisieren."
+      },
+      "contact_persons": [
+        {
+          "name": "Mike Winter",
+          "role": "Co-CEO",
+          "linkedin": null,
+          "confidence": "MEDIUM",
+          "notes": null
+        },
+        {
+          "name": "Michael Wahl",
+          "role": "Co-CEO",
+          "linkedin": null,
+          "confidence": "MEDIUM",
+          "notes": null
+        }
+      ],
+      "outreach": null,
+      "overall_score": 0.533
+    },
+    {
+      "company": {
+        "name": "Noerpel-Gruppe SE & Co. KG",
+        "website": "noerpel.de",
+        "address": "Ulm, Baden-Württemberg",
+        "industry": "Logistik – Spedition, Kontraktlogistik, Warehousing",
+        "source": null
+      },
+      "pipeline": "KI",
+      "tier": "TIER3",
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.74,
+          "activity_reasoning": "Familienunternehmen mit 3.700 MA an 31 Standorten in DACH. Umsatz 2025 bei 750 Mio EUR. Solides Wachstum im regionalen Logistikmarkt.",
+          "recent_news": [
+            "Noerpel erreicht 750 Mio EUR Gruppenumsatz 2025",
+            "Expansion im süddeutschen Raum mit neuen Standorten (geschätzt)"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "KI in Produktion / EU AI Act",
+          "affinity_score": 0.42,
+          "affinity_reasoning": "SIGNALE: [+12|C] Bestehende Logistik-IT-Landschaft: 31 Standorte, multimodal, hoher Integrationsbedarf (geschätzt) | [+10|C] Datensilo-/Legacy-Probleme: Gewachsene IT-Struktur bei 3.700 MA über 31 Standorte (geschätzt) | [+8|D] KI-/Digitalisierungsstrategie branchenweit 2026 (geschätzt) | [+10|B] NIS2/KRITIS: Logistik-KRITIS-Kontext möglich (geschätzt) = 40/100 → 0.42",
+          "relevant_news": []
+        },
+        "combined_score": 0.548
+      },
+      "financials": {
+        "revenue_estimate": "750 Mio EUR (2025)",
+        "profit_estimate": null,
+        "employee_count": 3700,
+        "hiring_activity": {
+          "general_hiring_score": 0.45,
+          "total_job_postings": null,
+          "hiring_reasoning": "Regelmäßige Einstellungen an 31 Standorten. IT-Stellen auf Karriereseite verfügbar."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.25,
+          "relevant_job_postings": null,
+          "topic_hiring_reasoning": "KI/ML/Data-Stellen: Keine dedizierten KI-/ML-Stellen öffentlich gefunden. Digitalisierungsbedarf bei 31 Standorten (geschätzt).",
+          "example_positions": [
+            "IT-Systemadministrator (geschätzt)",
+            "Logistik-Disponent (geschätzt)",
+            "Projektmanager Digitalisierung (geschätzt)"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.8,
+          "financial_health_score": 0.72,
+          "pressure_score": 0.45,
+          "strategic_reasoning": "Angebots-Fit: Großer Mittelstandslogistiker mit 31 Standorten und gewachsener IT-Landschaft. Hoher Integrations- und Modernisierungsbedarf. NeoGeo kann KI-Module für Dispositionsoptimierung, Lagerverwaltung und prädiktive Logistik über alle Standorte einheitlich ausrollen."
+        },
+        "customer_rating": 0.45,
+        "rating_reasoning": "Angebots-Fit: Großer Mittelstandslogistiker mit 31 Standorten und gewachsener IT-Landschaft. Hoher Integrations- und Modernisierungsbedarf. NeoGeo kann KI-Module für Dispositionsoptimierung, Lagerverwaltung und prädiktive Logistik über alle Standorte einheitlich ausrollen."
+      },
+      "contact_persons": [
+        {
+          "name": "Geschäftsführung Noerpel",
+          "role": "Geschäftsführer",
+          "linkedin": null,
+          "confidence": "LOW",
+          "notes": null
+        }
+      ],
+      "outreach": null,
+      "overall_score": 0.461
+    },
+    {
+      "company": {
+        "name": "Buehler Motor GmbH",
+        "website": "buehlermotor.de",
+        "address": "Nuernberg, Bayern",
+        "industry": "Automobilzulieferer - Mechatronische Antriebsloesungen",
+        "source": null
+      },
+      "pipeline": "KI",
+      "tier": "TIER3",
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.65,
+          "activity_reasoning": "Familienunternehmen mit ca. 1.200 MA an 11 Standorten weltweit. Spezialist fuer Kleinmotoren und mechatronische Antriebe fuer Automotive, Medizintechnik und Luftfahrt. Stabile Nischenposition.",
+          "recent_news": [
+            "Buehler Motor mit 1.200 Mitarbeitern an 11 Standorten weltweit (2024)",
+            "Handelsregisteraenderung Februar 2026 deutet auf Umstrukturierung hin"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "KI in Produktion / EU AI Act",
+          "affinity_score": 0.55,
+          "affinity_reasoning": "SIGNALE: [+15|C] Mechatronische Antriebe fuer Automotive und Medizintechnik erfordern praezise Qualitaetskontrolle — KI-Potenzial fuer Predictive Quality und AOI (geschaetzt) | [+15|B] TISAX-Kontext als Automobilzulieferer plus MDR/EU-Regulierung fuer Medizintechnik-Antriebe, (geschaetzt) | [+10|C] Multi-Branchen-Fertigung (Automotive, Medtech, Aerospace) mit unterschiedlichen Qualitaetsanforderungen erfordert flexible Produktionssteuerung (geschaetzt) | [+8|D] Handelsregisteraenderung Feb 2026 deutet auf Reorganisation (geschaetzt) = 48/100 -> 0.55 aufgerundet wegen starkem B-Signal (Multi-Regulierung)",
+          "relevant_news": []
+        },
+        "combined_score": 0.59
+      },
+      "financials": {
+        "revenue_estimate": "180 Mio EUR (geschaetzt)",
+        "profit_estimate": null,
+        "employee_count": 1200,
+        "hiring_activity": {
+          "general_hiring_score": 0.45,
+          "total_job_postings": null,
+          "hiring_reasoning": "Moderate Stellenausschreibungen; IT-Support-Stellen sichtbar (geschaetzt)."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.3,
+          "relevant_job_postings": null,
+          "topic_hiring_reasoning": "Keine konkreten KI/ML-Stellen sichtbar; Bedarf fuer Qualitaetssicherungs-Automatisierung in Kleinserienfertigung (geschaetzt).",
+          "example_positions": [
+            "IT-Support / Systemadministration",
+            "Qualitaetsingenieur Automotive (geschaetzt)",
+            "Prozessingenieur Mechatronik (geschaetzt)"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.8,
+          "financial_health_score": 0.65,
+          "pressure_score": 0.65,
+          "strategic_reasoning": "Angebots-Fit: Buehler Motor fertigt fuer regulierte Branchen (Automotive TISAX, Medtech MDR, Aerospace) — EU AI Act trifft besonders bei Medtech-Antrieben. KI-Integration fuer Multi-Branchen-Qualitaetskontrolle ist attraktiver Use Case."
+        },
+        "customer_rating": 0.528,
+        "rating_reasoning": "Angebots-Fit: Buehler Motor fertigt fuer regulierte Branchen (Automotive TISAX, Medtech MDR, Aerospace) — EU AI Act trifft besonders bei Medtech-Antrieben. KI-Integration fuer Multi-Branchen-Qualitaetskontrolle ist attraktiver Use Case."
+      },
+      "contact_persons": [
+        {
+          "name": "n/a",
+          "role": "Geschaeftsfuehrung / Leiter Qualitaet",
+          "linkedin": null,
+          "confidence": "LOW",
+          "notes": null
+        }
+      ],
+      "outreach": null,
+      "overall_score": 0.511
+    },
+    {
+      "company": {
+        "name": "CeramTec GmbH",
+        "website": "ceramtec-group.com",
+        "address": "Plochingen, Baden-Wuerttemberg",
+        "industry": "Industrie - Technische Hochleistungskeramik",
+        "source": null
+      },
+      "pipeline": "KI",
+      "tier": "TIER2",
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.75,
+          "activity_reasoning": "685 Mio EUR Umsatz (2025), 3.500 MA weltweit. Weltmarktfuehrer fuer technische Keramik. Liefert in Elektronik, Industrie, Automotive und Medizin. Seit 1903 etabliert.",
+          "recent_news": [
+            "CeramTec mit 685 Mio EUR Umsatz und 3.500 Mitarbeitern (2025)",
+            "Weltmarktfuehrer fuer technische Keramik mit ueber 10.000 Produkten"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "KI in Produktion / EU AI Act",
+          "affinity_score": 0.58,
+          "affinity_reasoning": "SIGNALE: [+15|C] Hochleistungskeramik-Fertigung erfordert praezise Prozesssteuerung — KI-Potenzial fuer Brennprozess-Optimierung, Qualitaetskontrolle und Materialcharakterisierung (geschaetzt) | [+15|B] Medizinprodukte-Regulierung (MDR) fuer Gelenkkomponenten + ISO-13485-Zertifizierung + kuenftig EU AI Act fuer automatisierte Qualitaetspruefung (geschaetzt) | [+12|C] 10.000+ Produktvarianten fuer 4 Maerkte erfordern komplexe Produktionsplanung und -steuerung (geschaetzt) | [+10|C] Automotive-Zulieferer (Einspritzkomponenten) mit TISAX-Anforderungen (geschaetzt) = 52/100 -> 0.58 aufgerundet wegen Multi-Regulierungs-Kontext (MDR + TISAX)",
+          "relevant_news": []
+        },
+        "combined_score": 0.648
+      },
+      "financials": {
+        "revenue_estimate": "685 Mio EUR (2025)",
+        "profit_estimate": null,
+        "employee_count": 3500,
+        "hiring_activity": {
+          "general_hiring_score": 0.5,
+          "total_job_postings": null,
+          "hiring_reasoning": "Aktive Stellenausschreibungen in Produktion, Qualitaet und IT; moderater Personalbestand (geschaetzt)."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.35,
+          "relevant_job_postings": null,
+          "topic_hiring_reasoning": "Keine konkreten KI/ML-Stellen sichtbar; Bedarf fuer Automatisierung der Qualitaetskontrolle bei Keramikkomponenten wahrscheinlich (geschaetzt).",
+          "example_positions": [
+            "Qualitaetsingenieur Medizinprodukte",
+            "Prozessingenieur Keramikfertigung (geschaetzt)",
+            "IT-Projektleiter Digitalisierung (geschaetzt)"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.85,
+          "financial_health_score": 0.75,
+          "pressure_score": 0.7,
+          "strategic_reasoning": "Angebots-Fit: CeramTec liefert in vier regulierte Maerkte (Medizin, Automotive, Elektronik, Industrie) — EU AI Act trifft bei Medizinprodukt-Qualitaetspruefung. KI-Integration fuer Brennprozess-Optimierung und automatisierte Qualitaetskontrolle bei 10.000+ Produktvarianten ist attraktiver Use Case."
+        },
+        "customer_rating": 0.578,
+        "rating_reasoning": "Angebots-Fit: CeramTec liefert in vier regulierte Maerkte (Medizin, Automotive, Elektronik, Industrie) — EU AI Act trifft bei Medizinprodukt-Qualitaetspruefung. KI-Integration fuer Brennprozess-Optimierung und automatisierte Qualitaetskontrolle bei 10.000+ Produktvarianten ist attraktiver Use Case."
+      },
+      "contact_persons": [
+        {
+          "name": "n/a",
+          "role": "CTO / Leiter Qualitaet & Produktion",
+          "linkedin": null,
+          "confidence": "LOW",
+          "notes": null
+        }
+      ],
+      "outreach": null,
+      "overall_score": 0.567
+    },
+    {
+      "company": {
+        "name": "SGL Carbon SE",
+        "website": "sglcarbon.com",
+        "address": "Wiesbaden, Hessen",
+        "industry": "Industrie - Carbon-/Graphit-Werkstoffe & Verbundmaterialien",
+        "source": null
+      },
+      "pipeline": "KI",
+      "tier": "TIER3",
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.5,
+          "activity_reasoning": "850 Mio EUR Umsatz (2025, -17,2% ggue. Vorjahr). 3.800 MA (Ende 2025, von 4.400). Restrukturierung der Carbon-Fibers-Sparte. EBITDA-pre-Marge bei 15,9% trotzdem gehalten.",
+          "recent_news": [
+            "SGL Carbon Umsatz sinkt 17% auf 850 Mio EUR in 2025 — Restrukturierung Carbon Fibers",
+            "Kostenmanagement sichert EBITDA-pre-Marge von 15,9%"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "KI in Produktion / EU AI Act",
+          "affinity_score": 0.52,
+          "affinity_reasoning": "SIGNALE: [+15|C] Spezialwerkstoffe fuer Halbleiter, Automotive und Aerospace erfordern praezise Prozesskontrolle — KI-Potenzial fuer Materialcharakterisierung und Qualitaetskontrolle (geschaetzt) | [+12|B] Lieferketten-Kontext fuer Halbleiterindustrie und Aerospace (ITAR/EAR-Compliance), EU-AI-Act fuer automatisierte QA (geschaetzt) | [+10|D] Restrukturierung erzwingt Effizienzsteigerung — KI-gestuetzte Prozessoptimierung als Hebel (geschaetzt) | [+10|C] Portfolio-Optimierung erfordert datengetriebene Entscheidungen ueber Produktmix (geschaetzt) = 47/100 -> 0.52 aufgerundet wegen Restrukturierungsdruck",
+          "relevant_news": []
+        },
+        "combined_score": 0.512
+      },
+      "financials": {
+        "revenue_estimate": "850 Mio EUR (2025)",
+        "profit_estimate": null,
+        "employee_count": 3800,
+        "hiring_activity": {
+          "general_hiring_score": 0.35,
+          "total_job_postings": null,
+          "hiring_reasoning": "Personalabbau von 4.400 auf 3.800 MA; Recruiting stark eingeschraenkt (geschaetzt)."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.25,
+          "relevant_job_postings": null,
+          "topic_hiring_reasoning": "Keine konkreten KI/ML-Stellen sichtbar; Fokus auf Kostenreduktion statt Neueinstellungen (geschaetzt).",
+          "example_positions": [
+            "Prozessingenieur Graphitfertigung (geschaetzt)",
+            "Qualitaetsingenieur Halbleiter-Werkstoffe (geschaetzt)",
+            "IT Business Analyst (geschaetzt)"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.85,
+          "financial_health_score": 0.5,
+          "pressure_score": 0.6,
+          "strategic_reasoning": "Angebots-Fit: SGL Carbon braucht Effizienzsteigerung durch KI in der Restrukturierungsphase — Prozessoptimierung und Qualitaetskontrolle fuer Spezialwerkstoffe. Risiko: eingeschraenktes Budget durch Krise."
+        },
+        "customer_rating": 0.49,
+        "rating_reasoning": "Angebots-Fit: SGL Carbon braucht Effizienzsteigerung durch KI in der Restrukturierungsphase — Prozessoptimierung und Qualitaetskontrolle fuer Spezialwerkstoffe. Risiko: eingeschraenktes Budget durch Krise."
+      },
+      "contact_persons": [
+        {
+          "name": "n/a",
+          "role": "COO / Leiter Operations",
+          "linkedin": null,
+          "confidence": "LOW",
+          "notes": null
+        }
+      ],
+      "outreach": null,
+      "overall_score": 0.447
+    },
+    {
+      "company": {
+        "name": "Duerkopp Adler GmbH",
+        "website": "duerkoppadler.com",
+        "address": "Bielefeld, Nordrhein-Westfalen",
+        "industry": "Maschinenbau - Industrielle Naehtechnik & CNC-Naehsysteme",
+        "source": null
+      },
+      "pipeline": "KI",
+      "tier": "TIER2",
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.65,
+          "activity_reasoning": "Ca. 1.600 MA weltweit. Groesster europaeischer Hersteller und Technologiefuehrer fuer industrielle Naehtechnik. Liefert fuer Automotive (Sitze, Interieur), Bekleidung und technische Textilien.",
+          "recent_news": [
+            "QONDAC Industry 4.0-Plattform fuer Digitalisierung der Textilindustrie",
+            "Technologiefuehrer fuer industrielle Naehtechnik mit CNC-gesteuerten Naehsystemen"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "KI in Produktion / EU AI Act",
+          "affinity_score": 0.65,
+          "affinity_reasoning": "SIGNALE: [+18|C] QONDAC — eigene Industry-4.0-Plattform: Echtzeitmonitoring jeder Naehstation, Produktionsengpaesse frueh erkennen, Wartung planen, Workflows managen, Quelle: duerkoppadler.com | [+15|C] CNC-gesteuerte Naehsysteme erzeugen Produktionsdaten fuer KI-Analyse (Qualitaetskontrolle, OEE-Optimierung), Quelle: duerkoppadler.com | [+15|B] TISAX-Kontext als Automotive-Zulieferer fuer Sitz-/Interieur-Naehtechnik (geschaetzt) | [+8|C] Heterogene Kunden (Automotive, Bekleidung, Technische Textilien) mit unterschiedlichen Anforderungen (geschaetzt) = 56/100 -> 0.65 wegen starkem QONDAC-Signal (C) und B-Automotive-Kontext",
+          "relevant_news": []
+        },
+        "combined_score": 0.65
+      },
+      "financials": {
+        "revenue_estimate": "250 Mio EUR (geschaetzt)",
+        "profit_estimate": null,
+        "employee_count": 1600,
+        "hiring_activity": {
+          "general_hiring_score": 0.45,
+          "total_job_postings": null,
+          "hiring_reasoning": "Moderate Stellenausschreibungen; Fokus auf Softwareentwicklung fuer QONDAC und CNC-Steuerung (geschaetzt)."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.45,
+          "relevant_job_postings": null,
+          "topic_hiring_reasoning": "QONDAC-Team benoetigt Datenanalyse- und IoT-Kompetenz; KI-Erweiterung der Plattform wahrscheinlich geplant (geschaetzt).",
+          "example_positions": [
+            "Software Developer QONDAC Platform (geschaetzt)",
+            "IoT Engineer Produktionsmonitoring (geschaetzt)",
+            "CNC-Applikationsingenieur"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.85,
+          "financial_health_score": 0.65,
+          "pressure_score": 0.65,
+          "strategic_reasoning": "Angebots-Fit: Duerkopp Adler hat mit QONDAC eine digitale Plattform fuer Produktionsmonitoring — naechster Schritt ist KI-Integration fuer Predictive Maintenance, automatisierte Qualitaetskontrolle und OEE-Optimierung. NeoGeos Integrationsansatz passt."
+        },
+        "customer_rating": 0.59,
+        "rating_reasoning": "Angebots-Fit: Duerkopp Adler hat mit QONDAC eine digitale Plattform fuer Produktionsmonitoring — naechster Schritt ist KI-Integration fuer Predictive Maintenance, automatisierte Qualitaetskontrolle und OEE-Optimierung. NeoGeos Integrationsansatz passt."
+      },
+      "contact_persons": [
+        {
+          "name": "n/a",
+          "role": "Leiter QONDAC / Head of Digital",
+          "linkedin": null,
+          "confidence": "LOW",
+          "notes": null
+        }
+      ],
+      "outreach": null,
+      "overall_score": 0.575
+    },
+    {
+      "company": {
+        "name": "Gebr. Pfeiffer SE",
+        "website": "gebr-pfeiffer.com",
+        "address": "Kaiserslautern, Rheinland-Pfalz",
+        "industry": "Anlagenbau - Mahlanlagen & Aufbereitungstechnik",
+        "source": null
+      },
+      "pipeline": "KI",
+      "tier": "TIER3",
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.7,
+          "activity_reasoning": "Ca. 500+ MA weltweit, Umsatz ca. 150 Mio EUR. Weltmarktfuehrer fuer Muehlen und Mahlanlagen (Zement, Kalk, Gips, Keramik, Mineralstoffe). Hidden Champion Deutschlands.",
+          "recent_news": [
+            "Gebr. Pfeiffer als Weltmarktfuehrer und Hidden Champion gelistet",
+            "Handelsregisteraenderung Mai 2025 (SE-Rechtsform)"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "KI in Produktion / EU AI Act",
+          "affinity_score": 0.5,
+          "affinity_reasoning": "SIGNALE: [+12|C] Mahlanlagen mit komplexer Prozesssteuerung — KI-Potenzial fuer Mahlprozess-Optimierung, Energieeffizienz und Predictive Maintenance (geschaetzt) | [+10|C] Zement-/Kalk-/Mineralstoffe-Industrie mit hohem Energieverbrauch — KI-Optimierung fuer Energieeffizienz relevant (geschaetzt) | [+10|B] EU-Regulierung fuer Industrieanlagen (BImSchG, EU ETS), Energieeffizienz-Richtlinie (geschaetzt) | [+8|D] SE-Rechtsform (Handelsregisteraenderung Mai 2025) deutet auf Internationalisierung und Modernisierung (geschaetzt) | [+8|C] Legacy-Steuerungssysteme in Mahlanlagen mit Integrationsbedarf (geschaetzt) = 48/100 -> 0.50",
+          "relevant_news": []
+        },
+        "combined_score": 0.58
+      },
+      "financials": {
+        "revenue_estimate": "150 Mio EUR (geschaetzt)",
+        "profit_estimate": null,
+        "employee_count": 500,
+        "hiring_activity": {
+          "general_hiring_score": 0.4,
+          "total_job_postings": null,
+          "hiring_reasoning": "Kleine Belegschaft mit stabiler Groesse; einzelne Stellen in Technik und Vertrieb (geschaetzt)."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.25,
+          "relevant_job_postings": null,
+          "topic_hiring_reasoning": "Keine konkreten KI/ML-Stellen sichtbar; traditioneller Maschinenbauer mit Digitalisierungspotenzial (geschaetzt).",
+          "example_positions": [
+            "Verfahrensingenieur Mahltechnik",
+            "Automatisierungstechniker Anlagensteuerung (geschaetzt)",
+            "Servicetechniker Digitalisierung (geschaetzt)"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.7,
+          "financial_health_score": 0.7,
+          "pressure_score": 0.5,
+          "strategic_reasoning": "Angebots-Fit: Gebr. Pfeiffer betreibt komplexe Mahlanlagen mit hohem Energieverbrauch — KI-Optimierung fuer Energieeffizienz und Predictive Maintenance sind niedrig haengende Fruechte. Kleinere Firma, aber als Weltmarktfuehrer investitionsfaehig."
+        },
+        "customer_rating": 0.438,
+        "rating_reasoning": "Angebots-Fit: Gebr. Pfeiffer betreibt komplexe Mahlanlagen mit hohem Energieverbrauch — KI-Optimierung fuer Energieeffizienz und Predictive Maintenance sind niedrig haengende Fruechte. Kleinere Firma, aber als Weltmarktfuehrer investitionsfaehig."
+      },
+      "contact_persons": [
+        {
+          "name": "n/a",
+          "role": "Geschaeftsfuehrung / Leiter Technik",
+          "linkedin": null,
+          "confidence": "LOW",
+          "notes": null
+        }
+      ],
+      "outreach": null,
+      "overall_score": 0.46
+    },
+    {
+      "company": {
+        "name": "SCHOTT Pharma AG & Co. KGaA",
+        "website": "schott-pharma.com",
+        "address": "Mainz, Rheinland-Pfalz",
+        "industry": "Pharma-Verpackung - Primaerverpackungen & Drug-Delivery-Systeme",
+        "source": null
+      },
+      "pipeline": "KI",
+      "tier": "TIER2",
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.8,
+          "activity_reasoning": "986 Mio EUR Umsatz GJ 2025 (+5,8% waehrungsbereinigt). 4.800 MA aus 65+ Nationen. Boersennotiert im SDAX. Investitionen in neue Produktionskapazitaeten und modernisierte Anlagen.",
+          "recent_news": [
+            "SCHOTT Pharma erreicht Jahresziele: 986 Mio EUR Umsatz GJ 2025 (+5,8%)",
+            "Aktualisierte Mittelfristprognose und Ausblick GJ 2026 veroeffentlicht"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "KI in Produktion / EU AI Act",
+          "affinity_score": 0.65,
+          "affinity_reasoning": "SIGNALE: [+18|C] Pharma-Glasproduktion erfordert hoechste Qualitaetskontrolle — KI-Potenzial fuer automatisierte optische Inspektion (AOI) von Glasflaeschchen, Spritzen, Karpulen, Quelle: schott-pharma.com (geschaetzt) | [+20|B] GMP-regulierte Fertigung, EU-Pharma-Gesetzgebung, FDA-Konformitaet + kuenftig EU AI Act fuer automatisierte QA in Pharma-Primaerverpackung, Quelle: schott-pharma.com | [+12|C] Neue Produktionskapazitaeten erfordern digitale Fertigungssteuerung (MES/ERP-Integration), (geschaetzt) | [+10|D] Starkes Wachstum erzeugt Skalierungsdruck fuer Qualitaetssicherung = 60/100 -> 0.65 wegen sehr starkem B-Signal (Pharma-Regulierung + AI Act)",
+          "relevant_news": []
+        },
+        "combined_score": 0.71
+      },
+      "financials": {
+        "revenue_estimate": "986 Mio EUR (GJ 2025)",
+        "profit_estimate": null,
+        "employee_count": 4800,
+        "hiring_activity": {
+          "general_hiring_score": 0.6,
+          "total_job_postings": null,
+          "hiring_reasoning": "Wachstum und neue Produktionskapazitaeten erfordern Personalaufbau; aktive Stellenausschreibungen in Produktion, Qualitaet, IT (geschaetzt)."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.45,
+          "relevant_job_postings": null,
+          "topic_hiring_reasoning": "Keine konkreten KI/ML-Stellen in Suchergebnissen sichtbar; Bedarf fuer automatisierte Qualitaetskontrolle in GMP-Umfeld hoch (geschaetzt).",
+          "example_positions": [
+            "Qualitaetsingenieur GMP-Produktion",
+            "IT-Projektleiter MES-Integration (geschaetzt)",
+            "Automatisierungsingenieur Pharma-Verpackung (geschaetzt)"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.8,
+          "financial_health_score": 0.85,
+          "pressure_score": 0.8,
+          "strategic_reasoning": "Angebots-Fit: SCHOTT Pharma hat hoechsten regulatorischen Druck (GMP, FDA, EU AI Act fuer Hochrisiko-Pharma-QA). KI-gestuetzte automatisierte optische Inspektion in der Glasproduktion ist idealer NeoGeo-Use-Case: auditierbar, EU-hosted, langfristig betreut."
+        },
+        "customer_rating": 0.647,
+        "rating_reasoning": "Angebots-Fit: SCHOTT Pharma hat hoechsten regulatorischen Druck (GMP, FDA, EU AI Act fuer Hochrisiko-Pharma-QA). KI-gestuetzte automatisierte optische Inspektion in der Glasproduktion ist idealer NeoGeo-Use-Case: auditierbar, EU-hosted, langfristig betreut."
+      },
+      "contact_persons": [
+        {
+          "name": "n/a",
+          "role": "CTO / VP Quality & Production",
+          "linkedin": null,
+          "confidence": "LOW",
+          "notes": null
+        }
+      ],
+      "outreach": null,
+      "overall_score": 0.646
+    },
+    {
+      "company": {
+        "name": "Jenoptik AG",
+        "website": "jenoptik.de",
+        "address": "Jena, Thueringen",
+        "industry": "Photonik & Optoelektronik - Halbleiter, Automotive, Life Science",
+        "source": null
+      },
+      "pipeline": "KI",
+      "tier": "TIER2",
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.7,
+          "activity_reasoning": "1.046 Mio EUR Umsatz (GJ 2025). Ca. 4.500 MA weltweit. Boersennotiert im MDAX. Groesste Einzelinvestition: neue Fabrik in Dresden (2025). Kunden profitieren von Megatrends Digitalisierung, KI, E-Mobilitaet.",
+          "recent_news": [
+            "Jenoptik gut in 2026 gestartet: Q1-Umsatz ueber Vorjahr",
+            "Neue Fabrik in Dresden — groesste Einzelinvestition der juengeren Geschichte (2025)"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "KI in Produktion / EU AI Act",
+          "affinity_score": 0.7,
+          "affinity_reasoning": "SIGNALE: [+18|C] Jenoptik-Kunden profitieren von KI-Megatrend — massive Investitionen in KI-Datencenter treiben Halbleiter-Nachfrage, Quelle: jenoptik.de | [+15|C] Neue Hightech-Fabrik in Dresden mit modernster Fertigungstechnologie — erfordert digitale Produktionssteuerung und KI-Qualitaetskontrolle (geschaetzt) | [+15|B] Halbleiter-Fertigung unterliegt hoechsten Reinraum- und Qualitaetsstandards; EU Chips Act + EU AI Act relevant (geschaetzt) | [+12|D] Groesste Einzelinvestition der Unternehmensgeschichte in neue Fabrik erzeugt Bedarf fuer modernste Produktionstechnologie inkl. KI, Quelle: jenoptik.de = 60/100 -> 0.70 wegen starkem C+B+D-Mix ueber 3 Kategorien",
+          "relevant_news": []
+        },
+        "combined_score": 0.7
+      },
+      "financials": {
+        "revenue_estimate": "1.046 Mio EUR (GJ 2025)",
+        "profit_estimate": null,
+        "employee_count": 4500,
+        "hiring_activity": {
+          "general_hiring_score": 0.6,
+          "total_job_postings": null,
+          "hiring_reasoning": "Neue Fabrik in Dresden erfordert erheblichen Personalaufbau; aktive Stellenausschreibungen in Produktion, Entwicklung, IT (geschaetzt)."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.5,
+          "relevant_job_postings": null,
+          "topic_hiring_reasoning": "Halbleiter- und Optik-Fertigung mit hohem KI-Potenzial; Stellen fuer Automatisierung und Qualitaetssicherung in neuer Fabrik wahrscheinlich (geschaetzt).",
+          "example_positions": [
+            "Prozessingenieur Halbleiterfertigung (geschaetzt)",
+            "Automatisierungsingenieur Reinraum (geschaetzt)",
+            "Software Developer Produktionssteuerung"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.8,
+          "financial_health_score": 0.75,
+          "pressure_score": 0.75,
+          "strategic_reasoning": "Angebots-Fit: Jenoptik baut neue Fabrik in Dresden — KI-Integration in Halbleiter-Qualitaetskontrolle und Reinraum-Produktionssteuerung von Anfang an. EU Chips Act und AI Act erfordern auditierbare KI-Systeme. NeoGeos Kernkompetenz passt."
+        },
+        "customer_rating": 0.65,
+        "rating_reasoning": "Angebots-Fit: Jenoptik baut neue Fabrik in Dresden — KI-Integration in Halbleiter-Qualitaetskontrolle und Reinraum-Produktionssteuerung von Anfang an. EU Chips Act und AI Act erfordern auditierbare KI-Systeme. NeoGeos Kernkompetenz passt."
+      },
+      "contact_persons": [
+        {
+          "name": "n/a",
+          "role": "COO / Leiter Operations Advanced Photonic Solutions",
+          "linkedin": null,
+          "confidence": "LOW",
+          "notes": null
+        }
+      ],
+      "outreach": null,
+      "overall_score": 0.644
+    },
+    {
+      "company": {
+        "name": "DUERR DENTAL SE",
+        "website": "duerrdental.com",
+        "address": "Bietigheim-Bissingen, Baden-Wuerttemberg",
+        "industry": "Medizintechnik - Dentalgeraete & Diagnostische Systeme",
+        "source": null
+      },
+      "pipeline": "KI",
+      "tier": "TIER2",
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.8,
+          "activity_reasoning": "381 Mio EUR Umsatz (2025), ca. 1.400 MA weltweit (500 am Stammsitz). Kunden in 174 Laendern. Marktfuehrer fuer Equipment, Diagnostik, Zahnerhaltung und Hygiene in der Zahnarztpraxis.",
+          "recent_news": [
+            "DUERR DENTAL mit ueber 381 Mio EUR Umsatz in 2025, Kunden in 174 Laendern",
+            "Vision: Medizintechnik stets innovativ weiterdenken"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "KI in Produktion / EU AI Act",
+          "affinity_score": 0.58,
+          "affinity_reasoning": "SIGNALE: [+18|B] Diagnostische Systeme (Roentgen, intraorale Kameras) sind Medizinprodukte (MDR Klasse IIa/IIb) — KI-gestuetzte Bildauswertung unterliegt EU AI Act Hochrisiko-Kategorie, (geschaetzt) | [+15|C] Diagnostische Bildgebung (digitales Roentgen, Panoramaroentgen) bietet ideale Grundlage fuer KI-gestuetzte Befunderkennung (geschaetzt) | [+12|C] Equipment-Produktion am Stammsitz mit Potenzial fuer Predictive Maintenance und Qualitaetskontrolle (geschaetzt) | [+8|D] Innovationsstrategie 'Medizintechnik innovativ weiterdenken' signalisiert Investitionsbereitschaft (geschaetzt) = 53/100 -> 0.58 wegen starkem B-Signal (MDR + AI Act fuer diagnostische KI)",
+          "relevant_news": []
+        },
+        "combined_score": 0.668
+      },
+      "financials": {
+        "revenue_estimate": "381 Mio EUR (2025)",
+        "profit_estimate": null,
+        "employee_count": 1400,
+        "hiring_activity": {
+          "general_hiring_score": 0.5,
+          "total_job_postings": null,
+          "hiring_reasoning": "Moderate Stellenausschreibungen in Entwicklung, Produktion und Vertrieb am Stammsitz (geschaetzt)."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.4,
+          "relevant_job_postings": null,
+          "topic_hiring_reasoning": "Diagnostische Bildgebung erfordert perspektivisch KI-Kompetenz; keine konkreten KI-Stellen sichtbar (geschaetzt).",
+          "example_positions": [
+            "Software Developer Diagnostische Systeme (geschaetzt)",
+            "Regulatory Affairs Manager MDR",
+            "Bildverarbeitungsingenieur (geschaetzt)"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.85,
+          "financial_health_score": 0.8,
+          "pressure_score": 0.7,
+          "strategic_reasoning": "Angebots-Fit: DUERR DENTAL hat Diagnostik-Systeme mit KI-Potenzial (Roentgen-Bildauswertung) — EU AI Act trifft bei medizinischer KI-Diagnostik. NeoGeos auditierbare KI-Integration passt fuer MDR-konforme Befunderkennung."
+        },
+        "customer_rating": 0.595,
+        "rating_reasoning": "Angebots-Fit: DUERR DENTAL hat Diagnostik-Systeme mit KI-Potenzial (Roentgen-Bildauswertung) — EU AI Act trifft bei medizinischer KI-Diagnostik. NeoGeos auditierbare KI-Integration passt fuer MDR-konforme Befunderkennung."
+      },
+      "contact_persons": [
+        {
+          "name": "n/a",
+          "role": "Leiter F&E Diagnostische Systeme",
+          "linkedin": null,
+          "confidence": "LOW",
+          "notes": null
+        }
+      ],
+      "outreach": null,
+      "overall_score": 0.591
+    },
+    {
+      "company": {
+        "name": "Weidmueller Interface GmbH & Co. KG",
+        "website": "weidmueller.de",
+        "address": "Detmold, Nordrhein-Westfalen",
+        "industry": "Elektrotechnik - Verbindungstechnik & Industrial Connectivity",
+        "source": null
+      },
+      "pipeline": "KI",
+      "tier": "TIER1",
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.75,
+          "activity_reasoning": "Ueber 1 Mrd EUR Umsatz (GJ 2025, moderates Wachstum). Ca. 5.500 MA weltweit (2.000 am Stammsitz Detmold). 175-jaehriges Jubilaeum 2025. Neues Produktionsgebaeude am Stammsitz.",
+          "recent_news": [
+            "Weidmueller feiert 175 Jahre mit Milliardenumsatz und Innovationen (2025)",
+            "AI CoE — Center of Excellence fuer KI-Einfuehrung und Skalierung im Unternehmen"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "KI in Produktion / EU AI Act",
+          "affinity_score": 0.82,
+          "affinity_reasoning": "SIGNALE: [+25|A] AI CoE (Center of Excellence) — dediziertes Team fuer Einfuehrung und Skalierung von KI-Loesungen im gesamten Unternehmen, verbindet Business, IT und Datenplattformen, Quelle: weidmueller.de | [+18|C] KI-Loesungen prozessbezogen in die Praxis bringen — State-of-the-Art AI mit Geschaeftsmehrwert, Quelle: weidmueller.de Karriereseite | [+15|B] ISO-zertifizierte Produktion, Maschinenbau-/Energietechnik-Kunden mit NIS2/KRITIS-Kontext (geschaetzt) | [+12|C] Neues hochmodernes Produktionsgebaeude am Stammsitz — moderne Fertigungs-IT als Grundlage (geschaetzt) | [+10|D] 175-Jahre-Jubilaeum mit strategischer Neuausrichtung und Milliardenumsatz, Quelle: produktion.de = 80/100 -> 0.82 wegen sehr starkem A-Signal (AI CoE) und C+B-Kombi",
+          "relevant_news": []
+        },
+        "combined_score": 0.792
+      },
+      "financials": {
+        "revenue_estimate": "1+ Mrd EUR (GJ 2025)",
+        "profit_estimate": null,
+        "employee_count": 5500,
+        "hiring_activity": {
+          "general_hiring_score": 0.65,
+          "total_job_postings": null,
+          "hiring_reasoning": "Aktive Stellenausschreibungen insbesondere in AI CoE, IT und Produktion; Personalaufbau am neuen Produktionsgebaeude."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.75,
+          "relevant_job_postings": null,
+          "topic_hiring_reasoning": "AI CoE sucht aktiv KI-/ML-Kompetenz fuer Skalierung im Unternehmen; prozessbezogene KI-Implementierung als Kernaufgabe, Quelle: weidmueller.de.",
+          "example_positions": [
+            "AI/ML Engineer AI CoE",
+            "Data Platform Engineer (geschaetzt)",
+            "KI Solution Architect Produktion (geschaetzt)"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.7,
+          "financial_health_score": 0.8,
+          "pressure_score": 0.65,
+          "strategic_reasoning": "Angebots-Fit: Weidmueller hat ein dediziertes AI CoE und skaliert KI aktiv — braucht moeglicherweise externe Partner fuer spezifische KI-in-Produktion-Integration, EU-AI-Act-Compliance und auditing. NeoGeos Kompetenz ergaenzt internes AI CoE bei regulatorischen Anforderungen. Leicht ueber Zielgroesse (5.500 MA), aber als OWL-Familienunternehmen kulturell mittelstaendisch."
+        },
+        "customer_rating": 0.695,
+        "rating_reasoning": "Angebots-Fit: Weidmueller hat ein dediziertes AI CoE und skaliert KI aktiv — braucht moeglicherweise externe Partner fuer spezifische KI-in-Produktion-Integration, EU-AI-Act-Compliance und auditing. NeoGeos Kompetenz ergaenzt internes AI CoE bei regulatorischen Anforderungen. Leicht ueber Zielgroesse (5.500 MA), aber als OWL-Familienunternehmen kulturell mittelstaendisch."
+      },
+      "contact_persons": [
+        {
+          "name": "n/a",
+          "role": "Leiter AI CoE / CDO",
+          "linkedin": null,
+          "confidence": "LOW",
+          "notes": null
+        }
+      ],
+      "outreach": null,
+      "overall_score": 0.731
+    },
+    {
+      "company": {
+        "name": "Inter Versicherungsgruppe",
+        "website": "inter.de",
+        "address": "Mannheim, Baden-Württemberg",
+        "industry": "Versicherung – Kranken-, Lebens- und Sachversicherung",
+        "source": null
+      },
+      "pipeline": "KI",
+      "tier": "TIER2",
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.78,
+          "activity_reasoning": "Solider Mittelstandsversicherer mit 100-jähriger Geschichte (2026: Jubiläum Inter Krankenversicherung). Beitragseinnahmen 2024 bei 1,07 Mrd EUR, stabil wachsend.",
+          "recent_news": [
+            "Inter feiert 2026 100-jähriges Jubiläum der Inter Krankenversicherung AG",
+            "Modernisierung des Hauptsitzes Mannheim mit neuem Raumkonzept (2025)"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "KI in Produktion / EU AI Act",
+          "affinity_score": 0.58,
+          "affinity_reasoning": "SIGNALE: [+10|A] Mehrere IT-/Daten-Stellen gleichzeitig: Data-Lake/Data-Warehouse-Architekt (Apache Spark, Delta Lake, Python), IT-Governance (VAIT/BAIT), Quelle: Stepstone/Indeed 2025 | [+12|C] Bestehende SAP/ERP/Legacy-Landschaft: Produktmanagement-Stellen für Digitalisierung und Prozessoptimierung, Legacy-Modernisierung erkennbar (geschätzt) | [+15|B] VAIT/BAIT-Kontext: IT-Governance-Stelle zur Umsetzung regulatorischer IT-Anforderungen, Quelle: Stepstone 2025 | [+12|B] Hochrisiko-KI-Bezug: Versicherungsmathematische Scoring-Modelle fallen unter EU AI Act Annex III (geschätzt) | [+8|C] Microsoft/Azure-Stack (geschätzt) = 57/100 → 0.58",
+          "relevant_news": []
+        },
+        "combined_score": 0.66
+      },
+      "financials": {
+        "revenue_estimate": "1,07 Mrd EUR (Beiträge 2024)",
+        "profit_estimate": null,
+        "employee_count": 1600,
+        "hiring_activity": {
+          "general_hiring_score": 0.55,
+          "total_job_postings": 20,
+          "hiring_reasoning": "Ca. 20 offene Stellen in Mannheim, Schwerpunkte IT-Governance, Data Architecture, Produktmanagement Digitalisierung."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.45,
+          "relevant_job_postings": 3,
+          "topic_hiring_reasoning": "KI/ML/Data-Stellen: Data-Lake/Warehouse-Architekt (Spark, Delta Lake, Python, Kafka), IT-Governance VAIT/BAIT. Kein dediziertes KI-Team erkennbar.",
+          "example_positions": [
+            "Data Architect (Apache Spark, Delta Lake, Python)",
+            "IT Governance Specialist (VAIT/BAIT)",
+            "Produktmanager Digitalisierung"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.85,
+          "financial_health_score": 0.75,
+          "pressure_score": 0.65,
+          "strategic_reasoning": "Angebots-Fit: Mittelständischer Versicherer baut Data-Lake-Infrastruktur auf – idealer Zeitpunkt für KI-Integration in Bestandsprozesse (Underwriting, Schadenbearbeitung). EU AI Act erzeugt Compliance-Druck bei versicherungsmathematischen Scoring-Modellen. NeoGeo kann auditierbare KI-Lösungen in bestehende IT-Landschaft integrieren."
+        },
+        "customer_rating": 0.605,
+        "rating_reasoning": "Angebots-Fit: Mittelständischer Versicherer baut Data-Lake-Infrastruktur auf – idealer Zeitpunkt für KI-Integration in Bestandsprozesse (Underwriting, Schadenbearbeitung). EU AI Act erzeugt Compliance-Druck bei versicherungsmathematischen Scoring-Modellen. NeoGeo kann auditierbare KI-Lösungen in bestehende IT-Landschaft integrieren."
+      },
+      "contact_persons": [
+        {
+          "name": "Roberto Svenda",
+          "role": "Vorstandsvorsitzender",
+          "linkedin": null,
+          "confidence": "MEDIUM",
+          "notes": null
+        }
+      ],
+      "outreach": null,
+      "overall_score": 0.6
+    },
+    {
+      "company": {
+        "name": "Alte Leipziger – Hallesche (ALH Gruppe)",
+        "website": "alh.de",
+        "address": "Oberursel, Hessen",
+        "industry": "Versicherung – Lebens-, Kranken- und Sachversicherung",
+        "source": null
+      },
+      "pipeline": "KI",
+      "tier": "TIER2",
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.82,
+          "activity_reasoning": "Starkes Wachstum: Beitragseinnahmen 2025 erstmals über 3 Mrd EUR, Gesamtumsatz nähert sich 6 Mrd EUR. Solide aufgestellt als Versicherungsverein auf Gegenseitigkeit.",
+          "recent_news": [
+            "ALH Gruppe steigert Gesamtumsatz 2025 auf knapp 6 Mrd EUR",
+            "Vorstand Jochen Kriegmaier verantwortet Digitalisierung, KI und Serviceprozesse (2025)"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "KI in Produktion / EU AI Act",
+          "affinity_score": 0.62,
+          "affinity_reasoning": "SIGNALE: [+15|D] Dedizierter Vorstand für KI/Digitalisierung: Jochen Kriegmaier verantwortet Digitalisierung, KI und Serviceprozesse, Quelle: Cash-Online 2025 | [+8|D] KI-Strategie mit Zeithorizont 2026: 'KI und Automatisierung zukünftig mehr Schub geben', vieles noch in Pilotierung, Quelle: ALH-Pressemitteilung 2025 | [+12|B] Hochrisiko-KI-Bezug: Versicherungsmathematische Scoring-/Entscheidungsmodelle EU AI Act Annex III (geschätzt) | [+10|C] Datensilo-/Integrations-/Legacy-Probleme: KI noch in Pilotierung, Skalierungsbedarf erkennbar (geschätzt) | [+15|D] Neuer Vertriebsvorstand Christian Pape mit Digitalisierungsfokus (Feb 2026), Quelle: Cash-Online = 60/100 → 0.62",
+          "relevant_news": []
+        },
+        "combined_score": 0.7
+      },
+      "financials": {
+        "revenue_estimate": "~6 Mrd EUR Gesamtumsatz (2025, Beiträge >3 Mrd EUR)",
+        "profit_estimate": null,
+        "employee_count": 2075,
+        "hiring_activity": {
+          "general_hiring_score": 0.55,
+          "total_job_postings": null,
+          "hiring_reasoning": "Kontinuierliche Einstellungen in Oberursel, Schwerpunkt IT und Digitalisierung. Genaue Zahl offener Stellen nicht ermittelt."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.4,
+          "relevant_job_postings": null,
+          "topic_hiring_reasoning": "KI/ML/Data-Stellen: Pilotierungsphase erkennbar, dedizierte KI-Rollen noch im Aufbau (geschätzt). Vorstand plant mehr Schub für KI.",
+          "example_positions": [
+            "IT-Spezialist Digitalisierung (geschätzt)",
+            "Business Analyst KI-Pilotprojekte (geschätzt)",
+            "Data Analyst Serviceprozesse (geschätzt)"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.8,
+          "financial_health_score": 0.85,
+          "pressure_score": 0.65,
+          "strategic_reasoning": "Angebots-Fit: ALH hat explizit einen Vorstand für KI & Digitalisierung benannt, KI ist noch in der Pilotierung – NeoGeo kann beim Übergang von Pilotprojekten zu produktionsreifer, auditierbarer KI in Schadenbearbeitung und Underwriting unterstützen. EU AI Act Compliance-Druck bei Scoring-Modellen."
+        },
+        "customer_rating": 0.578,
+        "rating_reasoning": "Angebots-Fit: ALH hat explizit einen Vorstand für KI & Digitalisierung benannt, KI ist noch in der Pilotierung – NeoGeo kann beim Übergang von Pilotprojekten zu produktionsreifer, auditierbarer KI in Schadenbearbeitung und Underwriting unterstützen. EU AI Act Compliance-Druck bei Scoring-Modellen."
+      },
+      "contact_persons": [
+        {
+          "name": "Jochen Kriegmaier",
+          "role": "Vorstand Digitalisierung, KI und Serviceprozesse",
+          "linkedin": null,
+          "confidence": "HIGH",
+          "notes": null
+        }
+      ],
+      "outreach": null,
+      "overall_score": 0.599
+    },
+    {
+      "company": {
+        "name": "Bayerische Beamten Versicherungsgruppe (die Bayerische)",
+        "website": "diebayerische.de",
+        "address": "München, Bayern",
+        "industry": "Versicherung – Lebens-, Kranken- und Sachversicherung",
+        "source": null
+      },
+      "pipeline": "KI",
+      "tier": "TIER1",
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.78,
+          "activity_reasoning": "Wachstumskurs: Beitragseinnahmen 2024 bei 979 Mio EUR (+7,2% ggü. Vorjahr), 1,1 Mio Kunden. Familienversicherer mit Fokus auf Kernzielgruppen.",
+          "recent_news": [
+            "Die Bayerische gewinnt Johannes Oberhofer als KI-Experten für Leitung der KI-Strategie (2024)",
+            "Digital Hub mit kostenloser KI-Beratung für KMU gestartet (2025)"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "KI in Produktion / EU AI Act",
+          "affinity_score": 0.72,
+          "affinity_reasoning": "SIGNALE: [+15|D] Neuer KI-Verantwortlicher: Johannes Oberhofer leitet KI-Projekt, verantwortet Implementierung und Ausbau der KI-Strategie, Quelle: Versicherungsmagazin 2024 | [+18|C] KI-Pilot in Produktion: Digital Hub mit KI-Beratung für bAV und Gewerbeversicherung, KI-Deployment erkennbar, Quelle: Cash-Online 2025 | [+12|B] Hochrisiko-KI-Bezug: Versicherungsmathematische Scoring-Modelle EU AI Act Annex III (geschätzt) | [+15|B] TISAX/ISO-Kontext: Regulatorischer Versicherungskontext (VAIT, Solvency II) (geschätzt) | [+10|A] Mehrere IT-/Daten-Stellen gleichzeitig: Aufbau KI-Team erkennbar (geschätzt) = 70/100 → 0.72",
+          "relevant_news": []
+        },
+        "combined_score": 0.744
+      },
+      "financials": {
+        "revenue_estimate": "979 Mio EUR (Beiträge 2024)",
+        "profit_estimate": null,
+        "employee_count": 900,
+        "hiring_activity": {
+          "general_hiring_score": 0.6,
+          "total_job_postings": null,
+          "hiring_reasoning": "Aktiver Aufbau eines KI-Teams unter Leitung von Johannes Oberhofer. Einstellungen in München, genaue Zahl nicht ermittelt."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.6,
+          "relevant_job_postings": null,
+          "topic_hiring_reasoning": "KI/ML/Data-Stellen: Dedizierter KI-Projektleiter eingestellt (Oberhofer), KI-Hub gestartet – Aufbauphase erkennbar (geschätzt).",
+          "example_positions": [
+            "KI-Projektleiter (Johannes Oberhofer, besetzt)",
+            "Data Scientist Versicherungsprodukte (geschätzt)",
+            "KI-Berater Digital Hub (geschätzt)"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.9,
+          "financial_health_score": 0.75,
+          "pressure_score": 0.7,
+          "strategic_reasoning": "Angebots-Fit: Die Bayerische hat einen dedizierten KI-Verantwortlichen eingestellt und einen KI-Digital-Hub gelauncht – signalisiert Budget und strategischen Willen. Idealer Zeitpunkt für NeoGeo: KI-Strategie wird umgesetzt, auditierbare Produktionslösungen benötigt für Underwriting und Schadenbearbeitung unter EU AI Act."
+        },
+        "customer_rating": 0.69,
+        "rating_reasoning": "Angebots-Fit: Die Bayerische hat einen dedizierten KI-Verantwortlichen eingestellt und einen KI-Digital-Hub gelauncht – signalisiert Budget und strategischen Willen. Idealer Zeitpunkt für NeoGeo: KI-Strategie wird umgesetzt, auditierbare Produktionslösungen benötigt für Underwriting und Schadenbearbeitung unter EU AI Act."
+      },
+      "contact_persons": [
+        {
+          "name": "Johannes Oberhofer",
+          "role": "Leiter KI-Projekt / KI-Strategie",
+          "linkedin": null,
+          "confidence": "HIGH",
+          "notes": null
+        }
+      ],
+      "outreach": null,
+      "overall_score": 0.685
+    },
+    {
+      "company": {
+        "name": "Mecklenburgische Versicherungs-Gesellschaft a. G.",
+        "website": "mecklenburgische.de",
+        "address": "Hannover, Niedersachsen",
+        "industry": "Versicherung – Sach-, Lebens- und Krankenversicherung",
+        "source": null
+      },
+      "pipeline": "KI",
+      "tier": "TIER3",
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.72,
+          "activity_reasoning": "Einer der ältesten unabhängigen Versicherer Deutschlands (gegr. 1797). Ca. 450 Mio EUR Beitragseinnahmen, stabil. Auszeichnung 'Deutschlands Beste Arbeitgeber 2025'.",
+          "recent_news": [
+            "Mecklenburgische als 'Deutschlands Beste Arbeitgeber 2025' ausgezeichnet (stern.de)",
+            "Trotz Rekordschäden auf der Gewinnspur (2024)"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "KI in Produktion / EU AI Act",
+          "affinity_score": 0.48,
+          "affinity_reasoning": "SIGNALE: [+12|B] Hochrisiko-KI-Bezug: Versicherungsmathematische Scoring-/Entscheidungsmodelle unter EU AI Act (geschätzt) | [+10|C] Datensilo-/Legacy-Probleme: Traditioneller Versicherer mit 800+ Agenturen, hoher Integrationsbedarf (geschätzt) | [+12|C] Bestehende IT-Landschaft mit Modernisierungsbedarf (geschätzt) | [+8|D] KI-Strategie branchenweit bis 2026: ver.di-Tarifvertrag KI in Versicherungen verhandelt (geschätzt) = 42/100 → 0.48",
+          "relevant_news": []
+        },
+        "combined_score": 0.576
+      },
+      "financials": {
+        "revenue_estimate": "~450 Mio EUR (Beiträge, geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 700,
+        "hiring_activity": {
+          "general_hiring_score": 0.4,
+          "total_job_postings": null,
+          "hiring_reasoning": "Kleinerer Versicherer mit begrenztem Einstellungsvolumen. Keine spezifischen KI-Stellen öffentlich gefunden."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.25,
+          "relevant_job_postings": null,
+          "topic_hiring_reasoning": "KI/ML/Data-Stellen: Keine dedizierten KI-/Data-Stellen öffentlich gefunden. Branchendruck durch ver.di KI-Tarifvertrag 2026 (geschätzt).",
+          "example_positions": [
+            "IT-Sachbearbeiter (geschätzt)",
+            "Projektmanager Digitalisierung (geschätzt)"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.85,
+          "financial_health_score": 0.7,
+          "pressure_score": 0.55,
+          "strategic_reasoning": "Angebots-Fit: Traditioneller Mittelstandsversicherer mit 800+ Agenturen und entsprechendem Legacy-/Integrationsbedarf. EU AI Act erzeugt Compliance-Druck bei Scoring-Modellen. NeoGeo kann auditierbare KI-Lösungen liefern, die den Modernisierungsbedarf bedienen."
+        },
+        "customer_rating": 0.483,
+        "rating_reasoning": "Angebots-Fit: Traditioneller Mittelstandsversicherer mit 800+ Agenturen und entsprechendem Legacy-/Integrationsbedarf. EU AI Act erzeugt Compliance-Druck bei Scoring-Modellen. NeoGeo kann auditierbare KI-Lösungen liefern, die den Modernisierungsbedarf bedienen."
+      },
+      "contact_persons": [
+        {
+          "name": "Vorstand IT (nicht ermittelt)",
+          "role": "IT-Vorstand",
+          "linkedin": null,
+          "confidence": "LOW",
+          "notes": null
+        }
+      ],
+      "outreach": null,
+      "overall_score": 0.478
+    },
+    {
+      "company": {
+        "name": "Öffentliche Versicherung Braunschweig",
+        "website": "oeffentliche.de",
+        "address": "Braunschweig, Niedersachsen",
+        "industry": "Versicherung – Sach-, Lebens- und Krankenversicherung",
+        "source": null
+      },
+      "pipeline": "KI",
+      "tier": "TIER2",
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.75,
+          "activity_reasoning": "Regionaler öffentlich-rechtlicher Versicherer mit 1.227 Mitarbeitern. Beitragseinnahmen 2025 bei 477,6 Mio EUR (+6,1%). Aktive Neueinstellungen insb. IT-Experten.",
+          "recent_news": [
+            "Beitragseinnahmen 2025 steigen um 6,1% auf 477,6 Mio EUR",
+            "20 Neueinstellungen, insbesondere IT-Experten und Vertriebskräfte (2025)"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "KI in Produktion / EU AI Act",
+          "affinity_score": 0.58,
+          "affinity_reasoning": "SIGNALE: [+20|A] ML/AI/Data-Stellen: Stellen für KI-Use-Case-Identifikation gemeinsam mit Fachabteilungen, Begleitung von der Idee bis zur Umsetzung, Quelle: Indeed 2025 | [+12|B] Hochrisiko-KI-Bezug: Versicherungsmathematische Scoring-Modelle EU AI Act (geschätzt) | [+10|A] Mehrere IT-/Daten-Stellen gleichzeitig: Aktiver IT-Aufbau, 20 Neueinstellungen (IT-Schwerpunkt), Quelle: bs-live.de 2025 | [+10|C] Datensilo-/Legacy-Probleme: Regionaler Versicherer mit Modernisierungsbedarf (geschätzt) = 52/100 → 0.58",
+          "relevant_news": []
+        },
+        "combined_score": 0.648
+      },
+      "financials": {
+        "revenue_estimate": "477,6 Mio EUR (Beiträge 2025)",
+        "profit_estimate": null,
+        "employee_count": 1227,
+        "hiring_activity": {
+          "general_hiring_score": 0.6,
+          "total_job_postings": null,
+          "hiring_reasoning": "Aktive Einstellungsphase: 20 neue Mitarbeiter in 2025, Schwerpunkt IT-Experten. Aufbau-Phase erkennbar."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.55,
+          "relevant_job_postings": null,
+          "topic_hiring_reasoning": "KI/ML/Data-Stellen: Explizite KI-Use-Case-Rolle gefunden – Mitarbeiter identifizieren KI-Anwendungsfälle und begleiten sie zur Umsetzung, Quelle: Indeed 2025.",
+          "example_positions": [
+            "KI-Use-Case-Spezialist (Fachabteilungsbegleitung)",
+            "IT-Experte (Neueinstellung 2025)",
+            "Datenanalyst Versicherung (geschätzt)"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.9,
+          "financial_health_score": 0.75,
+          "pressure_score": 0.6,
+          "strategic_reasoning": "Angebots-Fit: Aktiv KI-Use-Cases identifizierend – sucht explizit Mitarbeiter, die KI-Anwendungen von der Idee bis zur Produktion begleiten. Idealer Einstiegspunkt für NeoGeo: auditierbare KI-Integration in Versicherungsprozesse, EU AI Act Compliance bei Scoring-Modellen."
+        },
+        "customer_rating": 0.642,
+        "rating_reasoning": "Angebots-Fit: Aktiv KI-Use-Cases identifizierend – sucht explizit Mitarbeiter, die KI-Anwendungen von der Idee bis zur Produktion begleiten. Idealer Einstiegspunkt für NeoGeo: auditierbare KI-Integration in Versicherungsprozesse, EU AI Act Compliance bei Scoring-Modellen."
+      },
+      "contact_persons": [
+        {
+          "name": "KI-Verantwortlicher (nicht ermittelt)",
+          "role": "Leiter Digitalisierung / KI",
+          "linkedin": null,
+          "confidence": "LOW",
+          "notes": null
+        }
+      ],
+      "outreach": null,
+      "overall_score": 0.631
+    },
+    {
+      "company": {
+        "name": "Concordia Versicherungs-Gesellschaft a. G.",
+        "website": "concordia.de",
+        "address": "Hannover, Niedersachsen",
+        "industry": "Versicherung – Sach-, Lebens- und Krankenversicherung",
+        "source": null
+      },
+      "pipeline": "KI",
+      "tier": "TIER3",
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.76,
+          "activity_reasoning": "Wachstum über Marktniveau: Beitragseinnahmen 2025 bei 1,13 Mrd EUR (+8,7%). Starkes Wachstum in Krankenversicherung (+14,5%). Solide Marktposition.",
+          "recent_news": [
+            "Concordia steigert Beitragseinnahmen 2025 um 8,7% auf 1,13 Mrd EUR (über Markt)",
+            "Krankenversicherung wächst 14,5% auf 136,6 Mio EUR (2025)"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "KI in Produktion / EU AI Act",
+          "affinity_score": 0.48,
+          "affinity_reasoning": "SIGNALE: [+12|B] Hochrisiko-KI-Bezug: Versicherungsmathematische Scoring-/Entscheidungsmodelle EU AI Act Annex III (geschätzt) | [+10|C] Bestehende IT-Landschaft: Nutzung Maklerplattform SMART INSUR für Digitalisierung, Quelle: Concordia Presse | [+8|C] Microsoft/Azure-Stack (geschätzt) | [+10|C] Datensilo-/Legacy-Probleme: Traditioneller Versicherungsverein, Modernisierungsbedarf bei 1.250 MA (geschätzt) = 40/100 → 0.48",
+          "relevant_news": []
+        },
+        "combined_score": 0.592
+      },
+      "financials": {
+        "revenue_estimate": "1,13 Mrd EUR (Beiträge 2025)",
+        "profit_estimate": null,
+        "employee_count": 1250,
+        "hiring_activity": {
+          "general_hiring_score": 0.45,
+          "total_job_postings": null,
+          "hiring_reasoning": "Regelmäßige Einstellungen in Hannover. Keine auffälligen KI-spezifischen Stellenausschreibungen gefunden."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.3,
+          "relevant_job_postings": null,
+          "topic_hiring_reasoning": "KI/ML/Data-Stellen: Keine dedizierten KI-/ML-Stellen öffentlich gefunden. Digitalisierung über Maklerplattformen, nicht KI-fokussiert (geschätzt).",
+          "example_positions": [
+            "IT-Projektmanager (geschätzt)",
+            "Sachbearbeiter Digitale Prozesse (geschätzt)"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.9,
+          "financial_health_score": 0.78,
+          "pressure_score": 0.55,
+          "strategic_reasoning": "Angebots-Fit: Wachstumsstarker Mittelstandsversicherer mit Digitalisierungsbedarf. EU AI Act Compliance-Druck bei Scoring-Modellen. NeoGeo kann auditierbare KI in bestehende Prozesse (Underwriting, Schadenbearbeitung) integrieren – insb. bei Makler-Schnittstellen."
+        },
+        "customer_rating": 0.518,
+        "rating_reasoning": "Angebots-Fit: Wachstumsstarker Mittelstandsversicherer mit Digitalisierungsbedarf. EU AI Act Compliance-Druck bei Scoring-Modellen. NeoGeo kann auditierbare KI in bestehende Prozesse (Underwriting, Schadenbearbeitung) integrieren – insb. bei Makler-Schnittstellen."
+      },
+      "contact_persons": [
+        {
+          "name": "Vorstand IT (nicht ermittelt)",
+          "role": "Vorstand IT/Digitalisierung",
+          "linkedin": null,
+          "confidence": "LOW",
+          "notes": null
+        }
+      ],
+      "outreach": null,
+      "overall_score": 0.514
+    },
+    {
+      "company": {
+        "name": "Itzehoer Versicherungen (Itzehoer Versicherung / Brandgilde von 1691 VVaG)",
+        "website": "itzehoer.de",
+        "address": "Itzehoe, Schleswig-Holstein",
+        "industry": "Versicherung – Sach- und Kfz-Versicherung",
+        "source": null
+      },
+      "pipeline": "KI",
+      "tier": "TIER2",
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.74,
+          "activity_reasoning": "Größter unabhängiger Versicherer Schleswig-Holsteins. Beitragsaufkommen 2025 bei 940 Mio EUR. Wachstum im Kfz-Bereich. Neuer Finanzvorstand Wappler ab 2026.",
+          "recent_news": [
+            "Itzehoer startet Futuro-Programm: Komplett-Austausch versicherungstechnischer Systeme (2024/2025)",
+            "Neuer Finanzvorstand Marcel Wappler ab 2026"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "KI in Produktion / EU AI Act",
+          "affinity_score": 0.6,
+          "affinity_reasoning": "SIGNALE: [+18|C] KI-Pilot / Skalierung: Futuro-Programm = kompletter Austausch aller versicherungstechnischen Systeme (Antrag, Policierung, Provisionsabrechnung, Schaden, Inkasso), Quelle: Versicherungsbote 2025 | [+12|B] Hochrisiko-KI-Bezug: Kfz-Scoring, Schadenautomatisierung unter EU AI Act (geschätzt) | [+15|D] Neuer Finanzvorstand (Wappler, 2026): Potenzieller Budget-Impuls (geschätzt) | [+10|C] Legacy-Modernisierung: Futuro ersetzt Bestandssysteme, hoher Integrationsbedarf = 55/100 → 0.60",
+          "relevant_news": []
+        },
+        "combined_score": 0.656
+      },
+      "financials": {
+        "revenue_estimate": "940 Mio EUR (Beiträge 2025)",
+        "profit_estimate": null,
+        "employee_count": 900,
+        "hiring_activity": {
+          "general_hiring_score": 0.5,
+          "total_job_postings": null,
+          "hiring_reasoning": "Über 900 Beschäftigte, laufende Einstellungen. Futuro-Programm dürfte IT-Personalaufbau erfordern."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.4,
+          "relevant_job_postings": null,
+          "topic_hiring_reasoning": "KI/ML/Data-Stellen: Keine dedizierten KI-Stellen öffentlich gefunden. Futuro-Programm dürfte mittelfristig KI-Integrationsbedarf erzeugen (geschätzt).",
+          "example_positions": [
+            "IT-Projektmanager Futuro (geschätzt)",
+            "Softwareentwickler Versicherungssysteme (geschätzt)",
+            "Business Analyst Digitalisierung (geschätzt)"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.9,
+          "financial_health_score": 0.75,
+          "pressure_score": 0.65,
+          "strategic_reasoning": "Angebots-Fit: Futuro-Programm ersetzt ALLE versicherungstechnischen Bestandssysteme – massiver IT-Transformationsaufwand. Idealer Zeitpunkt für KI-Integration in die neuen Systeme von Anfang an. NeoGeo kann auditierbare KI-Module (Schadenautomatisierung, Kfz-Scoring) direkt in die neue Plattform integrieren."
+        },
+        "customer_rating": 0.59,
+        "rating_reasoning": "Angebots-Fit: Futuro-Programm ersetzt ALLE versicherungstechnischen Bestandssysteme – massiver IT-Transformationsaufwand. Idealer Zeitpunkt für KI-Integration in die neuen Systeme von Anfang an. NeoGeo kann auditierbare KI-Module (Schadenautomatisierung, Kfz-Scoring) direkt in die neue Plattform integrieren."
+      },
+      "contact_persons": [
+        {
+          "name": "Marcel Wappler",
+          "role": "Finanzvorstand (ab 2026)",
+          "linkedin": null,
+          "confidence": "MEDIUM",
+          "notes": null
+        }
+      ],
+      "outreach": null,
+      "overall_score": 0.58
+    },
+    {
+      "company": {
+        "name": "Stuttgarter Lebensversicherung a. G.",
+        "website": "stuttgarter.de",
+        "address": "Stuttgart, Baden-Württemberg",
+        "industry": "Versicherung – Lebens- und Rentenversicherung",
+        "source": null
+      },
+      "pipeline": "KI",
+      "tier": "TIER3",
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.76,
+          "activity_reasoning": "Rekordjahr 2024: Bestes Neugeschäft der Unternehmensgeschichte (Neugeschäft 2,17 Mrd EUR Beitragssumme). Eigenkapital auf Allzeithoch 214 Mio EUR. Fusion mit SDK (Süddeutsche Krankenversicherung) ab Juli 2025.",
+          "recent_news": [
+            "Bestes Neugeschäft der Unternehmensgeschichte 2024",
+            "Fusion mit Süddeutsche Krankenversicherung (SDK) als Gleichberechtigte ab Juli 2025, Verschmelzung 2026"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "KI in Produktion / EU AI Act",
+          "affinity_score": 0.52,
+          "affinity_reasoning": "SIGNALE: [+10|D] M&A/Fusion SDK-Stuttgarter: Verschmelzung 2026, massiver IT-Integrationsbedarf zweier Unternehmen, Quelle: Versicherungsmagazin 2025 | [+12|B] Hochrisiko-KI-Bezug: Lebensversicherungs-Scoring und Risikobewertung unter EU AI Act (geschätzt) | [+10|C] Datensilo-/Legacy-Probleme: Fusion erzeugt Datenintegrationsbedarf zweier IT-Landschaften (geschätzt) | [+12|C] Bestehende IT-Landschaft: Bilanzsumme 9,3 Mrd EUR, komplexe Bestandssysteme (geschätzt) | [+8|D] KI-Strategie 2026 branchenweit (geschätzt) = 52/100 → 0.52",
+          "relevant_news": []
+        },
+        "combined_score": 0.616
+      },
+      "financials": {
+        "revenue_estimate": "~700 Mio EUR (Beiträge, geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 700,
+        "hiring_activity": {
+          "general_hiring_score": 0.45,
+          "total_job_postings": null,
+          "hiring_reasoning": "Regelmäßige Einstellungen in Stuttgart. Fusion mit SDK dürfte IT-Personalaufbau erfordern. Genaue Zahl offener Stellen nicht ermittelt."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.3,
+          "relevant_job_postings": null,
+          "topic_hiring_reasoning": "KI/ML/Data-Stellen: Keine dedizierten KI-Stellen öffentlich gefunden. Fusion 2026 dürfte mittelfristig KI-/Data-Integrationsbedarf erzeugen (geschätzt).",
+          "example_positions": [
+            "IT-Integrationsmanager Fusion (geschätzt)",
+            "Aktuar / Datenanalyst (geschätzt)",
+            "Projektleiter Digitalisierung (geschätzt)"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.88,
+          "financial_health_score": 0.78,
+          "pressure_score": 0.55,
+          "strategic_reasoning": "Angebots-Fit: Fusion mit SDK erzeugt massiven IT-Integrationsbedarf zweier Bestandssysteme – idealer Zeitpunkt für KI-Integration. NeoGeo kann auditierbare KI-Lösungen in die konsolidierte Plattform einbauen (Risikomodelle, Antragsprüfung) unter EU AI Act Compliance."
+        },
+        "customer_rating": 0.514,
+        "rating_reasoning": "Angebots-Fit: Fusion mit SDK erzeugt massiven IT-Integrationsbedarf zweier Bestandssysteme – idealer Zeitpunkt für KI-Integration. NeoGeo kann auditierbare KI-Lösungen in die konsolidierte Plattform einbauen (Risikomodelle, Antragsprüfung) unter EU AI Act Compliance."
+      },
+      "contact_persons": [
+        {
+          "name": "Vorstand IT (nicht ermittelt)",
+          "role": "Vorstand IT / Digitalisierung",
+          "linkedin": null,
+          "confidence": "LOW",
+          "notes": null
+        }
+      ],
+      "outreach": null,
+      "overall_score": 0.518
+    },
+    {
+      "company": {
+        "name": "Seifert Logistics GmbH",
+        "website": "seifert-logistics.com",
+        "address": "Ulm, Baden-Württemberg",
+        "industry": "Logistik – Kontraktlogistik, Transport, Warehousing",
+        "source": null
+      },
+      "pipeline": "KI",
+      "tier": "TIER2",
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.72,
+          "activity_reasoning": "Familienunternehmen mit 3.500 MA an 45+ Standorten in Europa. Umsatz 2025 ca. 350 Mio EUR, stabil trotz wirtschaftlicher Turbulenzen. Mitarbeiterzahl von 4.000 auf 3.500 reduziert (Marktbereinigung).",
+          "recent_news": [
+            "Seifert plant geballte KI-Offensive für 2026 (Schwäbische Zeitung 2025)",
+            "Umsatz 2025 stabil bei ca. 350 Mio EUR trotz Branchenturbulenzen"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "KI in Produktion / EU AI Act",
+          "affinity_score": 0.68,
+          "affinity_reasoning": "SIGNALE: [+18|C] KI-Pilot → Produktion: Digital Twins aus Team-Wissen, KI-gestützte Bildverarbeitung, interner Chatbot, Quelle: Schwäbische Zeitung 2025 | [+8|D] KI-Strategie mit Zeithorizont 2026: Geballte KI-Offensive für 2026 angekündigt, Quelle: Schwäbische Zeitung | [+12|C] Bestehende Logistik-IT-Landschaft mit hohem Integrationsbedarf (geschätzt) | [+15|C] Datensouveränität: Kontraktlogistik-Daten erfordern sichere, EU-hosted Verarbeitung (geschätzt) | [+10|D] Investitionen in Digitalisierung und modernisierte Flotte für 2026 geplant = 63/100 → 0.68",
+          "relevant_news": []
+        },
+        "combined_score": 0.696
+      },
+      "financials": {
+        "revenue_estimate": "~350 Mio EUR (2025)",
+        "profit_estimate": null,
+        "employee_count": 3500,
+        "hiring_activity": {
+          "general_hiring_score": 0.5,
+          "total_job_postings": null,
+          "hiring_reasoning": "Personalabbau von 4.000 auf 3.500 in 2024 (Marktbereinigung). Selektive Einstellungen in IT/Digitalisierung für KI-Offensive 2026 (geschätzt)."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.45,
+          "relevant_job_postings": null,
+          "topic_hiring_reasoning": "KI/ML/Data-Stellen: KI-Offensive angekündigt – Digital Twins, KI-Bildverarbeitung, Chatbot. Dedizierte Stellen nicht öffentlich gefunden (geschätzt).",
+          "example_positions": [
+            "KI-Projektleiter Digital Twins (geschätzt)",
+            "Data Engineer Logistik (geschätzt)",
+            "ML Engineer Bildverarbeitung (geschätzt)"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.8,
+          "financial_health_score": 0.68,
+          "pressure_score": 0.5,
+          "strategic_reasoning": "Angebots-Fit: Explizite KI-Offensive für 2026 angekündigt – Digital Twins, Bildverarbeitung, Chatbot. NeoGeo kann auditierbare KI-Module in Logistikprozesse integrieren (Routenoptimierung, Lagerverwaltung, Qualitätskontrolle). Self-hosted für sensible Kundendaten."
+        },
+        "customer_rating": 0.542,
+        "rating_reasoning": "Angebots-Fit: Explizite KI-Offensive für 2026 angekündigt – Digital Twins, Bildverarbeitung, Chatbot. NeoGeo kann auditierbare KI-Module in Logistikprozesse integrieren (Routenoptimierung, Lagerverwaltung, Qualitätskontrolle). Self-hosted für sensible Kundendaten."
+      },
+      "contact_persons": [
+        {
+          "name": "Geschäftsführung Seifert Logistics",
+          "role": "Geschäftsführer",
+          "linkedin": null,
+          "confidence": "LOW",
+          "notes": null
+        }
+      ],
+      "outreach": null,
+      "overall_score": 0.57
+    },
+    {
+      "company": {
+        "name": "HHLA – Hamburger Hafen und Logistik AG",
+        "website": "hhla.de",
+        "address": "Hamburg, Hamburg",
+        "industry": "Hafenlogistik – Containerumschlag, Intermodal-Transport",
+        "source": null
+      },
+      "pipeline": "KI",
+      "tier": "TIER1",
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.78,
+          "activity_reasoning": "Börsennotierter Hafenlogistiker. Umsatz 2025 bei 1,76 Mrd EUR (+10%). 3.669 MA in Deutschland (6.906 weltweit). MSC-Beteiligung stärkt Kapitalausstattung.",
+          "recent_news": [
+            "CTA wird 5G-Testfeld: Pilotprojekt PROCON-5G (2,3 Mio EUR Förderung, bis Mitte 2026)",
+            "KI-Pilotprojekt Mengenprognose am Bahnterminal Burchardkai (Ende 2025)"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "KI in Produktion / EU AI Act",
+          "affinity_score": 0.75,
+          "affinity_reasoning": "SIGNALE: [+18|C] KI-Pilot in Produktion: KI-Mengenprognose am Bahnterminal, KI-gestützte Planung am CTA (nahezu vollautomatisiert), Quelle: HHLA Magazin 2025 | [+15|C] Datensouveränität / self-hosted: Hafen-KRITIS-Infrastruktur, 5G-Campusnetz für Echtzeit-Daten, Quelle: logistik-news24 | [+20|B] EU-AI-Act / KRITIS / NIS2: Hafeninfrastruktur = KRITIS, NIS2-pflichtig, hoher regulatorischer Druck, Quelle: (geschätzt) | [+15|D] HHLA Next: Venture-Building-Einheit für Digitalisierung seit 2021, 3 Ausgründungen 2024 (heyport, RailSync, passify), Quelle: HHLA Presse | [+10|A] Mehrere IT-/Daten-Stellen: Aufbauphase KI/Digital = 78/100 → kappe bei 0.75",
+          "relevant_news": []
+        },
+        "combined_score": 0.762
+      },
+      "financials": {
+        "revenue_estimate": "1,76 Mrd EUR (2025)",
+        "profit_estimate": null,
+        "employee_count": 3669,
+        "hiring_activity": {
+          "general_hiring_score": 0.65,
+          "total_job_postings": null,
+          "hiring_reasoning": "HHLA Next als Innovationseinheit treibt Einstellungen im Bereich KI/Digitalisierung. 3 Ausgründungen 2024 deuten auf aktive Personalentwicklung hin."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.6,
+          "relevant_job_postings": null,
+          "topic_hiring_reasoning": "KI/ML/Data-Stellen: KI-Pilotprojekte am Bahnterminal, HHLA Next mit Ausgründungen. Dedizierte KI-/Data-Rollen in Innovationseinheit (geschätzt).",
+          "example_positions": [
+            "Data Scientist Mengenprognose (geschätzt)",
+            "Projektingenieur 5G/Automatisierung CTA",
+            "Softwareentwickler HHLA Next (geschätzt)"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.75,
+          "financial_health_score": 0.8,
+          "pressure_score": 0.8,
+          "strategic_reasoning": "Angebots-Fit: HHLA betreibt KI-Pilotprojekte (Mengenprognose, CTA-Automatisierung) und hat eine dedizierte Innovationseinheit (HHLA Next). Als KRITIS-Infrastruktur unter NIS2 höchster regulatorischer Druck für auditierbare KI. NeoGeo kann KI-Lösungen in Hafen-SCADA/Steuerungssysteme integrieren – self-hosted, EU AI Act-konform."
+        },
+        "customer_rating": 0.698,
+        "rating_reasoning": "Angebots-Fit: HHLA betreibt KI-Pilotprojekte (Mengenprognose, CTA-Automatisierung) und hat eine dedizierte Innovationseinheit (HHLA Next). Als KRITIS-Infrastruktur unter NIS2 höchster regulatorischer Druck für auditierbare KI. NeoGeo kann KI-Lösungen in Hafen-SCADA/Steuerungssysteme integrieren – self-hosted, EU AI Act-konform."
+      },
+      "contact_persons": [
+        {
+          "name": "HHLA Next Team",
+          "role": "Leiter HHLA Next / Innovation",
+          "linkedin": null,
+          "confidence": "LOW",
+          "notes": null
+        }
+      ],
+      "outreach": null,
+      "overall_score": 0.704
+    },
+    {
+      "company": {
+        "name": "Contargo GmbH & Co. KG",
+        "website": "contargo.net",
+        "address": "Duisburg, Nordrhein-Westfalen",
+        "industry": "Container-Hinterlandlogistik – Binnenschifffahrt, Bahn, LKW",
+        "source": null
+      },
+      "pipeline": "KI",
+      "tier": "TIER2",
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.74,
+          "activity_reasoning": "Eines der größten Containerlogistiknetzwerke Europas. 2 Mio TEU Transportvolumen, Umsatz 2023 bei 654 Mio EUR. 24 Terminals, >1.500 Mitarbeiter. Rhenus-Tochter.",
+          "recent_news": [
+            "COLA: Open-Source-IT-Plattform mit 30+ Apps für Logistikprozesse",
+            "E2E-Digitalisierung des gesamten Geschäftsmodells in Umsetzung"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "KI in Produktion / EU AI Act",
+          "affinity_score": 0.6,
+          "affinity_reasoning": "SIGNALE: [+18|C] KI-Pilot / Skalierung: COLA Open-Source-IT-Plattform mit 30+ Apps für operative Prozesse – E2E-Digitalisierung des Geschäftsmodells, Quelle: contargo.net | [+15|C] Datensouveränität: Open-Source-Plattform = selbst gehostet, Kontrolle über Daten, Quelle: contargo.net | [+10|C] Datensilo-/Integrationsprobleme: 24 Terminals, multimodal (Schiff/Bahn/LKW), hoher Integrationsbedarf (geschätzt) | [+12|B] KRITIS/NIS2: Binnenschifffahrt-Infrastruktur mit KRITIS-Bezug (geschätzt) = 55/100 → 0.60",
+          "relevant_news": []
+        },
+        "combined_score": 0.656
+      },
+      "financials": {
+        "revenue_estimate": "654 Mio EUR (2023)",
+        "profit_estimate": null,
+        "employee_count": 1500,
+        "hiring_activity": {
+          "general_hiring_score": 0.55,
+          "total_job_postings": null,
+          "hiring_reasoning": "Aktive IT-Karriereseite mit dedizierten IT-Stellen. Eigene IT-Plattform COLA erfordert kontinuierliche Softwareentwicklung."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.45,
+          "relevant_job_postings": null,
+          "topic_hiring_reasoning": "KI/ML/Data-Stellen: COLA-Plattform-Entwicklung erfordert Softwareentwickler und Data Engineers. Keine expliziten KI-Stellen gefunden (geschätzt).",
+          "example_positions": [
+            "Softwareentwickler COLA-Plattform (geschätzt)",
+            "Data Engineer Logistik (geschätzt)",
+            "IT-Projektmanager Digitalisierung (geschätzt)"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.85,
+          "financial_health_score": 0.72,
+          "pressure_score": 0.6,
+          "strategic_reasoning": "Angebots-Fit: Eigene Open-Source-Plattform COLA für Logistikprozesse – ideale Grundlage für KI-Integration (prädiktive Routenplanung, Auslastungsprognosen, Emissionsoptimierung). Self-hosted IT-Infrastruktur passt zu NeoGeo-Angebot. 24 Terminals = hoher Skalierungsbedarf."
+        },
+        "customer_rating": 0.59,
+        "rating_reasoning": "Angebots-Fit: Eigene Open-Source-Plattform COLA für Logistikprozesse – ideale Grundlage für KI-Integration (prädiktive Routenplanung, Auslastungsprognosen, Emissionsoptimierung). Self-hosted IT-Infrastruktur passt zu NeoGeo-Angebot. 24 Terminals = hoher Skalierungsbedarf."
+      },
+      "contact_persons": [
+        {
+          "name": "CIO / IT-Leiter Contargo",
+          "role": "IT-Leitung",
+          "linkedin": null,
+          "confidence": "LOW",
+          "notes": null
+        }
+      ],
+      "outreach": null,
+      "overall_score": 0.589
+    },
+    {
+      "company": {
+        "name": "Zufall logistics group (Friedrich Zufall GmbH & Co. KG)",
+        "website": "zufall.de",
+        "address": "Göttingen, Niedersachsen",
+        "industry": "Logistik – Spedition, Kontraktlogistik, Luft-/Seefracht",
+        "source": null
+      },
+      "pipeline": "KI",
+      "tier": "TIER3",
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.72,
+          "activity_reasoning": "Familienunternehmen seit 1928 mit ca. 2.100 MA an 12+ Standorten. Umsatz 2024 bei 454 Mio EUR. Breites Dienstleistungsportfolio.",
+          "recent_news": [
+            "KARAT-Projekt: KI für gesundes Arbeiten im Transportgewerbe (BMAS-gefördert, 2021-2023)",
+            "Neuordnung der Geschäftsführung (2025)"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "KI in Produktion / EU AI Act",
+          "affinity_score": 0.52,
+          "affinity_reasoning": "SIGNALE: [+18|C] KI-Pilot: KARAT-Projekt (KI für gesundes Arbeiten in Transportberufen), BMAS-gefördert – zeigt KI-Erfahrung, Quelle: ZUFALL 2023 | [+10|C] Bestehende IT-Landschaft: E-Truck-Tests, Telematik-Entwicklung, Logistik-IT (geschätzt) | [+10|D] Geschäftsführungsneuordnung 2025: Potenzielle Strategieänderung (geschätzt) | [+8|C] Microsoft/Azure-Stack (geschätzt) = 46/100 → 0.52",
+          "relevant_news": []
+        },
+        "combined_score": 0.6
+      },
+      "financials": {
+        "revenue_estimate": "454 Mio EUR (2024)",
+        "profit_estimate": null,
+        "employee_count": 2100,
+        "hiring_activity": {
+          "general_hiring_score": 0.5,
+          "total_job_postings": null,
+          "hiring_reasoning": "Regelmäßige Einstellungen an Göttingen und weiteren Standorten. Ausbildungsbetrieb mit 165 Azubis."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.35,
+          "relevant_job_postings": null,
+          "topic_hiring_reasoning": "KI/ML/Data-Stellen: KARAT-Projekt zeigt KI-Affinität, aber keine aktuellen dedizierten KI-Stellen gefunden (geschätzt).",
+          "example_positions": [
+            "Projektmanager Innovation (geschätzt)",
+            "IT-Spezialist Telematik (geschätzt)",
+            "Logistik-Datenanalyst (geschätzt)"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.85,
+          "financial_health_score": 0.72,
+          "pressure_score": 0.45,
+          "strategic_reasoning": "Angebots-Fit: KI-Erfahrung durch BMAS-gefördertes KARAT-Projekt. Familienunternehmen mit Modernisierungsbedarf in Logistik-IT. NeoGeo kann KI-Module für Routenoptimierung, Dispositionsplanung und Qualitätskontrolle in bestehende Systeme integrieren."
+        },
+        "customer_rating": 0.503,
+        "rating_reasoning": "Angebots-Fit: KI-Erfahrung durch BMAS-gefördertes KARAT-Projekt. Familienunternehmen mit Modernisierungsbedarf in Logistik-IT. NeoGeo kann KI-Module für Routenoptimierung, Dispositionsplanung und Qualitätskontrolle in bestehende Systeme integrieren."
+      },
+      "contact_persons": [
+        {
+          "name": "Geschäftsführung Zufall",
+          "role": "Geschäftsführer",
+          "linkedin": null,
+          "confidence": "LOW",
+          "notes": null
+        }
+      ],
+      "outreach": null,
+      "overall_score": 0.515
+    },
+    {
+      "company": {
+        "name": "Simon Hegele Gesellschaft für Logistik und Service mbH",
+        "website": "simon-hegele.com",
+        "address": "Karlsruhe, Baden-Württemberg",
+        "industry": "Logistik – Hightech-Transport, Healthcare-Logistik, Supply Chain",
+        "source": null
+      },
+      "pipeline": "KI",
+      "tier": "TIER3",
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.7,
+          "activity_reasoning": "2.800 MA, 330 Mio EUR Umsatz 2024. Übernahme durch Nippon Express Holdings (Sept. 2024) bringt Kapitalstärke. Neue Co-CEOs seit Okt. 2024.",
+          "recent_news": [
+            "Übernahme durch Nippon Express Holdings (September 2024)",
+            "Neue Co-CEOs Mike Winter und Michael Wahl, neuer CIO Oliver Urich für IT, ESG, KI (2025)"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "KI in Produktion / EU AI Act",
+          "affinity_score": 0.58,
+          "affinity_reasoning": "SIGNALE: [+15|D] Neuer CIO Oliver Urich: verantwortet IT, Zukunftsthemen inkl. KI, HR, ESG, Datenschutz (2025), Quelle: Logistik Heute | [+10|D] M&A Nippon Express: frisches Kapital für Digitalisierung/Modernisierung, Quelle: Logistik Heute 2024 | [+15|D] Neue Co-CEOs (Okt. 2024): Strategische Neuausrichtung (geschätzt) | [+12|C] AutoStore-System in Logistikzentrum Kemnath: Automatisierung der Produktion, Quelle: Simon Hegele Healthcare | [+8|C] Microsoft/Azure-Stack (geschätzt) = 60/100 → kappe bei 0.58",
+          "relevant_news": []
+        },
+        "combined_score": 0.628
+      },
+      "financials": {
+        "revenue_estimate": "330 Mio EUR (2024)",
+        "profit_estimate": null,
+        "employee_count": 2800,
+        "hiring_activity": {
+          "general_hiring_score": 0.55,
+          "total_job_postings": null,
+          "hiring_reasoning": "Nippon-Express-Übernahme und neuer CIO dürften IT-Personalaufbau treiben. Oliver Urich verantwortet IT und Zukunftsthemen."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.4,
+          "relevant_job_postings": null,
+          "topic_hiring_reasoning": "KI/ML/Data-Stellen: Neuer CIO mit KI-Verantwortung, AutoStore-Automatisierung. Dedizierte KI-Stellen nicht öffentlich gefunden (geschätzt).",
+          "example_positions": [
+            "IT-Leiter / CIO (Oliver Urich, besetzt)",
+            "Projektmanager Automatisierung AutoStore (geschätzt)",
+            "Data Analyst Supply Chain (geschätzt)"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.85,
+          "financial_health_score": 0.72,
+          "pressure_score": 0.5,
+          "strategic_reasoning": "Angebots-Fit: Neuer CIO mit expliziter KI-Verantwortung + Nippon-Express-Kapital = Budget und strategischer Wille. Hightech- und Healthcare-Logistik erfordert präzise, auditierbare KI. NeoGeo kann KI in AutoStore-Integration, Routenplanung und Healthcare-Compliance einbetten."
+        },
+        "customer_rating": 0.542,
+        "rating_reasoning": "Angebots-Fit: Neuer CIO mit expliziter KI-Verantwortung + Nippon-Express-Kapital = Budget und strategischer Wille. Hightech- und Healthcare-Logistik erfordert präzise, auditierbare KI. NeoGeo kann KI in AutoStore-Integration, Routenplanung und Healthcare-Compliance einbetten."
+      },
+      "contact_persons": [
+        {
+          "name": "Oliver Urich",
+          "role": "Geschäftsführer IT, KI, ESG, Datenschutz",
+          "linkedin": null,
+          "confidence": "HIGH",
+          "notes": null
+        }
+      ],
+      "outreach": null,
+      "overall_score": 0.552
+    },
+    {
+      "company": {
+        "name": "duisport – Duisburger Hafen AG",
+        "website": "duisport.de",
+        "address": "Duisburg, Nordrhein-Westfalen",
+        "industry": "Hafenlogistik – Binnenhafen, Containerumschlag, Gewerbeimmobilien",
+        "source": null
+      },
+      "pipeline": "KI",
+      "tier": "TIER2",
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.76,
+          "activity_reasoning": "Weltgrößter Binnenhafen. Gesamtleistung 2024 bei 356 Mio EUR (+7,5%). 50,8 Mio Tonnen Güterumschlag, 3,9 Mio TEU Containerumschlag. Strategische Investitionen in Duisburg Gateway Terminal (DGT).",
+          "recent_news": [
+            "Duisburg Gateway Terminal (DGT): KI-gestützter klimaneutraler Container-Terminal mit 1 Mio TEU/Jahr Kapazität",
+            "Neue CPCO Giordana Sperling-Doppstadt im Vorstand (Jan. 2025)"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "KI in Produktion / EU AI Act",
+          "affinity_score": 0.72,
+          "affinity_reasoning": "SIGNALE: [+18|C] KI-Pilot in Produktion: DGT nutzt KI für Minimierung operativer Verzögerungen, Umschlagzeitverkürzung, Buchungsautomatisierung, Quelle: duisport Presse | [+20|B] KRITIS/NIS2: Binnenhafen = KRITIS-Infrastruktur, NIS2-pflichtig, höchster regulatorischer Druck, Quelle: (geschätzt) | [+15|C] Datensouveränität: Hafendaten, Zolldaten, intermodaler Datenaustausch erfordern EU-hosted Verarbeitung (geschätzt) | [+12|C] Bestehende SCADA/IoT-Landschaft: 5G-Ausbau, Containersteuerung, intermodale Drehscheibe, Quelle: duisport | [+10|A] Ausbildung 'Kaufmann für Digitalisierungsmanagement' ab 2026 = 75/100 → kappe bei 0.72",
+          "relevant_news": []
+        },
+        "combined_score": 0.736
+      },
+      "financials": {
+        "revenue_estimate": "356 Mio EUR Gesamtleistung (2024)",
+        "profit_estimate": null,
+        "employee_count": 1500,
+        "hiring_activity": {
+          "general_hiring_score": 0.55,
+          "total_job_postings": null,
+          "hiring_reasoning": "Neue Vorstandsposition (CPCO) deutet auf Wachstum. DGT-Aufbau erfordert Personalzuwachs. Ausbildung Digitalisierungsmanagement ab 2026."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.5,
+          "relevant_job_postings": null,
+          "topic_hiring_reasoning": "KI/ML/Data-Stellen: KI im DGT produktiv, Ausbildung Digitalisierungsmanagement ab 2026. Dedizierte KI-Stellen nicht öffentlich ermittelt (geschätzt).",
+          "example_positions": [
+            "KI-Ingenieur DGT Containersteuerung (geschätzt)",
+            "Auszubildender Digitalisierungsmanagement (ab 2026)",
+            "Projektmanager 5G/Automatisierung (geschätzt)"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.85,
+          "financial_health_score": 0.78,
+          "pressure_score": 0.75,
+          "strategic_reasoning": "Angebots-Fit: DGT-Terminal nutzt bereits KI in der Containersteuerung – NeoGeo kann bestehende KI-Lösung auditierbar machen (EU AI Act + KRITIS/NIS2). Weltweit größter Binnenhafen mit höchstem regulatorischem Druck. Self-hosted KI für Zoll- und Hafendaten zwingend."
+        },
+        "customer_rating": 0.652,
+        "rating_reasoning": "Angebots-Fit: DGT-Terminal nutzt bereits KI in der Containersteuerung – NeoGeo kann bestehende KI-Lösung auditierbar machen (EU AI Act + KRITIS/NIS2). Weltweit größter Binnenhafen mit höchstem regulatorischem Druck. Self-hosted KI für Zoll- und Hafendaten zwingend."
+      },
+      "contact_persons": [
+        {
+          "name": "Lars Nennhaus",
+          "role": "COO/CTO Vorstand",
+          "linkedin": null,
+          "confidence": "MEDIUM",
+          "notes": null
+        }
+      ],
+      "outreach": null,
+      "overall_score": 0.651
+    },
+    {
+      "company": {
+        "name": "Unitechnik Systems GmbH",
+        "website": "unitechnik.com",
+        "address": "Wiehl, Nordrhein-Westfalen",
+        "industry": "Intralogistik – Systemintegration, Lagerautomatisierung, Softwareentwicklung",
+        "source": null
+      },
+      "pipeline": "KI",
+      "tier": "TIER3",
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.7,
+          "activity_reasoning": "Familienunternehmen seit 50+ Jahren. Ca. 320 MA (200 in Wiehl). Investition von 3,5 Mio EUR in neues automatisiertes Logistikzentrum am Hauptsitz (Fertigstellung Ende 2026).",
+          "recent_news": [
+            "3,5 Mio EUR Investition in automatisiertes Logistikzentrum Wiehl (Fertigstellung 2026)",
+            "KI-basierte Bildverarbeitung für visuelle Prüfaufgaben im Portfolio"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "KI in Produktion / EU AI Act",
+          "affinity_score": 0.55,
+          "affinity_reasoning": "SIGNALE: [+18|C] KI-Pilot in Produktion: KI-basierte Bildverarbeitung für visuelle Prüfaufgaben im Angebot, kleine Trainingsdatensätze, Quelle: unitechnik.com | [+12|C] Bestehende SCADA/IoT-Landschaft: Systemintegrator für Schaltanlagenbau, SPS-Steuerungen, Warehouse-Management-Software, Quelle: unitechnik.com | [+10|D] Investition 3,5 Mio EUR in Automatisierung: eigenes Logistikzentrum als Showroom (geschätzt) | [+8|C] Eigenentwickelte WMS-Software: Integrationspotenzial für KI-Module (geschätzt) = 48/100 → 0.55",
+          "relevant_news": []
+        },
+        "combined_score": 0.61
+      },
+      "financials": {
+        "revenue_estimate": "~50-80 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 320,
+        "hiring_activity": {
+          "general_hiring_score": 0.45,
+          "total_job_postings": null,
+          "hiring_reasoning": "Kleineres Unternehmen mit selektiven Einstellungen. Schwerpunkt Softwareentwicklung und Systemintegration in Wiehl."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.4,
+          "relevant_job_postings": null,
+          "topic_hiring_reasoning": "KI/ML/Data-Stellen: KI-Bildverarbeitung im Portfolio, eigene WMS-Software. Dedizierte KI-Stellen bei 320 MA begrenzt (geschätzt).",
+          "example_positions": [
+            "Softwareentwickler WMS (geschätzt)",
+            "Ingenieur Automatisierungstechnik (geschätzt)",
+            "ML Engineer Bildverarbeitung (geschätzt)"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.7,
+          "financial_health_score": 0.68,
+          "pressure_score": 0.45,
+          "strategic_reasoning": "Angebots-Fit: Systemintegrator mit eigener WMS-Software und KI-Bildverarbeitung. Investiert 3,5 Mio in Automatisierung. NeoGeo kann KI-Module direkt in Unitechniks Kundenprojekte einbetten – potenzielle Partnerschaft als KI-Zulieferer für deren Intralogistik-Lösungen."
+        },
+        "customer_rating": 0.483,
+        "rating_reasoning": "Angebots-Fit: Systemintegrator mit eigener WMS-Software und KI-Bildverarbeitung. Investiert 3,5 Mio in Automatisierung. NeoGeo kann KI-Module direkt in Unitechniks Kundenprojekte einbetten – potenzielle Partnerschaft als KI-Zulieferer für deren Intralogistik-Lösungen."
+      },
+      "contact_persons": [
+        {
+          "name": "Geschäftsführung Unitechnik",
+          "role": "Geschäftsführer",
+          "linkedin": null,
+          "confidence": "LOW",
+          "notes": null
+        }
+      ],
+      "outreach": null,
+      "overall_score": 0.511
+    },
+    {
+      "company": {
+        "name": "CHT Germany GmbH (CHT Group)",
+        "website": "cht.com",
+        "address": "Tübingen, Baden-Württemberg",
+        "industry": "Spezialchemie – Textilchemie, Bau-, Reinigungs- und Kosmetikchemie",
+        "source": null
+      },
+      "pipeline": "KI",
+      "tier": "TIER3",
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.74,
+          "activity_reasoning": "Familienunternehmen mit 2.500 MA weltweit (900 DE, davon 426 in Tübingen). Umsatz 2024 bei 614 Mio EUR (+2%). EBIT auf 21,1 Mio EUR gestiegen. Rekordinvestitionen 44,2 Mio EUR.",
+          "recent_news": [
+            "Rekordinvestitionen 2024: 44,2 Mio EUR in Digitalisierung, Produktionsstandorte und Nachhaltigkeit",
+            "Neuer Finanzgeschäftsführer Christian Rink (Okt. 2024) verantwortet IT, Digitalisierung, Compliance"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "KI in Produktion / EU AI Act",
+          "affinity_score": 0.58,
+          "affinity_reasoning": "SIGNALE: [+15|D] Neuer GF für IT/Digitalisierung: Christian Rink verantwortet IT, Digitalisierung, Compliance seit Okt. 2024, Quelle: CHT Presse | [+12|D] Rekordinvestitionen 44,2 Mio EUR: Schwerpunkt Digitalisierung, Quelle: CHT Jahrespressekonferenz 2025 | [+12|C] Bestehende Produktionslandschaft: 27 Gesellschaften weltweit, Spezialchemie-Produktion mit Prozesssteuerung (geschätzt) | [+10|C] Datensilo-/Integrationsprobleme: 27 Gesellschaften auf allen Kontinenten, heterogene IT-Landschaft (geschätzt) | [+8|C] SAP/ERP-Stack: Workday HR eingeführt, ERP-Modernisierung (geschätzt) = 57/100 → 0.58",
+          "relevant_news": []
+        },
+        "combined_score": 0.644
+      },
+      "financials": {
+        "revenue_estimate": "614 Mio EUR (2024)",
+        "profit_estimate": null,
+        "employee_count": 2500,
+        "hiring_activity": {
+          "general_hiring_score": 0.5,
+          "total_job_postings": null,
+          "hiring_reasoning": "Regelmäßige Einstellungen in Tübingen und Dußlingen. Neuer GF für IT/Digitalisierung dürfte IT-Ausbau treiben."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.35,
+          "relevant_job_postings": null,
+          "topic_hiring_reasoning": "KI/ML/Data-Stellen: Keine dedizierten KI-Stellen öffentlich gefunden. Digitalisierungs-Investitionsoffensive könnte mittelfristig KI-Bedarf erzeugen (geschätzt).",
+          "example_positions": [
+            "IT-Projektmanager Digitalisierung (geschätzt)",
+            "ERP-Spezialist (geschätzt)",
+            "Prozessingenieur Automatisierung (geschätzt)"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.85,
+          "financial_health_score": 0.72,
+          "pressure_score": 0.5,
+          "strategic_reasoning": "Angebots-Fit: Rekordinvestitionen in Digitalisierung + neuer GF für IT = Budget und strategischer Wille. Spezialchemie mit 27 Gesellschaften = hoher Integrationsbedarf. NeoGeo kann KI-Module für Produktionsoptimierung, Qualitätskontrolle und Rezepturmanagement in bestehende Prozesssteuerung integrieren."
+        },
+        "customer_rating": 0.517,
+        "rating_reasoning": "Angebots-Fit: Rekordinvestitionen in Digitalisierung + neuer GF für IT = Budget und strategischer Wille. Spezialchemie mit 27 Gesellschaften = hoher Integrationsbedarf. NeoGeo kann KI-Module für Produktionsoptimierung, Qualitätskontrolle und Rezepturmanagement in bestehende Prozesssteuerung integrieren."
+      },
+      "contact_persons": [
+        {
+          "name": "Christian Rink",
+          "role": "Geschäftsführer Finanzen, IT, Digitalisierung, Compliance",
+          "linkedin": null,
+          "confidence": "HIGH",
+          "notes": null
+        }
+      ],
+      "outreach": null,
+      "overall_score": 0.534
+    },
+    {
+      "company": {
+        "name": "Grillo-Werke AG",
+        "website": "grillo.de",
+        "address": "Duisburg, Nordrhein-Westfalen",
+        "industry": "Metallurgie & Chemie – Zinkprodukte, Schwefelchemie",
+        "source": null
+      },
+      "pipeline": "KI",
+      "tier": "TIER3",
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.72,
+          "activity_reasoning": "Traditionsunternehmen (gegr. 1842) mit 1.400 MA. Umsatz 2023 bei 860 Mio EUR. Diversifiziert in Zinkverarbeitung und Schwefelchemikalien.",
+          "recent_news": [
+            "Förderprojekt 'Präzisions-LDS': KI-überwachte Produktion thermisch gespritzter Offshore-Beschichtungen",
+            "Stabile Position im Zink- und Schwefelchemie-Markt (2024)"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "KI in Produktion / EU AI Act",
+          "affinity_score": 0.55,
+          "affinity_reasoning": "SIGNALE: [+18|C] KI-Pilot in Produktion: Förderprojekt 'Präzisions-LDS' für automatisierte, KI-überwachte Produktion von Offshore-Beschichtungen, Quelle: Grillo.de | [+12|C] Bestehende SCADA/Prozesssteuerung: Metallurgische Produktion (Zinkhütte, Schwefelsäure) mit komplexer Anlagensteuerung (geschätzt) | [+12|B] REACH/Störfall-Verordnung: Chemische Produktion unter strenger Regulierung, EU AI Act bei KI-gestützter Prozessüberwachung (geschätzt) | [+8|C] Legacy-IT: Traditionsunternehmen seit 1842, gewachsene IT-Infrastruktur (geschätzt) = 50/100 → 0.55",
+          "relevant_news": []
+        },
+        "combined_score": 0.618
+      },
+      "financials": {
+        "revenue_estimate": "860 Mio EUR (2023)",
+        "profit_estimate": null,
+        "employee_count": 1400,
+        "hiring_activity": {
+          "general_hiring_score": 0.45,
+          "total_job_postings": null,
+          "hiring_reasoning": "Regelmäßige Einstellungen in Duisburg und Goslar. Schwerpunkt Produktion, kaufmännische Bereiche und Ausbildung."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.35,
+          "relevant_job_postings": null,
+          "topic_hiring_reasoning": "KI/ML/Data-Stellen: KI-Förderprojekt Präzisions-LDS zeigt Affinität. Keine dedizierten KI-Stellen öffentlich gefunden (geschätzt).",
+          "example_positions": [
+            "Verfahrensingenieur Metallurgie (geschätzt)",
+            "Projektingenieur Automatisierung (geschätzt)",
+            "IT-Administrator (geschätzt)"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.88,
+          "financial_health_score": 0.72,
+          "pressure_score": 0.55,
+          "strategic_reasoning": "Angebots-Fit: Öffentlich gefördertes KI-Projekt in der Produktion (Offshore-Beschichtungen). Metallurgische Prozesse = hohe Optimierungspotenziale durch KI (Qualitätskontrolle, Energieeffizienz, Prozessüberwachung). NeoGeo kann auditierbare KI in Grillo's Produktionsanlagen integrieren."
+        },
+        "customer_rating": 0.531,
+        "rating_reasoning": "Angebots-Fit: Öffentlich gefördertes KI-Projekt in der Produktion (Offshore-Beschichtungen). Metallurgische Prozesse = hohe Optimierungspotenziale durch KI (Qualitätskontrolle, Energieeffizienz, Prozessüberwachung). NeoGeo kann auditierbare KI in Grillo's Produktionsanlagen integrieren."
+      },
+      "contact_persons": [
+        {
+          "name": "Vorstand Produktion (nicht ermittelt)",
+          "role": "Vorstand Technik/Produktion",
+          "linkedin": null,
+          "confidence": "LOW",
+          "notes": null
+        }
+      ],
+      "outreach": null,
+      "overall_score": 0.529
+    },
+    {
+      "company": {
+        "name": "Zschimmer & Schwarz GmbH & Co KG Chemische Fabriken",
+        "website": "zschimmer-schwarz.com",
+        "address": "Lahnstein, Rheinland-Pfalz",
+        "industry": "Spezialchemie – Hilfsmittel für Textil-, Keramik-, Lederindustrie, Tenside",
+        "source": null
+      },
+      "pipeline": "KI",
+      "tier": "TIER3",
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.72,
+          "activity_reasoning": "Familienunternehmen mit 1.540 MA weltweit. Umsatz 2023 bei 678 Mio EUR. Breites Produktportfolio für diverse Industriezweige. Stabile Marktposition seit 1894.",
+          "recent_news": [
+            "Umsatz 2023 bei 678 Mio EUR mit 1.540 Mitarbeitern",
+            "18 Führungskräfte im Management – breite Führungsstruktur (2025)"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "KI in Produktion / EU AI Act",
+          "affinity_score": 0.42,
+          "affinity_reasoning": "SIGNALE: [+12|C] Bestehende Produktionslandschaft: Spezialchemie-Produktion (Tenside, Hilfsmittel) mit Chargenfertigung und Prozesssteuerung (geschätzt) | [+10|C] Datensilo-/Integrationsprobleme: Diverse Produktlinien (Textil, Keramik, Leder, Kosmetik), heterogene Prozesse (geschätzt) | [+12|B] REACH/CLP-Kontext: Chemische Industrie unter strenger Regulierung (geschätzt) | [+8|C] Legacy-IT: Traditionsunternehmen seit 1894, gewachsene Systeme (geschätzt) = 42/100 → 0.42",
+          "relevant_news": []
+        },
+        "combined_score": 0.54
+      },
+      "financials": {
+        "revenue_estimate": "678 Mio EUR (2023)",
+        "profit_estimate": null,
+        "employee_count": 1540,
+        "hiring_activity": {
+          "general_hiring_score": 0.4,
+          "total_job_postings": null,
+          "hiring_reasoning": "Regelmäßige Einstellungen in Lahnstein. Keine auffälligen IT-/KI-Stellenausschreibungen gefunden."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.25,
+          "relevant_job_postings": null,
+          "topic_hiring_reasoning": "KI/ML/Data-Stellen: Keine dedizierten KI-/ML-/Data-Stellen öffentlich gefunden. Traditionelle Chemieproduktion mit Modernisierungspotenzial (geschätzt).",
+          "example_positions": [
+            "Verfahrenstechniker Produktion (geschätzt)",
+            "IT-Administrator (geschätzt)",
+            "Qualitätsmanager (geschätzt)"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.85,
+          "financial_health_score": 0.7,
+          "pressure_score": 0.45,
+          "strategic_reasoning": "Angebots-Fit: Diverse Spezialchemie-Produktionslinien mit Chargenfertigung = hohe KI-Potenziale in Rezepturoptimierung, Qualitätskontrolle und Chargenplanung. NeoGeo kann auditierbare KI-Module für Produktionssteuerung in heterogene Prozesslandschaft integrieren."
+        },
+        "customer_rating": 0.453,
+        "rating_reasoning": "Angebots-Fit: Diverse Spezialchemie-Produktionslinien mit Chargenfertigung = hohe KI-Potenziale in Rezepturoptimierung, Qualitätskontrolle und Chargenplanung. NeoGeo kann auditierbare KI-Module für Produktionssteuerung in heterogene Prozesslandschaft integrieren."
+      },
+      "contact_persons": [
+        {
+          "name": "Geschäftsführung (nicht ermittelt)",
+          "role": "Geschäftsführer",
+          "linkedin": null,
+          "confidence": "LOW",
+          "notes": null
+        }
+      ],
+      "outreach": null,
+      "overall_score": 0.454
+    },
+    {
+      "company": {
+        "name": "Stockmeier Holding GmbH (STOCKMEIER Gruppe)",
+        "website": "stockmeier.com",
+        "address": "Bielefeld, Nordrhein-Westfalen",
+        "industry": "Chemiedistribution & -produktion – Standard- und Spezialchemikalien",
+        "source": null
+      },
+      "pipeline": "KI",
+      "tier": "TIER3",
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.72,
+          "activity_reasoning": "Familienunternehmen mit 2.200+ MA an 50+ Standorten weltweit. Einer der größten Chemiedistributoren Europas. 26.000 Produkte, 30.000 Kunden. 90+ Jahre Erfahrung.",
+          "recent_news": [
+            "STOCKMEIER Gruppe mit klarer Wachstumsstrategie und Nachhaltigkeitsfokus (2025)",
+            "WIRTSCHAFT LIVE Event: 'Chemie trifft Nachhaltigkeit' bei STOCKMEIER (Juni 2025)"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "KI in Produktion / EU AI Act",
+          "affinity_score": 0.45,
+          "affinity_reasoning": "SIGNALE: [+12|C] Bestehende IT-Landschaft: 50+ Standorte, 26.000 Produkte, 30.000 Kunden – komplexes ERP/Logistik-System erforderlich (geschätzt) | [+10|C] Datensilo-/Integrationsprobleme: Distribution + Produktion + 50 Standorte = heterogene Datenlandschaft (geschätzt) | [+12|B] REACH/GHS/ADR-Kontext: Chemiedistribution unter strengster Gefahrstoff-Regulierung (geschätzt) | [+8|C] Legacy-IT: 90+ Jahre Tradition, gewachsene Systeme (geschätzt) = 42/100 → 0.45",
+          "relevant_news": []
+        },
+        "combined_score": 0.558
+      },
+      "financials": {
+        "revenue_estimate": "~1,5-2 Mrd EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 2200,
+        "hiring_activity": {
+          "general_hiring_score": 0.45,
+          "total_job_postings": null,
+          "hiring_reasoning": "Regelmäßige Einstellungen an 50+ Standorten. Wachstumsstrategie erfordert Personalausbau."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.25,
+          "relevant_job_postings": null,
+          "topic_hiring_reasoning": "KI/ML/Data-Stellen: Keine dedizierten KI-/ML-Stellen öffentlich gefunden. Chemiedistribution mit hohem Automatisierungspotenzial (geschätzt).",
+          "example_positions": [
+            "ERP-Spezialist (geschätzt)",
+            "Logistik-Datenanalyst (geschätzt)",
+            "IT-Projektmanager (geschätzt)"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.82,
+          "financial_health_score": 0.72,
+          "pressure_score": 0.5,
+          "strategic_reasoning": "Angebots-Fit: Größter Chemiedistributor Europas mit 26.000 Produkten und 30.000 Kunden. KI-Potenziale in Bestandsoptimierung, Nachfrageprognose, Gefahrstoff-Compliance-Automatisierung. NeoGeo kann auditierbare KI für Chemiedistributions-ERP integrieren – insb. bei REACH/GHS-Compliance."
+        },
+        "customer_rating": 0.469,
+        "rating_reasoning": "Angebots-Fit: Größter Chemiedistributor Europas mit 26.000 Produkten und 30.000 Kunden. KI-Potenziale in Bestandsoptimierung, Nachfrageprognose, Gefahrstoff-Compliance-Automatisierung. NeoGeo kann auditierbare KI für Chemiedistributions-ERP integrieren – insb. bei REACH/GHS-Compliance."
+      },
+      "contact_persons": [
+        {
+          "name": "Geschäftsführung STOCKMEIER",
+          "role": "Geschäftsführer",
+          "linkedin": null,
+          "confidence": "LOW",
+          "notes": null
+        }
+      ],
+      "outreach": null,
+      "overall_score": 0.473
+    },
+    {
+      "company": {
+        "name": "Follmann Chemie GmbH (Follmann Gruppe)",
+        "website": "follmann-chemie.de",
+        "address": "Minden, Nordrhein-Westfalen",
+        "industry": "Spezialchemie – Druckfarben, Klebstoffe, Beschichtungen",
+        "source": null
+      },
+      "pipeline": "KI",
+      "tier": "TIER3",
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.72,
+          "activity_reasoning": "Familienunternehmen mit ca. 1.000 MA weltweit. Umsatz ca. 260 Mio EUR. Produktionsmenge >60.000 Tonnen/Jahr. Starke Position in Druckfarben und Klebstoffen.",
+          "recent_news": [
+            "Follmann Chemie mit 260 Mio EUR Umsatz und 1.000 Mitarbeitern (2024)",
+            "Nachhaltigkeitsstrategie mit Fokus auf biobasierte Rohstoffe (geschätzt)"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "KI in Produktion / EU AI Act",
+          "affinity_score": 0.4,
+          "affinity_reasoning": "SIGNALE: [+12|C] Bestehende Produktionslandschaft: Chargenfertigung von Druckfarben, Klebstoffen, Beschichtungen – Prozesssteuerung und Rezepturmanagement (geschätzt) | [+12|B] REACH/CLP-Kontext: Chemische Produktion unter strenger Regulierung (geschätzt) | [+8|C] Legacy-IT: Mittelständisches Familienunternehmen mit gewachsenen Systemen (geschätzt) | [+8|C] ERP/Produktions-IT: Chargenplanung, Rezepturverwaltung, Qualitätssicherung (geschätzt) = 40/100 → 0.40",
+          "relevant_news": []
+        },
+        "combined_score": 0.528
+      },
+      "financials": {
+        "revenue_estimate": "~260 Mio EUR (2024)",
+        "profit_estimate": null,
+        "employee_count": 1000,
+        "hiring_activity": {
+          "general_hiring_score": 0.4,
+          "total_job_postings": null,
+          "hiring_reasoning": "Regelmäßige Einstellungen in Minden. Keine auffälligen IT-/KI-Stellenausschreibungen gefunden."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.2,
+          "relevant_job_postings": null,
+          "topic_hiring_reasoning": "KI/ML/Data-Stellen: Keine dedizierten KI-/ML-Stellen öffentlich gefunden. Traditionelle Chemiemittelstand-IT (geschätzt).",
+          "example_positions": [
+            "Verfahrenstechniker Produktion (geschätzt)",
+            "IT-Administrator (geschätzt)",
+            "Qualitätsmanager Labor (geschätzt)"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.88,
+          "financial_health_score": 0.7,
+          "pressure_score": 0.45,
+          "strategic_reasoning": "Angebots-Fit: Chargenfertigung (Druckfarben, Klebstoffe) mit hohem KI-Potenzial in Rezepturoptimierung, Farbkalibrierung und Qualitätskontrolle. NeoGeo kann auditierbare KI-Module für Prozesssteuerung und Chargenplanung in bestehende Produktions-IT integrieren."
+        },
+        "customer_rating": 0.441,
+        "rating_reasoning": "Angebots-Fit: Chargenfertigung (Druckfarben, Klebstoffe) mit hohem KI-Potenzial in Rezepturoptimierung, Farbkalibrierung und Qualitätskontrolle. NeoGeo kann auditierbare KI-Module für Prozesssteuerung und Chargenplanung in bestehende Produktions-IT integrieren."
+      },
+      "contact_persons": [
+        {
+          "name": "Geschäftsführung Follmann",
+          "role": "Geschäftsführer",
+          "linkedin": null,
+          "confidence": "LOW",
+          "notes": null
+        }
+      ],
+      "outreach": null,
+      "overall_score": 0.438
+    },
+    {
+      "company": {
+        "name": "Nabaltec AG",
+        "website": "nabaltec.de",
+        "address": "Schwandorf, Bayern",
+        "industry": "Spezialchemie – Funktionsfüllstoffe, Flammschutzmittel, Technische Keramik",
+        "source": null
+      },
+      "pipeline": "KI",
+      "tier": "TIER3",
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.68,
+          "activity_reasoning": "Börsennotiertes Unternehmen mit ca. 490 MA. Umsatz 2024 ca. 200 Mio EUR. EBIT 2025 bei 15,2 Mio EUR (-30%). Herausforderndes Marktumfeld, aber strategisch auf Wachstumstrends positioniert.",
+          "recent_news": [
+            "Nabaltec liefert Materialien für KI-Rechenzentrum-Spezialkabel (Wachstumsfeld)",
+            "Umsatzwachstum 4-6% für 2026 erwartet, EBIT-Marge 5-7% Ziel"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "KI in Produktion / EU AI Act",
+          "affinity_score": 0.5,
+          "affinity_reasoning": "SIGNALE: [+18|C] KI-Pilot / Technologiebezug: Lieferant für KI-Rechenzentren (Spezialkabel-Materialien), Branchen-KI-Affinität, Quelle: it-boltwise 2025 | [+12|C] Bestehende Produktionslandschaft: Hochtemperatur-Prozesse (Aluminiumhydroxid, Böhmit), komplexe Anlagensteuerung (geschätzt) | [+12|B] REACH/Chemie-Regulierung: Funktionsfüllstoffe unter strenger Chemikalien-Regulierung (geschätzt) | [+8|C] ERP/Produktions-IT: Chargenproduktion mit Qualitätssicherung (geschätzt) = 50/100 → 0.50",
+          "relevant_news": []
+        },
+        "combined_score": 0.572
+      },
+      "financials": {
+        "revenue_estimate": "~200 Mio EUR (2024, geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 490,
+        "hiring_activity": {
+          "general_hiring_score": 0.4,
+          "total_job_postings": null,
+          "hiring_reasoning": "Kleineres börsennotiertes Unternehmen mit selektiven Einstellungen in Schwandorf. Keine auffälligen KI-Stellen gefunden."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.25,
+          "relevant_job_postings": null,
+          "topic_hiring_reasoning": "KI/ML/Data-Stellen: Keine dedizierten KI-Stellen öffentlich gefunden. KI-Affinität über Lieferkette zu Rechenzentren (geschätzt).",
+          "example_positions": [
+            "Verfahrensingenieur Hochtemperaturprozesse (geschätzt)",
+            "Qualitätsmanager (geschätzt)",
+            "IT-Spezialist (geschätzt)"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.82,
+          "financial_health_score": 0.62,
+          "pressure_score": 0.5,
+          "strategic_reasoning": "Angebots-Fit: Lieferant für KI-Infrastruktur (Spezialkabel), Hochtemperatur-Chemieprozesse mit KI-Optimierungspotenzial in Energieeffizienz und Qualitätskontrolle. NeoGeo kann auditierbare KI-Module für Prozessüberwachung und prädiktive Wartung in bestehende Anlagensteuerung integrieren."
+        },
+        "customer_rating": 0.462,
+        "rating_reasoning": "Angebots-Fit: Lieferant für KI-Infrastruktur (Spezialkabel), Hochtemperatur-Chemieprozesse mit KI-Optimierungspotenzial in Energieeffizienz und Qualitätskontrolle. NeoGeo kann auditierbare KI-Module für Prozessüberwachung und prädiktive Wartung in bestehende Anlagensteuerung integrieren."
+      },
+      "contact_persons": [
+        {
+          "name": "Johannes Heckmann",
+          "role": "Vorstandsvorsitzender",
+          "linkedin": null,
+          "confidence": "MEDIUM",
+          "notes": null
+        }
+      ],
+      "outreach": null,
+      "overall_score": 0.461
+    },
+    {
+      "company": {
+        "name": "Schill+Seilacher GmbH",
+        "website": "schillseilacher.de",
+        "address": "Böblingen, Baden-Württemberg",
+        "industry": "Spezialchemie – Industrielle Prozessadditive, Rubber Chemicals",
+        "source": null
+      },
+      "pipeline": "KI",
+      "tier": "TIER3",
+      "topic_relevance": {
+        "company_health": {
+          "activity_score": 0.72,
+          "activity_reasoning": "Traditionsunternehmen und Global Player in industriellen Prozessadditiven. Ca. 900 MA weltweit. Starke Position in Nischenmärkten (Kautschukchemie, Schmierstoffe, Textilhilfsmittel).",
+          "recent_news": [
+            "Schill+Seilacher als Global Player in Prozessadditiven positioniert (2025)",
+            "Produktion an mehreren internationalen Standorten (geschätzt)"
+          ]
+        },
+        "topic_affinity": {
+          "topic": "KI in Produktion / EU AI Act",
+          "affinity_score": 0.42,
+          "affinity_reasoning": "SIGNALE: [+12|C] Bestehende Produktionslandschaft: Additivproduktion für Kautschuk, Textil, Schmierstoffe – komplexe Chargensteuerung (geschätzt) | [+12|B] REACH/CLP-Kontext: Spezialchemie unter strenger Chemikalienregulierung (geschätzt) | [+10|C] Datensilo-/Integrationsprobleme: Internationale Standorte, diverse Produktlinien (geschätzt) | [+8|C] Legacy-IT: Traditionsunternehmen mit gewachsenen Systemen (geschätzt) = 42/100 → 0.42",
+          "relevant_news": []
+        },
+        "combined_score": 0.54
+      },
+      "financials": {
+        "revenue_estimate": "~300-400 Mio EUR (geschätzt)",
+        "profit_estimate": null,
+        "employee_count": 900,
+        "hiring_activity": {
+          "general_hiring_score": 0.4,
+          "total_job_postings": null,
+          "hiring_reasoning": "Regelmäßige Einstellungen in Böblingen und international. Keine auffälligen IT-/KI-Stellen gefunden."
+        },
+        "topic_hiring": {
+          "topic_hiring_score": 0.2,
+          "relevant_job_postings": null,
+          "topic_hiring_reasoning": "KI/ML/Data-Stellen: Keine dedizierten KI-/ML-Stellen öffentlich gefunden. Traditioneller Spezialchemiemittelstand (geschätzt).",
+          "example_positions": [
+            "Chemiker Produktentwicklung (geschätzt)",
+            "Verfahrenstechniker (geschätzt)",
+            "IT-Systemadministrator (geschätzt)"
+          ]
+        },
+        "strategic_fit": {
+          "size_fit_score": 0.88,
+          "financial_health_score": 0.72,
+          "pressure_score": 0.45,
+          "strategic_reasoning": "Angebots-Fit: Global Player mit Nischen-Spezialchemie (Kautschukadditive, Schmierstoffe). KI-Potenziale in Rezepturoptimierung, Prozessüberwachung und Chargenqualitätskontrolle. NeoGeo kann auditierbare KI in bestehende Produktionsprozesse integrieren – insb. bei REACH-Compliance-Automatisierung."
+        },
+        "customer_rating": 0.441,
+        "rating_reasoning": "Angebots-Fit: Global Player mit Nischen-Spezialchemie (Kautschukadditive, Schmierstoffe). KI-Potenziale in Rezepturoptimierung, Prozessüberwachung und Chargenqualitätskontrolle. NeoGeo kann auditierbare KI in bestehende Produktionsprozesse integrieren – insb. bei REACH-Compliance-Automatisierung."
+      },
+      "contact_persons": [
+        {
+          "name": "Geschäftsführung Schill+Seilacher",
+          "role": "Geschäftsführer",
+          "linkedin": null,
+          "confidence": "LOW",
+          "notes": null
+        }
+      ],
+      "outreach": null,
+      "overall_score": 0.443
     }
   ],
   "metadata": {},

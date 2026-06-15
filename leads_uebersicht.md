@@ -1,6 +1,6 @@
 # Lead-Übersicht — alle Pipelines
 
-Stand: 2026-06-15 · 484 Leads gesamt
+Stand: 2026-06-15 · 553 Leads gesamt
 
 Quelle: `leads.json` (Single Source of Truth). Vollständige Daten in `iot_leads_komplett.xlsx`, Lead-Sheets in `iot_lead_sheets.pdf`, Anschreiben in `iot_outreach_vorlagen.docx`.
 
@@ -10,7 +10,7 @@ Quelle: `leads.json` (Single Source of Truth). Vollständige Daten in `iot_leads
 |---|---|--:|--:|--:|--:|
 | Energie | Betriebs- & Anlagenverwaltung / ETRM | 100 | 36 | 45 | 19 |
 | IoT | IoT-Plattform-Entwicklung | 151 | 21 | 24 | 106 |
-| Telematik | Embedded-/Telematik-Softwareentwicklung | 102 | 43 | 50 | 9 |
+| Telematik | Embedded-/Telematik-Softwareentwicklung | 101 | 43 | 49 | 9 |
 | TISAX | TISAX-konformes IT-Outsourcing (Cloud/IoT/AI) | 102 | 16 | 52 | 34 |
 
 ---
