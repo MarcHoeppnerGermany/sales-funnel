@@ -1,6 +1,6 @@
 # Lead-Übersicht — alle Pipelines
 
-Stand: 2026-06-11 · 455 Leads gesamt
+Stand: 2026-06-15 · 484 Leads gesamt
 
 Quelle: `leads.json` (Single Source of Truth). Vollständige Daten in `iot_leads_komplett.xlsx`, Lead-Sheets in `iot_lead_sheets.pdf`, Anschreiben in `iot_outreach_vorlagen.docx`.
 
@@ -9,8 +9,8 @@ Quelle: `leads.json` (Single Source of Truth). Vollständige Daten in `iot_leads
 | Pipeline | Thema | Leads | TIER1 | TIER2 | TIER3 |
 |---|---|--:|--:|--:|--:|
 | Energie | Betriebs- & Anlagenverwaltung / ETRM | 100 | 36 | 45 | 19 |
-| IoT | IoT-Plattform-Entwicklung | 152 | 22 | 24 | 106 |
-| Telematik | Embedded-/Telematik-Softwareentwicklung | 101 | 43 | 49 | 9 |
+| IoT | IoT-Plattform-Entwicklung | 151 | 21 | 24 | 106 |
+| Telematik | Embedded-/Telematik-Softwareentwicklung | 102 | 43 | 50 | 9 |
 | TISAX | TISAX-konformes IT-Outsourcing (Cloud/IoT/AI) | 102 | 16 | 52 | 34 |
 
 ---
@@ -48,12 +48,12 @@ Quelle: `leads.json` (Single Source of Truth). Vollständige Daten in `iot_leads
 | 7 | 73% | TIER1 | TROX SE | Heinrich-Trox-Platz, 47506 Neukirchen-Vluyn | Thomas Mosbacher (Vorstand (IT-Ressort)) |
 | 8 | 73% | TIER1 | Kieback&Peter GmbH & Co. KG | Berlin, Berlin | k.A. (Leitung Digitalisierung / Produktmanagement) |
 | 9 | 71% | TIER1 | Insta GmbH | Lüdenscheid, Nordrhein-Westfalen | k.A. (Leitung Entwicklung / Technologie) |
-| 10 | 71% | TIER1 | Pepperl+Fuchs SE | Mannheim, Baden-Württemberg | Dr. Gunther Kegel (CEO) |
-| 11 | 71% | TIER1 | Hans Turck GmbH & Co. KG | Mülheim an der Ruhr, Nordrhein-Westfalen | Christian Wolf (Geschäftsführer) |
-| 12 | 71% | TIER1 | Busch-Jaeger Elektro GmbH | Lüdenscheid, Nordrhein-Westfalen | k.A. (Leitung Produktentwicklung Smart Building) |
-| 13 | 69% | TIER1 | Balluff GmbH | Neuhausen auf den Fildern, Baden-Württemberg | Frank Nonnenmann (Geschäftsführung) |
-| 14 | 69% | TIER1 | Theben AG | Haigerloch, Baden-Württemberg | k.A. (Leitung Produktentwicklung) |
-| 15 | 67% | TIER2 | Denker & Wulf AG | Sehestedt, Schleswig-Holstein | — |
+| 10 | 71% | TIER1 | Hans Turck GmbH & Co. KG | Mülheim an der Ruhr, Nordrhein-Westfalen | Christian Wolf (Geschäftsführer) |
+| 11 | 71% | TIER1 | Busch-Jaeger Elektro GmbH | Lüdenscheid, Nordrhein-Westfalen | k.A. (Leitung Produktentwicklung Smart Building) |
+| 12 | 69% | TIER1 | Balluff GmbH | Neuhausen auf den Fildern, Baden-Württemberg | Frank Nonnenmann (Geschäftsführung) |
+| 13 | 69% | TIER1 | Theben AG | Haigerloch, Baden-Württemberg | k.A. (Leitung Produktentwicklung) |
+| 14 | 67% | TIER2 | Denker & Wulf AG | Sehestedt, Schleswig-Holstein | — |
+| 15 | 67% | TIER2 | wenglor sensoric GmbH | Tettnang, Baden-Württemberg | Fabian Repple (Geschäftsführer) |
 
 ## Telematik — Top 15
 

@@ -1,0 +1,563 @@
+{
+  "pipeline": "KI",
+  "topic": "KI in Produktion / EU AI Act",
+  "allow_new": true,
+  "leads": [
+    {
+      "name": "Handtmann Unternehmensgruppe",
+      "website": "handtmann.de",
+      "address": "Biberach, Baden-Württemberg",
+      "industry": "Maschinenbau / Leichtmetallguss",
+      "health_score": 0.85,
+      "health_reasoning": "1.4 Mrd EUR Umsatz 2025, SAP Quality Award 2025, Megacasting-Pionier.",
+      "recent_news": [
+        "SAP Quality Award 2025",
+        "Head of Digital Transformation Data & AI Stelle"
+      ],
+      "affinity_score": 0.82,
+      "affinity_reasoning": "SIGNALE: [+15|A] Head of Digital Transformation Data & AI, StepStone | [+20|A] Data Engineer + Data Scientist bei BIN Nagold | [+12|C] SAP S/4HANA live | [+18|C] Megacasting Greenfield | [+8|D] Neuer CFO 2025",
+      "revenue": "1.4 Mrd EUR (2025)",
+      "employees": 4700,
+      "hiring_score": 0.7,
+      "hiring_postings": null,
+      "hiring_reasoning": "Wachstum, aktive SAP/IT-Rekrutierung.",
+      "topic_hiring_score": 0.85,
+      "topic_postings": 3,
+      "topic_hiring_reasoning": "3 dezidierte KI/Data-Stellen.",
+      "example_positions": [
+        "Head of Digital Transformation Data & AI",
+        "Data Engineer Quality/Production",
+        "Data Scientist Big Data & KI"
+      ],
+      "size_fit": 0.75,
+      "financial_health": 0.85,
+      "pressure": 0.7,
+      "strategic_reasoning": "TOP-LEAD: Sucht Head of Digital Transformation Data & AI. SAP live. Megacasting Greenfield.",
+      "contacts": [
+        {
+          "name": "Markus Handtmann",
+          "role": "Geschäftsführer 5. Generation",
+          "linkedin": null,
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "name": "Gerhard Schubert GmbH",
+      "website": "schubert.group",
+      "address": "Crailsheim, Baden-Württemberg",
+      "industry": "Maschinenbau / Verpackungsmaschinen",
+      "health_score": 0.9,
+      "health_reasoning": "421 Mio EUR Rekord 2024, 1807 MA, 9% F&E, Weltmarktführer.",
+      "recent_news": [
+        "Umsatzrekord 421 Mio EUR",
+        "Schubert Motion AI-Robotik in Serie"
+      ],
+      "affinity_score": 0.72,
+      "affinity_reasoning": "[+18|C] AI-Robotik in Serie | [+12|C] GRIPS.world IoT | [-20|E] Eigene AI-Kompetenz",
+      "revenue": "421 Mio EUR (2024)",
+      "employees": 1807,
+      "hiring_score": 0.7,
+      "hiring_postings": 61,
+      "hiring_reasoning": "61 LinkedIn-Stellen.",
+      "topic_hiring_score": 0.45,
+      "topic_postings": null,
+      "topic_hiring_reasoning": "SW-Entwickler Robotik. Keine ML-Stellen.",
+      "example_positions": [
+        "Software-Entwickler Robotik/Motion Planning"
+      ],
+      "size_fit": 0.85,
+      "financial_health": 0.9,
+      "pressure": 0.55,
+      "strategic_reasoning": "AI-Kompetenz in Robotik. NeoGeo-Fit: CV für Verpackungs-QA, EU AI Act.",
+      "contacts": [
+        {
+          "name": "Marcel Kiessling",
+          "role": "GF Vertrieb/Service",
+          "linkedin": "https://www.linkedin.com/in/marcel-kiessling-2a571093/",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "name": "KraussMaffei Group GmbH",
+      "website": "kraussmaffei.com",
+      "address": "München, Bayern",
+      "industry": "Maschinenbau / Kunststoff",
+      "health_score": 0.35,
+      "health_reasoning": "Restrukturierung, 790 Jobs gestrichen. Neuer CIO Peter Seidel April 2025.",
+      "recent_news": [
+        "Stellenabbau 790",
+        "CIO Peter Seidel seit April 2025"
+      ],
+      "affinity_score": 0.67,
+      "affinity_reasoning": "[+12|C] Smart Machines | [+15|D] Neuer CIO Seidel | [-10|E] Krise",
+      "revenue": "800 Mio EUR (geschätzt)",
+      "employees": 4000,
+      "hiring_score": 0.45,
+      "hiring_postings": 11,
+      "hiring_reasoning": "Stark reduziert.",
+      "topic_hiring_score": 0.55,
+      "topic_postings": 3,
+      "topic_hiring_reasoning": "AI Transformation Specialist, AI-Tools.",
+      "example_positions": [
+        "AI & Digital Transformation Specialist"
+      ],
+      "size_fit": 0.7,
+      "financial_health": 0.3,
+      "pressure": 0.75,
+      "strategic_reasoning": "Neuer CIO muss liefern. Budget knapp, KI-Bedarf real.",
+      "contacts": [
+        {
+          "name": "Peter Seidel",
+          "role": "VP Corporate IT (CIO)",
+          "linkedin": "https://www.linkedin.com/in/peter-seidel/",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "name": "MITNETZ STROM mbH",
+      "website": "mitnetz-strom.de",
+      "address": "Kabelsketal, Sachsen-Anhalt",
+      "industry": "Stromnetzbetreiber / KRITIS",
+      "health_score": 0.75,
+      "health_reasoning": "Größter VNB Ostdeutschlands, 531 Mio EUR Invest 2026.",
+      "recent_news": [
+        "KI-Drohneninspektion live",
+        "225 Mio EUR Digi-Invest bis 2030"
+      ],
+      "affinity_score": 0.72,
+      "affinity_reasoning": "[+18|C] KI in Produktion live | [+15|B] NIS2/KRITIS | [+12|C] 72.000 km Netz",
+      "revenue": "400-500 Mio EUR (geschätzt)",
+      "employees": 1800,
+      "hiring_score": 0.65,
+      "hiring_postings": 25,
+      "hiring_reasoning": "Wachstum.",
+      "topic_hiring_score": 0.4,
+      "topic_postings": null,
+      "topic_hiring_reasoning": "Kein KI-Hiring trotz KI-Projekten = externer Bedarf.",
+      "example_positions": [],
+      "size_fit": 0.85,
+      "financial_health": 0.75,
+      "pressure": 0.8,
+      "strategic_reasoning": "KI live, kein internes Team, massives Budget. Ideal.",
+      "contacts": [
+        {
+          "name": "Dirk Sattur",
+          "role": "Technischer GF",
+          "linkedin": null,
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "name": "Thyssengas GmbH",
+      "website": "thyssengas.com",
+      "address": "Dortmund, NRW",
+      "industry": "Gastransport / KRITIS",
+      "health_score": 0.75,
+      "health_reasoning": "3700 km Pipeline, H2-Umbau, neue CEO Jan 2026.",
+      "recent_news": [
+        "400 km H2 umgestellt",
+        "Data Analyst/Scientist mit Prompt Engineering"
+      ],
+      "affinity_score": 0.62,
+      "affinity_reasoning": "[+20|A] Data Analyst/Scientist mit KI | [+15|B] KRITIS/NIS2 | [+10|D] Neue CEO",
+      "revenue": "63 Mio EUR (geschätzt)",
+      "employees": 500,
+      "hiring_score": 0.5,
+      "hiring_postings": 15,
+      "hiring_reasoning": "15 Stellen.",
+      "topic_hiring_score": 0.4,
+      "topic_postings": 3,
+      "topic_hiring_reasoning": "KI-Werkstudenten + Data Analyst.",
+      "example_positions": [
+        "Data Analyst/Scientist Energietransformation"
+      ],
+      "size_fit": 0.8,
+      "financial_health": 0.75,
+      "pressure": 0.8,
+      "strategic_reasoning": "KRITIS + H2 + neue CEO = perfektes Timing.",
+      "contacts": [
+        {
+          "name": "Dr. Stefanie Kesting",
+          "role": "CEO seit Jan 2026",
+          "linkedin": null,
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "name": "BLG Logistics Group AG & Co. KG",
+      "website": "blg-logistics.com",
+      "address": "Bremen",
+      "industry": "Hafenlogistik",
+      "health_score": 0.75,
+      "health_reasoning": "1.2 Mrd EUR, neue CIO Bühler Nov 2025.",
+      "recent_news": [
+        "CIO Arlene Bühler",
+        "7 laufende KI-Projekte"
+      ],
+      "affinity_score": 0.78,
+      "affinity_reasoning": "[+18|C] 7 KI-Projekte live | [+12|C] SAP integriert | [+15|D] Neue CIO mit KI-Track-Record",
+      "revenue": "1.2 Mrd EUR (2025)",
+      "employees": 8838,
+      "hiring_score": 0.5,
+      "hiring_postings": 22,
+      "hiring_reasoning": "SAP-Stellen. Keine AI-Rollen.",
+      "topic_hiring_score": 0.3,
+      "topic_postings": 0,
+      "topic_hiring_reasoning": "Keine AI-Rollen trotz 7 KI-Projekte.",
+      "example_positions": [
+        "SAP Inhouse Consultant"
+      ],
+      "size_fit": 0.4,
+      "financial_health": 0.75,
+      "pressure": 0.7,
+      "strategic_reasoning": "7 KI-Projekte, keine AI-Stellen = externer Bedarf.",
+      "contacts": [
+        {
+          "name": "Arlene Bühler",
+          "role": "CIO seit Nov 2025",
+          "linkedin": null,
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "name": "Concordia Versicherungsgesellschaft a.G.",
+      "website": "concordia.de",
+      "address": "Hannover",
+      "industry": "Versicherung",
+      "health_score": 0.7,
+      "health_reasoning": "833 Mio EUR Beiträge +10.1%.",
+      "recent_news": [
+        "Agentic AI Conny in Produktion",
+        "Greenfield IT-Rebuild"
+      ],
+      "affinity_score": 0.85,
+      "affinity_reasoning": "[+18|C] AI in Produktion! | [+15|C] Greenfield IT | [+15|B] EU AI Act",
+      "revenue": "833 Mio EUR (2025)",
+      "employees": 1250,
+      "hiring_score": 0.5,
+      "hiring_postings": null,
+      "hiring_reasoning": "DWH Developer.",
+      "topic_hiring_score": 0.3,
+      "topic_postings": 1,
+      "topic_hiring_reasoning": "1 DWH-Stelle.",
+      "example_positions": [
+        "Data Warehouse Developer"
+      ],
+      "size_fit": 0.9,
+      "financial_health": 0.7,
+      "pressure": 0.7,
+      "strategic_reasoning": "TOP: AI in Produktion + Greenfield + 1250 MA.",
+      "contacts": [
+        {
+          "name": "Dirk Gronert",
+          "role": "Vorstand (IT-Transformation)",
+          "linkedin": null,
+          "confidence": "MEDIUM"
+        }
+      ]
+    },
+    {
+      "name": "NÜRNBERGER Versicherungsgruppe",
+      "website": "nuernberger.de",
+      "address": "Nürnberg, Bayern",
+      "industry": "Versicherung",
+      "health_score": 0.65,
+      "health_reasoning": "Turnaround: +46.8 Mio nach -77 Mio.",
+      "recent_news": [
+        "Turnaround geschafft",
+        "Neuer IT-Vorstand Politt März 2026"
+      ],
+      "affinity_score": 0.7,
+      "affinity_reasoning": "[+20|A] Data Engineers | [+15|D] Neuer IT-Vorstand | [+12|C] Kernsystem-Modernisierung",
+      "revenue": "3.5 Mrd EUR (2025)",
+      "employees": 3829,
+      "hiring_score": 0.6,
+      "hiring_postings": 360,
+      "hiring_reasoning": "360+ Stellen.",
+      "topic_hiring_score": 0.5,
+      "topic_postings": 2,
+      "topic_hiring_reasoning": "Senior Data Engineer + Data Engineer.",
+      "example_positions": [
+        "Senior Data Engineer",
+        "Data Engineer"
+      ],
+      "size_fit": 0.8,
+      "financial_health": 0.55,
+      "pressure": 0.75,
+      "strategic_reasoning": "Turnaround + neuer IT-Vorstand + Data Hiring.",
+      "contacts": [
+        {
+          "name": "Wolfram Politt",
+          "role": "Vorstand Ops & IT seit März 2026",
+          "linkedin": null,
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "name": "KARL STORZ SE & Co. KG",
+      "website": "karlstorz.com",
+      "address": "Tuttlingen, BW",
+      "industry": "Medizintechnik / Endoskopie",
+      "health_score": 0.75,
+      "health_reasoning": "2.24 Mrd EUR, post-Restrukturierung.",
+      "recent_news": [
+        "SurgicalAIHub klinische Piloten 2026",
+        "Innersight3D CE-zertifizierte AI"
+      ],
+      "affinity_score": 0.8,
+      "affinity_reasoning": "[+18|C] AI Pilot -> Produktion | [+15|C] CE-zertifizierte AI | [+15|B] EU AI Act High-Risk | [-20|E] Eigene AI-Entwickler",
+      "revenue": "2.24 Mrd EUR (2024)",
+      "employees": 9800,
+      "hiring_score": 0.6,
+      "hiring_postings": 323,
+      "hiring_reasoning": "AI Software Developer bestätigt.",
+      "topic_hiring_score": 0.5,
+      "topic_postings": 3,
+      "topic_hiring_reasoning": "AI SW Dev, Image Processing, Smart-Camera KI.",
+      "example_positions": [
+        "AI Software Developer",
+        "Image Processing Engineer"
+      ],
+      "size_fit": 0.4,
+      "financial_health": 0.7,
+      "pressure": 0.75,
+      "strategic_reasoning": "CE-zertifizierte AI = EU AI Act Compliance zwingend.",
+      "contacts": [
+        {
+          "name": "Karl-Christian Storz",
+          "role": "CEO 3. Generation",
+          "linkedin": null,
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "name": "Grünenthal GmbH",
+      "website": "grunenthal.com",
+      "address": "Aachen, NRW",
+      "industry": "Pharma / Schmerztherapie",
+      "health_score": 0.75,
+      "health_reasoning": "1.8 Mrd EUR, EBITDA 412 Mio.",
+      "recent_news": [
+        "Data Science Platform Lead Stelle",
+        "I4.0 Piloten in Produktion"
+      ],
+      "affinity_score": 0.72,
+      "affinity_reasoning": "[+20|A] Data Science Platform Lead | [+15|B] EU GMP Annex 22 | [+18|C] I4.0 Piloten",
+      "revenue": "1.8 Mrd EUR (2024)",
+      "employees": 4300,
+      "hiring_score": 0.45,
+      "hiring_postings": 16,
+      "hiring_reasoning": "16 Stellen Aachen.",
+      "topic_hiring_score": 0.35,
+      "topic_postings": 1,
+      "topic_hiring_reasoning": "Data Science Platform Lead.",
+      "example_positions": [
+        "Data Science Platform & Analytics Lead"
+      ],
+      "size_fit": 0.65,
+      "financial_health": 0.8,
+      "pressure": 0.65,
+      "strategic_reasoning": "Pharma + I4.0 Piloten + GMP/AI Act + kein CTO.",
+      "contacts": [
+        {
+          "name": "Gabriel Baertschi",
+          "role": "CEO",
+          "linkedin": null,
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "name": "Kuchenmeister GmbH",
+      "website": "kuchenmeister.de",
+      "address": "Soest, NRW",
+      "industry": "Backwaren / Lebensmittelproduktion",
+      "health_score": 0.75,
+      "health_reasoning": "470 Mio EUR, 1716 MA, Weltmarktführer.",
+      "recent_news": [
+        "EIGENE KI-Abteilung mit CV in Produktion",
+        "Neuer GF Biermann Nov 2025"
+      ],
+      "affinity_score": 0.8,
+      "affinity_reasoning": "[+25|A] Eigene KI-Abteilung! CV in Produktion | [+10|C] Hochautomatisiert | [+8|D] Neuer GF",
+      "revenue": "470 Mio EUR",
+      "employees": 1716,
+      "hiring_score": 0.5,
+      "hiring_postings": null,
+      "hiring_reasoning": "KI-Abteilung existiert.",
+      "topic_hiring_score": 0.4,
+      "topic_postings": null,
+      "topic_hiring_reasoning": "Interne KI-Abteilung.",
+      "example_positions": [],
+      "size_fit": 0.85,
+      "financial_health": 0.75,
+      "pressure": 0.6,
+      "strategic_reasoning": "TOP: Eigene KI-Abteilung + CV = AI-affin. EU AI Act.",
+      "contacts": [
+        {
+          "name": "Markus Biermann",
+          "role": "GF seit Nov 2025",
+          "linkedin": null,
+          "confidence": "MEDIUM"
+        }
+      ]
+    },
+    {
+      "name": "Conditorei Coppenrath & Wiese KG",
+      "website": "coppenrath-wiese.de",
+      "address": "Mettingen, NRW",
+      "industry": "TK-Backwaren / Lebensmittelproduktion",
+      "health_score": 0.85,
+      "health_reasoning": "500 Mio EUR, 2600 MA, Dr. Oetker.",
+      "recent_news": [
+        "SAP S/4HANA live",
+        "Seedhouse FoodTech-Partnerschaft"
+      ],
+      "affinity_score": 0.75,
+      "affinity_reasoning": "[+15|C] SAP S/4HANA | [+12|C] Lobster Prozessautomatisierung | [+10|D] Oetker Digital",
+      "revenue": "500 Mio EUR (geschätzt)",
+      "employees": 2600,
+      "hiring_score": 0.55,
+      "hiring_postings": null,
+      "hiring_reasoning": "SAP/IT-Stellen aktiv.",
+      "topic_hiring_score": 0.3,
+      "topic_postings": 0,
+      "topic_hiring_reasoning": "Keine AI-Stellen.",
+      "example_positions": [
+        "SAP Service Manager"
+      ],
+      "size_fit": 0.8,
+      "financial_health": 0.85,
+      "pressure": 0.6,
+      "strategic_reasoning": "SAP + Oetker-Budget + 4 Mio Brötchen/Tag.",
+      "contacts": [
+        {
+          "name": "Benjamin Voß",
+          "role": "Head of Organization",
+          "linkedin": null,
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "name": "Röhm GmbH",
+      "website": "roehm.com",
+      "address": "Darmstadt, Hessen",
+      "industry": "Spezialchemie / PLEXIGLAS",
+      "health_score": 0.55,
+      "health_reasoning": "1.5 Mrd EUR, 3500 MA, PE Advent.",
+      "recent_news": [
+        "LiMA-Investition",
+        "Post-Carve-out IT-Aufbau"
+      ],
+      "affinity_score": 0.65,
+      "affinity_reasoning": "[+15|D] PE-Druck | [+12|D] Carve-out IT | [+15|B] SEVESO/KRITIS",
+      "revenue": "1.5 Mrd EUR (geschätzt)",
+      "employees": 3500,
+      "hiring_score": 0.5,
+      "hiring_postings": 40,
+      "hiring_reasoning": "SAP, OT-Security.",
+      "topic_hiring_score": 0.25,
+      "topic_postings": 1,
+      "topic_hiring_reasoning": "Keine AI-Stellen. Manufacturing IT.",
+      "example_positions": [
+        "Prozessingenieur Leittechnik"
+      ],
+      "size_fit": 0.9,
+      "financial_health": 0.5,
+      "pressure": 0.8,
+      "strategic_reasoning": "Perfekter Size-Fit. PE-Druck + Carve-out = IT-Greenfield.",
+      "contacts": [
+        {
+          "name": "Michael Pack",
+          "role": "CEO",
+          "linkedin": null,
+          "confidence": "MEDIUM"
+        }
+      ]
+    },
+    {
+      "name": "Fuchs SE",
+      "website": "fuchs.com",
+      "address": "Mannheim, BW",
+      "industry": "Spezialschmierstoffe / Chemie",
+      "health_score": 0.8,
+      "health_reasoning": "3.7 Mrd EUR, Dividende +5%.",
+      "recent_news": [
+        "Doppelwechsel CTO+CFO 2025",
+        "SAP S/4HANA Roadmap"
+      ],
+      "affinity_score": 0.75,
+      "affinity_reasoning": "[+15|D] Doppelter Vorstandswechsel | [+15|B] TISAX+ISO | [+12|C] SAP S/4HANA Roadmap",
+      "revenue": "3.7 Mrd EUR (2025)",
+      "employees": 6780,
+      "hiring_score": 0.55,
+      "hiring_postings": 70,
+      "hiring_reasoning": "SAP ABAP, Enterprise Architect.",
+      "topic_hiring_score": 0.15,
+      "topic_postings": 0,
+      "topic_hiring_reasoning": "Keine AI-Stellen.",
+      "example_positions": [
+        "Enterprise Architect SAP S/4HANA"
+      ],
+      "size_fit": 0.5,
+      "financial_health": 0.85,
+      "pressure": 0.7,
+      "strategic_reasoning": "Window of Opportunity: Doppelter Vorstandswechsel + SAP Roadmap.",
+      "contacts": [
+        {
+          "name": "Dr. Andreas Schwarzer",
+          "role": "VP Global IT",
+          "linkedin": "https://de.linkedin.com/in/dr-andreas-schwarzer-72b4b322",
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "name": "Boysen Group (Friedrich Boysen GmbH & Co. KG)",
+      "website": "boysen-online.de",
+      "address": "Altensteig, Baden-Württemberg",
+      "industry": "Automotive / Abgassysteme",
+      "health_score": 0.8,
+      "health_reasoning": "2.4 Mrd EUR 2025, 5100 MA, neuer CEO Dr. Till Scharf.",
+      "recent_news": [
+        "Data Engineer + Data Scientist bei BIN Nagold",
+        "Batteriegehäuse für Mercedes-AMG/BMW"
+      ],
+      "affinity_score": 0.7,
+      "affinity_reasoning": "[+20|A] Data Engineer + Data Scientist bei Innovationszentrum BIN | [+12|C] MES/ERP Integration | [+8|D] Neuer CEO 2025 | [-10|E] Noch Aufbauphase",
+      "revenue": "2.4 Mrd EUR (2025)",
+      "employees": 5100,
+      "hiring_score": 0.55,
+      "hiring_postings": 25,
+      "hiring_reasoning": "Produktion, Engineering, 2 Data-Stellen.",
+      "topic_hiring_score": 0.5,
+      "topic_postings": 2,
+      "topic_hiring_reasoning": "Data Engineer + Data Scientist bei BIN.",
+      "example_positions": [
+        "Data Engineer Quality/Production",
+        "Data Scientist Big Data & KI"
+      ],
+      "size_fit": 0.65,
+      "financial_health": 0.8,
+      "pressure": 0.65,
+      "strategic_reasoning": "Eigenes Innovationszentrum BIN mit Data-Team-Aufbau. Automotive-Transformation.",
+      "contacts": [
+        {
+          "name": "Dr. Till Scharf",
+          "role": "CEO seit Mitte 2025",
+          "linkedin": null,
+          "confidence": "HIGH"
+        }
+      ]
+    }
+  ]
+}
