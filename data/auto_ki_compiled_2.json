@@ -1,0 +1,767 @@
+{
+  "pipeline": "KI",
+  "topic": "KI in Produktion / EU AI Act",
+  "allow_new": true,
+  "leads": [
+    {
+      "name": "Bahlsen GmbH & Co. KG",
+      "website": "bahlsen.com",
+      "address": "Hannover, Niedersachsen",
+      "industry": "Lebensmittelproduktion / Backwaren",
+      "health_score": 0.65,
+      "health_reasoning": "560-608 Mio EUR Umsatz, 2700 MA. Familienunternehmen im Umbruch.",
+      "recent_news": [
+        "Neue CIO Pia Fischbach seit März 2026 (ex-Otto, ex-Daimler)",
+        "Ivalua S2P-Plattform seit Sept 2022"
+      ],
+      "affinity_score": 0.6,
+      "affinity_reasoning": "[+15|D] Neue CIO Fischbach (Tech Transformation Officer) März 2026 | [+12|C] Ivalua Cloud S2P = Cloud-Bereitschaft | [+8|C] ERP-Integration (Ivalua) | [+5|D] Führungsumbau | [-10|E] Keine bestätigten AI-Projekte",
+      "revenue": "560-608 Mio EUR",
+      "employees": 2700,
+      "hiring_score": 0.55,
+      "hiring_postings": 56,
+      "hiring_reasoning": "56 Glassdoor-Stellen. Head of IT/Digital/Analytics vorhanden.",
+      "topic_hiring_score": 0.25,
+      "topic_postings": null,
+      "topic_hiring_reasoning": "Keine AI/ML-Stellen bestätigt. CIO-Neubesetzung deutet auf Aufbau.",
+      "example_positions": [],
+      "size_fit": 0.75,
+      "financial_health": 0.65,
+      "pressure": 0.6,
+      "strategic_reasoning": "Neue CIO mit Transformationshintergrund = Window of Opportunity. Backwarenproduktion ideal für CV-QA.",
+      "contacts": [
+        {
+          "name": "Pia Fischbach",
+          "role": "CIO (seit März 2026, ex-Otto Group)",
+          "linkedin": null,
+          "confidence": "HIGH"
+        },
+        {
+          "name": "Kathrin Wittmann",
+          "role": "Head of IT, Digital and Analytics",
+          "linkedin": null,
+          "confidence": "MEDIUM"
+        }
+      ]
+    },
+    {
+      "name": "Gerresheimer AG",
+      "website": "gerresheimer.com",
+      "address": "Düsseldorf, NRW",
+      "industry": "Pharma-Verpackung / Glas & Kunststoff",
+      "health_score": 0.45,
+      "health_reasoning": "2.0 Mrd EUR Umsatz, 11.000 MA. Bilanzkrise (IFRS-Verstöße, 220-240 Mio Wertminderung).",
+      "recent_news": [
+        "CIO Zafer Nalbant: IoT-Plattform + Data Lake + KI-Vision",
+        "SAP S/4HANA Migration + SAP MII MES produktiv"
+      ],
+      "affinity_score": 0.85,
+      "affinity_reasoning": "[+15|C] IoT-Plattform + Data Lake + explizite KI-Vision (CIO Nalbant) | [+12|C] SAP S/4HANA + MII MES produktiv | [+12|C] Azure Hybrid Cloud 54 Standorte | [+15|B] Pharma GMP High-Risk | [+12|D] Bilanzkrise = Effizienz-Druck | [-10|E] Bilanzkrise Budget-Risiko",
+      "revenue": "2.0 Mrd EUR",
+      "employees": 11000,
+      "hiring_score": 0.55,
+      "hiring_postings": 250,
+      "hiring_reasoning": "250 LinkedIn-Stellen. SAP/IT aktiv.",
+      "topic_hiring_score": 0.2,
+      "topic_postings": 0,
+      "topic_hiring_reasoning": "Keine AI/ML-Stellen. CIO hat AI-Vision aber Infrastruktur-Phase.",
+      "example_positions": [
+        "SAP S/4HANA Consultant",
+        "MES Specialist"
+      ],
+      "size_fit": 0.55,
+      "financial_health": 0.4,
+      "pressure": 0.8,
+      "strategic_reasoning": "CIO mit expliziter KI-Vision, SAP+MES produktiv, Pharma-CV ideal. Aber Bilanzkrise.",
+      "contacts": [
+        {
+          "name": "Zafer Nalbant",
+          "role": "CIO",
+          "linkedin": null,
+          "confidence": "HIGH"
+        },
+        {
+          "name": "Benjamin Benning",
+          "role": "Global IT Director",
+          "linkedin": null,
+          "confidence": "MEDIUM"
+        }
+      ]
+    },
+    {
+      "name": "Lorenz Snack-World GmbH & Co. KG",
+      "website": "lorenz-snacks.com",
+      "address": "Offenbach, Hessen",
+      "industry": "Lebensmittelproduktion / Snacks",
+      "health_score": 0.75,
+      "health_reasoning": "~700 Mio EUR Umsatz, 3000 MA. Wachstum, Akquisitionen.",
+      "recent_news": [
+        "SAP HANA + Google Cloud Migration + BigQuery",
+        "Neue Verpackungslinie Automatisierung"
+      ],
+      "affinity_score": 0.65,
+      "affinity_reasoning": "[+15|C] SAP HANA + Google Cloud + BigQuery = AI-ready Infrastruktur | [+10|C] Master Data Cockpit Valantic | [+10|D] Neue Verpackungslinie Automatisierung | [-5|E] Keine sichtbaren AI-Projekte",
+      "revenue": "700 Mio EUR (geschätzt)",
+      "employees": 3000,
+      "hiring_score": 0.5,
+      "hiring_postings": 34,
+      "hiring_reasoning": "34 Glassdoor-Stellen. Keine AI-spezifischen.",
+      "topic_hiring_score": 0.15,
+      "topic_postings": 0,
+      "topic_hiring_reasoning": "Keine AI-Stellen. SAP+Cloud-Basis da, aber AI noch nicht gestartet.",
+      "example_positions": [],
+      "size_fit": 0.8,
+      "financial_health": 0.75,
+      "pressure": 0.55,
+      "strategic_reasoning": "AI-ready Infrastruktur (SAP+GCP+BigQuery) aber noch kein AI-Start = Greenfield.",
+      "contacts": []
+    },
+    {
+      "name": "Fuchs Gewürze GmbH",
+      "website": "fuchsgruppe.com",
+      "address": "Dissen, Niedersachsen",
+      "industry": "Lebensmittelproduktion / Gewürze",
+      "health_score": 0.8,
+      "health_reasoning": "661 Mio EUR Umsatz 2024 (+4.8%), 3100 MA, größter dt. Gewürzhersteller.",
+      "recent_news": [
+        "SAP S/4HANA + ECC/HCM + Fiori + BTP aktiv",
+        "IT als zentraler Treiber für Digitalisierung"
+      ],
+      "affinity_score": 0.6,
+      "affinity_reasoning": "[+15|C] SAP S/4HANA + Fiori + BTP aktiv | [+10|C] IT als Innovationstreiber positioniert | [+5|D] Neue Pfeffermühle Investition | [-5|E] Keine sichtbaren KI-Projekte",
+      "revenue": "661 Mio EUR (2024)",
+      "employees": 3100,
+      "hiring_score": 0.5,
+      "hiring_postings": 44,
+      "hiring_reasoning": "44 Stellen. SAP ABAP Entwickler gesucht.",
+      "topic_hiring_score": 0.15,
+      "topic_postings": 0,
+      "topic_hiring_reasoning": "Keine AI/ML-Stellen. SAP-Modernisierung im Fokus.",
+      "example_positions": [
+        "SAP ABAP Entwickler"
+      ],
+      "size_fit": 0.8,
+      "financial_health": 0.8,
+      "pressure": 0.5,
+      "strategic_reasoning": "SAP-Basis da, IT als Innovationstreiber, aber KI noch Greenfield.",
+      "contacts": []
+    },
+    {
+      "name": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
+      "website": "medice.com",
+      "address": "Iserlohn, NRW",
+      "industry": "Pharma / Arzneimittelherstellung",
+      "health_score": 0.8,
+      "health_reasoning": "360 Mio EUR Umsatz, 1200 MA, Top 100 wachstumsstärkster Mittelstand.",
+      "recent_news": [
+        "FASTEC 4 PRO MES seit 2012, OEE +10%",
+        "Reorganisation als MEDICE Health Family"
+      ],
+      "affinity_score": 0.7,
+      "affinity_reasoning": "[+15|C] MES FASTEC produktiv, OEE +10% | [+15|B] GMP-reguliert, EU AI Act relevant | [+10|D] Reorganisation Health Family | [+8|C] Papierlose Produktionsplanung | [-5|E] Kein internes KI-Team (positiv für extern)",
+      "revenue": "360 Mio EUR (2023)",
+      "employees": 1200,
+      "hiring_score": 0.7,
+      "hiring_postings": 77,
+      "hiring_reasoning": "77 Stellen, Wachstumsunternehmen.",
+      "topic_hiring_score": 0.15,
+      "topic_postings": 0,
+      "topic_hiring_reasoning": "Keine KI-Stellen. MES-Basis für KI vorhanden.",
+      "example_positions": [],
+      "size_fit": 0.8,
+      "financial_health": 0.8,
+      "pressure": 0.7,
+      "strategic_reasoning": "MES produktiv + GMP + kein AI-Team = idealer Greenfield-Kandidat für KI in Pharma-Produktion.",
+      "contacts": [
+        {
+          "name": "Michael Gilster",
+          "role": "GF (IT-Verantwortung)",
+          "linkedin": null,
+          "confidence": "HIGH"
+        },
+        {
+          "name": "Michael Jud",
+          "role": "Head of Global IT",
+          "linkedin": null,
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "name": "Zentis GmbH & Co. KG",
+      "website": "zentis.de",
+      "address": "Aachen, NRW",
+      "industry": "Lebensmittelproduktion / Fruchtverarbeitung",
+      "health_score": 0.75,
+      "health_reasoning": "~700 Mio EUR Umsatz, 1800 MA, seit 1893.",
+      "recent_news": [
+        "Neues Logistikzentrum + Produktionsmodernisierung",
+        "SAP bestätigt"
+      ],
+      "affinity_score": 0.6,
+      "affinity_reasoning": "[+12|C] SAP bestätigt | [+10|C] Logistik-/Produktionsmodernisierung | [+8|A] IT-Stellen aktiv | [-5|E] Keine AI-Projekte sichtbar",
+      "revenue": "700 Mio EUR (geschätzt)",
+      "employees": 1800,
+      "hiring_score": 0.55,
+      "hiring_postings": null,
+      "hiring_reasoning": "IT-Infrastruktur und SAP-Stellen aktiv.",
+      "topic_hiring_score": 0.2,
+      "topic_postings": 0,
+      "topic_hiring_reasoning": "Keine AI-Stellen. SAP-Basis vorhanden.",
+      "example_positions": [],
+      "size_fit": 0.85,
+      "financial_health": 0.75,
+      "pressure": 0.55,
+      "strategic_reasoning": "B2B-Fruchtverarbeitung: CV für Qualität, Traceability, SAP-Integration.",
+      "contacts": []
+    },
+    {
+      "name": "Volkswohl Bund Lebensversicherung a.G.",
+      "website": "volkswohl-bund.de",
+      "address": "Dortmund, NRW",
+      "industry": "Versicherung",
+      "health_score": 0.8,
+      "health_reasoning": "1.7 Mrd EUR Beiträge Leben, biometrisches Neugeschäft +8.7%.",
+      "recent_news": [
+        "Core-System Greenfield-Replacement V'ger P&C mit Novum-RGI",
+        "RZ-Neubau mit ProRZ"
+      ],
+      "affinity_score": 0.7,
+      "affinity_reasoning": "[+18|C] Core-System Greenfield Replacement | [+15|B] EU AI Act + DORA | [+12|C] RZ-Neubau | [-10|E] Legacy-Modernisierung bindet Ressourcen",
+      "revenue": "2.0 Mrd EUR Beiträge (geschätzt)",
+      "employees": 700,
+      "hiring_score": 0.4,
+      "hiring_postings": 6,
+      "hiring_reasoning": "6 Stellen inkl. Data Analyst.",
+      "topic_hiring_score": 0.2,
+      "topic_postings": 0,
+      "topic_hiring_reasoning": "Kein AI-Hiring. Core-System-Projekt absorbiert IT.",
+      "example_positions": [
+        "Data Analyst"
+      ],
+      "size_fit": 0.9,
+      "financial_health": 0.8,
+      "pressure": 0.65,
+      "strategic_reasoning": "Greenfield Core-System = perfektes Timing für KI-Integration. 700 MA ideal.",
+      "contacts": [
+        {
+          "name": "Dr. Gerrit Boehm",
+          "role": "Vorstand IT",
+          "linkedin": null,
+          "confidence": "HIGH"
+        },
+        {
+          "name": "Dr. Jan-Andre Pramann",
+          "role": "Leiter IT",
+          "linkedin": null,
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "name": "Netze BW GmbH",
+      "website": "netze-bw.de",
+      "address": "Stuttgart, Baden-Württemberg",
+      "industry": "Stromverteilnetzbetreiber / KRITIS",
+      "health_score": 0.85,
+      "health_reasoning": "100%-EnBW-Tochter, >100.000 km Netz, 3 Mio Haushalte.",
+      "recent_news": [
+        "Machine Learning Engineer Stelle (Azure ML, Databricks)",
+        "Tech Lead Data Engineering Stelle"
+      ],
+      "affinity_score": 0.67,
+      "affinity_reasoning": "[+20|A] ML Engineer Stelle | [+20|A] Tech Lead Data Engineering | [+12|C] diginamic IoT/LoRaWAN | [+15|B] NIS2/KRITIS | [+15|D] Doppelter GF-Wechsel 2025 | [-12|E] EnBW-Konzern | [-11|E] Internes ML-Team im Aufbau",
+      "revenue": "3.5 Mrd EUR (geschätzt)",
+      "employees": 5500,
+      "hiring_score": 0.7,
+      "hiring_postings": null,
+      "hiring_reasoning": "ML Engineer + Tech Lead Data Engineering = aktives AI-Hiring.",
+      "topic_hiring_score": 0.7,
+      "topic_postings": 2,
+      "topic_hiring_reasoning": "ML Engineer + Tech Lead Data Engineering = 2 dezidierte KI/Data-Stellen.",
+      "example_positions": [
+        "Machine Learning Engineer (Azure ML, Databricks)",
+        "Tech Lead Data Engineering"
+      ],
+      "size_fit": 0.4,
+      "financial_health": 0.85,
+      "pressure": 0.8,
+      "strategic_reasoning": "ML-Team im Aufbau (2 Stellen), IoT-Infrastruktur, KRITIS-Druck. Aber EnBW-Konzern.",
+      "contacts": [
+        {
+          "name": "Selma Lossau",
+          "role": "GF Technik (seit Sep 2025)",
+          "linkedin": null,
+          "confidence": "MEDIUM"
+        }
+      ]
+    },
+    {
+      "name": "GASCADE Gastransport GmbH",
+      "website": "gascade.de",
+      "address": "Kassel, Hessen",
+      "industry": "Gastransport / KRITIS",
+      "health_score": 0.75,
+      "health_reasoning": "3700 km Pipeline, SEFE-Tochter, H2-Umbau.",
+      "recent_news": [
+        "Werkstudent KI & Digitale Transformation",
+        "Chatbot-Exploration"
+      ],
+      "affinity_score": 0.62,
+      "affinity_reasoning": "[+20|A] KI-Werkstudent | [+15|B] KRITIS/NIS2 | [+12|C] SCADA 3700 km | [+8|D] Chatbot",
+      "revenue": "63 Mio EUR (geschätzt)",
+      "employees": 450,
+      "hiring_score": 0.5,
+      "hiring_postings": 15,
+      "hiring_reasoning": "KI-Werkstudenten.",
+      "topic_hiring_score": 0.4,
+      "topic_postings": 3,
+      "topic_hiring_reasoning": "3 KI/Digi-Werkstudenten.",
+      "example_positions": [
+        "Werkstudent KI & Digitale Transformation"
+      ],
+      "size_fit": 0.75,
+      "financial_health": 0.75,
+      "pressure": 0.8,
+      "strategic_reasoning": "KI-Aufbauphase, KRITIS, H2-Umbau.",
+      "contacts": []
+    },
+    {
+      "name": "Biotest GmbH & Co. KGaA",
+      "website": "biotest.com",
+      "address": "Dreieich, Hessen",
+      "industry": "Biopharma / Plasmaprodukte",
+      "health_score": 0.65,
+      "health_reasoning": "649 Mio EUR Umsatz 2025, Next Level Facility. Grifols-Tochter.",
+      "recent_news": [
+        "SAP S/4HANA + Analytics Cloud Migration",
+        "Next Level modernste Plasma-Fabrik Europas"
+      ],
+      "affinity_score": 0.7,
+      "affinity_reasoning": "[+12|C] SAP S/4HANA + SAC Migration | [+15|B] GMP/FDA | [+18|C] Next Level Greenfield Fabrik | [+10|D] M&A Grifols | [-10|E] Grifols Verschuldung",
+      "revenue": "649 Mio EUR (2025)",
+      "employees": 2700,
+      "hiring_score": 0.5,
+      "hiring_postings": 18,
+      "hiring_reasoning": "SAP + IT Stellen.",
+      "topic_hiring_score": 0.15,
+      "topic_postings": 0,
+      "topic_hiring_reasoning": "Keine AI-Stellen. Pre-AI Phase.",
+      "example_positions": [
+        "IT Project Manager SAP HANA",
+        "Manager Corporate Planning SAP SAC"
+      ],
+      "size_fit": 0.7,
+      "financial_health": 0.5,
+      "pressure": 0.7,
+      "strategic_reasoning": "Modernste Plasma-Fabrik + SAP-Migration = idealer Zeitpunkt für KI-Integration.",
+      "contacts": [
+        {
+          "name": "Prof. Dr. Jörg Schüttrumpf",
+          "role": "CEO",
+          "linkedin": null,
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "name": "Bernhard Schulte Shipmanagement GmbH",
+      "website": "bs-shipmanagement.com",
+      "address": "Hamburg",
+      "industry": "Maritime / Schiffsmanagement",
+      "health_score": 0.75,
+      "health_reasoning": "600+ Schiffe, 2000 MA onshore. Familienunternehmen seit 1883.",
+      "recent_news": [
+        "AI Healthy Ship EU-Forschungsprojekt (Konsortialführer)",
+        "Eye Captain AI-Navigationsüberwachung"
+      ],
+      "affinity_score": 0.7,
+      "affinity_reasoning": "[+18|C] AI Healthy Ship Projekt | [+12|C] Eye Captain AI Navigation | [+15|B] NIS2 Maritime KRITIS | [+12|B] EU AI Act für Maritime AI | [-10|E] MariApps eigene SW-Tochter",
+      "revenue": "287 Mio USD (geschätzt)",
+      "employees": 2000,
+      "hiring_score": 0.4,
+      "hiring_postings": 65,
+      "hiring_reasoning": "65 LinkedIn-Stellen, meist maritim.",
+      "topic_hiring_score": 0.3,
+      "topic_postings": null,
+      "topic_hiring_reasoning": "Keine AI-Stellen gefunden, aber AI-Projekte laufen.",
+      "example_positions": [],
+      "size_fit": 0.8,
+      "financial_health": 0.75,
+      "pressure": 0.75,
+      "strategic_reasoning": "AI-Forschungsprojekt + NIS2 Maritime + 600 Schiffe. CDO Sankar Ragavan identifiziert.",
+      "contacts": [
+        {
+          "name": "Sankar Ragavan",
+          "role": "CDO Schulte Group",
+          "linkedin": null,
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "name": "Peter Döhle Schiffahrts-KG",
+      "website": "doehle.de",
+      "address": "Hamburg",
+      "industry": "Maritime / Reederei",
+      "health_score": 0.7,
+      "health_reasoning": "500 Schiffe, 287 Mio USD Umsatz. Familienunternehmen seit 1956.",
+      "recent_news": [
+        "AI Healthy Ship Projektpartner",
+        "Fleet Xpress Connectivity 100+ Schiffe"
+      ],
+      "affinity_score": 0.6,
+      "affinity_reasoning": "[+12|C] AI Healthy Ship Teilnehmer | [+10|C] Fleet Connectivity | [+15|B] NIS2 Maritime | [+8|C] Eigene Shipping-SW-Entwicklung | [-10|E] 17-köpfige IT, kein CDO",
+      "revenue": "287 Mio USD (geschätzt)",
+      "employees": 2000,
+      "hiring_score": 0.3,
+      "hiring_postings": 8,
+      "hiring_reasoning": "8 Stellen. Klein.",
+      "topic_hiring_score": 0.15,
+      "topic_postings": 0,
+      "topic_hiring_reasoning": "Keine AI-Stellen.",
+      "example_positions": [],
+      "size_fit": 0.8,
+      "financial_health": 0.7,
+      "pressure": 0.7,
+      "strategic_reasoning": "NIS2 + AI Healthy Ship + kleine IT = externer Bedarf.",
+      "contacts": [
+        {
+          "name": "Jochen Döhle",
+          "role": "Geschäftsführer",
+          "linkedin": null,
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "name": "Mestemacher GmbH",
+      "website": "mestemacher.de",
+      "address": "Gütersloh, NRW",
+      "industry": "Lebensmittelproduktion / Brot & Backwaren",
+      "health_score": 0.5,
+      "health_reasoning": "170 Mio EUR Umsatz, 650 MA. Übernahme durch Niedersachsen-Backspezialist läuft.",
+      "recent_news": [
+        "Übernahme durch Backspezialisten"
+      ],
+      "affinity_score": 0.35,
+      "affinity_reasoning": "[+5|C] SPS-gesteuerte Produktion | [+5|D] M&A Transformationstrigger | [-10|E] Keine Digi-Signale, M&A-Unsicherheit",
+      "revenue": "170 Mio EUR",
+      "employees": 650,
+      "hiring_score": 0.1,
+      "hiring_postings": 2,
+      "hiring_reasoning": "2 Stellen. Minimal.",
+      "topic_hiring_score": 0.0,
+      "topic_postings": 0,
+      "topic_hiring_reasoning": "Keine IT/AI-Stellen.",
+      "example_positions": [],
+      "size_fit": 0.8,
+      "financial_health": 0.5,
+      "pressure": 0.3,
+      "strategic_reasoning": "Watchlist nach M&A-Abschluss.",
+      "contacts": []
+    },
+    {
+      "name": "InfectoPharm Arzneimittel und Consilium GmbH",
+      "website": "infectopharm.com",
+      "address": "Heppenheim, Hessen",
+      "industry": "Pharma / Kindermedizin",
+      "health_score": 0.8,
+      "health_reasoning": "300 Mio EUR Umsatz, 450 MA, 10% Wachstum. Familienunternehmen.",
+      "recent_news": [
+        "InfectoPharm Digital Health GmbH gegründet (DiGA)",
+        "Expansion nach Polen (5. Europäische Tochter)"
+      ],
+      "affinity_score": 0.45,
+      "affinity_reasoning": "[+15|B] GMP-reguliert + BfArM DiGA | [+10|D] Digital Health Acquisition (Sonormed) | [+8|D] Internationale Expansion | [-10|E] Keine sichtbare KI-Strategie | [-5|E] Klassische IT (M365, VMware)",
+      "revenue": "300 Mio EUR (2024)",
+      "employees": 450,
+      "hiring_score": 0.35,
+      "hiring_postings": 6,
+      "hiring_reasoning": "6 Stellen, IT-Admin.",
+      "topic_hiring_score": 0.1,
+      "topic_postings": 0,
+      "topic_hiring_reasoning": "Keine KI-Stellen.",
+      "example_positions": [],
+      "size_fit": 0.7,
+      "financial_health": 0.9,
+      "pressure": 0.65,
+      "strategic_reasoning": "Pharma + DiGA + kein AI-Team = GMP-Compliance-Einstieg.",
+      "contacts": [
+        {
+          "name": "Michael Gilster",
+          "role": "GF (IT-Verantwortung)",
+          "linkedin": null,
+          "confidence": "HIGH"
+        },
+        {
+          "name": "Michael Jud",
+          "role": "Head of Global IT",
+          "linkedin": null,
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "name": "Richter BioLogics GmbH & Co. KG",
+      "website": "richterbiologics.eu",
+      "address": "Hamburg / Bovenau, SH",
+      "industry": "Biopharma CDMO",
+      "health_score": 0.8,
+      "health_reasoning": "Verdopplung auf 400+ MA, neue cGMP-Fabrik Sept 2024. Gedeon Richter Tochter.",
+      "recent_news": [
+        "Neue 10.000 qm cGMP-Fabrik Bovenau Sept 2024",
+        "Gedeon Richter 100%-Übernahme März 2024"
+      ],
+      "affinity_score": 0.55,
+      "affinity_reasoning": "[+15|C] Digitalisierung Prozessdesign | [+15|B] GMP/FDA | [+10|D] Neue Fabrik = Digital-Invest | [-10|E] Kein AI-Team sichtbar",
+      "revenue": "50-70 Mio EUR (geschätzt)",
+      "employees": 400,
+      "hiring_score": 0.65,
+      "hiring_postings": 20,
+      "hiring_reasoning": "Verdoppelung MA, neue Fabrik.",
+      "topic_hiring_score": 0.15,
+      "topic_postings": 0,
+      "topic_hiring_reasoning": "Keine KI-Stellen.",
+      "example_positions": [],
+      "size_fit": 0.85,
+      "financial_health": 0.75,
+      "pressure": 0.7,
+      "strategic_reasoning": "Neue cGMP-Fabrik + Gedeon Richter Backing + kein AI = Greenfield.",
+      "contacts": [
+        {
+          "name": "Dr. Kai Pohlmeyer",
+          "role": "CEO",
+          "linkedin": null,
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "name": "Dr. Willmar Schwabe GmbH & Co. KG",
+      "website": "schwabe-group.com",
+      "address": "Karlsruhe, BW",
+      "industry": "Pharma / Phytopharmaka",
+      "health_score": 0.75,
+      "health_reasoning": "1.0 Mrd EUR Umsatz, 4000 MA, Marktführer Phytopharma.",
+      "recent_news": [
+        "Senior Data Scientist Stelle offen",
+        "SAP EWM im Einsatz"
+      ],
+      "affinity_score": 0.55,
+      "affinity_reasoning": "[+15|A] Senior Data Scientist Stelle | [+12|C] SAP EWM | [+15|B] GMP | [-10|E] Keine KI-Strategie sichtbar",
+      "revenue": "1.0 Mrd EUR",
+      "employees": 4000,
+      "hiring_score": 0.45,
+      "hiring_postings": 40,
+      "hiring_reasoning": "IT-Stellen inkl. Data Scientist.",
+      "topic_hiring_score": 0.35,
+      "topic_postings": 1,
+      "topic_hiring_reasoning": "Senior Data Scientist (Marketing/Kunden, nicht Produktion).",
+      "example_positions": [
+        "Senior Data Scientist / Data Analyst"
+      ],
+      "size_fit": 0.85,
+      "financial_health": 0.75,
+      "pressure": 0.65,
+      "strategic_reasoning": "Pharma + SAP + Data Scientist Hiring = Basis da. Late Adopter mit Potenzial.",
+      "contacts": []
+    },
+    {
+      "name": "STADA Arzneimittel AG",
+      "website": "stada.com",
+      "address": "Bad Vilbel, Hessen",
+      "industry": "Pharma / Generika",
+      "health_score": 0.8,
+      "health_reasoning": "4.3 Mrd EUR Umsatz +6%, Bain/Cinven PE.",
+      "recent_news": [
+        "STADA GPT internes GenAI-Tool",
+        "CIO Günthör: Global Data Hub, CIO des Jahres 2022 Finalist"
+      ],
+      "affinity_score": 0.65,
+      "affinity_reasoning": "[+18|C] STADA GPT GenAI-Tool | [+15|C] Global Data Hub | [+12|D] CIO Günthör mit MIT Digital Business | [+15|B] GMP/EU AI Act | [-10|E] Kein AI-Hiring sichtbar",
+      "revenue": "4.3 Mrd EUR (2025)",
+      "employees": 11749,
+      "hiring_score": 0.55,
+      "hiring_postings": 70,
+      "hiring_reasoning": "Aktive Rekrutierung.",
+      "topic_hiring_score": 0.15,
+      "topic_postings": 0,
+      "topic_hiring_reasoning": "Keine AI-Stellen sichtbar.",
+      "example_positions": [],
+      "size_fit": 0.45,
+      "financial_health": 0.75,
+      "pressure": 0.7,
+      "strategic_reasoning": "STADA GPT zeigt AI-Affinität. CIO mit Digital-Fokus. Aber Konzern > 10k MA.",
+      "contacts": [
+        {
+          "name": "Tobias Günthör",
+          "role": "CIO & SVP IT",
+          "linkedin": null,
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "name": "Aesculap AG (B. Braun)",
+      "website": "bbraun.de",
+      "address": "Tuttlingen, BW",
+      "industry": "Medizintechnik / Chirurgische Instrumente",
+      "health_score": 0.85,
+      "health_reasoning": "2.3 Mrd EUR Rekordumsatz, 90 Mio EUR Technology Factory.",
+      "recent_news": [
+        "Technology Factory 90 Mio EUR Tuttlingen (Grundsteinlegung Dez 2025)",
+        "SAP HANA Innovation Award"
+      ],
+      "affinity_score": 0.72,
+      "affinity_reasoning": "[+18|C] Technology Factory 180 CNC Greenfield | [+12|C] SAP HANA + Cloud Platform | [+15|B] MDR + EU AI Act | [+12|B] ISO 13485 | [-10|E] Konzernsteuerung B. Braun",
+      "revenue": "2.3 Mrd EUR (2024)",
+      "employees": 4100,
+      "hiring_score": 0.45,
+      "hiring_postings": null,
+      "hiring_reasoning": "IT-Ausbildung Tuttlingen. Data Analyst US.",
+      "topic_hiring_score": 0.25,
+      "topic_postings": null,
+      "topic_hiring_reasoning": "Keine KI-Stellen Tuttlingen. Zentrale Digi-Abteilung.",
+      "example_positions": [],
+      "size_fit": 0.7,
+      "financial_health": 0.85,
+      "pressure": 0.75,
+      "strategic_reasoning": "90 Mio Technology Factory = Greenfield für CV-QA + Predictive Maintenance. MDR + EU AI Act.",
+      "contacts": [
+        {
+          "name": "Gülnaz Önes",
+          "role": "Group CIO B. Braun",
+          "linkedin": null,
+          "confidence": "MEDIUM"
+        }
+      ]
+    },
+    {
+      "name": "Ypsomed Holding AG",
+      "website": "ypsomed.com",
+      "address": "Burgdorf, Schweiz",
+      "industry": "MedTech / Injektionssysteme",
+      "health_score": 0.8,
+      "health_reasoning": "731 Mio CHF Umsatz, 2000 MA, +20% Kerngeschäft.",
+      "recent_news": [
+        "SmartPilot FDA-Clearance (Connected Autoinjector)",
+        "Barcelona Digital Hub 40-60 Stellen"
+      ],
+      "affinity_score": 0.7,
+      "affinity_reasoning": "[+15|C] SmartPilot Connected Device (IoT) | [+12|C] Barcelona Digital Hub (Data Scientists, IoT) | [+15|B] ISO 13485 + EU AI Act High-Risk | [+12|D] Post-Diabetes-Care Divestiture Transformation | [-10|E] Barcelona Hub = eigene Kompetenz im Aufbau",
+      "revenue": "731 Mio CHF (FY 2025/26)",
+      "employees": 2000,
+      "hiring_score": 0.6,
+      "hiring_postings": null,
+      "hiring_reasoning": "ICT Karriere aktiv, Barcelona Hub wächst.",
+      "topic_hiring_score": 0.4,
+      "topic_postings": null,
+      "topic_hiring_reasoning": "Data Scientists in Barcelona. ICT Specialist Industrialisation.",
+      "example_positions": [
+        "Data Scientist Barcelona",
+        "ICT System Specialist Industrialisation"
+      ],
+      "size_fit": 0.85,
+      "financial_health": 0.8,
+      "pressure": 0.7,
+      "strategic_reasoning": "Connected MedTech + EU AI Act High-Risk + Patient Data Sovereignty. Schweiz = DACH.",
+      "contacts": [
+        {
+          "name": "Carsten Faltum",
+          "role": "CTO R&D",
+          "linkedin": null,
+          "confidence": "HIGH"
+        },
+        {
+          "name": "Thomas Golucke",
+          "role": "CEO",
+          "linkedin": null,
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "name": "Medela AG",
+      "website": "medela.com",
+      "address": "Baar, Schweiz",
+      "industry": "MedTech / Vakuumtechnik",
+      "health_score": 0.75,
+      "health_reasoning": "400-500 Mio CHF Umsatz, 1800 MA. Familienunternehmen.",
+      "recent_news": [
+        "Thopaz+ Connected Digital Chest Drainage (FDA+CE)",
+        "Smart Breast Pumps mit Sensor-Technologie"
+      ],
+      "affinity_score": 0.55,
+      "affinity_reasoning": "[+12|C] Thopaz+ Connected MedDevice | [+15|B] ISO 13485 + EU AI Act | [+15|D] Neuer CEO Juli 2024 | [-10|E] Keine sichtbare AI-Strategie",
+      "revenue": "400-500 Mio CHF (geschätzt)",
+      "employees": 1800,
+      "hiring_score": 0.4,
+      "hiring_postings": 37,
+      "hiring_reasoning": "37 LinkedIn-Stellen.",
+      "topic_hiring_score": 0.15,
+      "topic_postings": 0,
+      "topic_hiring_reasoning": "Keine AI-Stellen.",
+      "example_positions": [],
+      "size_fit": 0.85,
+      "financial_health": 0.75,
+      "pressure": 0.6,
+      "strategic_reasoning": "Connected MedTech + Neuer CEO + kein AI-Team = Greenfield.",
+      "contacts": [
+        {
+          "name": "Thomas Golucke",
+          "role": "CEO (seit Juli 2024)",
+          "linkedin": null,
+          "confidence": "HIGH"
+        },
+        {
+          "name": "Thomas Ertl",
+          "role": "COO",
+          "linkedin": null,
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "name": "Merz Pharma GmbH & Co. KGaA",
+      "website": "merz.com",
+      "address": "Frankfurt, Hessen",
+      "industry": "Pharma / Specialty Pharma",
+      "health_score": 0.72,
+      "health_reasoning": "690 Mio EUR Umsatz, 3700 MA. Koerber MES. Neuer CFO mit IT+Digital.",
+      "recent_news": [
+        "Neuer CFO mit Digital-Expertise Nov 2025",
+        "Reinheim FDA-Produktion + Contract Manufacturing"
+      ],
+      "affinity_score": 0.52,
+      "affinity_reasoning": "[+12|C] Koerber PAS-X MES | [+15|B] GMP/FDA | [+12|D] Neuer CFO Digital | [-10|E] Keine KI-Strategie sichtbar",
+      "revenue": "690 Mio EUR",
+      "employees": 3700,
+      "hiring_score": 0.5,
+      "hiring_postings": 70,
+      "hiring_reasoning": "Moderates Hiring.",
+      "topic_hiring_score": 0.15,
+      "topic_postings": 0,
+      "topic_hiring_reasoning": "Keine KI-Stellen.",
+      "example_positions": [],
+      "size_fit": 0.7,
+      "financial_health": 0.7,
+      "pressure": 0.72,
+      "strategic_reasoning": "FDA-Produktion + MES + neuer CFO mit Digital-Mandat = Greenfield.",
+      "contacts": [
+        {
+          "name": "Philip Burchard",
+          "role": "CEO",
+          "linkedin": null,
+          "confidence": "HIGH"
+        },
+        {
+          "name": "Hans-Joerg Bergler",
+          "role": "COO",
+          "linkedin": null,
+          "confidence": "HIGH"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "pipeline": "KI",
+  "topic": "KI in Produktion / EU AI Act",
+  "allow_new": true,
+  "leads": [
+    {
+      "name": "VHV Gruppe",
+      "website": "vhv-gruppe.de",
+      "address": "Hannover, Niedersachsen",
+      "industry": "Versicherung",
+      "health_score": 0.85,
+      "health_reasoning": "4.5 Mrd EUR Beiträge +8.3%, Operatives Ergebnis +61%.",
+      "recent_news": [
+        "Data & AI Specialist Stelle offen",
+        "CEO Thomas Voigt: KI als nächster Technologie-Schritt"
+      ],
+      "affinity_score": 0.7,
+      "affinity_reasoning": "[+20|A] Data & AI Specialist Stelle | [+15|D] CEO champions KI | [+12|C] Moderne IT-Kernsysteme | [+8|D] Treibt tech. Wandel aktiv voran | [-10|E] ~4000 MA, etwas groß",
+      "revenue": "4.5 Mrd EUR Beiträge",
+      "employees": 4000,
+      "hiring_score": 0.5,
+      "hiring_postings": null,
+      "hiring_reasoning": "Data & AI Specialist + Data Analysts.",
+      "topic_hiring_score": 0.4,
+      "topic_postings": 1,
+      "topic_hiring_reasoning": "Data & AI Specialist = dezidierte KI-Stelle.",
+      "example_positions": [
+        "Data- & AI Specialist (w/m/d)"
+      ],
+      "size_fit": 0.7,
+      "financial_health": 0.9,
+      "pressure": 0.65,
+      "strategic_reasoning": "CEO-Level KI-Commitment + Data & AI Stelle + Rekordwachstum.",
+      "contacts": [
+        {
+          "name": "Arndt Bickhoff",
+          "role": "CIO",
+          "linkedin": null,
+          "confidence": "HIGH"
+        },
+        {
+          "name": "Markus Neumann",
+          "role": "IT-Vorstand",
+          "linkedin": null,
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "name": "LVM Versicherung",
+      "website": "lvm.de",
+      "address": "Münster, NRW",
+      "industry": "Versicherung",
+      "health_score": 0.9,
+      "health_reasoning": "5.3 Mrd EUR Beiträge (Rekord), 264 Mio EUR Gewinn (Allzeithoch).",
+      "recent_news": [
+        "Azure Datenplattform mit Adesso (3-Jahres-Projekt)",
+        "IT-Transformation 2030: Kernsystem-Ablösung"
+      ],
+      "affinity_score": 0.8,
+      "affinity_reasoning": "[+18|C] Azure Datenplattform mit Adesso | [+15|C] IT-Transformation 2030 Kernsystem | [+12|C] KI-Tools in Innen-/Außendienst | [+10|A] 500+ Neueinstellungen 2026 | [+8|D] COBOL-Mainframe Ablösung | [-5|E] Adesso als bestehender Partner",
+      "revenue": "5.3 Mrd EUR Beiträge",
+      "employees": 4500,
+      "hiring_score": 0.7,
+      "hiring_postings": 821,
+      "hiring_reasoning": "821 offene Stellen! 500+ Neueinstellungen 2026 geplant.",
+      "topic_hiring_score": 0.4,
+      "topic_postings": null,
+      "topic_hiring_reasoning": "Data/IT-Stellen im IT-Bereich, keine expliziten AI-Titel gefunden.",
+      "example_positions": [],
+      "size_fit": 0.7,
+      "financial_health": 0.9,
+      "pressure": 0.8,
+      "strategic_reasoning": "TOP: Rekordgewinn + Azure Datenplattform + COBOL-Ablösung + 650 IT-MA = massiver Bedarf. CIO Marcus Loskant identifiziert.",
+      "contacts": [
+        {
+          "name": "Marcus Loskant",
+          "role": "CIO / IT-Generalbevollmächtigter",
+          "linkedin": null,
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "name": "BarmeniaGothaer",
+      "website": "barmeniagothaer.de",
+      "address": "Wuppertal / Köln, NRW",
+      "industry": "Versicherung",
+      "health_score": 0.8,
+      "health_reasoning": "9.27 Mrd EUR Beiträge +7.8%, Solvency 225.6%.",
+      "recent_news": [
+        "30+ Mio EUR KI-Investment 2026",
+        "Sophia Tamm leitet neuen Bereich Data & AI"
+      ],
+      "affinity_score": 0.85,
+      "affinity_reasoning": "[+25|A] 30+ Mio EUR KI-Budget 2026! | [+20|A] Neuer Bereich Data & AI unter Sophia Tamm | [+15|C] Post-Merger IT-Konsolidierung (2 Landschaften) | [+12|C] COBOL/IMS Legacy + msg Modernisierung | [+8|D] Agile Transformation | [-10|E] Großkonzern 7500 MA",
+      "revenue": "9.27 Mrd EUR Beiträge",
+      "employees": 7500,
+      "hiring_score": 0.55,
+      "hiring_postings": 96,
+      "hiring_reasoning": "96 LinkedIn-Stellen Köln. BI & Analytics Architect.",
+      "topic_hiring_score": 0.4,
+      "topic_postings": null,
+      "topic_hiring_reasoning": "BI & Analytics Architect. Data & AI Bereich im Aufbau.",
+      "example_positions": [
+        "Senior BI & Analytics Architect (Data Governance)"
+      ],
+      "size_fit": 0.45,
+      "financial_health": 0.85,
+      "pressure": 0.75,
+      "strategic_reasoning": "30 Mio EUR KI-Budget + Data & AI Bereich + Post-Merger IT = aktiver Käufer. Aber Großkonzern.",
+      "contacts": [
+        {
+          "name": "Sophia Tamm",
+          "role": "Leiterin Data & AI",
+          "linkedin": null,
+          "confidence": "HIGH"
+        },
+        {
+          "name": "Frank Lamsfuss",
+          "role": "Vorstand IT",
+          "linkedin": null,
+          "confidence": "HIGH"
+        },
+        {
+          "name": "Burkhard Oppenberg",
+          "role": "GF Gothaer Solutions (IT)",
+          "linkedin": null,
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "name": "DEVK Versicherungen",
+      "website": "devk.de",
+      "address": "Köln, NRW",
+      "industry": "Versicherung",
+      "health_score": 0.75,
+      "health_reasoning": "5.4 Mrd EUR Beiträge +12.4%, Rekord-Neugeschäft.",
+      "recent_news": [
+        "Hayuno AG Tochter: AI Agents AskMate + ReplyMate in Produktion",
+        "Neue IT-Vorständin Manuela Moog seit Nov 2025"
+      ],
+      "affinity_score": 0.8,
+      "affinity_reasoning": "[+18|C] AI Agents in Produktion (AskMate, ReplyMate, ServiceMate) | [+15|D] Neue IT-Vorständin Moog Nov 2025 | [+12|C] Hayuno AG eigene AI-Tochter | [+10|A] Data Engineer Stellen | [-10|E] Eigene AI-Kompetenz via Hayuno",
+      "revenue": "5.4 Mrd EUR Beiträge",
+      "employees": 7500,
+      "hiring_score": 0.6,
+      "hiring_postings": 382,
+      "hiring_reasoning": "382 Glassdoor-Stellen. Data Engineers aktiv.",
+      "topic_hiring_score": 0.5,
+      "topic_postings": 2,
+      "topic_hiring_reasoning": "Data Engineer Stellen auf LinkedIn bestätigt.",
+      "example_positions": [
+        "Data Engineer (m/w/d)"
+      ],
+      "size_fit": 0.45,
+      "financial_health": 0.75,
+      "pressure": 0.7,
+      "strategic_reasoning": "AI Agents in Produktion + Hayuno AI-Tochter + neue IT-Vorständin = aktiv investierend.",
+      "contacts": [
+        {
+          "name": "Manuela Moog",
+          "role": "IT-Vorständin (seit Nov 2025)",
+          "linkedin": null,
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "name": "Debeka Versicherungsgruppe",
+      "website": "debeka.de",
+      "address": "Koblenz, Rheinland-Pfalz",
+      "industry": "Versicherung",
+      "health_score": 0.85,
+      "health_reasoning": "14.99 Mrd EUR Beiträge +13.2%. Größter PKV-Versicherer DE.",
+      "recent_news": [
+        "KI Software Entwickler + GenAI Business Analyst Stellen",
+        "Kernsystem-Erneuerung PKV mit msg (Ziel 2026)"
+      ],
+      "affinity_score": 0.75,
+      "affinity_reasoning": "[+20|A] KI Software Entwickler + GenAI BA Stellen | [+18|C] Kernsystem-Erneuerung 5 Mio PKV-Verträge | [+15|C] Cognitive Classifier Deep Learning produktiv | [+12|B] EU AI Act High-Risk für PKV-Scoring | [-10|E] 1400 IT-MA = eigene Kompetenz",
+      "revenue": "14.99 Mrd EUR Beiträge",
+      "employees": 17000,
+      "hiring_score": 0.65,
+      "hiring_postings": 126,
+      "hiring_reasoning": "KI + GenAI Stellen offen.",
+      "topic_hiring_score": 0.55,
+      "topic_postings": 2,
+      "topic_hiring_reasoning": "KI Software Entwickler + GenAI Business Analyst.",
+      "example_positions": [
+        "KI Software Entwickler Business Analytics",
+        "Business Analyst generative KI / DI"
+      ],
+      "size_fit": 0.35,
+      "financial_health": 0.9,
+      "pressure": 0.75,
+      "strategic_reasoning": "Größter PKV + Kernsystem-Migration + KI-Hiring = aktiv. Aber 17k MA Konzern.",
+      "contacts": [
+        {
+          "name": "Laura Müller",
+          "role": "CIO / IT-Vorständin (seit Okt 2022)",
+          "linkedin": null,
+          "confidence": "HIGH"
+        },
+        {
+          "name": "Normann Pankratz",
+          "role": "Vorstand IT/DICE Innovationscenter",
+          "linkedin": null,
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "name": "apoBank (Deutsche Apotheker- und Ärztebank)",
+      "website": "apobank.de",
+      "address": "Düsseldorf, NRW",
+      "industry": "Bank / Gesundheitswesen",
+      "health_score": 0.75,
+      "health_reasoning": "52 Mrd EUR Bilanzsumme, 99.8 Mio EUR Gewinn 2025.",
+      "recent_news": [
+        "AI-Team von bis zu 10 Personen wird aufgebaut",
+        "CEO: KI ist Game-Changer"
+      ],
+      "affinity_score": 0.7,
+      "affinity_reasoning": "[+20|A] AI-Team Aufbau (bis 10 Personen) | [+12|D] CEO sagt KI = Game-Changer | [+10|A] Werkstudent GenAI/Prompt Engineering | [+8|C] Avaloq Kernbanksystem (modern) | [-5|E] Noch frühe Phase",
+      "revenue": "52 Mrd EUR Bilanzsumme",
+      "employees": 2000,
+      "hiring_score": 0.55,
+      "hiring_postings": null,
+      "hiring_reasoning": "AI-Team Aufbau, GenAI Werkstudent.",
+      "topic_hiring_score": 0.5,
+      "topic_postings": 2,
+      "topic_hiring_reasoning": "Werkstudent GenAI + IT-Revisor KI.",
+      "example_positions": [
+        "Werkstudent Generative KI / Prompt Engineering"
+      ],
+      "size_fit": 0.85,
+      "financial_health": 0.75,
+      "pressure": 0.65,
+      "strategic_reasoning": "TOP: CEO-Commitment + AI-Team-Aufbau + Budget + Nischenbank (Healthcare) = ideal.",
+      "contacts": [
+        {
+          "name": "Reinhard Pfingsten",
+          "role": "CIO",
+          "linkedin": null,
+          "confidence": "HIGH"
+        },
+        {
+          "name": "Matthias Schellenberg",
+          "role": "CEO",
+          "linkedin": null,
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "name": "Hamburger Sparkasse (Haspa)",
+      "website": "haspa.de",
+      "address": "Hamburg",
+      "industry": "Bank / Sparkasse",
+      "health_score": 0.85,
+      "health_reasoning": "57 Mrd EUR Bilanzsumme, 115 Mio EUR Gewinn, größte Sparkasse DE.",
+      "recent_news": [
+        "KI auf strategischer Agenda (KISPA Guidelines)",
+        "S-Hub Sparkassen Innovation Hub in Hamburg"
+      ],
+      "affinity_score": 0.55,
+      "affinity_reasoning": "[+12|C] KI auf Strategie-Agenda | [+10|D] S-Hub in Hamburg (Nähe) | [+8|C] FI/OSPlus Infrastruktur | [-10|E] FI-abhängig (wenig IT-Autonomie)",
+      "revenue": "57 Mrd EUR Bilanzsumme",
+      "employees": 4400,
+      "hiring_score": 0.5,
+      "hiring_postings": null,
+      "hiring_reasoning": "Keine AI-Stellen sichtbar.",
+      "topic_hiring_score": 0.15,
+      "topic_postings": 0,
+      "topic_hiring_reasoning": "Keine AI-Rollen.",
+      "example_positions": [],
+      "size_fit": 0.75,
+      "financial_health": 0.9,
+      "pressure": 0.55,
+      "strategic_reasoning": "Größte Sparkasse + Hamburg Nähe. Aber FI-Abhängigkeit limitiert.",
+      "contacts": [
+        {
+          "name": "Axel Kodlin",
+          "role": "IT-Vorstand",
+          "linkedin": null,
+          "confidence": "HIGH"
+        }
+      ]
+    },
+    {
+      "name": "Schwartauer Werke GmbH & Co. KGaA",
+      "website": "schwartauer-werke.de",
+      "address": "Bad Schwartau, SH",
+      "industry": "Lebensmittelproduktion / Konfitüren",
+      "health_score": 0.7,
+      "health_reasoning": "400-500 Mio EUR Umsatz, 800-900 MA. Hero Group.",
+      "recent_news": [
+        "Produktionsmodernisierung Bad Schwartau"
+      ],
+      "affinity_score": 0.4,
+      "affinity_reasoning": "[+10|C] Produktionsmodernisierung | [+5|D] Hero Group Nachhaltigkeitsziele | [-5|E] Keine Digi-Signale",
+      "revenue": "400-500 Mio EUR (geschätzt)",
+      "employees": 850,
+      "hiring_score": 0.35,
+      "hiring_postings": null,
+      "hiring_reasoning": "Keine AI-Stellen.",
+      "topic_hiring_score": 0.1,
+      "topic_postings": 0,
+      "topic_hiring_reasoning": "Keine IT/AI-Stellen.",
+      "example_positions": [],
+      "size_fit": 0.85,
+      "financial_health": 0.7,
+      "pressure": 0.45,
+      "strategic_reasoning": "Fruchtverarbeitung: CV für Qualität. Aber wenig Signale. Norddeutschland-Nähe.",
+      "contacts": []
+    },
+    {
+      "name": "Kiekert AG",
+      "website": "kiekert.com",
+      "address": "Heiligenhaus, NRW",
+      "industry": "Automotive / Schließsysteme",
+      "health_score": 0.3,
+      "health_reasoning": "Insolvenz Sept 2025 (Chinese Owner), 700 MA Heiligenhaus, Investorensuche.",
+      "recent_news": [
+        "Head of Data Excellence Stelle offen",
+        "Werkstudent AI Agent Development Azure"
+      ],
+      "affinity_score": 0.65,
+      "affinity_reasoning": "[+15|A] Head of Data Excellence! | [+20|A] AI Agent Dev Azure Werkstudent | [+15|B] TISAX zertifiziert | [+8|C] Azure Stack | [-15|E] Insolvenz limitiert Budget",
+      "revenue": "800 Mio EUR (geschätzt, vor Insolvenz)",
+      "employees": 5000,
+      "hiring_score": 0.3,
+      "hiring_postings": 4,
+      "hiring_reasoning": "4 Stellen trotz Insolvenz, davon 2 Data/AI.",
+      "topic_hiring_score": 0.6,
+      "topic_postings": 2,
+      "topic_hiring_reasoning": "Head of Data Excellence + AI Agent Dev = starke Signale trotz Insolvenz.",
+      "example_positions": [
+        "Head of Data Excellence",
+        "Werkstudent AI Agent Development Azure"
+      ],
+      "size_fit": 0.65,
+      "financial_health": 0.1,
+      "pressure": 0.8,
+      "strategic_reasoning": "SONDER: Insolvenz ABER Head of Data Excellence + AI Agent Dev = aktive KI-Investition. Neuer Investor wird Modernisierung bringen.",
+      "contacts": []
+    }
+  ]
+}
